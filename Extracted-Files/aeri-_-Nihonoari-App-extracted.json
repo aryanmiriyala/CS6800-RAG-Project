@@ -1,0 +1,71 @@
+[
+    {
+        "filename": "aeri-_-Nihonoari-App.json",
+        "published_at": "2022-11-17T00:38:37Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "aeri-_-Nihonoari-App.json",
+        "published_at": "2022-02-17T02:56:34Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "aeri-_-Nihonoari-App.json",
+        "published_at": "2021-11-21T22:59:26Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "99b03263-4c02-4604-9e66-1a698ba4f550",
+                "userName": "Marcus Vinícius",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjU3MhRTEVkU6zEA1DVjd_063sOzqf4xWro9WFuECo_rKzK1",
+                "content": "This is really good. Simple and easy to use. I like that it isn't multiple choice: you actually have to type the romaji instead of picking from a list.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.6.0",
+                "at": "2022-02-20 19:43:35",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "aeri-_-Nihonoari-App.json",
+        "published_at": "2020-09-27T15:26:39Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "c0fa0a80-f565-44ca-8af2-b2c8d8be285e",
+                "userName": "Wasif Ahsan",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVHz-UV1WfFgLZmfreFaUaUJylnhvhphNaT3pG7dW3uVE4",
+                "content": "Thank you so much. Your app has been my teacher for the very first steps of my journey. It helped me a lot. Thank you so much.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.5.0",
+                "at": "2021-06-22 10:32:09",
+                "replyContent": "I'm very glad to hear your words, and I'm delighted that you found it useful :)",
+                "repliedAt": "2021-07-03 02:07:58"
+            }
+        ]
+    },
+    {
+        "filename": "aeri-_-Nihonoari-App.json",
+        "published_at": "2020-07-02T01:53:21Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "c607382b-60c0-4076-9cd5-bccce70738b0",
+                "userName": "Kyuunex",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUiMZdzaAhSu7zTC4z3MRDgochyIQH094RMVTgFdy6tLKU",
+                "content": "No ads, does the job and is open source. What more can i ask?",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.3.0",
+                "at": "2020-07-09 23:43:11",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "aeri-_-Nihonoari-App.json",
+        "published_at": "2020-02-10T22:32:31Z",
+        "google_play_reviews": []
+    }
+]

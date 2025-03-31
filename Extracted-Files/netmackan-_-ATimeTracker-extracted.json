@@ -1,0 +1,109 @@
+[
+    {
+        "filename": "netmackan-_-ATimeTracker.json",
+        "published_at": "2019-02-22T20:29:00Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "2620790d-5b52-4f2c-9103-3e5b66cda887",
+                "userName": "Peter Ford",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjW0wnTOrnYVGvQ7Tv84VZ-wptjHruUnjUZtBv9OzRGOq5E",
+                "content": "Very nice, simple, open source app for recording how your time has been allocated. The one feature I would add is a fast way of going back and splitting up a block of time into two blocks.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "0.51.2",
+                "at": "2023-06-12 09:50:45",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "30a32e77-c107-4951-95ec-005e8331e18e",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Great app, super simple - just add a task, and click it to start tracking, click again to stop. Simple as can be! I only have a couple of complaints\\suggestions\\requests: - Please add a simple widget to do the same as the app but from the home screen. - Please add a configurable timer function per task and/or general so the app limits a specific mission and/or suggests breaks. - App Crash Replication Steps: Configure app to 24h, vibrate, sound, add task \"programming\", (start, stop)*2",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "0.51.2",
+                "at": "2020-03-06 09:42:37",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "14d7f3a0-9804-43cb-acf0-3902741c40f0",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Thank you",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "0.51.2",
+                "at": "2019-08-02 14:43:21",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "netmackan-_-ATimeTracker.json",
+        "published_at": "2019-02-02T14:10:33Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "netmackan-_-ATimeTracker.json",
+        "published_at": "2016-06-12T17:26:08Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "66da3025-ac88-4e8f-8533-e76eb36ec76c",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Best open source time tracker.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "0.23",
+                "at": "2018-04-24 08:05:17",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "1c1ab93d-e480-47ca-9e40-f438ad4af6ac",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Nice app, use it for many years. Like it.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "0.23",
+                "at": "2017-09-24 16:06:35",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "d4056c63-0f53-48b5-98fc-7f2d4e1018e4",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "I tried 4 others and no one had this summary report. Also so easy to use. Matches well with the time reporting software at work. I just copy from the report to my time sheet each week. Would be nice to be able to optionally enter a comment when starting a project.",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "0.23",
+                "at": "2016-09-18 14:13:32",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "netmackan-_-ATimeTracker.json",
+        "published_at": "2015-05-15T21:51:01Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "a25d37bc-97ff-4d70-b66e-2864f18d5b54",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Timesheet  is better and also foss",
+                "score": 2,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "0.21",
+                "at": "2015-10-26 01:20:01",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    }
+]

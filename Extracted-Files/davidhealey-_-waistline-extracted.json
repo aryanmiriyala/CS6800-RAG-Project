@@ -1,0 +1,352 @@
+[
+    {
+        "filename": "davidhealey-_-waistline.json",
+        "published_at": "2023-01-02T20:51:22Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "b6d228d2-2804-4464-92ff-c89b06d11a4f",
+                "userName": "George McD",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJzZzIchhbJruGzmslqSMT2E0gq4VbHzcBSotpvi8qJ=mo",
+                "content": "Nice app but all the food choices for the diary are in French. Tried resetting the default language, does not change. I would not mind learning french but not to use this app. If you can change this will change my teview",
+                "score": 2,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.5.2",
+                "at": "2023-01-29 18:23:05",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "0c34429f-98e3-4e5e-8eba-a57d4a5588cf",
+                "userName": "E",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKFIz3-gIGiCpwRLu0kl-mjQsFpPm_EL8wWTBlzA8hr=mo",
+                "content": "Brilliant! Thanks for the app! Should add donation option.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.5.2",
+                "at": "2023-01-05 01:03:00",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "davidhealey-_-waistline.json",
+        "published_at": "2022-11-11T20:57:08Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "davidhealey-_-waistline.json",
+        "published_at": "2022-07-16T22:53:21Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "fd25ae6c-6bfe-48d8-8c66-2192b094b08d",
+                "userName": "Blake Reilly",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKiQFxKh8vuoRFlKYbDVQBEMh7-t3D2mXBiVcB5KbE4=mo",
+                "content": "Love that the database used is OpenFoodFacts. However, it would be nice to see more integration with the database if possible. The ability to edit the database from Waistline would be a great benefit, rather than needing to also download a separate app and log into that. I can edit scanned items or create for new items, but it seems this is only local for me to see? Edit: Bigger issue is that there is no database for non-barcode items such as NUTTAB! Almost a great replacement for MyFitnessPal..",
+                "score": 3,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "3.4.4",
+                "at": "2022-11-02 05:19:33",
+                "replyContent": "Waistline is not going to become an Open Food Facts editor (or an editor for the other databases it interacts with). Although it is possible to upload new items to the OFF database from within Waistline.",
+                "repliedAt": "2022-12-21 12:35:42"
+            },
+            {
+                "reviewId": "2d1af97c-e6e7-45cf-ab87-372e018a1d65",
+                "userName": "Mattias Wikstrom",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUXCTKSGoPUrvmbahBsiNRnoVq94DIHlpGMcdjRO9Dh5g",
+                "content": "What a great app, and it's FOSS! The app has so many features that it took me a while to figure it all out, but it was definitely worth the effort. A big thank you to the developer!",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "3.4.4",
+                "at": "2022-10-04 21:01:33",
+                "replyContent": "Thank you for downloading our app! We will keep working on it!",
+                "repliedAt": "2022-12-21 12:36:30"
+            }
+        ]
+    },
+    {
+        "filename": "davidhealey-_-waistline.json",
+        "published_at": "2022-05-10T14:40:45Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "8769529b-d3c6-4200-875d-e60baa6f1ed5",
+                "userName": "Koby Rose",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKViwG4wQBXg8F_-06REHL0ctOlOjvHRtDtBcI0E5LH=mo",
+                "content": "Really good app for tracking calories! The first 2 weeks spent filling the database with common foods was a little time consuming but the payoff was definitely worth it. I was able to lose more than 10kg in 6 months by diligently adding what I ate each day. The barcode scan feature was very helpful in this respect. My only (minor) gripe would be the lack of a user guide. It took me more than a month to figure out that you could quick add by holding the \"+\" symbol.",
+                "score": 5,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "3.4.2",
+                "at": "2022-09-06 05:33:38",
+                "replyContent": "An earlier version did have a user guide, but then more and more features were added and now I don't even know everything that the app can do! Probably in the future we will include some kind of beginner guide/tutorial for the most used functionality.",
+                "repliedAt": "2022-12-21 12:38:10"
+            },
+            {
+                "reviewId": "3fd5549b-34cd-4e6e-bbd0-393715174c8b",
+                "userName": "Jed Hutto",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVMPY8MPdzmTS-t3ZLK_jY7aOKPT5ZTSHJqWaT_quA5jLo",
+                "content": "Great open source tracker app.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.4.2",
+                "at": "2022-08-24 13:37:42",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "9a77f670-2c88-4dcb-8037-cacbe38482d2",
+                "userName": "D A",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLd2Hr7h9RoLmRVpFmvwjsoj9VSl1Ao9fjnagB8QkdZTg=mo",
+                "content": "Great FOSS weight and nutrition tracker",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.4.2",
+                "at": "2022-08-02 22:31:16",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "677bb62e-fa76-4dfe-ac90-c85832c9f046",
+                "userName": "Julie Menezes",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWpYmu3hJrQI2A2o60tl-o1vDT2sWxGF4xWmZxB75h7HIE",
+                "content": "Great app for calorie counting. Helped me to lose weight 😂",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "3.4.2",
+                "at": "2022-06-15 22:40:46",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "davidhealey-_-waistline.json",
+        "published_at": "2022-04-30T12:27:21Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "davidhealey-_-waistline.json",
+        "published_at": "2022-04-03T14:14:12Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "e48cf46e-e378-496c-9f6a-bdf51d02aa6d",
+                "userName": "Parth",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWUKPu-NuzMtrM4Uknqmgpz_6AT1wMwWPwcTpGC5yuO5fNR",
+                "content": "Just the calorie tracking app I want no other unnecessary stuffs",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "3.4.0",
+                "at": "2022-04-27 16:40:37",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "davidhealey-_-waistline.json",
+        "published_at": "2022-02-02T16:29:41Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "davidhealey-_-waistline.json",
+        "published_at": "2022-01-10T20:48:19Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "davidhealey-_-waistline.json",
+        "published_at": "2021-11-14T18:15:18Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "4bdf1a17-5279-404c-9502-b483a5e48a71",
+                "userName": "M Prime",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKry6rxa7idvRGfe7dn5-pdKsRftq6ew7QhxcxFXqvl=mo",
+                "content": "Feature wise I love this app. UI may not be for everybody. Serving size not intuitive but it works. If u use consider buying the author a coffee ☕. Disclaimer: Only used 1 week .",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "3.2.1",
+                "at": "2021-12-16 17:01:14",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "48cdce60-57c7-4d79-ba90-0d577c34fc52",
+                "userName": "Diego Arenas",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLrU0u7bljSbeIPUmuRRF4AsPhzZnTdiD5keed9nmuY=mo",
+                "content": "Perfect, just what I wantet",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "3.2.1",
+                "at": "2021-12-07 12:31:18",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "davidhealey-_-waistline.json",
+        "published_at": "2021-11-07T15:33:47Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "davidhealey-_-waistline.json",
+        "published_at": "2021-10-10T17:46:48Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "davidhealey-_-waistline.json",
+        "published_at": "2021-09-05T11:28:21Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "d721b867-ebef-46d6-a75d-14e8b295f5d9",
+                "userName": "Thanos P",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXJrUDGWRRAVMYb9BKkAwKZOvyu9uixnyCgAjnapygZKKI",
+                "content": "I appreciate the good intentions and the effort put into building this open source app, but it is very buggy and the user experience suffers a lot.",
+                "score": 4,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "3.1.6",
+                "at": "2021-09-21 15:42:39",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "15807ab2-b1e6-48b4-a14b-3875bf8dfa52",
+                "userName": "Locksley",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUKCUx6SrcBK-B29VyhsmvsGqXf-NTQwLKxvxeazhBANeg",
+                "content": "Seems to work better and faster than MyFitnessPal, doesn't send my health data to a creepy corpo, and helps me meet my goals!",
+                "score": 5,
+                "thumbsUpCount": 5,
+                "reviewCreatedVersion": "3.1.6",
+                "at": "2021-09-10 15:11:30",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "davidhealey-_-waistline.json",
+        "published_at": "2021-08-29T10:51:23Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "davidhealey-_-waistline.json",
+        "published_at": "2021-08-24T19:38:04Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "davidhealey-_-waistline.json",
+        "published_at": "2018-12-31T12:39:49Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "3d5fb478-9c72-42ac-a7d4-a3d59ac96262",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Non functional app. The diary feature doesn't seem to be able to change serving size, and otherwise is difficult to use. Keeps stats well, but without a good data entry system, useless",
+                "score": 1,
+                "thumbsUpCount": 5,
+                "reviewCreatedVersion": "2.4.1",
+                "at": "2019-11-26 16:49:20",
+                "replyContent": "The app has come along way since 2019, please give it another go.",
+                "repliedAt": "2022-02-27 00:06:07"
+            },
+            {
+                "reviewId": "fba6cea0-0229-45af-9b9f-e458e030ccb9",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "I might have missed it, but there doesn't seem to be any way to change the title of quick add entries. It would be useful to note what was consumed instead of having 'Calories - NaN Quick Add' for everything.",
+                "score": 4,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "2.4.1",
+                "at": "2019-09-26 15:55:18",
+                "replyContent": "You can now add labels to quick add items, and the annoying NaN problem is fixed.",
+                "repliedAt": "2022-02-27 00:06:34"
+            },
+            {
+                "reviewId": "9c7a83d6-fb83-459e-82a4-5ae0aeae76b0",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Excellent app with a very clean interface. Easy to use and decent configuration.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.4.1",
+                "at": "2019-05-22 19:51:55",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "a20e42c0-dec5-4898-a73a-f4fc8d470f13",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "foss exports uses OFF",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.4.1",
+                "at": "2019-05-15 02:12:25",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "0aa3e633-0fd8-4583-b885-572d2e91ac8c",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "I wanted to move away from MyFitnessPal and use a FOSS alternative, but this has a number of problems making it a poor replacement. It reset my settings and lost my entries twice in a short period of time. It cannot search OFF entries. This isn't the fault of Waistline but I also had so many problems just trying to make an account on OFF (they blocked all Zoho addresses, app crashes frequently, contributions disappear, other UI bugs) that this just isn't worth the hassle.",
+                "score": 2,
+                "thumbsUpCount": 14,
+                "reviewCreatedVersion": "2.4.1",
+                "at": "2019-05-08 23:20:34",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "accce085-fda1-446c-b70d-cb67166aa8ab",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Great project, thanks.",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "2.4.1",
+                "at": "2019-04-03 12:45:09",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "a85c11b7-6be1-472f-9bc2-8852f3895501",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "A free open source calorie counter, what more can you ask for?",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.4.1",
+                "at": "2019-01-05 15:49:31",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "davidhealey-_-waistline.json",
+        "published_at": "2018-10-08T14:45:07Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "a6f924e0-4cdb-4d47-8a8a-48428c302a2c",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Really good food tracker - and it's open source! Thanks!!",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "2.3.7",
+                "at": "2018-10-10 03:20:47",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "davidhealey-_-waistline.json",
+        "published_at": "2018-09-18T10:33:34Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "davidhealey-_-waistline.json",
+        "published_at": "2018-05-12T12:53:34Z",
+        "google_play_reviews": []
+    }
+]

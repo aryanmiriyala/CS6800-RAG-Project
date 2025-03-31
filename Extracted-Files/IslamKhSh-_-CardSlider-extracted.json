@@ -1,0 +1,32 @@
+[
+    {
+        "filename": "IslamKhSh-_-CardSlider.json",
+        "published_at": "2019-09-20T12:35:35Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "93512f94-783a-430d-838c-3baf90ea2540",
+                "userName": "NIR PARICKMAN",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWphgeUzVbCGLhbVZ-N7BeG-8-cEquf_ynDW2auPhxm8Z8",
+                "content": "Very nice. Is it possible to represent more than one card at the time?",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "0.4",
+                "at": "2021-02-15 10:21:58",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "8db1e64d-bacc-489f-adaf-2e159003061f",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Is java version for this app available ?",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "0.4",
+                "at": "2020-03-27 16:24:34",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    }
+]

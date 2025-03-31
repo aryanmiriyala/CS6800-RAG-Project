@@ -1,0 +1,104 @@
+[
+    {
+        "filename": "CampbellMG-_-MiniMoods.json",
+        "published_at": "2021-05-26T00:03:18Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "2c1f4055-cdb7-47aa-9893-850c2529731a",
+                "userName": "Helen Jones",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjX1JNXCwi0xaqoicg6HCNX046OJ2feKPPxSAkcyHg49NQ",
+                "content": "Cool idea",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.0.0",
+                "at": "2023-03-13 22:42:23",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "84b6c3c4-c22b-4983-a80d-830ca03bb131",
+                "userName": "Benja",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKdH6OxmAxmPvNHFswI5o_OfvmWkTTm_4BWdyiHWrWM=mo",
+                "content": "It's a good application, but I can't put Black Theme on it",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.0.0",
+                "at": "2022-05-26 22:13:42",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "9c67e278-045a-4b88-8eea-062027ff1d4b",
+                "userName": "Alyssa Randall",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWA_4xftgH7-z0HGqwbWo8LK548eGnlFllredObDLxjsas",
+                "content": "love it <333 also the widget is adorable :)",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.0.0",
+                "at": "2022-01-26 00:18:14",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "196224e7-bfb8-45d7-90d9-2a0eefb75a72",
+                "userName": "Michelle O'Regan",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUdiBESdR9kwHdw1w4U_WHfSpOsWoQkeQfURIsreg8NaXY",
+                "content": "This seems to be the only app that has a widget for mood tracking. The simplicity is refreshing and I appreciate that you can download your history. My only suggestion is to be able to record multiple moods per day and for this feature to be available to be recorded through the widget as well.",
+                "score": 5,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "1.0.0",
+                "at": "2021-12-12 23:29:47",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "0fe251d3-98d8-4c1d-b7a1-3efa5714fe6d",
+                "userName": "Celtic",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWxSwLiO91Qt0YaPlJkd3KIhGlmDtL-8P4x_QDIqEWTcpQ",
+                "content": "LOVING IT I love the interface and widget I just want a Dark Mode Toggle",
+                "score": 4,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.0.0",
+                "at": "2021-05-23 07:13:55",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "39fc2f0f-157f-4756-953d-05b4acc71d39",
+                "userName": "Kenzo Ilham Nugroho",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXgwOjXj7Bk2Maomyph2gRfq4ESFc0V1YM_baQkdCBj07A",
+                "content": "It's open source and the size is really Small",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.0.0",
+                "at": "2021-05-10 08:14:09",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "e6bbb72b-b567-4853-893f-e50c76d47aa0",
+                "userName": "Tegan P",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocILQi6C0lvxP_kg4_KqIGHFi5mGY4OIR362qllucUTE=mo",
+                "content": "The design is nice, simple and easy to use. Love this app.",
+                "score": 5,
+                "thumbsUpCount": 6,
+                "reviewCreatedVersion": "1.0.0",
+                "at": "2021-03-19 22:08:06",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "9853195c-b5d7-4f38-951e-f0827d03c902",
+                "userName": "Bailey Gorman",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIBdu104rSduKoFH3bzWDnBLRJvkTDdCkrXGtmc1InZ=mo",
+                "content": "Simple and intuitive. Exactly what I was looking for!",
+                "score": 5,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "1.0.0",
+                "at": "2021-02-02 07:38:07",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    }
+]

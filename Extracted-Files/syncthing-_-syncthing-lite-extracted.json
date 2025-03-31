@@ -1,0 +1,99 @@
+[
+    {
+        "filename": "syncthing-_-syncthing-lite.json",
+        "published_at": "2019-01-08T13:33:37Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "804da844-bac2-493c-8ba2-620b2cad5b22",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Doesn't work in Android 10",
+                "score": 1,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "0.3.12",
+                "at": "2020-03-15 12:14:38",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "4d754586-45b4-409c-b332-7825a79c5d7a",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "it works but it is lacking a few basic things that would improve it quite a bit. Search and being able to download a whole folder not only individual files one by one, those two things would make this app much better.",
+                "score": 3,
+                "thumbsUpCount": 6,
+                "reviewCreatedVersion": "0.3.12",
+                "at": "2019-07-19 22:34:05",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "001eb6d2-af76-49c9-8da3-138f7b12e317",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "unbenutzbar. stürtzt ab und zu mal ab. Dateiübertragungen bleiben bei 100% hängen und brechen dann ab. zieht den akku in null komma nichts leer. (die desktop version oder die alternative von resilio funktioniert dagegen einwandfrei.)",
+                "score": 1,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "0.3.12",
+                "at": "2019-04-27 23:42:40",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "syncthing-_-syncthing-lite.json",
+        "published_at": "2019-01-01T07:55:30Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "syncthing-_-syncthing-lite.json",
+        "published_at": "2018-02-20T06:04:00Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "3e49c6a3-4392-4c57-8f40-95bd78943f0f",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "App does not sync with server at all.",
+                "score": 1,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "0.2.1",
+                "at": "2018-03-24 15:19:52",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "775f5f41-709a-4c10-a5a7-29546b121156",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "This \"lite\" version is not working for me. both devices see each other, but that is all.",
+                "score": 2,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "0.2.1",
+                "at": "2018-03-12 12:54:08",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "syncthing-_-syncthing-lite.json",
+        "published_at": "2018-01-29T14:13:12Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "syncthing-_-syncthing-lite.json",
+        "published_at": "2018-01-27T08:43:49Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "syncthing-_-syncthing-lite.json",
+        "published_at": "2018-01-17T16:55:01Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "syncthing-_-syncthing-lite.json",
+        "published_at": "2017-12-26T17:40:29Z",
+        "google_play_reviews": []
+    }
+]

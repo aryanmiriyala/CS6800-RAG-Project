@@ -1,0 +1,181 @@
+[
+    {
+        "filename": "ykasidit-_-bluetooth_gnss.json",
+        "published_at": "2022-02-04T00:41:11Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "e6a93bc3-0df0-452b-8b87-1004ed354cce",
+                "userName": "Purple Heart",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKqhtnhmQ8Ps0EHTWSBG8O4X5gCZ2sfCDpL68xBzXCm=mo",
+                "content": "Works quite well. The only feature I want to see added is auto-connect on app launch. My whole setup is tasker-automated, and I don't want to sit there just to hit that connect button. Sure, you could get it done with Tasker Autoinput plugin, but I am hoping for a more elegant in-app solution.",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.0.39",
+                "at": "2023-09-09 23:46:27",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "9df5ea59-e618-4671-a455-ff0984498fc1",
+                "userName": "Harpo 1208",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKRNrPDY2JGMDdVZV99LSdrTjSnUlr-WXWBQKdRRhnc=mo",
+                "content": "It appears that my Android smartphone communicates with my Garmin Glo2 just fine. What I can't get to work when I connect to the Glo2 with Bluetooth I don't see all the satellites it is connecting to with other GPS status apps like \"GPS Test\". How can I see exactly which satellites my Glo2 is connecting to? Also, Bluetooth GNSS is reporting \"no data\" for GLONASS satellites. I updated the Glo2 firmware and now the Glo2 is finding GLONASS satellites.",
+                "score": 4,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.0.39",
+                "at": "2023-04-29 19:19:01",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "a979d587-b602-4b8d-b4d7-f09d41ed3441",
+                "userName": "Geoffrey Houdmont",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUfcPtlPrQXYGirJRSaWDnl3HXrGmpLfMr127aILPe0ww",
+                "content": "I like to use this app to do my surveys but I don't seem to find out how to get the detailed ublox data from my ardusimple to the app. The location data works but the accuracy information remains blank. I connect through Bluetooth.",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.0.39",
+                "at": "2023-03-16 10:05:57",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "25708aa8-34f8-424f-8f15-a937266e050e",
+                "userName": "Ecotone Murphy",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWjRkrXl8i13DAf5NCkcW0LtUJA5w9VOPYgvx3twZWOXhY",
+                "content": "Cant change GPS device without clearing Cache and data. If I connect to one bluetooth gps device but want to change to another, it is locked on the old gps device and there is not way to unselect it in the app. I have to go to setting>Apps> clear cache and data. Also, the location indicator in ESRI Field Maps is jumpy. Now i am trying to switch back t Gps Connector app but mock lications is stuck on bluetooth gnss.",
+                "score": 2,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.0.39",
+                "at": "2023-03-15 20:56:12",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "9777b43b-7b34-489a-9e31-b426bcbf4a9f",
+                "userName": "Catharine Forbes",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLmQjc6gPzQnw5x-rg-vHS3tGoW4YJt_sOR64t83uZt=mo",
+                "content": "Excellent. Ad free. Perfect for my Garmin GLO.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.0.39",
+                "at": "2023-01-20 11:55:34",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "a0c23101-594c-418f-8cf9-f9ce3b3bfec2",
+                "userName": "Pavel Pilát",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjV8DLKKuBWTFBNntLulTsPgx8SHXpjJ3-lMe8pf0YMJcFs",
+                "content": "It would be interesting to see signal strength of individual satelites. And accuracy in meters (I know that there is HDOP but that is a little bit abstract value).",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.0.39",
+                "at": "2022-12-12 21:39:56",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "546e55ff-43d2-41d6-bd33-56ad50c04c9e",
+                "userName": "Mark Haury",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUWnI7No04ZJz6VTwDcA5EFrfh_2qJGzEK1A7e6SXsTmGM",
+                "content": "Doesn't work for me. Another app did. I have an old generic Bluetooth GPSr with no fancy features. The other app worked perfectly.",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.0.39",
+                "at": "2022-11-06 12:25:08",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "ykasidit-_-bluetooth_gnss.json",
+        "published_at": "2021-10-24T05:07:16Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "7ff2f656-bc26-4da5-97c6-a2600637b100",
+                "userName": "Peter Kalanzis",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJPCyYYhdO7MtoZ9zsRna2CEEgpZ_y8zdt3PKkMPQYR=mo",
+                "content": "I rooted my 1st android 8 years ago",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.0.33",
+                "at": "2022-01-31 20:19:33",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "f058f4b1-cb95-4d97-925c-53e5c154c8aa",
+                "userName": "Ken Dowling",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjX5OUNrpMVO-nZMkoRF_gICpvqEYayPVUa5DiI0jieAGIo",
+                "content": "All I need for more accurate trail mapping. And more.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.0.33",
+                "at": "2022-01-20 06:19:10",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "7fb32e6b-515b-49c0-9b09-bb484c003df7",
+                "userName": "Jaxon Hollis",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXZnH6O8clo0jYToC7CtUoHWrD1YsTrW_UIaOODMwJg1pE",
+                "content": "Great!! It works! Perfect. Perhaps dark mode and some basic visualisation of a satellites. This would be great!!",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.0.33",
+                "at": "2022-01-10 21:31:20",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "ykasidit-_-bluetooth_gnss.json",
+        "published_at": "2021-10-02T03:29:24Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "8e0eb300-1a09-48b9-a738-01ba875a4320",
+                "userName": "Daniel Kehlibarov",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjX97gqpHvOvMySiyU9ihPCHDKzrzzov5RwRxiLEjp9-",
+                "content": "This is an amazing piece of software!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.0.26",
+                "at": "2021-11-22 15:06:11",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "6149702a-f04d-4144-9cdc-cf55cb142461",
+                "userName": "Péter “grin” Gervai",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXPw8bw239mjOl5KOwVYUhNN1-J7ArOPn3bGfAlSO4wUpg",
+                "content": "Excellent! Works well, clean interface, reliable reconnects. Ublox F9P.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.0.26",
+                "at": "2021-10-30 19:22:55",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "e8e1a857-2089-4966-a882-abf56a74c97b",
+                "userName": "Kman",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJpdHpVzgL0E43V7-FrT8RNLy-BI5yBLcGF2x3jlGhK=mo",
+                "content": "Lagging in navigation using 'Tomtom go', Garmin Glo2 and Android 11 Samsung tablet.",
+                "score": 1,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.0.26",
+                "at": "2021-10-08 12:42:25",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "ykasidit-_-bluetooth_gnss.json",
+        "published_at": "2021-09-11T10:10:28Z",
+        "google_play_reviews": []
+    }
+]

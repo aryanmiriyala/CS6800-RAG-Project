@@ -1,0 +1,70 @@
+[
+    {
+        "filename": "AChep-_-15puzzle.json",
+        "published_at": "2021-12-09T15:54:52Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "7c28a957-2983-478a-b07a-5cf4e6a9fcc8",
+                "userName": "Damas Damas",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUzp3g7saVy82JpFu_ke3hm7THXbyA2YKnPEsTM-dHRSQ",
+                "content": "The game is the best, things I love in this game is that, one(1) it is very simple meaning has no sound becose some games bad sound effects. Two(2) it is cool meaning it creates an environment in your mind to think the best way to complete the puzzel at shortest time possible. Three(3) it gives you a room for you to think of a way complete the puzzel. Four(4) it is boaring for those how can't complete the puzzel.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.2.2",
+                "at": "2022-07-29 14:31:12",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "AChep-_-15puzzle.json",
+        "published_at": "2021-10-12T09:12:10Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "AChep-_-15puzzle.json",
+        "published_at": "2021-05-19T17:08:12Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "c09abbe0-03f8-4bf7-9361-1f53b5f9572e",
+                "userName": "Michelle Henshall",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjULd2QrXvhgOS97T0I5utoQScXNAIM5YIecKts9rMsPh54",
+                "content": "I love this app, because the number tiles are labelled with text; however, what I do not like about it is the fact that the settings button(s) are not, and the fact the empty square is not labelled with a button: this would make it easier for me to locate on the grid, and I would be able to hear my screen reader say: 'Button' when I found it on the grid.",
+                "score": 4,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "2.0.2",
+                "at": "2021-10-10 17:09:39",
+                "replyContent": "Thanks for the feedback!\n\nAll of these should be corrected in the next update (v2.1.0). While playing with the Screen reader enabled, I found out that the game doesn't really show the state of the board and you have to keep it all in your head. Please, if you have a suggestion on how to improve it, don't hesitate to update your comment.",
+                "repliedAt": "2021-10-12 09:06:29"
+            },
+            {
+                "reviewId": "e71fc6a4-cd55-4b05-9b8d-d92e11d9451f",
+                "userName": "Brian Dar",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJvy2ludSz48xlkUS_-eq6HrfH3Z8RrkozHkHRiSKnz=mo",
+                "content": "Game Of 08, 15, 24, & 35 Puzzles...🎮🎮🎮🕹🕹🕹🎲🎲🎲🔢🔢🔢🎯🎯🎯💃💃💃🏊🏊🏊🚺🚺🚺🕛🕛🕛📆📆📆📅📅📅🔟🔟🔟🌎🌎🌎🏁🏁🏁🔚🔚🔚",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.0.2",
+                "at": "2021-09-11 02:51:01",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "AChep-_-15puzzle.json",
+        "published_at": "2021-03-05T16:29:19Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "AChep-_-15puzzle.json",
+        "published_at": "2020-06-08T08:42:14Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "AChep-_-15puzzle.json",
+        "published_at": "2020-03-14T18:40:05Z",
+        "google_play_reviews": []
+    }
+]

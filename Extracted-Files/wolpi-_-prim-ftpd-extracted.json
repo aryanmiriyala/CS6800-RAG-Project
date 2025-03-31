@@ -1,0 +1,1563 @@
+[
+    {
+        "filename": "wolpi-_-prim-ftpd.json",
+        "published_at": "2022-10-16T10:05:07Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "6f03428c-f233-40af-9f13-cbcfb623f1c8",
+                "userName": "Danny Murray",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXx3HfX8sLGBJLbem7wAIV7MJuptUsycBU7Sr2gcmKP8A",
+                "content": "It works. Finding the correct directory is tricky.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "6.15",
+                "at": "2023-03-19 01:05:13",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "ae53d028-8b06-4b0a-89b8-30931c998007",
+                "userName": "Dark Lord Flaglo",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXo_8_kBjtXSAASK0aWXsSOO-xfwHDnVcsKNRruHCvcSjU",
+                "content": "This app is gospel",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "6.15",
+                "at": "2023-03-09 08:33:38",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "d5d30d5c-437d-42e0-8485-3587aa4dd420",
+                "userName": "Heidi A Robinson (Spring A Hardy-Robinson)",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjX4Wr_Bdbq69hASDjUx6WqrOZpqaYEBtxZ7Gr2uzamXG8M",
+                "content": "Don't know yet.. haven't used it yet.",
+                "score": 2,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "6.15",
+                "at": "2023-02-07 22:24:31",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "1661de10-536d-47a6-b17c-33ead21298fa",
+                "userName": "Harry F",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWVXx1LxsH71rlwLY2YX6cxAhmbl9OHEpakGHatseGtqJ0",
+                "content": "It's ok for main storage access only",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "6.15",
+                "at": "2023-02-06 17:26:49",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "5c412330-84e0-4f7f-b1d6-9c54fc72a927",
+                "userName": "Marco Fahrbach",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUIL4kF9YIRJdBU9Phxzvude8hfMVBQMJwJ6_kg913yse0D",
+                "content": "Confusing?",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "6.15",
+                "at": "2023-01-26 16:50:00",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "194c2d6f-493e-4f33-93a4-7f0cb03e9796",
+                "userName": "Pavel Pilát",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjV8DLKKuBWTFBNntLulTsPgx8SHXpjJ3-lMe8pf0YMJcFs",
+                "content": "Ad-free, fast. I like the text UI. If you only added a \"Log to screen\" option to the \"Log\" settings item for displaying the FTP commands directly on the screen, it would be just perfect. :-) A bit troublesome experience on Android 12 due to the limited file access on these new Androids. I solved it by creating a folder \"data_exchange\" in the root and set this as a root folder for pFTPd.",
+                "score": 4,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "6.15",
+                "at": "2023-01-04 17:40:19",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "20f17d84-22ed-4358-94f0-42f85ba1e9eb",
+                "userName": "Subham Das",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjX_eGB9_mO27KwU-GTI72qTDYEO8-6ecfqZ3cVj0--NUX4",
+                "content": "I know it's not a popular.. You can't find a single page or a youtube video talking about this app. But trust me it's the best FTP app. It's open source, free, zero data collection. Works like charm even get more speed than other paid app. So, go for it. SUPPORT THE DEVELOPER IF YOU CAN.",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "6.15",
+                "at": "2022-11-29 18:41:14",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "afb46773-72b2-46cd-a9d1-215a52835786",
+                "userName": "Ajay Shripal",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLmhmj_4AupDAY0snfqMsXgD4QELkYBCPC4dAmaydDR=mo",
+                "content": "Best ftpd",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "6.15",
+                "at": "2022-10-19 07:26:56",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "f5dd5b63-3527-42b7-ad96-577c003c78bf",
+                "userName": "Henry",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWMEUiiOb-yEip1GmSJX4cjEy_7sTeaI0Zufvq2pyH9bQ",
+                "content": "Does what it says, and does it well. Pro-tip: for a truly seamless experience (at least when transfering from PC -> Android), use this app in conjunction with WinSCP's ability to add a shortcut to the Windows \"Send To\" context menu.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "6.15",
+                "at": "2022-10-17 01:18:55",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "wolpi-_-prim-ftpd.json",
+        "published_at": "2022-08-11T16:40:34Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "d26a6d22-8087-4a66-9d18-d449961a1c57",
+                "userName": "Master Chong",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKkiXiBnDTRazudaKOq26h8UfZO_VCnhktg3eJDB3GR=mo",
+                "content": "Primitive? This app succeeded where the last one I had failed because this one has better storage support! The name can be a little misleading because the options are quite extensive. This is now my favorite FTP server app for Android! Free of the USB cable at last!",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "6.14",
+                "at": "2022-10-13 00:06:11",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "b23b561e-c512-489b-8f8b-c261e5a80156",
+                "userName": "AKSHARA T G",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVWrROjWV84CijvZuEFSdx2mX76XZRhwI4zw8JfnvXdBn4",
+                "content": "Thanks a lot for this wonderful app, which help me to turn my Android TV 📺 to a FTP server!!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "6.14",
+                "at": "2022-10-08 04:34:19",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "ca852ccc-abb1-4395-a463-ce5cd5e708a7",
+                "userName": "Apesar Detudo",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIyVbmEEGGYnXsSu8gIMn6f6rBv1t44gNtSQhfQoXUn=mo",
+                "content": "It's been running fine. I would prefer if the panel showed current start server directory with other settings. Recommended!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "6.14",
+                "at": "2022-09-07 20:44:05",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "713a96af-8292-4180-8912-646e2a858629",
+                "userName": "braniac ba",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocI201reWOJkxrT8bSjld9FCe3LMa8t3FWja4hIFx0xc=mo",
+                "content": "Free and ads-free, practical and versatile. Would be better if support the option of other encodings though, as I sometimes have the need of transferring files with multilingual name.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "6.14",
+                "at": "2022-09-04 06:27:17",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "5518aeee-06db-4476-8f26-e7a9ba4d2dcf",
+                "userName": "Nik Afshar",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWKpMryqUr4GAifFOiEanzbfJJv7hFVLucxSMz83eqrZbI",
+                "content": "useful app to make instant ftp access",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "6.14",
+                "at": "2022-08-30 21:32:16",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "2b3aab80-46ee-45c9-a108-7e2e3846621c",
+                "userName": "Patrick Mwathi",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWIdgXa4kDvQ3r-u4opIvN0JFZFYe4EvJnoHKoEOVq6wro",
+                "content": "It's not primitive unless you are scared of a UI that looks like it's text-only.",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "6.14",
+                "at": "2022-08-19 06:53:29",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "wolpi-_-prim-ftpd.json",
+        "published_at": "2022-07-24T20:50:18Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "6a8e1881-c221-485c-a222-5fd5dcad90a0",
+                "userName": "Asiya Bano",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKhM4zKERSEeCxv4Z0uDHQouQVwiw7vhq4x8TRJWjnh=mo",
+                "content": "Amazing",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "6.13",
+                "at": "2022-10-25 22:24:22",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "d5d86c7d-46af-43f4-8c78-937c01be5042",
+                "userName": "Tung Nguyen",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWxgbKPZOJV_1zz6JKKkSyogbmcj8oytD2mc4WIxWXVztA",
+                "content": "A simple yet working fine ftp app. Exactly what I look for. No ads",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "6.13",
+                "at": "2022-08-06 06:32:17",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "wolpi-_-prim-ftpd.json",
+        "published_at": "2022-03-20T20:30:22Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "1e66fe70-3db9-4b99-9c23-ef94668e5298",
+                "userName": "Nicolas Ayllon",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjV4y71vD2KqkBs7dCUrDlsgprw6GcIzqo_R7vWfkucW_kMt",
+                "content": "Amazing! I was able to use FTP to transfer files wirelessly from my PC to my phone. Thanks!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "6.11",
+                "at": "2022-08-21 04:39:49",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "504fb489-707c-4d11-bccf-873bac2e9b0c",
+                "userName": "Cloud Alexander",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjU0K0YGPlZxMDYQVtn4-8EcI98Oj3BeftluJAsel5xjhg",
+                "content": "Not working Forceclose on my old device",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "6.11",
+                "at": "2022-07-28 20:42:25",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "e31c31a2-d602-4449-861c-7f3c9cc86ecd",
+                "userName": "DivS",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWX6E_RnGazosjyWm4Z8AnxNdA5J_id-9RS_lO-FycMpaE",
+                "content": "No ads, no clutter. Simple app for creating FTP server",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "6.11",
+                "at": "2022-07-08 08:51:44",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "a85c8369-883e-4683-b545-9ffb7543358e",
+                "userName": "Mr. Universe",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjV7_-zJ9Twsfq2szp34SYkajLMx-OLAF9QApB7UOrLiSr0",
+                "content": "refuses to do basic task FoR yOuR sEcUrItY. Let me do what i want to do on my secured network, would you?",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "6.11",
+                "at": "2022-06-01 19:22:15",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "cb3dc1c0-a820-48b7-bcf7-205e65edfc3a",
+                "userName": "Banarasi Kumar",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXWeaO8_wne42KRQi-wWNKmTkKTTNx9m7GeNcShUN0ILb5C",
+                "content": "Can't connect in pc file explorer win10",
+                "score": 2,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "6.11",
+                "at": "2022-05-07 03:44:44",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "d1421079-cd6f-41a9-ad77-6279abf27bb8",
+                "userName": "Randolph Fritz",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjX2lc9kGoilIaOsejk1r-N1ZE51aS4qDMt4VUivecw5eQ",
+                "content": "It just works, without fuss, without nonsense. Yay!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "6.11",
+                "at": "2022-04-18 02:26:21",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "wolpi-_-prim-ftpd.json",
+        "published_at": "2021-07-24T21:00:21Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "8bf26c7e-23db-4292-a02f-50f1cc337e6f",
+                "userName": "Glenn McAllister",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLtgbRsBnoC1n6DuWys6ZkbmApFD0brDxVo7QHdGkHU=mo",
+                "content": "Simple, and it works. Unlike the last six I have tried. Thanks.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "6.8",
+                "at": "2022-01-17 05:56:25",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "bc2edc6f-c1f0-4436-90f2-2f149448e6ed",
+                "userName": "RAKSHAK",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWANBlx-WZN-2kmrUIWQpurcsjGNmcGkAsjqFWRC6IMZch1",
+                "content": "Can't Open Passive Connection",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "6.8",
+                "at": "2021-12-21 16:30:52",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "3f4c90af-a435-4a2c-a6c3-6eed7e4460ca",
+                "userName": "José Santos",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWq0JwGgkUMRzoC6jolUUHaXEsXGZm3u9MCYRIbgNrW5NQ",
+                "content": "Doesn't work. Only allows read-only ftp.",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "6.8",
+                "at": "2021-12-03 09:18:24",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "f30377fa-f040-4b73-ab29-c78484974493",
+                "userName": "Bruno Saad Marques",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXX0q8BBt1PmFEyYoyyN-vebH8tvylqJWf7KoWlxBMNqjI",
+                "content": "Simple and effective. Works perfectly.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "6.8",
+                "at": "2021-11-23 15:56:02",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "932518ce-6a6a-447b-8ce3-ceb8db100cfd",
+                "userName": "Philip Heyes",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLdovq87VjXU2if6ehFPDGnY7dFVxyjHpprHKZwsSDu=mo",
+                "content": "Using winscp on a PC both sftp and ftp transfers are working well. Reading and writing to internal storage and the micro SDHC card work reliably.",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "6.8",
+                "at": "2021-11-21 19:09:55",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "93ac79bf-0652-49a6-b3d5-fd76a75d251f",
+                "userName": "Shaul Reznik",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXqY046goIc8CH90_IMcPziT9n8Rz09SmX7yv4hqpwVeXc",
+                "content": "Simple and powerful. An amazing work.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "6.8",
+                "at": "2021-11-08 17:58:48",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "160f5500-b595-442c-bdaf-05ef7ebb5f22",
+                "userName": "Alessandro Faion",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIK3Xhs0eGMlx1mkBUemg8yEKslxK_74-h6JxEkTCFT=mo",
+                "content": "There is a mistake in the settings: Server Idle Timeout is setting a timeout in milliseconds, not seconds.",
+                "score": 4,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "6.8",
+                "at": "2021-10-24 16:24:36",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "b6f35952-d602-4e70-9bc4-26a423e78607",
+                "userName": "XccessX",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLZBJBDAQUBnj4dG3M66jvkgYhXy9GBtOpHL99sWwEK=mo",
+                "content": "Simple and not too bloated. Does exactly what the name says, runs reliable and without interruptions. Perfect!",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "6.8",
+                "at": "2021-10-18 21:03:14",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "5117a515-5c8a-48cf-969b-2b49a00c3c59",
+                "userName": "Guglielmo Tell",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJ2Wh8Mdr9JjW-HjbOBraPgD_SxfRa7QFFPRPhyoqJn=mo",
+                "content": "If only all apps were this good. Thanks.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "6.8",
+                "at": "2021-10-05 16:24:35",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "7b202d71-f37d-43ae-8bb0-b0eaa60d6ec6",
+                "userName": "Hamami InkaZo",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjW5bM9SjG_rE0PhLkn36e-8ar98oeNV1C2_5unZxzDXdmU",
+                "content": "The only FTP server application that runs perfectly on my smartphone. Awesomazing. My huge thank to the developer.",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "6.8",
+                "at": "2021-10-01 23:04:52",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "e3ee9087-f55d-4465-9496-7aeb4c920c28",
+                "userName": "BebéTechManiac 2018",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjU8053rAV7iMoLMEUpvqECT42Mi_XOL4JwjGh2xGHWzUQ",
+                "content": "Easy to use and saved the day :)",
+                "score": 5,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "6.8",
+                "at": "2021-08-21 19:03:58",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "wolpi-_-prim-ftpd.json",
+        "published_at": "2020-12-25T23:20:24Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "6610f8c7-8630-4bea-9b73-22ca260f8f5c",
+                "userName": "Sean Lee",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVtphtvQ-qZ0KhvACQmn8AGp_OgkW2DAyyI9zdF-aCD8-E",
+                "content": "I really love the simplicity and reliability of this app. Please keep these characteristics intact, do not lose it with upgrades. If only you could develop multiple file renaming app like this.",
+                "score": 5,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "6.7",
+                "at": "2021-07-09 20:40:59",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "badbaf99-c239-4773-a52c-1cdf3c704e43",
+                "userName": "Vikesh Dhatterwal",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjX6KHxrgVcQmiNjKBjuynj0G06BE5mRcwQ7qUfZd2tvVfw",
+                "content": "This is the exact thing i was looking for. I purchased some apps but none are better than this. It is far better than the paid alternatives. Thank you so much dev😃. Please add option to.add multiple users or just two: one for anonymous(public) and one for authenticated user.",
+                "score": 5,
+                "thumbsUpCount": 10,
+                "reviewCreatedVersion": "6.7",
+                "at": "2021-06-08 16:47:37",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "a0413d7e-9da1-4bf9-9bb1-e4416a27a892",
+                "userName": "Bambang Setiawan",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWxPFOHxN9cq2KV05fP_B5otijg82ZdePEM17F_8MieBCI",
+                "content": "Thank you for this good app..",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "6.7",
+                "at": "2021-05-29 17:22:58",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "07f23c93-0d43-42b2-a011-d29cd1f0f091",
+                "userName": "Syed Farhad Khurshid",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIAEi3ecbFDZ60bbCxq5uZbLITdRfJhl_EdS2wmIE_g=mo",
+                "content": "Since Ver. 6.7 (Dec. release) the server abruptly exits when start server button is pressed. This happens only with public key authentication method. With Ver. 6.6 (apk download over internet) it works ok.",
+                "score": 1,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "6.7",
+                "at": "2021-01-22 15:06:24",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "617ecefa-aee3-4bf9-b1ae-267a9ffc76db",
+                "userName": "Francesco Valant",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWDWpL68ype-Ez2KN9b2_g2Oyu_NfR3A2WF7cl5aa8UxaQ",
+                "content": "It's simple, primitive, it works, and it's open source... What else can you ask for?",
+                "score": 5,
+                "thumbsUpCount": 6,
+                "reviewCreatedVersion": "6.7",
+                "at": "2021-01-16 15:54:09",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "2d27d6fd-589c-4e65-9530-6797d11ef6f3",
+                "userName": "Murat Ozturk",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJ2mMyTmVRST-_pt26IlNQ3pkv9qdIh4W6Y3ObhvDJJ=mo",
+                "content": "Thank you very much. Perfect application to use.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "6.7",
+                "at": "2021-01-12 17:18:12",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "wolpi-_-prim-ftpd.json",
+        "published_at": "2020-12-21T09:55:40Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "7d4e3d12-81ea-4bb9-b24d-3b6ac1e765bb",
+                "userName": "Alessandro Zanardi",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjViF7XcxnYu4Nj_GskrLlz_jJdUJBF32ulmaHHTvOS1RDg",
+                "content": "Perfect and simple tool",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "6.6",
+                "at": "2020-12-24 22:53:17",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "wolpi-_-prim-ftpd.json",
+        "published_at": "2020-08-09T13:21:52Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "3dcce00c-24c4-44ec-b45c-9e60548bd1c9",
+                "userName": "Thibaut Lassalle",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjU8MiZk2Ty00237uZMrgu0LggZpn4OGw3N8jijqu65aIT5h",
+                "content": "Easy way to share files between my computer and my phone. This app on my phone and FileZilla on my computer. And it's open source!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "6.5",
+                "at": "2020-12-16 19:17:59",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "f3eb37ac-aa71-45cc-b0da-4e2520e9c37c",
+                "userName": "Behrouz Javanmardi",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJb0Ds5YNBXMa2zd_S8PXNO_fhifV6JNBWJfUGVYgNKMw=mo",
+                "content": "A great open source app. Also great experience so far. However, polishing the overall look might be nice! :)",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "6.5",
+                "at": "2020-11-21 16:53:18",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "52a4d46a-6936-4086-9b29-a7e04cb09469",
+                "userName": "hadi sumarsono",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVa7O8ooz61FCjX6gUS8_XuMa8JcQvHnlbmiJK272NlFdE",
+                "content": "Great application.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "6.5",
+                "at": "2020-11-11 05:28:45",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "1b354537-c8e4-4b1d-9089-5eff8439a71b",
+                "userName": "Siddharth Sid",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLuq7z-gzBnP62UqYzUDtvA7wIwNDGXeBb7besed8Jz=mo",
+                "content": "Only 1 star short of AMAZING !!! Why do we have to provide access to external SD card each time we want to transfer a file from PC to phone (inside external SD card's folder only). Hope the developer replies.",
+                "score": 4,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "6.5",
+                "at": "2020-08-17 18:00:48",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "wolpi-_-prim-ftpd.json",
+        "published_at": "2020-06-28T14:46:29Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "b95d4fd6-3f6c-4cf8-9a5b-3443a02d4d22",
+                "userName": "Jericris Gallego",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocK8TwRCUAb8fiEyWV0G6rPSI_zBQ2iBojm4C60TfK3e=mo",
+                "content": "please fix this annoying bug that whenever I open the settings and scroll it randomly changes my preferences",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "6.4",
+                "at": "2020-08-03 05:31:50",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "4ca2e1e7-6510-4d57-b0e4-9be0c0b1663a",
+                "userName": "Prabir Das",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLCs788KJH80pN2rsZnOYUU79KAC6fybbR2KBoFhE8J=mo",
+                "content": "Thanks, you made my life easy.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "6.4",
+                "at": "2020-07-10 03:45:01",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "26028fa1-a20d-4f9e-9a89-b2802929e73b",
+                "userName": "Rüdi",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUrmUaYoxzKsBftYhwFvm30PlkTIa5aea9w9POFmMyfvncD",
+                "content": "tried lots of other ftp server apps that may also pretend to have root support but this is by far the best.. the amount of additional available settings is just amazing 👍",
+                "score": 5,
+                "thumbsUpCount": 5,
+                "reviewCreatedVersion": "6.4",
+                "at": "2020-06-29 15:26:39",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "wolpi-_-prim-ftpd.json",
+        "published_at": "2020-04-16T22:28:40Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "86176d5d-2799-4ae5-93d2-8bf95962772f",
+                "userName": "WaiYan MyoSat",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKLlXzijxxeWayZGWaOhFpYOcUdC1QOL7yJ0Rfcxh4n=mo",
+                "content": "The best , essential for me",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "6.3",
+                "at": "2020-06-09 11:03:34",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "02542d2f-90a8-4d6e-a537-ad4dcd6482da",
+                "userName": "Kal Chakra",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocITUa_B2eaxqEGAW5p0gB3zLe7DHsAK9rPRA66nqoRA=mo",
+                "content": "Excellent",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "6.3",
+                "at": "2020-06-07 22:35:16",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "e44bd401-1315-411a-b5ec-0b262d8fbd07",
+                "userName": "Me",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLC_lKJNtbG3nSFl7lk7Olm5YX0ZOmvqAxfStVLvAWA=mo",
+                "content": "Works well, even supporting sftp with public key, but it insists on continuing to run in the background when off, using resources when it doesn't need to.",
+                "score": 4,
+                "thumbsUpCount": 9,
+                "reviewCreatedVersion": "6.3",
+                "at": "2020-05-30 23:17:01",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "ca113ab3-6525-4564-93f4-d225a8055bd5",
+                "userName": "Zeus Panchenko",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjW_hghnURLVFPpZvtapjLPWmxBe94c286-L-4hwORHh2MM",
+                "content": "light, efficient, does just what it should to. Really the best.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "6.3",
+                "at": "2020-05-14 09:29:50",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "aea3a625-2c70-4a8f-920b-b99d3d1a8344",
+                "userName": "Orang Imut Kawaii",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjULFXkWGNoKwR3-Ss5cn0N-KOeLNMzAPIa089xc98TuMQ",
+                "content": "Love this ftp server app.. Still using it.. :))",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "6.3",
+                "at": "2020-05-12 21:46:25",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "0bf7ceaa-e7d9-4653-8581-8fa69e0ad285",
+                "userName": "John Bean",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIM6TlFLpd7EZgFZyKjLtk2WBNM6_hXvN1PaFtkiQkN=mo",
+                "content": "Lightweight, efficient, functional, ad-free and free to use. Not at all pretty but I like it - who needs an FTP server to be pretty? :-)",
+                "score": 5,
+                "thumbsUpCount": 7,
+                "reviewCreatedVersion": "6.3",
+                "at": "2020-05-08 20:40:40",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "a744ec1f-bd1a-49d6-8f04-100aef71e941",
+                "userName": "Crafting World",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUv-qhYatwUY0I-4neXK7HrA8loST_KZqEW68fNkfOmJeI",
+                "content": "Awesome, works perfect",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "6.3",
+                "at": "2020-05-06 04:50:41",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "wolpi-_-prim-ftpd.json",
+        "published_at": "2020-03-29T21:14:32Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "wolpi-_-prim-ftpd.json",
+        "published_at": "2020-02-24T21:24:00Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "wolpi-_-prim-ftpd.json",
+        "published_at": "2020-01-15T21:49:13Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "d6cefb0b-05c5-4b35-98bd-c567eae66ee4",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Amazing",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "6.0",
+                "at": "2020-04-07 18:38:53",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "746bcf73-fb7e-4237-b7e1-ff998dcf51bd",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "After an update, now moronically gives itself a public IP address. So worthless.",
+                "score": 2,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "6.0",
+                "at": "2020-02-20 10:01:16",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "46d161f9-d5d5-4ecf-a7a2-4902dfcdd05f",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Very nice app, simple and doing just what it says it does.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "6.0",
+                "at": "2020-02-14 22:36:25",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "wolpi-_-prim-ftpd.json",
+        "published_at": "2019-05-31T22:00:21Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "9e9272dc-881d-4b11-b8ac-8238c3baaf3d",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "I've been using this app for years and it just keeps working.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "5.16",
+                "at": "2019-12-15 01:16:49",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "a973a2a9-7d0b-4c06-a346-ee982b74002b",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Could not connect to server directory.",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "5.16",
+                "at": "2019-12-11 17:42:38",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "912714b0-1d00-4cc9-9b06-ad14e38825fe",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Sometimes the simplest one is all you need.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "5.16",
+                "at": "2019-11-23 05:06:56",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "5e3dc00e-6e26-4e68-a12c-dc832710d9a2",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Finally just in time for HogGin woo",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "5.16",
+                "at": "2019-10-12 22:31:09",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "d4891e6c-a3ec-4c0d-ae79-2cdcde0b6773",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Nice and useful.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "5.16",
+                "at": "2019-10-10 10:57:46",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "be693e13-ebde-4f02-ac5f-bbcce64c7de3",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Working as it should be. Great job",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "5.16",
+                "at": "2019-09-21 16:40:59",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "031691ec-c69a-4433-97be-bb6f7d808e01",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Works great. Unlike other apps I tried, this works with Windows command line FTP, which I think means it supports active mode.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "5.16",
+                "at": "2019-08-11 13:09:24",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "cea6d791-3006-412b-bbaa-458a1fb0e345",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "only lets me share archives, will not allow me to view files insid3 them. useless.",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "5.16",
+                "at": "2019-08-05 03:29:53",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "c34bd9fd-85c0-49a5-aef7-a6891d473ae3",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Very simple to use and works like a charm!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "5.16",
+                "at": "2019-08-02 01:13:12",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "d61cf85f-ec50-49ab-805d-ebf0876e9685",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "This ftpd server worked great on my Nintendo switch.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "5.16",
+                "at": "2019-08-01 12:04:58",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "f72ae967-4269-43bc-be58-0a5d3a093921",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Please, remove \"primitive\" word from app's name. This app is fully functional and good. Thank you for your job!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "5.16",
+                "at": "2019-07-31 18:07:05",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "0593f0bd-f239-462e-acbc-5344f3cd873d",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Nothing primitive about this app. This is 2019, this FTPd offers SECURE FTP. Do not waste your time and money on apps that don't. THIS APP SHOULD NOT BE FREE!",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "5.16",
+                "at": "2019-07-10 10:24:13",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "696c0dbf-4cd1-4a90-b07a-b3f3a93d2282",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Best stable ftp server with good preferences",
+                "score": 5,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "5.16",
+                "at": "2019-06-03 09:34:34",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "wolpi-_-prim-ftpd.json",
+        "published_at": "2019-04-30T21:31:53Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "wolpi-_-prim-ftpd.json",
+        "published_at": "2019-03-10T15:17:06Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "dc0d378d-0087-4cf5-bbb4-d82c5ea41fc2",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Open Source... Made in Germany-Quality. Just Perfect !",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "5.14",
+                "at": "2019-04-30 20:54:31",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "d115dbef-97a3-4185-a6f6-431b6a53cce6",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "it worked",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "5.14",
+                "at": "2019-04-24 13:16:15",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "f02ba620-568e-404e-ad98-b59af3de7eb4",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Its simple, fast and straightforward. No ads.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "5.14",
+                "at": "2019-03-21 16:18:44",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "wolpi-_-prim-ftpd.json",
+        "published_at": "2018-12-25T21:56:30Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "3c92f5b2-735c-4c51-a44a-0ec5e1d497e3",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Super convenient and easy to use. Now using it as my primary way to transfer files from/to my phone from my PC.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "5.13",
+                "at": "2019-06-26 17:56:09",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "8b86d0e7-6748-442f-aece-1e3af5382e99",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Have been using it for a long time. Installed it on every Android device since. Excellent piece of software.",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "5.13",
+                "at": "2019-03-10 19:27:59",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "ef04e745-5ada-4159-95ae-42b690d08562",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Like in the old days, no adds, simply does what it suppose to do, free open source softwarez, long live tha linux :-)",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "5.13",
+                "at": "2019-01-31 05:00:47",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "caf384b3-27e2-40a9-91d8-9db61ccc37ae",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Functionally I like this app a lot. It does exactly what it's supposed to. However the app interface is cluttered and plain ugly so this could need some improvements.",
+                "score": 4,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "5.13",
+                "at": "2019-01-29 18:44:00",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "b3cce082-3d51-4018-a04b-a5befe6af858",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "One of the best FTP servers for Android. It even offers SFTP, although I don't have write permissions through SFTP on Android 8 on my SD-Card for some reason (FTP works fine, writing through SFTP on Android 6 works fine as well)",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "5.13",
+                "at": "2019-01-25 12:22:18",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "be9fdf9b-54d3-43ed-81ec-a19e16d2feec",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Has the features I needed (start on boot, etc.) and ones I didn't think I needed (IP address displayed when tethering to PC).",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "5.13",
+                "at": "2019-01-11 19:36:10",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "26fdacf6-5450-4856-a429-73c7105bc7ec",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Being able to run without root is great. Not being able to run with root is not great at all.",
+                "score": 3,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "5.13",
+                "at": "2019-01-04 17:32:58",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "wolpi-_-prim-ftpd.json",
+        "published_at": "2018-12-20T22:11:16Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "wolpi-_-prim-ftpd.json",
+        "published_at": "2018-10-12T21:48:26Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "27f98571-b463-4197-b485-87b9109e0cdd",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Very good app. Does exactly as described.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "5.11",
+                "at": "2018-12-18 22:14:27",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "ed4a69f2-cabb-4277-bfc0-73a3f7181773",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Simplistically and beautifully done. It never fails and super easy to setup and use. Could be more useful if we can somehow restrict the FTP directory to a particular folder. And sharing with friends in a group becomes easier and safer.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "5.11",
+                "at": "2018-11-22 01:02:35",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "fc68d384-2cf5-4df2-9cc9-6b4ff4bfa3b3",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Great app",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "5.11",
+                "at": "2018-11-13 22:57:07",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "d98d3457-8bd9-40b0-a246-0e92196a16fb",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Very Usefull App! No ad and wow this powerful FTP Sharing is open source. Hope i always see future deveplopment from you.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "5.11",
+                "at": "2018-10-30 11:58:41",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "ed3a4eb4-53f5-450c-95cd-d3722ac54c4b",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Well done! What a nice app! Waiting for you to add some more features 😁😁😁 if help is needed contact me!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "5.11",
+                "at": "2018-10-13 02:38:39",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "wolpi-_-prim-ftpd.json",
+        "published_at": "2018-10-07T09:15:18Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "308118d5-2eab-4fa2-8680-c29381f89296",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Wonderful app. Open source and works great.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "5.10",
+                "at": "2018-10-08 01:17:48",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "wolpi-_-prim-ftpd.json",
+        "published_at": "2018-08-08T20:11:26Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "e6a076d4-fa6e-436d-bcc4-4fb471e44af4",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Great FTP/SFTP server. Works with SD cards. thank you Deceloper(s)",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "5.9",
+                "at": "2018-09-20 02:50:13",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "c1f8c689-0de3-43a6-83b7-b10d623ca18f",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Had to uninstall it as it could not handle directories with loads of files.",
+                "score": 3,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "5.9",
+                "at": "2018-08-10 16:07:11",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "b31d5194-f441-42c7-bc3e-a96ae9e3f40c",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Excellent app, very convenient to use!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "5.9",
+                "at": "2018-08-10 15:52:41",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "wolpi-_-prim-ftpd.json",
+        "published_at": "2018-04-13T22:06:32Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "5e7df1f5-3264-4f9b-aacd-c8e0fda7263f",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "I use it on Android TV 8 with ext HDD. It works in RO. How to RW?",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "5.8",
+                "at": "2018-08-09 15:52:12",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "17dbde6b-b7dd-4fb1-917f-8d79eb89ccef",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Server returns internal IP address (not external) so don't work on passive \nmode, or is there an option to make this work?",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "5.8",
+                "at": "2018-07-30 22:01:58",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "9021d68b-a1fd-4cb4-b72d-ac2289803186",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "It's an excellent that it's open source and has a wide range features sadly \na lot of them just don't work. Though to be honest a lot of that is \nGoogle's fault for screwing up memory card support (it's got to have been \nintentionally done). And making the storage access framework which \nabsolutely does not work on any device or application I've ever used it on. \nSadly this application is no different in that SAF does not work. normally \nI'd circumvent that with root if the app supports it, but the root mode in \nthis app doesn't seem to work either. Like all these android FTP servers \nhanging during file transfer is a serious problem and a fatal one if your \nftp client doesn't have a transfer (and error) queue, which no Android app \nthat I know of has at all.",
+                "score": 2,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "5.8",
+                "at": "2018-07-04 04:42:24",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "c8a5f118-2652-4ffc-9229-35682d57098b",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Thank you! This simple server is the only one to work with SD card (through \nSAF) on Lineage OS. You little ripper!",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "5.8",
+                "at": "2018-04-17 11:40:03",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "wolpi-_-prim-ftpd.json",
+        "published_at": "2018-03-09T22:47:04Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "9b23afcb-0317-4433-bc9e-47be3c060e47",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Amazing app! Open-source and fully functional. Great option to bypass SAF, helped with slowdowns on uploads. Thanks!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "5.7",
+                "at": "2018-03-23 04:13:43",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "a275ffcd-0d5b-4fcd-91c9-9c47e1a95287",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Probably the best ftp server, ad-free and fully functional. Mobile data ftp connection really ROCKS and everything else on the server!! Open source the best forever!!!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "5.7",
+                "at": "2018-03-15 18:05:01",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "f0040ad1-3dd7-45e9-be57-416a1e3b10b7",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "It does work. SSH FTP with Oreo. Great job!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "5.7",
+                "at": "2018-03-11 22:24:31",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "wolpi-_-prim-ftpd.json",
+        "published_at": "2018-02-11T21:25:02Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "5715423d-36e6-4ee9-8790-a42dc24fd504",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "started to look very promising, but after first transfer stopped working, always giving errors.",
+                "score": 1,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "5.6",
+                "at": "2018-02-18 11:18:29",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "wolpi-_-prim-ftpd.json",
+        "published_at": "2017-12-31T10:44:35Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "57df98f5-0814-4766-95ae-ad5492a732f7",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Finally! Root access with sftp and external sdcard access! I have only one more wish: Whats about a multi-user support? But this is exactly what I searched for hours (because no app supports sftp AND root). Wounderfull!",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "5.5",
+                "at": "2018-02-08 15:51:50",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "059eab83-994a-448b-9335-1e8bbb081fd1",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Very useful app! It even includes a handy quick settings toggle!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "5.5",
+                "at": "2018-01-19 14:58:52",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "5551a3d2-9f36-4279-8e0c-58d489b9b72a",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Good app but old versions you could type the server start directory which I preferred. Also now there are too many shortcuts on my apps list of this.",
+                "score": 4,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "5.5",
+                "at": "2018-01-05 03:34:31",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "5be3bf7e-8306-407b-b9fc-ca6c73421953",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Please remove the two additional annoying shortcuts or make them optional in settings.",
+                "score": 1,
+                "thumbsUpCount": 7,
+                "reviewCreatedVersion": "5.5",
+                "at": "2018-01-03 10:25:01",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "wolpi-_-prim-ftpd.json",
+        "published_at": "2017-11-18T21:59:23Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "ffac8288-5422-4ada-a460-c314a4c9caea",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "External sd access broken.",
+                "score": 1,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "5.4",
+                "at": "2017-11-28 04:31:14",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "5917f7d2-a0a1-46c1-8289-768d3736040b",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "This app has the potential to become my default (S)FTP-server for my S8+. It's just that I can't make it work with my external SD : I haven't been able to upload / download files from the ext. SD. This is a real breaker for me. It can be Nougat (Android 7.0) specific, donno for sure.     It mentions something about permission that can be revoked from time to time and gives even an SAF URI to restore these permissions :   content://com.android.externalstorage.documents/tree/0000-0000%3A         but where should I write this URI ??",
+                "score": 3,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "5.4",
+                "at": "2017-11-20 11:52:03",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "552e8ac2-8215-4835-be61-8a40fd367e75",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Simple ftp",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "5.4",
+                "at": "2017-11-19 18:14:55",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "wolpi-_-prim-ftpd.json",
+        "published_at": "2017-11-13T22:11:38Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "5e58a99d-5528-4a36-8044-9cf8356f063f",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Just works.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "5.3",
+                "at": "2017-11-17 00:45:27",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "wolpi-_-prim-ftpd.json",
+        "published_at": "2017-11-09T22:24:03Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "15a4157f-0ef3-4369-a404-8684cb447750",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Awesome server no ads highly recommended",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "5.2",
+                "at": "2017-11-14 13:07:05",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "wolpi-_-prim-ftpd.json",
+        "published_at": "2017-11-07T22:20:45Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "63c2010d-cf81-4aee-9bef-e337c8899e52",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Anyone rating less than 4 stars should find a paid alternative and use it instead...we don't need your poor rating. It's open source, fast, feature rich for a simple ftp/s server.  If something is broken, go to GitHub and report the issue. Don't complain about it in the comments.",
+                "score": 5,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "5.1",
+                "at": "2017-11-08 05:52:01",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "wolpi-_-prim-ftpd.json",
+        "published_at": "2017-11-04T22:31:57Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "wolpi-_-prim-ftpd.json",
+        "published_at": "2017-06-17T22:13:41Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "ba82d8c3-9148-49c4-b178-5b9de6fbd7a8",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "it just works",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "4.9",
+                "at": "2019-04-08 20:35:43",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "025cec26-b4d2-4956-8c71-4bf688594927",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Fantastic",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "4.9",
+                "at": "2017-11-26 04:37:46",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "3df9bb7b-bea3-47b5-a513-d47a69027f3a",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "FTP needs to be started when app is open, and please add SD write permission for Android 7.1.1",
+                "score": 4,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "4.9",
+                "at": "2017-09-17 09:06:28",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "08800719-4211-404d-849b-24a387f2dee1",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Fast, easy to use and simple. Awesome. Love it :3",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "4.9",
+                "at": "2017-09-14 15:42:30",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "53b1971e-27a9-4919-bae5-e37879953e92",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Nice tool, works as expected. It would be nice to have possibility to see logs directly inside the application sib-view.",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "4.9",
+                "at": "2017-09-04 12:15:07",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "7fe127a1-f047-43f6-90a9-85a6e76973d5",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "I'm giving it five stars because I did not find anything better. This is the best FTP/SFTP server among apps I have tried so far.",
+                "score": 5,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "4.9",
+                "at": "2017-07-04 23:42:06",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "c2aefd3d-2228-4685-b160-7de2fb6fd2a0",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Great devs! Keep it up!!",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "4.9",
+                "at": "2017-06-18 13:59:10",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    }
+]

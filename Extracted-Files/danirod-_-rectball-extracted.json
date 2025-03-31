@@ -1,0 +1,55 @@
+[
+    {
+        "filename": "danirod-_-rectball.json",
+        "published_at": "2017-09-03T07:44:19Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "460bf214-b993-4ab5-aba8-492804afefa3",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "It's fun to play. Thank your for developing it.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "0.4.11",
+                "at": "2020-04-18 00:40:31",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "5b341677-20fa-4886-afe0-bff33ce4e6d7",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Genial",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "0.4.11",
+                "at": "2020-03-22 06:03:09",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "danirod-_-rectball.json",
+        "published_at": "2017-05-21T19:34:28Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "7b302719-31ca-4454-a5b8-0241c198b921",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Es super original y super sencilla pero aún así entretenida. Soy muy fan.",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "0.4.8.1",
+                "at": "2017-05-22 21:07:49",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "danirod-_-rectball.json",
+        "published_at": "2016-03-21T20:06:23Z",
+        "google_play_reviews": []
+    }
+]

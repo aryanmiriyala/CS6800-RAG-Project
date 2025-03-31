@@ -1,0 +1,68 @@
+[
+    {
+        "filename": "PierfrancescoSoffritti-_-sliding-panel.json",
+        "published_at": "2019-02-07T15:37:30Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "8b2f0457-a1bf-47a9-9e4a-fc20dd6b5a54",
+                "userName": "lingston chiluka",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVrTO8z_jyGiyDNDI-LBuo03-UPe5Lr3KP5ocI3NTQBhiw",
+                "content": "Awesome",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.0.0",
+                "at": "2021-11-27 06:50:38",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "3afa12ec-e27b-434f-aaa5-8f11ec592f00",
+                "userName": "Saurabh Kulkarni",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLIMg6KzrTjKsUlyZ1wUZMJRKW5MVZQxbDL-0eCfv-P3RU=mo",
+                "content": "Thank you very much. Saved me tons of time to make one. Definitely earned a star.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.0.0",
+                "at": "2020-08-20 17:38:24",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "eeaacc20-9578-4b1e-bbdc-4ee25bfdd610",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "awesome work!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.0.0",
+                "at": "2019-08-15 12:03:20",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "c3ff94a2-803c-458f-9c85-e9af1eb12d74",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "nice work, just what i need",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.0.0",
+                "at": "2019-03-15 18:11:08",
+                "replyContent": "You're welcome, I'm glad it's useful :)",
+                "repliedAt": "2019-03-15 19:12:44"
+            },
+            {
+                "reviewId": "5b2541df-addb-4f66-a4dd-71a0a39af5e0",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Perfect just what i needed",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.0.0",
+                "at": "2019-02-11 14:31:40",
+                "replyContent": "Glad it helps! feel free to leave a star on GitHub :)",
+                "repliedAt": "2019-02-11 16:35:57"
+            }
+        ]
+    }
+]

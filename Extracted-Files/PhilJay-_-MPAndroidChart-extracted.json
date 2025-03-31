@@ -1,0 +1,1008 @@
+[
+    {
+        "filename": "PhilJay-_-MPAndroidChart.json",
+        "published_at": "2019-03-20T16:54:58Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "1a6fdf7f-7227-49dd-aa26-ff6e4ab0c121",
+                "userName": "Iridium Code",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKRBnNRQvgWfEYH0LpSJXH5JRw8d4ajC9-9rCY18GfX=mo",
+                "content": "Luar biasa, Library fungsi sangat lengkap. Sangat rekomended",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.1.0",
+                "at": "2023-09-10 13:08:04",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "00504461-239f-4788-b233-6dc10e4493e8",
+                "userName": "Kentang Goreng",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWI_pLkAi4VoWVTk90pnri65oHbCN5-py5Jl8_6cpGk6ooP",
+                "content": "Really helpful",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.1.0",
+                "at": "2022-10-13 08:23:47",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "5ea8ead4-f1d1-4ed2-84ef-b2efc314b28a",
+                "userName": "Thiago Vieira",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWaroaXziZPjnFc9VIJ-ByiFJ6TxRvMMibh94q5SDBUFaNS",
+                "content": "Excelent app to find library features. As soon as identity the best chart option, go to the code!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.1.0",
+                "at": "2022-06-30 16:46:02",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "4f66ec29-1d14-4a62-8d0f-8d2cf322bb58",
+                "userName": "Pradeep Kumar Reddy Kondreddy",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUHG9Nkbh93EMGy6cqwXW8kSz6bzNP2E8JvOG3hXwsChmE",
+                "content": "Can we create graphs with daily, weekly, monthly and yearly tabs using this library ? I can't find graph with tabs in this demo app.",
+                "score": 5,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "3.1.0",
+                "at": "2022-04-20 02:38:32",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "694d3898-eb78-42b3-b7f1-fdff45fd8927",
+                "userName": "Alm Hasn",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXkjDegha6wtgYlWp1Ohiu2BrPb4R8Gd0Avy8Zeom513nA",
+                "content": "The best!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.1.0",
+                "at": "2022-01-15 03:22:23",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "1a01777e-5c16-4bbd-a590-2d839bff57f7",
+                "userName": "фаравр авоыарары",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJXyU5zr7e3R0iJFjzugzX8dLIk1fLUnzsXUi3AwDQY=mo",
+                "content": "Круто!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.1.0",
+                "at": "2021-09-20 15:58:48",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "e5715f50-cd5d-4866-9b4f-6c0e5a66f16f",
+                "userName": "K Man",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLMkFhRYkeMTiTOL8Vv9HG3ul_IScswVO4TWq7Yecs0nw=mo",
+                "content": "Well done",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.1.0",
+                "at": "2021-08-23 23:16:47",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "387d1814-0b4e-4951-aaea-6005c179a265",
+                "userName": "Volodymyr Vivsianyi",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVuBdVoRvo2DGO7N8YNrs4HSqv-PP8_FQrPwddrMKShlzg",
+                "content": "Awesome. I like it. I got inspired.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.1.0",
+                "at": "2021-05-07 14:02:06",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "93afffa3-27f8-437e-848d-65ce6f33012f",
+                "userName": "Boluwatife Adewusi",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUwOSCyLvDS8iT-ijW9JpLINW5Vi2Be_v_jZNUOTTIKDFve",
+                "content": "Really helped me create graphs for my app",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.1.0",
+                "at": "2021-03-30 20:43:25",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "4bdab427-64d1-4b11-9f4f-479b4400db2a",
+                "userName": "Tuan Hazeem Joonus",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVTwepkjxXGFNURjy6jr4ujgogeFbB08jsIq1teSsgweQ",
+                "content": "💥💥💥",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.1.0",
+                "at": "2021-01-30 05:17:52",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "0cbb9f6b-d1c7-48f2-bf16-32105c188570",
+                "userName": "mSchooling",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWZvn0lX2_0YsZkuZhO0Pro7j2AtnA0sk-_C4gue1W-Aw",
+                "content": "Where is that graph jave you shown in pic 4?",
+                "score": 2,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "3.1.0",
+                "at": "2020-07-25 03:20:06",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "2932c5b7-d884-4881-989f-baab728ee179",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "What the heck is this?",
+                "score": 1,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "3.1.0",
+                "at": "2020-04-27 22:36:01",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "4b6a6003-2e52-4a36-9c3b-8275c26ac598",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "useless app",
+                "score": 1,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "3.1.0",
+                "at": "2020-03-22 17:57:39",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "30030720-0189-41f3-a030-e58427844af9",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Great library",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.1.0",
+                "at": "2020-03-08 00:21:38",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "b0b43918-842c-4a9f-b41b-1252129ff4f1",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "It's a really awesome for my project",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.1.0",
+                "at": "2019-12-26 15:06:27",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "e22eee0b-c2ad-4e81-8f6c-a9f4b7d5b6c6",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "😉",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.1.0",
+                "at": "2019-06-02 10:53:25",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "0c888725-c4b8-41d5-80d8-878817558866",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Great",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.1.0",
+                "at": "2019-05-03 17:04:00",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "8ff9108f-54c4-48c8-9db1-7a77181a74cc",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "supeR helpful foR developeRs",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "3.1.0",
+                "at": "2019-05-03 10:53:23",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "f8e26e08-a7a0-4cfd-8fd8-f8e143d8826f",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "nice rich feature of demo.. you deseserve more than 5 stars..",
+                "score": 5,
+                "thumbsUpCount": 15,
+                "reviewCreatedVersion": "3.1.0",
+                "at": "2019-03-21 23:06:41",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "PhilJay-_-MPAndroidChart.json",
+        "published_at": "2016-10-19T15:44:40Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "b0c736ec-7617-498b-97fd-366280f81431",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Amazing work, you should be proud",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "3.0.0",
+                "at": "2018-10-02 18:36:29",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "0d43b85b-49ad-40e6-9028-36a3cbd5290f",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Superb library",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.0.0",
+                "at": "2018-09-29 17:48:23",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "e878e654-405b-4620-886e-3f1dc03eaedb",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "My go to lib when I want to show charts and graphs",
+                "score": 5,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "3.0.0",
+                "at": "2018-09-15 12:03:40",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "4acc8fcb-c639-4cf2-ac51-369de4bca3ad",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Keep it up",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.0.0",
+                "at": "2018-07-26 12:46:12",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "3a555827-57be-4a76-923b-214885f0bbca",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Very good library, but the demo is a little bit out dated.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.0.0",
+                "at": "2018-06-29 12:33:01",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "e2177426-06f4-4d61-a5fd-3f2cb1be3fe4",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Best app",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.0.0",
+                "at": "2018-05-18 21:28:56",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "88f05614-eabd-4aa0-817e-e4878af3eef6",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Cannot fully customize the chart",
+                "score": 1,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "3.0.0",
+                "at": "2018-04-09 02:32:11",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "7d4a0896-08f4-4116-8a70-babe8fb169d2",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Just so you know , it's very wonderful",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.0.0",
+                "at": "2018-04-07 03:36:51",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "20adb315-b54c-4dbb-879b-8a2f259a329a",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "You should explain to beginners that this is an example of charting api for android development. Thanks for this great example.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.0.0",
+                "at": "2018-01-22 11:23:01",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "83c8f21e-e98e-4786-9ffa-cbd17f7705b7",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Only Examples",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.0.0",
+                "at": "2017-12-07 06:13:49",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "9ee97558-1cc4-4653-b472-405f2699242c",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Scam",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.0.0",
+                "at": "2017-10-29 15:48:04",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "9b0fb426-c031-4a8f-8e16-e01510678d12",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Not for making charts.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "3.0.0",
+                "at": "2017-09-18 21:43:47",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "4ff01814-39a8-4c8c-ae52-1699c8ba4547",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "App is crashing please update",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.0.0",
+                "at": "2017-09-13 12:17:17",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "6567ab13-dbb6-4f63-96ac-8a28a04597c2",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "How to use it",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.0.0",
+                "at": "2017-09-09 11:53:22",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "c35c2d0b-2ebc-4ea3-8cd9-454a225a8e81",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Only examples. Useless",
+                "score": 1,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "3.0.0",
+                "at": "2017-09-04 14:02:20",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "fc127701-c7d4-4ea4-abad-fc84d4b6ab82",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Very useful :)",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "3.0.0",
+                "at": "2017-09-04 05:32:03",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "383246e1-11af-4dbc-bb7f-6302087b7782",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "This is just for demonstration, not for creation!",
+                "score": 1,
+                "thumbsUpCount": 8,
+                "reviewCreatedVersion": "3.0.0",
+                "at": "2017-06-06 16:42:30",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "5027a00b-fb16-4702-a2e3-34f230a9fc13",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Thank you for the effort.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "3.0.0",
+                "at": "2017-04-07 09:51:29",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "dd195992-09b4-4d40-a8f0-4736d8333834",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Am definitely buying this guy a coffee",
+                "score": 5,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "3.0.0",
+                "at": "2017-03-26 13:51:55",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "bbd35257-7d0d-419f-96f2-0e03c068a147",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Well made",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "3.0.0",
+                "at": "2017-01-02 23:46:06",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "b9d09a3d-7d92-420a-b14c-3cd517b4c13b",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Is it really very useful for students",
+                "score": 5,
+                "thumbsUpCount": 10,
+                "reviewCreatedVersion": "3.0.0",
+                "at": "2016-12-01 01:52:27",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "3d0a92a7-a359-4159-b6d9-c4203dd4b933",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "I deleted My FAVORITE Apps for nothing",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.0.0",
+                "at": "2016-11-08 05:22:34",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "8c0a2db4-8e36-4b99-a6a1-b610c220a812",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Very disappointed",
+                "score": 2,
+                "thumbsUpCount": 13,
+                "reviewCreatedVersion": "3.0.0",
+                "at": "2016-11-04 07:37:24",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "b51663bf-23bd-4e2c-8db7-5fe44a36b27f",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Thanks a lot such githib",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "3.0.0",
+                "at": "2016-10-23 05:13:24",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "a8ef9212-fdd9-4b65-8d9b-fae8d3afd8bb",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Very nice.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "3.0.0",
+                "at": "2016-09-04 20:26:13",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "ad6f45e7-1c09-4665-98eb-5649a4d34239",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Loved it.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "3.0.0",
+                "at": "2016-08-31 00:44:03",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "3ea35f0f-c308-4d31-b710-1be6ed338e51",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "This might be an easy tool to show your results after you already have them and just want to show it... you cannot edit the list of titles on the chart which kinda takes away the purpose for what I need it for",
+                "score": 2,
+                "thumbsUpCount": 8,
+                "reviewCreatedVersion": "3.0.0",
+                "at": "2016-07-29 14:26:30",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "6114fccb-e83d-46a4-b9f6-7272def8ac29",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Easy to use",
+                "score": 5,
+                "thumbsUpCount": 5,
+                "reviewCreatedVersion": "3.0.0",
+                "at": "2016-07-05 04:19:55",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "00c6129b-7218-4dd5-9498-d87a39697df1",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Easy to use",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "3.0.0",
+                "at": "2016-07-04 02:57:03",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "PhilJay-_-MPAndroidChart.json",
+        "published_at": "2016-05-27T20:35:27Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "884de36c-b1b8-4d13-ab13-0fa51f4031f6",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Thanks a lot!",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.2.5",
+                "at": "2016-06-11 18:56:18",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "5eec4958-38d2-4f03-86bd-8332c198fd13",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Saving FAILED! Permissions in Marshmallow",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.2.5",
+                "at": "2016-06-03 03:25:01",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "60e46ace-5a28-4085-8b20-2937ec0026d9",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Once I use it, definitely a donation is in order.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.2.5",
+                "at": "2016-06-01 15:27:45",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "e34e48b8-f7a7-47de-ac37-c0b661c668ea",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "This library is impressive.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.2.5",
+                "at": "2016-05-29 06:19:03",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "PhilJay-_-MPAndroidChart.json",
+        "published_at": "2016-03-31T09:31:35Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "ffa394e8-21bb-43c5-a17d-60ad35ce813d",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Super .lots  of options",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.2.4",
+                "at": "2016-04-26 12:38:24",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "PhilJay-_-MPAndroidChart.json",
+        "published_at": "2016-02-28T18:34:17Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "14fb39c0-5736-4471-beb2-a0062e903835",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Just use it",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "2.2.3",
+                "at": "2016-03-31 15:39:04",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "e326e76b-1fbb-4bcc-9551-7342008cb3ad",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Nicer than Smashy and Nice??",
+                "score": 5,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "2.2.3",
+                "at": "2016-03-20 10:12:09",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "1bf22172-fc7d-4a07-86e3-3330d6ad8b77",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Really impressive work man",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.2.3",
+                "at": "2016-02-29 21:00:58",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "PhilJay-_-MPAndroidChart.json",
+        "published_at": "2016-02-10T19:22:17Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "PhilJay-_-MPAndroidChart.json",
+        "published_at": "2015-11-02T19:33:01Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "b37209ee-3179-4cd0-9679-b9c1b9ba7b29",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "brilliant library, 5 stars all the way... just the documentation needs to be a bit more precise and updated, dats it... cheers guys...very nice work",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.1.6",
+                "at": "2016-06-30 09:56:28",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "65222acb-7c6e-4152-93db-51587803d84c",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Cool Examples",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.1.6",
+                "at": "2016-01-26 06:47:59",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "1bfe6469-1c80-4151-8ce6-4ae2159884ac",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Thanx",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.1.6",
+                "at": "2016-01-10 17:35:00",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "1511c0cb-de5a-4791-b010-e3fdcf82690c",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Easy to implement, and provides a lot of functionality.. Thanks to the developers",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "2.1.6",
+                "at": "2016-01-08 10:26:05",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "b6c12827-2afe-444b-8b8a-4d785b03a4f4",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Simply Amazing. Great work.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.1.6",
+                "at": "2015-12-04 10:13:11",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "125758c4-7ef2-43be-88d9-dcc9c42cb1f2",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Good app",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.1.6",
+                "at": "2015-11-10 02:16:44",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "PhilJay-_-MPAndroidChart.json",
+        "published_at": "2015-10-11T17:30:32Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "705fb1d9-caec-4cd1-8eda-e382dd563b31",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Best chart library on android by far!!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.1.5",
+                "at": "2015-10-12 18:29:09",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "PhilJay-_-MPAndroidChart.json",
+        "published_at": "2015-07-31T22:00:20Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "25f73a6f-8f92-4cf7-a710-46f31eea4096",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Easy to implement and works like a charm.",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "2.1.3",
+                "at": "2015-10-10 07:28:31",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "2b8c30aa-ed00-4a5c-b5a6-09ad89451234",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Super Good Collections ,  Super good helper for developers. Please maintain this lib effectively.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.1.3",
+                "at": "2015-09-28 09:40:37",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "2b448b93-6723-46b7-b38c-116240f21b79",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Awesome library! Simple, easy to use. Couldn't ask for anything more",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.1.3",
+                "at": "2015-09-15 01:17:36",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "4e08ec6f-789a-44c0-a558-fb9a78eb27e2",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Thank you to deverloper.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.1.3",
+                "at": "2015-09-09 07:16:28",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "ee55ab0f-db86-492d-bdcc-619f09700282",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Works. Nice design overall.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.1.3",
+                "at": "2015-09-07 09:20:00",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "PhilJay-_-MPAndroidChart.json",
+        "published_at": "2015-07-24T22:16:59Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "4b45b638-4779-4195-b226-ff19d45aa3ac",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Good animation",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.1.2",
+                "at": "2015-07-29 10:54:20",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "30736182-847a-4ba3-a396-6ca65a86623d",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Thanks for this..",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.1.2",
+                "at": "2015-07-27 21:37:28",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "9b1fb759-5143-4573-a92e-fe27705e53ae",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Best among all remaining libraries. Really liked it.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.1.2",
+                "at": "2015-07-27 03:39:36",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "89f06a33-5bb1-4bdc-a711-2aa74ca91dab",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Awesome!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.1.2",
+                "at": "2015-07-26 10:25:00",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "ae58c8c2-5e6a-4fae-957b-ed768b8955fd",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Love it.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.1.2",
+                "at": "2015-07-25 04:15:08",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "7a5a758a-e09c-4836-9a9f-40b86432c9de",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Probably the best charting libraries out there for Android. Thank you for providing this to the community.",
+                "score": 5,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "2.1.2",
+                "at": "2015-07-25 02:22:04",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "PhilJay-_-MPAndroidChart.json",
+        "published_at": "2015-07-20T11:32:58Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "PhilJay-_-MPAndroidChart.json",
+        "published_at": "2015-05-05T16:25:19Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "a663417a-7826-4c69-a621-c892254972de",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Excellent library and app",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.1.0",
+                "at": "2015-07-10 20:45:52",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "ed17bf29-639a-4af0-908e-fed9f988c6ec",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "This is amazing and probably the best charting tool for Android.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.1.0",
+                "at": "2015-06-18 08:06:03",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "662fa7b2-4920-4b0d-bd40-b9e723f7059c",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "better than androidplot",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.1.0",
+                "at": "2015-05-19 11:11:40",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "f53d5293-1dc8-48e0-8355-f799371f50ad",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "I love these charts",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.1.0",
+                "at": "2015-05-07 05:50:08",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    }
+]

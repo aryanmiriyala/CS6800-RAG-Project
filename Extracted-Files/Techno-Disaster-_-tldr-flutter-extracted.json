@@ -1,0 +1,68 @@
+[
+    {
+        "filename": "Techno-Disaster-_-tldr-flutter.json",
+        "published_at": "2021-12-20T08:25:32Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "b3607667-b684-4044-8d74-d5720e36d1f0",
+                "userName": "Anselm Peter",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUbMiu6ASNUXzkeyLYZUgfSBrMXZSHZq3Ja25i5EvmfB2-e",
+                "content": "This is the most underrated application. Must have application in android and at your linux pkgs.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.3.1",
+                "at": "2022-07-21 09:07:55",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "Techno-Disaster-_-tldr-flutter.json",
+        "published_at": "2021-10-21T16:26:39Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "99b2f658-583c-42cf-82a1-a30ff855fb86",
+                "userName": "Daniel BP",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVpIB2jkojfOK5omnTk9T7mNceoYdxYg1P1gng1gEhWMq8",
+                "content": "Excelent job. Nice and responsive glossary.",
+                "score": 5,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "2.1.1",
+                "at": "2021-11-22 02:37:36",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "Techno-Disaster-_-tldr-flutter.json",
+        "published_at": "2021-05-01T20:20:34Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "300c33cb-2f91-45aa-b4e2-46036e8ce254",
+                "userName": "pmc Retro",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWQSTePyzJ452-RWxOU_P7ckUQaycelF5UG78jBnw2vCA",
+                "content": "Very cool",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.1.0",
+                "at": "2021-05-22 08:43:50",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "5ff4032a-afea-4cc6-84a9-5aa6a2671d0f",
+                "userName": "Oleksii Baida",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWYLsJ4shEymQQnWf4Or1YFAt72BAHqpBMxRhkjqf7-xwI",
+                "content": "Good and solid",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.1.0",
+                "at": "2021-05-08 10:08:55",
+                "replyContent": "Hey Oleksii, glad you liked the app. Thanks for the review. Have a good day\n\n",
+                "repliedAt": "2021-05-09 13:34:57"
+            }
+        ]
+    }
+]

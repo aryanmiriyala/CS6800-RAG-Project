@@ -1,0 +1,309 @@
+[
+    {
+        "filename": "qqq3-_-good-weather.json",
+        "published_at": "2017-05-06T19:02:38Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "491487f3-67a0-4a33-88ec-5dd22bb7724d",
+                "userName": "Syed Najam Ul Hasnain",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWzigBD1fiumxm2qN8d9927KWQFlbLo-zBQCcQuK-9JzoA",
+                "content": "Love it",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "4.4",
+                "at": "2022-07-29 06:21:58",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "23f4c37a-dd96-4616-864c-13631aaa793a",
+                "userName": "Mohammed Ali",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUKg4bnsrXHF99ZadrFWSR6_9ZmPI794I7c1PquBAl1cWIU",
+                "content": "Doesn't work",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "4.4",
+                "at": "2022-07-25 02:20:02",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "b8ca20e0-e18e-4923-82f1-f5d7f59b9f57",
+                "userName": "Brad Parker",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXbMAAsp3L-pi6SmOkwxSRjIrUb3pJbg9pt7LgWe-56Bs4",
+                "content": "It's good",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "4.4",
+                "at": "2022-04-03 19:22:29",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "0620ad23-2a0f-472a-972f-fa796b677928",
+                "userName": "Christopher Watts",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVWiq37v5QLVOoyI84MQYlz2uWeJB1S-Ikg_p0U474OjSw6",
+                "content": "Did not update location. Always said I was in London. I don't even live in the UK. I checked all permissions and it has access to location etc..",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "4.4",
+                "at": "2022-03-21 11:07:43",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "cf078df8-fcee-4156-8537-4d5846e65d59",
+                "userName": "Lucas Cannon (Luke)",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWnkfTITzaDQelfUbQockZSVl8LrsEoJB96TdEfM8TI77Gn",
+                "content": "Very good app. That does it's job perfectly. I would like to see it work with the new coarse location permission and for it to have a follow system theme option.",
+                "score": 4,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "4.4",
+                "at": "2022-03-20 17:04:29",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "bba1c1bd-f9e4-40d7-8e98-731ae79949d8",
+                "userName": "Saif Falah",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjV1-Wke9Df7UarkxunVw4DvINHZrYKIqX6A6TTqFdscsQ",
+                "content": "جميل",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "4.4",
+                "at": "2022-02-10 17:17:42",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "cabaacfe-4718-4882-863f-8a3ded986285",
+                "userName": "Roger 2020",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIVXe3vlIeA3kWA0TpbINcTVvXsMt_TTDJK6tChi62U=mo",
+                "content": "Tiny 5MB memory is very minimist weather forcast.",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "4.4",
+                "at": "2021-12-28 04:02:51",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "3d557cbe-b719-494c-84d1-4c0791c6c4de",
+                "userName": "danceswithcars w",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKIveERGXCKUqm6p5TRua-e4FJmzKekKjRte2pxUAtj=mo",
+                "content": "Needs radar, visual of clouds, storms, etc to \"ride between the raindrops\", as some say ..",
+                "score": 2,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "4.4",
+                "at": "2021-04-14 08:47:33",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "c579dc12-70d6-432d-a251-daf7319c9d84",
+                "userName": "Dima-Laong",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXGSgyTQhviGH5dbWecWE--UN2ECzPijsv1BeZRfoB7vNw",
+                "content": "Don't download this app. It's a Trojan or malware according to Bestie video in youtube.",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "4.4",
+                "at": "2021-02-28 03:41:34",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "11ef4210-e172-4770-b11d-f2f6e80d0d80",
+                "userName": "carni",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXkuEahvopTNjfwDMzPufvum62azHUXp5XQtayueeArPzA",
+                "content": "terrible app, you are not allowed to set a location, why? And why would you need GPS access, just let me set a location, how is this so difficult?",
+                "score": 1,
+                "thumbsUpCount": 5,
+                "reviewCreatedVersion": "4.4",
+                "at": "2020-08-03 00:00:50",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "5b0dc84a-544c-4e7d-85a4-5a90aad59fee",
+                "userName": "Nicholas Coffey",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXNfY8Yj_dFoVCPEVYlfAwtkmztz0QfA3HSSzvYxohjV8M",
+                "content": "Only works for London UK",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "4.4",
+                "at": "2020-07-28 21:22:06",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "c710c4e3-0c30-4ea0-a9b8-afc588e42173",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Not showing state names makes it very hard to usein the United States",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "4.4",
+                "at": "2020-03-13 12:17:55",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "fe82e293-b566-45b2-a348-a92f7e021a93",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "I'm afraid this didn't work for me. I got one very basic screen with the current weather, but forecasts wouldn't appear. Also, when I added other locations, only town names appeared, and many exist in different places. (I don't have the heart to rate this just ⭐, because I admire anyone who tries to develop an OS app.)",
+                "score": 2,
+                "thumbsUpCount": 10,
+                "reviewCreatedVersion": "4.4",
+                "at": "2020-01-11 00:09:12",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "20a01e3f-8a48-417d-9e4d-1e117072bc51",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Nice app for whether reports. Easy to use. Great work by developers",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "4.4",
+                "at": "2019-12-25 15:14:23",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "76df1ae5-cdb1-429b-bbea-9e1aeb387429",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Sometimes, the widget stops working, and I have to delete and create a new one or reboot to fix it. The app is good otherwise.",
+                "score": 3,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "4.4",
+                "at": "2019-09-01 05:47:00",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "98236077-770a-474b-a013-0bd1964756c6",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Widget not updating",
+                "score": 2,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "4.4",
+                "at": "2018-07-18 18:24:19",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "216ded00-3ad4-4dd7-8b07-7f11e5ece5cf",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "The app seems to work well. The widget does not. Although both the widget \nand app are set to update every 15 minutes, only the app does. The widget \nworks for a while and then hangs. Battery Saver is off for my phone and \nGood-Weather is checked under Power Saver exclusions for good measure. The \nwidget still won't work.",
+                "score": 3,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "4.4",
+                "at": "2018-06-28 14:33:34",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "b0ab481e-97b9-4558-882a-1ed2d1682c9c",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Nice..thanks",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "4.4",
+                "at": "2018-05-10 14:31:16",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "0e9db3df-90cf-499e-98ad-f5cceb9e5f9c",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "personally, i'd like the forecasts to be more detailed. like temperature and weather for each hour. and a five-day forecast as a widget perhaps?",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "4.4",
+                "at": "2018-04-06 23:23:42",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "7f4ba723-6ef9-4cc5-b3bd-50f0126deadc",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Pleasing for the eyes, but the themes are a bit inconsistent. You can't change the lake picture. Has some nice graphs, but lacks hourly forecast. It's a fair client for OpenWeatherMap, but lacks polish.",
+                "score": 3,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "4.4",
+                "at": "2017-07-02 04:17:23",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "qqq3-_-good-weather.json",
+        "published_at": "2017-04-30T18:35:33Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "qqq3-_-good-weather.json",
+        "published_at": "2017-03-28T17:42:57Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "92392e92-4a2f-4d5c-8e87-4f0555b4995e",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "GOOD",
+                "score": 4,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "4.2.1",
+                "at": "2017-04-07 23:50:05",
+                "replyContent": "Version 4.1 fix runtime permissions. Thank you!",
+                "repliedAt": "2017-03-01 05:47:36"
+            }
+        ]
+    },
+    {
+        "filename": "qqq3-_-good-weather.json",
+        "published_at": "2017-02-27T17:22:35Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "97fabf3f-311c-47ee-9af4-bda56cc1b017",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "It's not a virus!",
+                "score": 5,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "4.1",
+                "at": "2017-03-02 16:29:44",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "qqq3-_-good-weather.json",
+        "published_at": "2016-10-29T17:00:48Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "qqq3-_-good-weather.json",
+        "published_at": "2016-09-16T19:48:44Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "qqq3-_-good-weather.json",
+        "published_at": "2016-08-16T07:29:03Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "qqq3-_-good-weather.json",
+        "published_at": "2016-08-12T11:23:28Z",
+        "google_play_reviews": []
+    }
+]

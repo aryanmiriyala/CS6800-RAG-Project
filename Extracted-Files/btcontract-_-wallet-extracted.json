@@ -1,0 +1,644 @@
+[
+    {
+        "filename": "btcontract-_-wallet.json",
+        "published_at": "2023-10-27T19:23:26Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "btcontract-_-wallet.json",
+        "published_at": "2023-10-20T18:19:02Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "btcontract-_-wallet.json",
+        "published_at": "2023-09-29T14:04:10Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "btcontract-_-wallet.json",
+        "published_at": "2023-09-17T15:29:16Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "ef76a898-05e2-418f-8d6f-60bf4153fb6a",
+                "userName": "Jc Pocket",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUzUmB2zvX-jTE290XH-XoKITO-LVaGK2i0Uo2fdI8Qccg",
+                "content": "The guy who makes this wallet is cute and chad fr",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.5.2",
+                "at": "2023-09-28 21:57:22",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "btcontract-_-wallet.json",
+        "published_at": "2023-09-09T07:52:10Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "btcontract-_-wallet.json",
+        "published_at": "2022-01-19T09:38:55Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "17c69697-6b65-45b5-bda6-1ccb068bc821",
+                "userName": "Skander Helali",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjV0azbLb7y16gy87dm8yQ8TfDklhGyqjO5iMJjFuq2nKQ7m",
+                "content": "Edit: dropping LN support makes this a lot less useful, but still a decent onchain wallet. *** old review *** Excellent. I can see that HC are not going to be created by default in the next release so I won't complain about that. Would love to see multi-sig and perhaps remote electrum watchtower support. Great work :)",
+                "score": 2,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "2.4.27",
+                "at": "2023-09-02 16:57:52",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "b5e63ca6-8d20-452f-a023-372b9dc32afe",
+                "userName": "r k",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjX7p-3pMUEJi3SnPN3641v4iO0JnsrWP2YeSudyT8Yxjb-e",
+                "content": "Unfortunately, with Lightning support removal I can no longer recommend this wallet to anyone. Huge disappointment, there were just a few bugs to iron out to make this the best LN wallet and instead the author decided to kill it. Close your channels and move on.",
+                "score": 1,
+                "thumbsUpCount": 6,
+                "reviewCreatedVersion": "2.4.27",
+                "at": "2023-09-01 11:12:51",
+                "replyContent": "My life has changed radically since russian invasion and I will likely never find time for serious Bitcoin development again. The choice was whether to abandon an app completely or maintain what I can afford to.",
+                "repliedAt": "2023-09-03 01:15:19"
+            },
+            {
+                "reviewId": "58dbec0c-8385-45b4-87ec-5c106bd06b22",
+                "userName": "Diego Lascano",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjU3cIa4ZoSFUhYKfiPZqDqf_a6lm_YKhudyCRwC3O1VFFli",
+                "content": "Nice and simple! I hope the dev could change the fingerprint authentication splash screen to dark mode.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.4.27",
+                "at": "2023-06-28 13:47:42",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "064c843a-6a85-4886-b3c3-000afea05cc0",
+                "userName": "agolay",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXkTjNE1g_4Dnch6nXqM0L_nOaR889cGYuco5usFJjBsV0",
+                "content": "No longer accepts new lightning wallets and I'm having difficulties getting my btc off of the app 😕",
+                "score": 2,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "2.4.27",
+                "at": "2023-04-25 12:32:49",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "29daf014-e616-4c22-8e5d-2f6429b73956",
+                "userName": "Josh Patton",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWDD6YxtSDGxvEyQQR32rPJjztOMmM8m5l1MueLQFzaqWc",
+                "content": "I was able to send my sats, but can't get them out, tried numerous bitcoin and lightning network wallets, it pretends to send it every time only to claim it failed hours later",
+                "score": 1,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "2.4.27",
+                "at": "2023-04-24 22:52:18",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "a1195e1d-05aa-46e8-8eb9-064a62477f3d",
+                "userName": "Tobias Hoffmann",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjV70BmS1X6nWoXkS6QVUCcQXJu4R4jauHlGHNWa3eyE_-Y",
+                "content": "Used to be the best wallet, now it struggles finding routes, with lightning payments taking minutes before finally failing. If you're impatient, close the app and restart, the app breaks, throws HTLC Exceptions and eventually force-closes your channels. Then you need to wait for 1 week to get your funds back. I currently have over 800€ stuck and have to wait for at least a week to get my money back. Would not recommend to use this in it's current state. Used to be good, not anymore.",
+                "score": 1,
+                "thumbsUpCount": 9,
+                "reviewCreatedVersion": "2.4.27",
+                "at": "2023-03-19 16:08:48",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "0b0c91cb-c05f-41c1-863f-a5648ce19d5a",
+                "userName": "Charilaos Kalogirou",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUetYugPa7CP0Dz1SmlWl9b8Ku16DJtEP191DV3djjcq70",
+                "content": "Can't send with lightning. Funds locked in 😞",
+                "score": 1,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "2.4.27",
+                "at": "2023-03-15 20:47:32",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "9c8dda27-7b94-46fc-8d6d-b285a91ee5ff",
+                "userName": "M P",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXsKmNDppXBoGuaMoCrjmokg705KqtviD386iXVF5JY5n0",
+                "content": "According to Twitter this app will not be further developed. I think there should be a warning here in the play store.",
+                "score": 1,
+                "thumbsUpCount": 5,
+                "reviewCreatedVersion": "2.4.27",
+                "at": "2023-03-10 18:21:21",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "7f701ec5-88f1-466a-aea3-0174ced79475",
+                "userName": "Wouter Landman",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJwTIXvOYhd6P1XzaJKH76CPxvuMUvOyNXQh6Gv9mv1=mo",
+                "content": "Great app",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.4.27",
+                "at": "2022-12-14 05:08:47",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "e430ab7d-47e6-4fb4-84a2-fbff241314ef",
+                "userName": "Chuck Caldwell",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUWRe88qadbdalhgetNegvXOQEd6BXjJf0VitW94TvDyRw",
+                "content": "This is an easy to use no nonsense bct wallet. Highly recommend. Especially if your new to crypto wallets.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.4.27",
+                "at": "2022-11-05 04:01:05",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "a99321ac-152b-4947-a5bc-35e8f6f2a740",
+                "userName": "Alexander",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUxjDXAhwaIStMDqIrFARoQyhT_Rd_YVY4VGEsOrN1yH7A",
+                "content": "🧡 the ⛓️ & ⚡ options + clean 👀 ui for all.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.4.27",
+                "at": "2022-10-02 22:20:57",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "401ff301-e54e-446d-b671-e508eaab47d2",
+                "userName": "Nteme Limema",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLxJhMXXdXJZTfpQBEGCWp20s4F9k3C3MzbbNvMU0Wq=mo",
+                "content": "Love it",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.4.27",
+                "at": "2022-09-28 06:57:40",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "e94f7270-5f48-47d7-946e-2335d2865eaa",
+                "userName": "I B",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjU8I5OxrHF6UGJXuNyuVi8liO44UuLeLOP597YMgbStnz8",
+                "content": "I leapt on this app to store my bitcoin balance a few years ago and even transported it across devices. Just checked in, and my balance is now zero. My balance has been stolen.",
+                "score": 1,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "2.4.27",
+                "at": "2022-08-28 18:08:36",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "570f9f01-4f39-4ef3-9c23-34bcf356fa03",
+                "userName": "sergio riveros",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIeg5iR_ucv_hod0vB8rtjlxtulu1bkGy7cK0pDKTqc=mo",
+                "content": "Great wallet, however proper support for lnurl does not work well for example lightning login.live/login has a test for lnurl-auth and it fails, also the app lnurlpos using the ATM mode under lnbits also fails, however it's fair to say this features of lightning are very new and many other wallets also fail, otherwise a great wallet. Most likely this will be fixed in future versions.",
+                "score": 4,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "2.4.27",
+                "at": "2022-08-22 07:51:37",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "04ab4932-f498-49a4-8b83-6575c1d0f2ef",
+                "userName": "NERRISHA SMITH (RIAUS)",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVB11A_DIapuOXt8B7Y2oWngTj6ycTCAYQd1T_iSIth8g",
+                "content": "WELL I DONT KNOW YET BUT WILL GIVE FEED BACK IF THERE'S ANYTHING THAT GOES WRONG",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.4.27",
+                "at": "2022-08-18 17:09:21",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "6f0a92bd-5b1c-4e8c-b5df-5eba1b3c4259",
+                "userName": "Joanie bouiboui",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUacqikp06pOo7cmbFI9GQ-MxYpHqYLFIl_VP9Azw0fwQ",
+                "content": "Nice app, thank you for fixing the issue.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.4.27",
+                "at": "2022-08-06 18:00:32",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "d392f7cf-5e47-4655-8ea9-4cf50a7f95fb",
+                "userName": "Rob Gman",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVkglBdWnjttzp4-JndXujEnmunmBf4SnTOKshlSjjskpw",
+                "content": "Well, started off good after transfering lightning sats into this wallet only to find out i can't send them to another wallet but i can recieve sats without a problem. Tried to buy another channel to resolve this but is it worth the headache? Na.... My sats are stuck here, try another wallet!",
+                "score": 1,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "2.4.27",
+                "at": "2022-06-27 08:56:32",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "602ec615-9a0d-456b-a9ac-7643da792051",
+                "userName": "Joseph Cardenas",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLTdRAC4z1_TID1xDiN0-tWFozgNCsGGP5fB9hsWcz0=mo",
+                "content": "Very easy app to use.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.4.27",
+                "at": "2022-06-13 18:29:39",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "c6723be7-7b11-4f66-a649-5aea3ae0f895",
+                "userName": "HardiFogripper",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUWCRKyJE6liWn0JsnAk0pzsipwG7p97AJjnmCqh_IAXkKG",
+                "content": "Have had no issues. Lightning rocks⚡",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.4.27",
+                "at": "2022-05-14 17:46:40",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "1e135fe2-4fee-4d64-9623-fb8580089a84",
+                "userName": "David Parrish",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjX-5x3I9_yDZET7EE_Fh2Tv4_fZwyEcaJ4GB4Oo2-f-9Yg",
+                "content": "Fantastic! Not really \"simple\" for newbies to Lightning though.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.4.27",
+                "at": "2022-04-30 02:17:42",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "ead84dd3-da55-442b-9c71-54043952bede",
+                "userName": "Ali Shahcheraghi",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjU_MRpbJ8KqOpAMcJGO64Es2l63VjluiByr1HpAz1Mbao-k",
+                "content": "Best Bitcoin+LN wallet",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.4.27",
+                "at": "2022-04-07 09:06:55",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "btcontract-_-wallet.json",
+        "published_at": "2021-12-10T14:56:43Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "btcontract-_-wallet.json",
+        "published_at": "2017-04-02T09:24:18Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "23df1503-b811-4542-8b6f-4a0c684fb28f",
+                "userName": "Marthin Ngouem",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjULwdCA0IPDzTH89QSj5pfreAtRVz25h1VUC5MmnmjXtQ",
+                "content": "Scam do not use it . It ll create a password that you did not make",
+                "score": 1,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.075",
+                "at": "2021-01-06 01:07:40",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "68f71b4a-079c-4358-9f31-0580954471ae",
+                "userName": "Natalie Engelbrecht Ivancan",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXEu9Ycth1I8txFe8MNyGofQXS8MrGpe-tzzMMCw0qpvkk",
+                "content": "DO NOT USE SCAMMM.UNBELIEVABLE STOLE MY BTC",
+                "score": 1,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.075",
+                "at": "2020-07-17 22:32:11",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "e10526b1-6bbc-4bee-9393-dadf24db745c",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "non as yet",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.075",
+                "at": "2019-04-01 19:49:30",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "1116b9d0-8e9b-40d1-9365-185e5e0ef0a1",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "I'm pretty sure it has taken my bitcoin. any thoughts developers????????? I'll change reviews when resolved",
+                "score": 1,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "1.075",
+                "at": "2019-02-17 05:09:59",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "b97a64d6-d4c5-4f49-a65c-ac8c3ee17fbd",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "ok",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.075",
+                "at": "2019-02-09 16:06:42",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "b169ec24-2bd1-41d1-909c-ffaf0e51db3a",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "how do i recover my password????",
+                "score": 2,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.075",
+                "at": "2019-01-20 17:14:43",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "37a8925e-6d7d-4e26-9b06-083274474535",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "scammed me out of btc. never put a password, I could receive btc but not send unless there's a password provided. had to uninstall app and reinstall WITH the recovery code and it has disappeared. ?????????.?",
+                "score": 1,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "1.075",
+                "at": "2019-01-18 10:22:50",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "591acf58-031a-4cbd-8dd0-3fe241ba50f5",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "cannot enter Ls and 0s!!! give me my money back",
+                "score": 1,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.075",
+                "at": "2019-01-09 14:59:53",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "69cd56fe-ef4e-43d4-94ca-0f797b8e8f37",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Easy to use and simple interface.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.075",
+                "at": "2018-11-02 11:30:02",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "e3c3c122-7e54-4aea-a9ff-168c1f7690ab",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "impliment bech32 segwit address format",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.075",
+                "at": "2018-08-05 11:48:02",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "2021d8fe-c683-4f24-a3df-64ff63ab0c2a",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Too bad ui/ux, like from previous century. Please, improve it",
+                "score": 1,
+                "thumbsUpCount": 10,
+                "reviewCreatedVersion": "1.075",
+                "at": "2018-07-24 16:12:13",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "d62a0b5d-df4f-4e91-a4f9-328fc0fbfd6b",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Criat an accuunt",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.075",
+                "at": "2018-07-06 10:36:28",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "686bc853-3c24-4c1f-b754-33055c5a843c",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Quick response from the developer along with a detailed support, nice fee, I'm pretty satisfied with this wallet.",
+                "score": 5,
+                "thumbsUpCount": 15,
+                "reviewCreatedVersion": "1.075",
+                "at": "2018-03-28 11:23:20",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "bc4179bd-22d2-4fbb-a92e-20515fe3c114",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Great, simple, reliable. Hey Mr. Developer, How can we receive bonus Bitcoin Cash fork coins from Bitcoins held in this wallet?",
+                "score": 5,
+                "thumbsUpCount": 17,
+                "reviewCreatedVersion": "1.075",
+                "at": "2018-01-16 21:27:23",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "2b3dd62c-5661-44e2-b68c-f3f48d0bba6d",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "I was looking for replacement for the breadwallet app and using the same wallet words just said that there was no money in there after the 18+ hour it took it took it to sync.",
+                "score": 1,
+                "thumbsUpCount": 6,
+                "reviewCreatedVersion": "1.075",
+                "at": "2017-12-09 21:21:20",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "0b682cb8-04f1-4511-8f55-4b0e0254f5a9",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "App charges too much and takes a day or longer to send. Also lost $60 when it stopped working while trying to send funds",
+                "score": 1,
+                "thumbsUpCount": 9,
+                "reviewCreatedVersion": "1.075",
+                "at": "2017-12-09 00:02:48",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "d97a2e1c-cc25-4472-a2f7-3b8d6f2dc8b0",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "This app arbitrarily took a 20 dollar fee off a 90 dollar transaction. Total ripoff. It didn't say it was that high at the time.  He is the miner so the money goes to him this is a SCAM  .  Scam",
+                "score": 1,
+                "thumbsUpCount": 12,
+                "reviewCreatedVersion": "1.075",
+                "at": "2017-11-21 02:38:44",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "f2517d60-3556-4145-94a8-b9280bca74e3",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Password stopped working and couldnt gain access to the wallet funds were showing,tried to restore from mnemonic phrase multiple times on 2 devices,tried reinstall wallet was still empty after syncing. £300 lost...",
+                "score": 1,
+                "thumbsUpCount": 10,
+                "reviewCreatedVersion": "1.075",
+                "at": "2017-10-23 22:04:10",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "5d49c818-fd22-430b-844d-56b52003a964",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "I needed to reinstall the app and now i don't have my bitcoins anymore....please help",
+                "score": 3,
+                "thumbsUpCount": 9,
+                "reviewCreatedVersion": "1.075",
+                "at": "2017-09-06 18:15:20",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "c9d53d5c-d922-4901-8c5b-df0844f870af",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "nice work",
+                "score": 5,
+                "thumbsUpCount": 5,
+                "reviewCreatedVersion": "1.075",
+                "at": "2017-05-26 21:27:37",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "902531f2-cdeb-44f0-ad6b-e4972790df51",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Hardened encrypted wallet for advance users.",
+                "score": 5,
+                "thumbsUpCount": 12,
+                "reviewCreatedVersion": "1.075",
+                "at": "2017-04-22 07:16:25",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "btcontract-_-wallet.json",
+        "published_at": "2016-07-22T21:43:05Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "98791c2f-f623-40f0-96a9-ba277a4a6b6c",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Exemptional",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.073",
+                "at": "2017-01-10 11:56:40",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "05567891-53a6-49ff-8cb4-6730a87791d3",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Hello, I am losing money as the app keeps freezing and not allowing my incoming transactions. Please fix ASAP.",
+                "score": 1,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "1.073",
+                "at": "2016-12-19 03:44:20",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "015c22c4-de1e-45e3-ad9e-0521f2b792fe",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Coins have gone. wallet showing no coins & not connecting to peers / network.",
+                "score": 1,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.073",
+                "at": "2016-12-12 16:08:13",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "73cf0ee5-e14c-476d-88b4-9fd018e1530c",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Hello developer I want you to email me right now as to why I can not transfer my bitcoin to another wallet",
+                "score": 1,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "1.073",
+                "at": "2016-11-30 12:26:35",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "ab0cda60-aef1-4915-abb7-b1e02d8cac52",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Bad design. BIP44 is unsupported.",
+                "score": 2,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.073",
+                "at": "2016-08-24 19:46:19",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "12194b96-6fb1-4e05-b69e-bd651c29c533",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Have a transaction awaiting confirmation for over 2 hours... that's crazy. Hoping eventually it goes through. Easy to use wallet however.",
+                "score": 4,
+                "thumbsUpCount": 15,
+                "reviewCreatedVersion": "1.073",
+                "at": "2016-08-09 23:00:07",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "btcontract-_-wallet.json",
+        "published_at": "2016-05-08T18:11:09Z",
+        "google_play_reviews": []
+    }
+]

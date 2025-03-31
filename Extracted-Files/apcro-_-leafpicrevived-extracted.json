@@ -1,0 +1,206 @@
+[
+    {
+        "filename": "apcro-_-leafpicrevived.json",
+        "published_at": "2020-05-18T13:34:04Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "a769c18c-fa82-4a3f-8d92-8c1383825fc0",
+                "userName": "Super Fbomb",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUsWrdj2JbIhs6ASPN-is5UtTFm9TzkXhIkTH6SdLFDTqg",
+                "content": "Nice app.. great customization..but .. if you use home touch buttons they cover up the bottom bar and you can't move or copy anything...so it's kinda useless... To bad... Was nice",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "v0.8.7",
+                "at": "2022-10-21 01:47:19",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "b4410a4b-5796-449e-8790-cc4c430e4ce0",
+                "userName": "Daniel Glus",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLmLlj3A5_JAFEHtDYC1nuJXwCswi_WPVU0lYDbRbv8=mo",
+                "content": "Crashes when opening images in some folders.",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "v0.8.7",
+                "at": "2022-08-15 19:15:02",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "2a62c680-0ec4-4396-8861-34b03f3d3be3",
+                "userName": "Erwann Mest",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXOf8-cyjrQlU84vbwfoKzVvdaNM-FHkZ6xCS6FqyoiRW0",
+                "content": "Thank you for the \"revived\"! Works really well!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "v0.8.7",
+                "at": "2022-06-19 14:16:54",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "5bcfc919-9b9b-4fd3-9192-8a38eadb6eb5",
+                "userName": "Dalton Tinoco",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWTBsWePaHCEaqpmspLZmYcTM-ATbMrE21cEqf7uWseSl4",
+                "content": "No ads are the best. Loads quick and does what you ask of it.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "v0.8.7",
+                "at": "2022-06-10 14:30:50",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "792ba3ff-aaa9-409a-8791-fed043d8f072",
+                "userName": "Marcel Suter",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUDtoGd5v22wgToqv5QVFyzl97c6XuYpqSVMTyNDiGi8BE",
+                "content": "Nice and simple gallery app",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "v0.8.7",
+                "at": "2022-05-30 21:43:21",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "4c9c2121-7ec8-4988-acb2-8629c7c596e1",
+                "userName": "Apple Watch",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJSrmuQFshyw3Xp4DwhFUNcoP_vsfFgdRqL_zeFrF_4=mo",
+                "content": "Add support for android 11",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "v0.8.7",
+                "at": "2022-05-10 10:54:04",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "18fbac5d-fa99-4157-9df8-45531e0fdc9f",
+                "userName": "Intimate Time",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVKGenKHP0ji_thYeWx-OGLcK1OEDsxuYrw5OWmC-j8OAg",
+                "content": "Good app however there's a bug editing pictures stored on sd... doesn't save.",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "v0.8.7",
+                "at": "2022-02-06 18:50:53",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "4d46424f-60db-438b-94e7-b41a17acc1e5",
+                "userName": "Sam J2",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJ4BDQuDWLEb0CgYYmk6IDLoRoBCNUOvB6ktlkEmos=mo",
+                "content": "Excelente",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "v0.8.7",
+                "at": "2021-05-06 21:05:14",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "00e1e53f-a495-473c-95a2-c2f1ce475a51",
+                "userName": "Wayne Lavarinhas",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUWMde1_F3A1jnYH1yZkB_6byCQcR0AX7O2xEUEuew1u7-Y",
+                "content": "When selecting a folder to open it opens the wrong folder....",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "v0.8.7",
+                "at": "2020-06-04 04:12:25",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "8c96ae4c-216a-49af-80cf-9d514b383633",
+                "userName": "Pruthvi Thakor",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVZr64mUQfAwqDtylbxfpbf4WTZKS0MpmAAPG5_JoZ6VDo",
+                "content": "We can't search image",
+                "score": 2,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "v0.8.7",
+                "at": "2020-05-25 17:31:06",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "apcro-_-leafpicrevived.json",
+        "published_at": "2020-03-22T13:58:55Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "01d0e7ae-36ba-44d0-b7ff-953d49ba68b0",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Better than before, faster than ever, well done! Issue has been resolved and is working fine.",
+                "score": 5,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "v0.8.6",
+                "at": "2020-03-22 15:18:05",
+                "replyContent": "I am currently unable to recreate this issue on any device I have (although I don't have a Xiamo MI9), including download from the Play Store. Can you give more information on the Github Issues page please? https://github.com/apcro/leafpicrevived/issues",
+                "repliedAt": "2020-02-26 11:44:32"
+            }
+        ]
+    },
+    {
+        "filename": "apcro-_-leafpicrevived.json",
+        "published_at": "2020-03-22T13:59:42Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "2e97405a-5dfe-44ed-8001-c0fe3268e9fb",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Needs work! Very fast, but crashes on opening some folders. Doesn't remember last position. Always goes back to top of gallery.... Will try back later to see if any improvement s.",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "v0.8.5",
+                "at": "2020-03-05 05:47:58",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "apcro-_-leafpicrevived.json",
+        "published_at": "2020-03-22T14:01:43Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "84b0b33b-8c59-40d6-940e-6148577a6eeb",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Almost great. Was using the original leafpic on my previous phone. Brilliant. Trying this out but there's a problem for me whereby tapping on the album opens up the wrong folder. Happens very frequently. Tried the original app again, same thing happens. Phone specific issue?",
+                "score": 4,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "v0.8.4",
+                "at": "2020-02-21 15:53:44",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "74083365-6a03-4dbc-a43c-c583892894ef",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Open source , adfree :) simple gallery app , useful for low end devices [[google photos is not very comfortable in that kinda config]] *Hoping to see more features in future*",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "v0.8.4",
+                "at": "2020-01-14 15:47:56",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "97992e31-3253-4b99-8525-a8fe08677168",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Fast pic gallery exactly what I was looking for. Good job 👍",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "v0.8.4",
+                "at": "2020-01-13 23:10:26",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    }
+]

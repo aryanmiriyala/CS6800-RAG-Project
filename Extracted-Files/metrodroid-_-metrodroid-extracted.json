@@ -1,0 +1,167 @@
+[
+    {
+        "filename": "metrodroid-_-metrodroid.json",
+        "published_at": "2019-07-20T02:02:23Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "e043e8e9-d8cf-4630-9175-80ffeec9c15a",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "I saw the latest release from GitHub. Is that the latest stable release or should I stick to the updates here in the Play Store? BTW, yes, it now works with Ez-Link. Also, the bug that used to stop the history from clearing is fixed.",
+                "score": 4,
+                "thumbsUpCount": 7,
+                "reviewCreatedVersion": "2.9.43",
+                "at": "2019-11-19 14:05:44",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "f028ba44-8585-46e9-93b7-849c2ac3da71",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Metrodroid is an excellent NFC smart card reader, with a strong focus on transit cards. Using a supported card with Metrodroid is easy, and it's even possible to view info that's stored right on the card itself. As a fork of Farebot, Metrodroid provides additional supported cards, and even some NFC based cards that are not specifically used for transit. In any case, Metrodroid is a useful NFC reader to view the info stored on many different  transit cards and other NFC based cards.",
+                "score": 5,
+                "thumbsUpCount": 6,
+                "reviewCreatedVersion": "2.9.43",
+                "at": "2019-08-25 05:25:27",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "metrodroid-_-metrodroid.json",
+        "published_at": "2019-05-13T22:40:49Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "metrodroid-_-metrodroid.json",
+        "published_at": "2018-12-23T23:42:20Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "metrodroid-_-metrodroid.json",
+        "published_at": "2018-09-02T04:24:21Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "85e5157d-c25d-4a31-8938-966e7465a1f8",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "does exactly what it says: its shows you the data on your electronic travel card",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.9.35",
+                "at": "2018-12-20 04:01:00",
+                "replyContent": "Thanks for the feedback!",
+                "repliedAt": "2019-06-25 13:06:53"
+            },
+            {
+                "reviewId": "4e17416c-b981-4c2c-84ca-c651a7d7ce35",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "How do i add a key ? I try to click on the plus sign but it says: Unable to find application to perform this action.",
+                "score": 2,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.9.35",
+                "at": "2018-10-13 06:10:37",
+                "replyContent": "Your device has a broken build of Android, and does not implement the file standard picker (android.intent.action.GET_CONTENT), required since Android 1.6! OpenIntents File Manager should be able to provide it.",
+                "repliedAt": "2019-06-25 13:16:03"
+            },
+            {
+                "reviewId": "8f6fe6f9-2332-430c-8a3f-00549a946726",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Cannot scan any ezlink card or flashpay after the recent update",
+                "score": 2,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "2.9.35",
+                "at": "2018-09-16 06:54:50",
+                "replyContent": "Please see the latest release notes: some new Singapore cards do not follow the ISO14B standard correctly, which breaks the Android NFC stack. This is hard to solve, and does not even work in NXP TagInfo!\n\nIn future, if you would like issues addressed in a timely manner, please use our GitHub issue tracker.",
+                "repliedAt": "2019-06-25 13:17:34"
+            }
+        ]
+    },
+    {
+        "filename": "metrodroid-_-metrodroid.json",
+        "published_at": "2018-06-15T07:29:53Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "88776582-5520-46d5-84b4-5473a0a42b46",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Works great for the Clipper card!",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.9.34",
+                "at": "2018-07-03 14:03:51",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "f2583c2a-ca4e-4c94-bd40-a9a2ab1cb373",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "After June update, stopped giving the balance to my Clipper Card. That was \nthe reason for getting this app. Uninstalled.",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.9.34",
+                "at": "2018-07-01 19:21:33",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "metrodroid-_-metrodroid.json",
+        "published_at": "2018-03-03T06:48:40Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "metrodroid-_-metrodroid.json",
+        "published_at": "2018-01-01T00:28:33Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "3bd39cd8-99ea-45a4-829d-fd823ca9d46a",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Perfect to check ez-link balance!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "v2.9.32",
+                "at": "2018-02-09 11:54:01",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "metrodroid-_-metrodroid.json",
+        "published_at": "2017-04-29T10:20:45Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "metrodroid-_-metrodroid.json",
+        "published_at": "2016-12-30T13:06:05Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "metrodroid-_-metrodroid.json",
+        "published_at": "2016-12-01T12:16:47Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "metrodroid-_-metrodroid.json",
+        "published_at": "2016-09-19T11:18:55Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "metrodroid-_-metrodroid.json",
+        "published_at": "2016-03-27T06:45:19Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "metrodroid-_-metrodroid.json",
+        "published_at": "2015-12-14T06:49:07Z",
+        "google_play_reviews": []
+    }
+]

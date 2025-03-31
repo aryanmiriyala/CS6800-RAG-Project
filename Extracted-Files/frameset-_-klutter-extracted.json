@@ -1,0 +1,104 @@
+[
+    {
+        "filename": "frameset-_-klutter.json",
+        "published_at": "2021-10-23T21:50:07Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "8cc5ae0a-3ed8-49f2-a59f-ba6ddc69159e",
+                "userName": "Marco Infante",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWCDCLagC-eGKEIlQH6t2QmunqqVK6MZY-tNh7Hndz-uvoV",
+                "content": "It says failed to add server everytime",
+                "score": 2,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "0.7.0",
+                "at": "2023-10-10 01:13:44",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "87db518c-b1d6-4697-bb34-82ab20f4e259",
+                "userName": "Matt Blaskowski",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjX4iyWHjOVDw3ohMN0-c-qTgsgA-udZybEQGR5YfbtuGvda",
+                "content": "Have been using this app for some time and really enjoyed it! Appears that it is no longer working with the latest Komga update. Are you aware of this?",
+                "score": 3,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "0.7.0",
+                "at": "2023-07-21 06:03:34",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "83096e73-755c-4a9d-bcab-936ff0e405d5",
+                "userName": "Bradley Newman",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjURqjNNjhzt5ZJ0clTAFUinUSDMZOFSftbt6TZyH4KcVoKi",
+                "content": "5 stars if you add OPDS support",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "0.7.0",
+                "at": "2023-07-16 02:24:21",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "d2c94c3e-9d6c-4d98-8c11-db9fd5195679",
+                "userName": "Amandine Verneau",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjV2Bm6B4mKvlf9YvBAUm18jgzwxNMIKr23awpEkszrrSoQv",
+                "content": "Thanks for this app! However, I have to say that the reader could be better, because it is difficult to read with it at the moment",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "0.7.0",
+                "at": "2023-04-10 18:47:46",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "26486e56-390e-49c8-9ab3-364b7688a081",
+                "userName": "Duane Readings",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUs7jBo8tuBmkaD0PoEvFGQCCrSW7k1wI8z0KmvdSWfQ4QI",
+                "content": "Does the job that I need it to do and setup was very easy",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "0.7.0",
+                "at": "2022-10-11 16:39:59",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "da4095d0-f3d8-4086-b4a9-af075c7c227c",
+                "userName": "Thomas Moyer",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocL842KXZ1aHMP1xCHO1eLydXiyuvteSYFAk7c4fMSCb=mo",
+                "content": "this is a very good looking app for reading from a komga server. I wish it had download support though",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "0.7.0",
+                "at": "2022-08-26 01:15:11",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "5b20e1fa-632e-4a2b-be1e-36672de3b3fa",
+                "userName": "Estell Elessar",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXhz1Jxf8KXeM82h7WW3MpfW3D9PRlnwY8BmJswAxicCkA",
+                "content": "Great App for KOMGA users, works perfectly and is visually perfect. Great work guys, it's hugely appreciated! Two minor change requests from me would be an option to download a comic for offline viewing and the ability to edit existing connections rather than having to create a new one should your IP change or similar. 5 Stars from me - Keep up the great work!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "0.7.0",
+                "at": "2022-06-28 00:05:48",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "1447dec2-70cb-4749-bd2e-4d213d89c52c",
+                "userName": "Ky",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXtMqmRCe443eCBu4xvbZU7CqHvq5lisElRTiuaL4uYKVgv",
+                "content": "Love the app. Works on my server great. Just wondering though, If it's possible to get this app to NOT dim my screen, like other reading applications do (Kindle reader etc). Having to tap my screen to keep it from dimming is kind of a pain. But, that doesn't mean I'm not grateful for the work. Thank you so much :)",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "0.7.0",
+                "at": "2022-04-12 05:44:11",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    }
+]

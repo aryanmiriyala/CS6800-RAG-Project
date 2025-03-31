@@ -1,0 +1,92 @@
+[
+    {
+        "filename": "aerotoad-_-Thud.json",
+        "published_at": "2022-05-23T20:37:11Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "28c3b01b-7e28-4739-8dea-b559473019ef",
+                "userName": "Ricky Villa",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKbd6-_yxN0mXfyweBrVPYWx1vmbWnmNoW6ahwUnfAN=mo",
+                "content": "[2022nov21] +The word articles are easy to read +It's easy to add feeds +Adjustable fonts, backgrounds --It default opens to Chrome instead of my device's main browser, Brave --There is lag when interactiing with the buttons --Some articles don't show the pictures and don't show the entire article ### Hope that this can be made better in the future.",
+                "score": 2,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.1.0",
+                "at": "2022-11-21 13:24:19",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "749a4de0-511e-4967-940c-26aa00d13825",
+                "userName": "Siddharth Karia",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWwc-UHZ80awhRsHv2PTdSw0jREbiRxonKa9fXioUfj2OXw",
+                "content": "Not very user friendly. Needs a lot of work.",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.1.0",
+                "at": "2022-10-10 22:09:24",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "1c189c20-ca15-40f1-8bba-49550536c61d",
+                "userName": "Artex Jay",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXdkpxZbAJtODxXfMEeYM-qvyDZ9JNZbgo_bZZDmRB4mpw",
+                "content": "Lacks offline caching plus it doesn't fetch the full article just the summary and link. Cannot read articles when offline and is missing a tagging system for saved articles.",
+                "score": 2,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.1.0",
+                "at": "2022-09-11 07:46:44",
+                "replyContent": "Thank you for your review!\nThud is a free and open source app and you can request features or collaborate with the existing ones on the official github repository you can find here:\n\nhttps://github.com/aerotoad/Thud",
+                "repliedAt": "2022-07-21 10:14:37"
+            },
+            {
+                "reviewId": "d37affba-eb1c-41e2-a3c9-3755899c32f0",
+                "userName": "liu yeojon",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIT63CKrFZPQEYwRpuLyglvKJsM-71kPU-zRmLkH2h-=mo",
+                "content": "It's great! I search many other apps but no one is suitable. Thanks !",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.1.0",
+                "at": "2022-06-20 11:03:04",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "0b4fb2db-133b-46d2-aac7-0a5d73b9f92d",
+                "userName": "Tasaddaq Hussain",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWePJxMJ9GDBklU_2c6kg058Ck0Q34s40g2fdA1lxQcnLs",
+                "content": "Interface needs improvement. Very janky. Needs to be Smooth. Please add Google Sans font.",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.1.0",
+                "at": "2022-06-06 14:08:32",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "9ffd3fda-5567-49cc-8f32-7f037df38cdc",
+                "userName": "Shamil Sherhan",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjW-s9_4FihlfevG1E9mQDEp9aPS_28TY1UxULB0WjeGCibr",
+                "content": "Nice app. How can we add custom rss feeds?",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.1.0",
+                "at": "2022-06-05 11:12:06",
+                "replyContent": "Hello! Thud is a free and open source app that uses the Feedly public API to retrieve the feed data. This API has a rate limit and during development it was decided to limit the collection size to avoid reaching said limit during loads or present the user with a loading screen for too long.",
+                "repliedAt": "2022-06-05 10:29:15"
+            },
+            {
+                "reviewId": "94bf49bd-68ff-4bb9-a404-a87aa1679ef5",
+                "userName": "Mohammad Irfan Kamal",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjX4nBxM4xGWem9Ximw_iOsPaW55xswUAIr8x1AfvN31kqs",
+                "content": "UI is not smooth 😐 it's stuttery and laggy. Please fix the lagging issue, I'll improve the rating. I am using it on A12.",
+                "score": 2,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.1.0",
+                "at": "2022-05-26 21:44:30",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    }
+]

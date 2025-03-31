@@ -1,0 +1,1174 @@
+[
+    {
+        "filename": "darshanparajuli-_-LogcatReader.json",
+        "published_at": "2021-03-09T03:18:05Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "9c03b2ec-9763-4e1e-806b-9b475acfe196",
+                "userName": "John Ryan Deiparine",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJ7Opy5_TKPZSyCX6v6f9ScZoBkrBSBDYNYbPcuClJE=mo",
+                "content": "This app cant detect root",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.7.2",
+                "at": "2023-06-21 04:22:11",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "0c76d946-fc10-44ec-a4e5-49235ae9756f",
+                "userName": "Prashant Yadav",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWVjXb7iw_67tgaXv9QtAXFjwz9Kup7bgR2CNSoMuZu1SY",
+                "content": "On the adb shell execution it says excpetion occurred while executing grant, My Device is Android 14 ,",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.7.2",
+                "at": "2023-06-09 16:19:21",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "5e3b7950-3f98-4ab9-a9ce-f6e6723a05c4",
+                "userName": "Miracle Dera",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXxJu0qmhx4FNKzZJz9wxrl7iV6KZ6NaP_nM1-o3-5p6zI",
+                "content": "Best logreader I've found. Even reads sensor logs...like literally every logs there is to read. And the 'filter-logs' feature is awesome",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.7.2",
+                "at": "2023-05-10 16:11:33",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "38da4c44-bcbb-4f88-9afa-95442a1f5f08",
+                "userName": "Nancy E",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjW-Q7OmSHjawROaHu1X_3wV-shy-p1h1BESCpC3qQBDN3M",
+                "content": "Excellent log reader and has different levels to log. Log from verbose to critical. Great app",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.7.2",
+                "at": "2023-01-05 22:12:56",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "3e610b0a-9ee6-49e1-acaf-75d3976126aa",
+                "userName": "Ad!thya",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWuj6IIpJkkK1njUNrxKCdjx2JX0E5Wb4x2KOOYp7QUa70",
+                "content": "Broken in Android 13",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.7.2",
+                "at": "2022-10-06 10:34:20",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "c9fecfdb-6c52-4621-b84a-7aef3b4bbffc",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Aug 2022 - My goto logcat viewer. Supports multiple AND filters. Can exclude by TAG. Plus lots more features. Hopefully filter OR support will be added. Android 11",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.7.2",
+                "at": "2022-09-08 21:30:04",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "0ba30887-4c81-4add-b512-45875c8fb6eb",
+                "userName": "Mevial Maya",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJbMFtJxAwckWwk3tSLBJO5m-6l1Gn0LhRXyvU9fzoD=mo",
+                "content": "С задачами, для которых создана, справляется. Всё наглядно, фильтры работают, логи часовой давности отображаются, в отличие от матлога, который забывает что было 5 минут назад.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.7.2",
+                "at": "2022-08-23 21:58:05",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "9fbb9b6b-6c04-4346-bdfe-352680a3665c",
+                "userName": "Peter G",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXeEIzodRhAIeitLMkrBuwtdQlpCqzG-VLHwsTQfl043mk",
+                "content": "Requires root or connecting to PC with some tool.",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.7.2",
+                "at": "2022-08-23 10:02:21",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "df7b51c5-8e86-49cd-9706-4b408f9313ce",
+                "userName": "John Smith",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIJ5gJUm4f04Hx8v8LaLzloes0Kfp0ZV_xNqYhl_qD9=mo",
+                "content": "Amazing app for developers.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.7.2",
+                "at": "2022-08-07 11:09:14",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "1cda7a71-22f2-4357-b9ac-c37ef7e8391b",
+                "userName": "Ibwave Mobile",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKRg3XZAunv8iP1LuVPosrlbPI29ANN9ScuSggMQ5P2=mo",
+                "content": "Good one",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.7.2",
+                "at": "2022-06-02 17:51:53",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "e28f31f4-f612-4a1a-9c1c-4f4b2b727139",
+                "userName": "Ben Straton",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjX61IeWOquYR9HHmPqnHy61hul2f1Po5lHROmrudF6UwFc",
+                "content": "Makes accessing and saving logs easy",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.7.2",
+                "at": "2022-05-17 02:02:20",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "72e5871a-4e0b-4ed4-b339-ef0c6c793596",
+                "userName": "Rustam Abdullaev",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocL5Nei4iyVlFxbV2XLjfK6Q4qb6nEMYJJytn_SRCV8B6g=mo",
+                "content": "It works.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.7.2",
+                "at": "2022-03-18 10:21:56",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "0a94acd1-14d8-4e8a-b034-754e3b387306",
+                "userName": "Johan Vld",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKpMhJuvMkCBA0FqrqEyQLjytOl23E4kr3iKXJarZkb=mo",
+                "content": "Nice looking and working app. Unfortunately filters are not working as expected. e.g. when I want to filter error and fatal log levels, no log shows anymore.",
+                "score": 3,
+                "thumbsUpCount": 9,
+                "reviewCreatedVersion": "1.7.2",
+                "at": "2022-01-13 15:47:09",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "6e3f5b25-695c-441d-b1fa-02b530dc54ce",
+                "userName": "Ubaid",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXoT6qlGs5GMkisF92uiacjQeGdLY-aCS-GwonfXb1_ZKah",
+                "content": "unexpectedly stopped showing logs just blank space there, uninstalled and reinstalled doesn't fix",
+                "score": 2,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.7.2",
+                "at": "2022-01-02 14:13:55",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "0335ba03-fe18-47dc-9ff0-15b2d999de41",
+                "userName": "Desperate Loner",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjU7CvW9dMOpIFDq3hUeONWLUJrwTYJOF_ztkUdzBilCTDs",
+                "content": "Great app, thanks!!",
+                "score": 5,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "1.7.2",
+                "at": "2021-12-26 17:58:59",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "1305ebe3-2fdd-46f3-b9cf-7f8bc572e3fd",
+                "userName": "coffee",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWWvjpll-hpqxN2RddI-rAcUU83lOytt_7G_la1eYPnPbM",
+                "content": "Been using for years. Clean, no ads, allows root or adb access, easy save and filter functions",
+                "score": 5,
+                "thumbsUpCount": 6,
+                "reviewCreatedVersion": "1.7.2",
+                "at": "2021-12-24 18:39:01",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "a1e10bbb-f1ac-48f3-8c77-9c8205ff6ff1",
+                "userName": "Darin Shaver",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXoTShd1Y9QX6KZY8FSM1_u2FsfN1ch3I99K2TndAPgc1M",
+                "content": "You need to connect it to a computer. Not everyone has a computer.",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.7.2",
+                "at": "2021-12-19 16:51:00",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "b39cc0e5-6ede-45bc-8e71-4494ace9efbc",
+                "userName": "Steven Hughes",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWrut1PbvNUlVui1WysrvYQ6Wep8cWZILP9pWZOWyr4oQs",
+                "content": "Would like to see ability to read logcat from file. (Eg. Silentlog that outputs to file natively)",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.7.2",
+                "at": "2021-11-12 20:44:58",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "0f4f62b0-e0d3-4b83-a56e-af6d37334f86",
+                "userName": "Matt C.",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIDHkgkHk6eE6CO21nLHJDbVLjRXalFTplcfPZ0gKVN=mo",
+                "content": "How to you close it!",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.7.2",
+                "at": "2021-09-04 20:49:55",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "cba7a3a4-a5d7-4c40-b7cf-b2b24813f0ee",
+                "userName": "Lukas V008",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLxjmXNmpLarEUcXiF_PkUBO9f-4v6SGVG3aCistllk=mo",
+                "content": "Great app. In latest version I can change the name of saved logs.",
+                "score": 5,
+                "thumbsUpCount": 5,
+                "reviewCreatedVersion": "1.7.2",
+                "at": "2021-08-27 06:15:45",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "2dfec76e-df6a-48f4-b968-fd955466d22c",
+                "userName": "Mark Lorenzo",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWTcFvpkFz77FSGeNq7G3-5haRIFxhsIgjTpHytV2LAZcI",
+                "content": "Logs doesnt show",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.7.2",
+                "at": "2021-07-23 01:29:26",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "4df2ce1e-f649-443b-83c9-1a0b4bb9e412",
+                "userName": "James Black",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjX_CJCdsiKDqOE1qg5R_KySlyCVt1rLI3R1dX26zOcNQo-k",
+                "content": "I can't filter log levels. When i try to do it using filter it doesn't log. Really bad.",
+                "score": 1,
+                "thumbsUpCount": 6,
+                "reviewCreatedVersion": "1.7.2",
+                "at": "2021-06-23 14:23:32",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "e4101f60-8c66-4187-a318-70bb214b7e2d",
+                "userName": "Alex Doub",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXc8Yb1GRz5E7O3Gd9FApM_ufdK59Q5F5ALfM70l1nhPPAt",
+                "content": "Filter does not work. That makes this app basically useless because you just see garbage logs",
+                "score": 1,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.7.2",
+                "at": "2021-05-11 23:43:08",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "93d8c414-1ab4-4436-9096-7ccffc5d36c1",
+                "userName": "Євген Волощук",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWS3Nkb65W9-EFlOAGoyj149rTGoRdOyZWXlEtoneiiMQ",
+                "content": "Amazing 🤤",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.7.2",
+                "at": "2021-04-06 20:00:09",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "473f5264-80b9-4b2b-b075-0f3e61acf6d0",
+                "userName": "Rafael Silva",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJB2IUWEom8mYT9aFCtZRLjAeARM2dgCq5D6eijJ9IN=mo",
+                "content": "On a galaxy s20 and it doesn't even start, the app flashes and crashes...",
+                "score": 1,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.7.2",
+                "at": "2021-04-06 02:55:27",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "eed83ca6-e739-4fd8-97a7-de092b8596cc",
+                "userName": "Cyberstorm",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVaHHxqa6kfsJQICjp0Nkap7b9ilOhJ8Yrjdnp1sGZxstKU",
+                "content": "Attempts to filter by more than one log level type, results in no log content to see at all.",
+                "score": 1,
+                "thumbsUpCount": 14,
+                "reviewCreatedVersion": "1.7.2",
+                "at": "2021-03-22 21:17:18",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "f3766b54-f210-48e0-aa15-ee0c1b52eb71",
+                "userName": "Peter Njeim",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUROGVIzOMI6D0uanfFEuqTkI1Ym1mui3S2H9OX5pR1skY",
+                "content": "App works wonderfully. Android 11 is no longer crashing as of March 8th, 2021.",
+                "score": 5,
+                "thumbsUpCount": 14,
+                "reviewCreatedVersion": "1.7.2",
+                "at": "2021-03-09 06:22:26",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "darshanparajuli-_-LogcatReader.json",
+        "published_at": "2019-03-08T02:26:31Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "b6ad22f0-fb82-466a-b57c-c15b716e6bcc",
+                "userName": "Dabunny Rabbit",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUbclLPrgBovKzSPA6UYtLRg8hpCahWzi7hj7hiCgH75lc",
+                "content": "3 stars because I don't know how to make heads or tails out of this. what exactly is it showing me???",
+                "score": 3,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.7.1",
+                "at": "2021-01-22 16:20:38",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "77b762b4-e68a-46d0-8c17-fe93198fd596",
+                "userName": "Guido Bordonaro",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWNgi7EkpKeOzO80ryIjqGw13ENdzdaz8sGdEplBS6P1jw",
+                "content": "Clean interface for what I needed!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.7.1",
+                "at": "2021-01-22 09:13:25",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "6368f372-c445-4c87-b747-3fab0b1ee5f8",
+                "userName": "Andrew Kidd",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLY68Ex9-lJrWB7wiZ_-eA9MaCvhDsrVxU_1QVkTqBun4I=mo",
+                "content": "Without this app I would never be able to quickly diagnose and debug issues to the same level. Fantastic software - great job.",
+                "score": 5,
+                "thumbsUpCount": 8,
+                "reviewCreatedVersion": "1.7.1",
+                "at": "2021-01-15 16:28:22",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "6a4cde48-dc6c-4333-806f-7b5d7eaa5909",
+                "userName": "Voxel Buster",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWo9AGsaq-VUG6_8K_19aMMMr74RV7_C14_lR2T_56pvg",
+                "content": "Simple and intuitive. Ads are not intrusive.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.7.1",
+                "at": "2020-12-18 04:10:34",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "397b8b3c-07e4-49f3-9e04-2121cd70b463",
+                "userName": "HandsUp",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVlIOOV8rNzJvkJV4ycvH4k9Fux2EXyxh7jwdRiHoL187Q",
+                "content": "Was good app no ç$, nı longer working on Android 11.",
+                "score": 3,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.7.1",
+                "at": "2020-10-30 03:30:21",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "e15b700c-c086-408a-b2d9-fd05f2ecf1bf",
+                "userName": "D4rK",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWVtrdiuI661h430KA1gmQoIJ9Yue98M4pC1WkpvX9-2CU",
+                "content": "Good app! Working very good but you can add adaptive icon and adaptive theme + transparent navigation bar to make experience better!",
+                "score": 4,
+                "thumbsUpCount": 14,
+                "reviewCreatedVersion": "1.7.1",
+                "at": "2020-10-29 07:02:26",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "9024417d-d40d-4c1b-8116-41f8e7ddeb3f",
+                "userName": "Gabriel Ionita",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJTM7KDLKAI-uxxiOKnVKn-hdHwd80NCCO1WDjXkyEJmQ=mo",
+                "content": "The best for whatbit does!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.7.1",
+                "at": "2020-10-26 23:07:42",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "10d17e0e-010a-44ee-83e1-d3b45f39819c",
+                "userName": "Micael Junkov",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVOG_0symdscAXyH3S4HvV2r2-urCgODAk1PJJscXeCbPqV",
+                "content": "Wonderful and thank you! Works on Sammy Galaxy S7 with Android 8.0 and Experience 9.0",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.7.1",
+                "at": "2020-10-08 16:27:16",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "fbaed616-c0f9-4ef5-b4e8-0f36ca954372",
+                "userName": "William Roberts",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJkWqHipnyjQixAGG1NP521Z5VwZczkpop8kuEwSBrX=mo",
+                "content": "Excellent when it works, but is broken on Android 11",
+                "score": 3,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.7.1",
+                "at": "2020-09-29 17:06:32",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "a030abda-0018-45b7-955e-30d42417710b",
+                "userName": "Johann Kirby Datoy",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVZzQJPbIPPkn9joCIEo_cwpKJ56RQmQulXYk0vz94vIJP1",
+                "content": "Great app but I was able to grant permission with \"adb -d shell\" I was hoping if possible to save logs incase the phone reboots unexpectedly.",
+                "score": 5,
+                "thumbsUpCount": 5,
+                "reviewCreatedVersion": "1.7.1",
+                "at": "2020-09-13 10:17:53",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "de1b8fb3-ac6a-4b24-92f8-3be47f5dc1c1",
+                "userName": "Abhishek M",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjW9Ej_ExY44yuHwqDLH-aKytxTPKWYBvRDPaN6ckWrMGh8",
+                "content": "Very good app.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.7.1",
+                "at": "2020-08-31 07:54:10",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "8013fc67-137c-479a-90f6-2d7c3666dc55",
+                "userName": "Martin Frost",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVFW4IW9gpOtb0TfIht0jhOMcoMq2-ZcOabNSyUgz_Bbg",
+                "content": "Yep. One of the better ones. Exactly what I needed, thanks.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.7.1",
+                "at": "2020-07-25 06:35:58",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "c2ee3394-bff4-4781-b5a8-2ca6237605a6",
+                "userName": "sally ng",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIuvTM2m7IprpqTQaUV4-ZuJ_VGo7PnEHet5h07_97fcA=mo",
+                "content": "The app is good. But not able to view full log message if the message is too long. Anyway i can view full log mesaage?",
+                "score": 3,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "1.7.1",
+                "at": "2020-07-21 05:42:25",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "737a46a3-d1af-450b-9c17-7f0a5a9d5248",
+                "userName": "Andrei Telteu",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVmJ2PnG76YKHhk4bBFmt5wZb9IFDQyxazGaZQss2vA5txC",
+                "content": "Great for debugging Cordova or React Native apps.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.7.1",
+                "at": "2020-07-17 18:27:09",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "b55d40d2-79e0-4a57-a673-fdff4333aa2f",
+                "userName": "Corentin c",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKKDGHDZnQflKIHg14RwA1RUeaEOeTmIEkCVVjH7Qkq=mo",
+                "content": "App only worked after it crashed, probably because it restarted completely then. Anyway very useful",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.7.1",
+                "at": "2020-07-07 08:10:29",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "920e7dc7-ae70-4555-a393-7295253d2668",
+                "userName": "Shreyas Halpati (Shrey)",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUjnYbrwIobHkjEAQjDgL5yMTNr5DhcXKLkMBKZ9tOvprc",
+                "content": "Says Logcat Reader isn't responding.",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.7.1",
+                "at": "2020-07-05 05:40:00",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "77df7982-6b0c-4902-8775-9ef07b95871c",
+                "userName": "Sadhu Mahendra",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVOWSW3N06hTMMJhqcL5pztgTO8NAA3e6Yq5YAaZ3MkK08",
+                "content": "Good",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.7.1",
+                "at": "2020-06-20 10:13:44",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "b0335b62-f8c4-4d26-a67f-b2ae3eeff826",
+                "userName": "Bruno Antônio Rocha",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXDS8M-CCGax0ofFubYrovpUOCdhZ1a6hri_viT-hG7WOVB",
+                "content": "Very good",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.7.1",
+                "at": "2020-06-01 01:43:05",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "2dd7a5e9-a458-4cda-a1a2-fc80e4b43811",
+                "userName": "Yury Gotgelf",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocL2BPESxdP8tw3EI8PI4WAIBY94XBZkZLeJnVuEHS43=mo",
+                "content": "Very useful and convenient program. I am missing only one little thing: START_RECORDING_EXTRA in order to start the recording automatically at application launch. Would you kindly add? Thanks.",
+                "score": 4,
+                "thumbsUpCount": 13,
+                "reviewCreatedVersion": "1.7.1",
+                "at": "2020-05-18 16:10:48",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "9e1fd0fb-d1bf-4e45-b72d-9d705a815c87",
+                "userName": "Jj A",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocImag9joJ-IRbSyaUeOFfo5UY6ahMjnFJoIUWnz2vUx=mo",
+                "content": "Works fine but no FAQ or help file.",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.7.1",
+                "at": "2020-05-09 03:20:02",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "056047fd-55b0-4bec-8279-19bf78ad07a0",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Like, nya. But logs.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.7.1",
+                "at": "2020-04-15 11:23:04",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "438a2895-3247-464f-bb57-f3b88565e635",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Nice app",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.7.1",
+                "at": "2020-03-20 20:05:42",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "dfcdf10f-7dd1-4a44-9519-9fea20b46066",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Unfortunately the app cannot filter a period by time. This is crucial for me, since I'm debugging crashes, and I don't know what causes them but I do know when they happened. I have to scroll through thousands of logs before I get to the time which was a minute ago.",
+                "score": 3,
+                "thumbsUpCount": 41,
+                "reviewCreatedVersion": "1.7.1",
+                "at": "2020-01-26 08:53:50",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "595de433-87a2-4a73-b538-7622531482a0",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "I like it actually. But I'll only give it 4 stars because it's hassle to manually input the package names of any app that I want to work with. Please make it less hassle in the next update. Been using this app for a long time now.",
+                "score": 4,
+                "thumbsUpCount": 10,
+                "reviewCreatedVersion": "1.7.1",
+                "at": "2020-01-17 10:12:02",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "1f66c2f9-48de-4bf0-89c5-7ec172246fc1",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Granted the permission but still not capturing app crash event. Also, adb command should be accessible through settings to make it easy to figure out once the window displaying it is closed. Update: got it to work after completely closing and reopening the app (restarting didn't work). Shouldn't have to do that, or should at least tell you to do it if needed. Also, should be able to search then copy all entries or save them to a separate file, to make it easier to get just the ones you need.",
+                "score": 3,
+                "thumbsUpCount": 41,
+                "reviewCreatedVersion": "1.7.1",
+                "at": "2020-01-05 09:21:21",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "43143c7c-8a92-45cd-9fe7-a53db72b7712",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Best",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.7.1",
+                "at": "2019-11-08 14:40:09",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "2ecc7031-e05c-4429-96a1-8599686be36a",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Cool",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.7.1",
+                "at": "2019-10-30 01:10:35",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "447772c1-f6f9-4e8f-949b-ef0f79078f64",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Better than any other I've seen.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.7.1",
+                "at": "2019-10-23 19:03:49",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "686fc629-0091-4530-9ec0-565e935a7192",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "A little tricky enabling through adb shell however works without root access. Nice.",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.7.1",
+                "at": "2019-10-20 21:51:29",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "061ce7ed-c583-431f-9b33-1a7fcd6a9eae",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Fantastic. Lovely upgrades.",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.7.1",
+                "at": "2019-10-10 23:11:26",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "caff00c8-9faf-4f01-bf75-b179fb00112e",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "No longer works",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.7.1",
+                "at": "2019-09-26 15:59:18",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "6482563e-ada2-4867-a875-fd279049e0e4",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Fantastic log reader app Can filter by tag, PID, or other factors Clear UI with no ads or confusion",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.7.1",
+                "at": "2019-09-05 08:34:14",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "90a6b672-4356-4d3e-a123-a5dc42c383f2",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "So bad filtering",
+                "score": 1,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.7.1",
+                "at": "2019-08-30 12:21:49",
+                "replyContent": "Sorry you had a bad experience. Could you please suggest how it could be improved? Thank you!",
+                "repliedAt": "2019-09-18 05:30:35"
+            },
+            {
+                "reviewId": "284bb484-2fdb-4e08-98a9-7b9e806123e6",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "The first logcat reader I've found in years that works as it should! Thanks, Darshan.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.7.1",
+                "at": "2019-08-28 02:16:49",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "69158e23-1474-4843-ad2d-96a22cbefc6b",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "I by-mistakely deleted a key-module in my device.. And landed with many problems on my device.With the perfect filters and beautiful ui of this app.. i was able to identify that which module exactly it was. Then i downloaded it from web.. and everything got fixed.. Loved it♡♡♡♡",
+                "score": 5,
+                "thumbsUpCount": 18,
+                "reviewCreatedVersion": "1.7.1",
+                "at": "2019-08-19 05:43:02",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "f329a2bb-a442-4c6a-9850-fa3bbfb08fd3",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "The best I've used so far... and I appreciate the theming options 👍",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.7.1",
+                "at": "2019-08-18 19:18:37",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "f70470a5-48b4-46ad-852a-e625af3582ea",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "not work",
+                "score": 2,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.7.1",
+                "at": "2019-07-01 13:40:50",
+                "replyContent": "Could you please explain what exactly isn't working (more details, the better)? Thank you!",
+                "repliedAt": "2019-09-18 05:34:38"
+            },
+            {
+                "reviewId": "3a8f1231-8ac5-493a-9b17-4a8a792909b2",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Good design. It handles scrolling action in a very bright way. Feature request: pinch to zoom & item collapsing. Thank you!",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.7.1",
+                "at": "2019-05-05 16:11:01",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "94444b1c-85c8-413a-8936-d04072ddd986",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Definitely one of the best logcat apps on Android, it doesn't require root, instead, you grant access with an ADB shell command. Decent UI, good filtering features, dark theme, it has everything I expected.",
+                "score": 5,
+                "thumbsUpCount": 15,
+                "reviewCreatedVersion": "1.7.1",
+                "at": "2019-05-02 09:19:51",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "050aa398-8b31-4e0e-8e03-30ec9b3c4a2f",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "simple to use",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.7.1",
+                "at": "2019-04-27 16:41:17",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "ea7f30d6-258b-4070-833d-1d4169fae2b4",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Great application for your phone and it's really easy to use and I am able to find what I am looking for quickly highly recommend this application it's the best I've found and I've had several wish I'd found this application sooner it's brilliant thanks for making such a easy to use and amazing application",
+                "score": 5,
+                "thumbsUpCount": 7,
+                "reviewCreatedVersion": "1.7.1",
+                "at": "2019-04-23 03:13:02",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "99401b77-ac6f-43b5-987c-09db42fc9990",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Anyone rating this less than 5 stars needs to simply uninstall the application, put your phone in a plastic bag, grab a hammer and smash it because you don't deserve it.",
+                "score": 5,
+                "thumbsUpCount": 8,
+                "reviewCreatedVersion": "1.7.1",
+                "at": "2019-04-03 02:11:55",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "29838681-92e4-43a6-ab19-160006fbb194",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Works without root but had to restart twice. UI could be more usable. e.g. long clicking an event automatically adds its PID/TID/log lebel into filters or possibility to disable to filter to avoid the need to recreate them.",
+                "score": 3,
+                "thumbsUpCount": 5,
+                "reviewCreatedVersion": "1.7.1",
+                "at": "2019-03-24 18:21:21",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "darshanparajuli-_-LogcatReader.json",
+        "published_at": "2019-03-05T05:17:21Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "darshanparajuli-_-LogcatReader.json",
+        "published_at": "2019-01-12T19:11:12Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "99152c89-c566-47cc-acc2-fa636a8060d6",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Most log apps request permission through root. This makes you use an ADB command.",
+                "score": 1,
+                "thumbsUpCount": 6,
+                "reviewCreatedVersion": "1.6.1",
+                "at": "2019-03-04 05:59:05",
+                "replyContent": "Please try the latest update and let me know if it doesn't work. Thanks!",
+                "repliedAt": "2019-03-07 01:55:44"
+            },
+            {
+                "reviewId": "a3aa8853-c93d-46fb-afd6-de0a262d86fb",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Perfect tool for what i need! Thanks!",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.6.1",
+                "at": "2019-02-20 19:08:16",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "e796414b-44a6-45ad-947b-fd7d57cb0965",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Works well, kudos for being open sourced!",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.6.1",
+                "at": "2019-01-23 08:40:48",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "00fd7fac-2d5d-48df-9e9e-d0f21ffb5bec",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Works great. Just note, the command you need to write is all one line. obvious when you think about it but i brain farted. Helps me figure out programs that are installed and doing rogue things like auto adjusting my volume everytime i unlock my phone! (webex). this tool isnt just for developers!",
+                "score": 5,
+                "thumbsUpCount": 17,
+                "reviewCreatedVersion": "1.6.1",
+                "at": "2019-01-18 15:34:55",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "darshanparajuli-_-LogcatReader.json",
+        "published_at": "2018-10-30T05:20:23Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "96a89d3d-de86-4123-9946-d99f98f8db75",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Loved it.",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.6.0",
+                "at": "2018-12-15 12:18:22",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "d1075257-5951-4337-a86e-6123730eadc1",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Love it",
+                "score": 5,
+                "thumbsUpCount": 5,
+                "reviewCreatedVersion": "1.6.0",
+                "at": "2018-11-15 16:24:44",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "darshanparajuli-_-LogcatReader.json",
+        "published_at": "2018-10-09T06:32:03Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "166223f7-cbd9-438a-955f-8c930d9945d2",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Not Working. The app needs Root Access. Without Root it don't Work.",
+                "score": 1,
+                "thumbsUpCount": 11,
+                "reviewCreatedVersion": "1.5.6",
+                "at": "2018-10-22 02:01:29",
+                "replyContent": "On the latest update, please follow the given instructions carefully to grant the required permission. Please let me know if you run into any issues. Thank you!",
+                "repliedAt": "2018-10-31 17:34:10"
+            },
+            {
+                "reviewId": "f1c9cad6-c23a-4701-a94e-7ac4bf3ef22b",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Nice looking, easy to use, and functional. My new favorite logcat app!",
+                "score": 5,
+                "thumbsUpCount": 9,
+                "reviewCreatedVersion": "1.5.6",
+                "at": "2018-10-14 08:34:55",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "cb508eb8-9295-4afc-840b-82077f56817f",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Doesn't work, it shows only it's own logs.",
+                "score": 2,
+                "thumbsUpCount": 10,
+                "reviewCreatedVersion": "1.5.6",
+                "at": "2018-10-10 10:12:42",
+                "replyContent": "Did you follow the instructions for giving the app the required permission? Thanks!",
+                "repliedAt": "2018-10-10 20:18:07"
+            }
+        ]
+    },
+    {
+        "filename": "darshanparajuli-_-LogcatReader.json",
+        "published_at": "2018-10-06T23:33:48Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "0b089345-7115-4204-86f5-40267efd04c9",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "I got exactly what I wanted. Perfect tool.",
+                "score": 5,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "1.5.5",
+                "at": "2018-10-08 14:21:01",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "darshanparajuli-_-LogcatReader.json",
+        "published_at": "2018-09-16T07:08:16Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "2fb641d0-a7de-4459-8f89-6f5795c2aa43",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Loved it",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.5.4",
+                "at": "2018-09-23 16:15:33",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "darshanparajuli-_-LogcatReader.json",
+        "published_at": "2018-08-19T19:45:48Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "18b05443-209d-4bdc-8af9-a3e515e80396",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Amazing.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.5.3",
+                "at": "2018-09-08 17:12:17",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "darshanparajuli-_-LogcatReader.json",
+        "published_at": "2018-08-18T18:27:44Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "darshanparajuli-_-LogcatReader.json",
+        "published_at": "2018-08-05T20:28:29Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "darshanparajuli-_-LogcatReader.json",
+        "published_at": "2018-05-09T03:56:14Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "c6fed77b-d5a6-4a6d-8df7-05695f47f608",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Best logcat ever!!!",
+                "score": 5,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "1.3.0",
+                "at": "2018-08-03 23:56:15",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "6e3dbf5f-6cde-4c11-8036-5832b294d4e9",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Tried many logcat apps. Don't have to look further. This one has all I \nneed. Clean design, awesome filter possibilities, easy saving to txt. Only \nthing I could wish for more was autosave functionality when set max. lines \nis reached + auto record clean log.",
+                "score": 5,
+                "thumbsUpCount": 8,
+                "reviewCreatedVersion": "1.3.0",
+                "at": "2018-05-21 08:16:26",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "darshanparajuli-_-LogcatReader.json",
+        "published_at": "2018-04-14T21:56:30Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "014b967f-821a-4599-8569-fa2999b92594",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Works like a charm!",
+                "score": 5,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "1.2.2",
+                "at": "2018-05-23 05:10:27",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "bcfcf514-1259-48cd-b7e2-0397d15ef953",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "I use it quite often so I can read logcats in realtime. It is very \nconvenient.",
+                "score": 5,
+                "thumbsUpCount": 12,
+                "reviewCreatedVersion": "1.2.2",
+                "at": "2018-04-28 03:43:21",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "a7a99b34-a536-414c-af83-11e12c257999",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "On the fly search to filter log is great. Can filter which logs and what \nlevel you'd like to see",
+                "score": 5,
+                "thumbsUpCount": 9,
+                "reviewCreatedVersion": "1.2.2",
+                "at": "2018-04-17 01:47:35",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "darshanparajuli-_-LogcatReader.json",
+        "published_at": "2018-04-08T21:21:07Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "5dfa9cf5-3595-4d3d-a8ed-c5271ea540ba",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "this is what i looking for!",
+                "score": 5,
+                "thumbsUpCount": 5,
+                "reviewCreatedVersion": "1.2.0",
+                "at": "2018-03-27 12:02:51",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "122cc788-3a7a-449e-9b15-59278ec51cf4",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Simple logging. happy days!",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.2.0",
+                "at": "2018-03-14 19:44:10",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "darshanparajuli-_-LogcatReader.json",
+        "published_at": "2018-04-08T21:19:51Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "d5cd31bc-505e-4b3f-9b8a-183a75cb5a83",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "★★★★☆ (thumbs up based on first impression only; I expect that it will earn a 5th star once I learn to make use of it ;-)",
+                "score": 4,
+                "thumbsUpCount": 9,
+                "reviewCreatedVersion": "1.1.1",
+                "at": "2018-02-21 10:00:40",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "darshanparajuli-_-LogcatReader.json",
+        "published_at": "2018-04-08T21:17:38Z",
+        "google_play_reviews": []
+    }
+]

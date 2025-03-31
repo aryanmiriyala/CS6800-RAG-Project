@@ -1,0 +1,37 @@
+[
+    {
+        "filename": "FreeSK8-_-freesk8_mobile.json",
+        "published_at": "2022-03-29T03:46:37Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "90957f1e-cfa5-4973-84ea-ef8d24d778b0",
+                "userName": "Quinn Foster",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVy9UHkzBMxsYaGg-Tv8M8qucoFSmq3numCCZM7kZIUa_U6",
+                "content": "Wireless works need more less wires",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "0.21.5",
+                "at": "2022-07-19 05:44:41",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "414a4292-c979-4404-9601-976cae45c73c",
+                "userName": "David Brouwers",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJ8dxNoIZI1oQEXt-PPYuHpcpCsKsw96rwQuPdWKoLb=mo",
+                "content": "It works, even on old Android devices. I just wish there was a light theme for the app to make it easier to see outdoors.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "0.21.5",
+                "at": "2022-05-22 05:17:14",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "FreeSK8-_-freesk8_mobile.json",
+        "published_at": "2021-11-15T21:49:26Z",
+        "google_play_reviews": []
+    }
+]

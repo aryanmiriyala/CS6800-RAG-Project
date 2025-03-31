@@ -1,0 +1,62 @@
+[
+    {
+        "filename": "pR0Ps-_-LocationShare.json",
+        "published_at": "2022-03-31T00:09:45Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "feccb2c7-9a35-4e47-aae9-7362852d7842",
+                "userName": "Shuresh Roy",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVuJib8S3f7PKDezVKJRK_KMMW8XGv8ezKEu5JVogRlYpk",
+                "content": "Its good App Thanks you",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.4.2",
+                "at": "2023-02-05 06:37:52",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "pR0Ps-_-LocationShare.json",
+        "published_at": "2021-05-23T19:07:35Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "efd07c1f-6f15-494c-87fe-2afdcfeb0618",
+                "userName": "Lewis K",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIAVjLpL91G3ZjwtujQrxTLJ3mqvy2Y9TVbpONI5RU9=mo",
+                "content": "Always getting my location and unable to share",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.4.1",
+                "at": "2022-02-18 13:03:06",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "d4f672fb-4465-4c7b-903a-c6cad7bd1753",
+                "userName": "User",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWoYuBTIyzQ6vEErndhRj0vXcsDKKLaYD1SnVBCl-3zeg",
+                "content": "Simple and to the point. No ads and opensource. Also allows to share different map sources.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.4.1",
+                "at": "2021-11-16 00:47:21",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "4b48fa4c-6d23-4e76-991a-d9482cc3581a",
+                "userName": "Dona Kim",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXN4ElsZSmPwV0PY9Y7oRVi9FxzhIIoSWHr7E1LlyHZer0",
+                "content": "Finding my location all the time from the beginning. That's all.",
+                "score": 1,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.4.1",
+                "at": "2021-08-30 14:53:26",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    }
+]

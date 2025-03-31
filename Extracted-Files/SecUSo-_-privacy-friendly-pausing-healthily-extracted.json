@@ -1,0 +1,74 @@
+[
+    {
+        "filename": "SecUSo-_-privacy-friendly-pausing-healthily.json",
+        "published_at": "2023-05-28T07:16:27Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "c4dd48d9-ea21-46db-9d4d-1b5d5d1a27c1",
+                "userName": "Steven Hultgren",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXfuvyaYufmKiZIA6QFb2G128VEDgkpX722m0kQ2Py72VKe",
+                "content": "This app crashes every time I start the work timer. And can't you add a custon exercise? It's a shame because it looks almost like what I've been trying to find.",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.4",
+                "at": "2023-10-11 03:55:32",
+                "replyContent": "You can track the progress to your described isses here:\nCustom exercise:\nhttps://github.com/SecUSo/privacy-friendly-pausing-healthily/issues/33\nCrash:\nhttps://github.com/SecUSo/privacy-friendly-pausing-healthily/issues/31\"",
+                "repliedAt": "2023-11-02 15:29:50"
+            }
+        ]
+    },
+    {
+        "filename": "SecUSo-_-privacy-friendly-pausing-healthily.json",
+        "published_at": "2018-09-18T16:01:03Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "ba79341d-4294-4ae9-af56-53cd0fd6dddd",
+                "userName": "Neil Adams",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLxaz5fQyZbD6JPf68Zolc8Yo1KlD5GutovWzAXojqY=mo",
+                "content": "My own experience mirrors that of Kathy (in the comments). Sometimes, the exercises load correctly. At other times, I press the button to start the exercise set, and it glitches to the \"select work duration/break duration\" menu, and I can't find a way to make it work again. I might have to find another app, however I don't want to choose another app as I like the approach and ethics of the app maker (academics).",
+                "score": 3,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.3",
+                "at": "2021-11-05 13:48:08",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "b2cfea3a-780c-4329-9b3a-6c3d64d0c95f",
+                "userName": "lesa Grayson",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVWtL9tgmMr5BXe020SFEmtycQ5D2cPZoIo9-hc_BMWiQ",
+                "content": "It didn't work 😪 😢",
+                "score": 1,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.3",
+                "at": "2021-05-17 23:23:12",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "b8064242-c0ab-48be-9196-37bafc8957fe",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Sometimes this seems to work like it should and I get a good 'break' where it shows me what to do. Other times I just see a countdown and tiny figures in a box. I'd like to be able to get the exercise sets to run full size on demand, when I can take a break from my desk.",
+                "score": 3,
+                "thumbsUpCount": 9,
+                "reviewCreatedVersion": "1.3",
+                "at": "2019-07-01 20:07:15",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "fb0fc913-291d-422d-9755-a3721b3b1e97",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "the best break app. clear, concise exercises and no ads!",
+                "score": 5,
+                "thumbsUpCount": 7,
+                "reviewCreatedVersion": "1.3",
+                "at": "2019-03-26 22:42:43",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    }
+]

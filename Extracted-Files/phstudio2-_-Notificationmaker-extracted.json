@@ -1,0 +1,116 @@
+[
+    {
+        "filename": "phstudio2-_-Notificationmaker.json",
+        "published_at": "2021-10-29T14:05:22Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "4f25825d-fedb-464f-a7cb-4b950d40268c",
+                "userName": "Jay Jay",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJ_eQU1TgBKG-oXycSXf-FSJDiwBE2l7BDGE9YXGE5V=mo",
+                "content": "Good Keep It Up",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.3",
+                "at": "2023-09-28 22:15:34",
+                "replyContent": "Thanks for the review!",
+                "repliedAt": "2023-11-10 10:41:06"
+            },
+            {
+                "reviewId": "5e6a515b-f174-4045-95ef-3e01412d9701",
+                "userName": "George Martin",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIXkGGLF1fXT3nrrW-ewV2rFKC5XE-hQaYIqN2sM7Ah=mo",
+                "content": "With the non detachable option setting chosen this is great to reduce the size of the large default lock screen clock digits on the Android 12 lockscreen. It would be perfect if it had the option to remember the entered text together with the option to autostart when rebooting to remember the settings without having to manually run it again if restarting the device from power down.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.3",
+                "at": "2023-08-11 07:11:36",
+                "replyContent": "Thank you for the nice review! We will try to add in the next update.",
+                "repliedAt": "2023-08-14 09:27:45"
+            },
+            {
+                "reviewId": "ff06a916-b355-43bc-810a-e6c9212ea07e",
+                "userName": "*the-chill-one*",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVcvNMD3-Jfst35NTlDh4L82uF2r4xv8zhbSJFC_Po9bA",
+                "content": "This is an good one but the name gives away the notification so please fix that",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.3",
+                "at": "2023-07-28 04:59:53",
+                "replyContent": "Thank you for your review, unfortunately the system name of the package cannot be changed.",
+                "repliedAt": "2023-08-03 09:32:39"
+            },
+            {
+                "reviewId": "d2e63760-e620-49c0-a131-4ee53065f830",
+                "userName": "Jose Quinteiro",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKPiBoka9FvN4Vy2vfU9zTlx_9zztZZ-c-hHHaxxKeK=mo",
+                "content": "This app is amazing! It gets rid of the stupid two-line clock Google is trying to cram down my throat.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.3",
+                "at": "2023-06-07 23:53:55",
+                "replyContent": "Thank you for the review!",
+                "repliedAt": "2023-06-27 08:12:33"
+            },
+            {
+                "reviewId": "124e45a2-a8e0-4dc0-88f7-b5bf7561fb74",
+                "userName": "Lahiru Suboda",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWbNPCexrMbywj8mNgOuBrE1r3mN7PhUdimNLFi9j7phSY",
+                "content": "its best for i can use my internol storage icons.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.3",
+                "at": "2023-05-29 11:57:34",
+                "replyContent": "Thank you very much for the review!",
+                "repliedAt": "2023-05-29 18:42:49"
+            },
+            {
+                "reviewId": "bd3250de-295e-412f-9247-dbf94730da38",
+                "userName": "Jude Scotti",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLizVrm1MXUSZwHkjFsjULZG5wBwMoAXq_jGOc1y6AM=mo",
+                "content": "Really good! I love it and how customizable the options are, but can you add the option to add custom images as the icons and add the option to have no big icon? That would be really useful.",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.3",
+                "at": "2023-04-23 01:42:51",
+                "replyContent": "Thank you for the review.",
+                "repliedAt": "2023-04-28 11:28:37"
+            },
+            {
+                "reviewId": "d88b8562-b65b-4167-a9b0-deb228828382",
+                "userName": "MisstakenDoge95",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXT1WUvhFMCHfv65Y2_XA1pVnTKXhQZSEqIie0-83oX5QY",
+                "content": "Works really well fot text. Image notification function doesnt work however and opening camera on the app crashes it.",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.3",
+                "at": "2023-03-31 00:32:47",
+                "replyContent": "Thanks for the feedback, we will try to fix it in the next version.",
+                "repliedAt": "2023-03-31 09:10:17"
+            },
+            {
+                "reviewId": "da103a66-40ab-4360-88aa-0022f61e3516",
+                "userName": "Eduardo Gonzalez",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUcZ6jITe2Jd0QIlnMqouFhS20EQdYkLU_jSwuEhCsSxA",
+                "content": "It's not that bad, although the notification pictures are a bit outdated. Overall it's pretty good",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.3",
+                "at": "2022-04-26 07:26:45",
+                "replyContent": "Thank you for the helpful review!",
+                "repliedAt": "2022-04-26 18:23:07"
+            },
+            {
+                "reviewId": "06beba16-a232-4c0e-ab7a-860df6e97f63",
+                "userName": "Baradey Mcbrades",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXBanwiKKN0GmICqkVZqakOzEbyq2TB8r0g8uasQBzuU9Ix",
+                "content": "Crashes",
+                "score": 2,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.3",
+                "at": "2021-11-23 00:22:32",
+                "replyContent": "Sorry, but the app is set to the maximum version of Android 10. Your device is running a newer Android, so some features may not be optimized. Thank you and we will try to fix it as soon as possible.",
+                "repliedAt": "2021-11-23 18:45:24"
+            }
+        ]
+    }
+]

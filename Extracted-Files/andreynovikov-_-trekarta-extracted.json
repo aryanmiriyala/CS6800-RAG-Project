@@ -1,0 +1,80 @@
+[
+    {
+        "filename": "andreynovikov-_-trekarta.json",
+        "published_at": "2022-04-30T21:29:38Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "60b8b674-cf63-4f8f-87b0-c1eefcf5b701",
+                "userName": "Abdul Samad",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVcje8hL_2QzZfW2pxeqkf4FbKS2LiiWavPH-ge0wsDStg",
+                "content": "افضل برنامج للخرائط بدون شبكة على الاطلاق شكراً جزيلاً",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2022.05",
+                "at": "2023-08-21 03:57:09",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "088546c3-276e-400e-9c89-7fb381dffca1",
+                "userName": "Steve Simmonds",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJ1_yXlWPirsKZEieP40vumj0Z0ZxGXu7xb207rCOSG=mo",
+                "content": "Great for hikers....",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2022.05",
+                "at": "2023-04-25 15:41:51",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "b51bd05e-ed6c-4fb1-8970-cfb60919a41e",
+                "userName": "Lomme Vanderhoydonck",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVPj3g0f7mgRKvE3bxUMU1aCMIsJwV1oKXzwIJiS-Li30I",
+                "content": "My favorite app for GPX files. Used this to hike the Kunglseden (450km, Sweden) and the Legends Trail (200km, Armenia) and couldn't live without it! This in combination with Trail Sense is all you need if you go out on adventures hikes! Some of the navigation within the app could be a bit better, but overal the best FOSS app around!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2022.05",
+                "at": "2023-03-18 10:04:11",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "46a2eacf-bb7a-4af1-9ffe-4c52da7384f8",
+                "userName": "Graham Allan",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJj5dFMdRmLXab33pL_g--03ngMSrna_r1Bxy8XV9Wy=mo",
+                "content": "Simple but does the job really well.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2022.05",
+                "at": "2023-03-12 19:49:25",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "2e75df0b-4709-44b8-84c1-fce8e5411584",
+                "userName": "Manuel Chirouze",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXOeIhv2a1l07--CmLo7AHau32ZLaKRmnfbd5Y5OZf2PPE",
+                "content": "Love the quality of the maps, ability to share coordinates. From Viewranger I loved the customizable dashboards to monitor elevation, speed and other metrics but this one is my favorite replacement",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2022.05",
+                "at": "2022-12-03 20:10:10",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "0b9202c7-e9f8-4d4e-a254-0600d7fcd32b",
+                "userName": "Brian Webb",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocL15qjSbDld3Yv05R9P6eD5VHgqDPTCtOQdwmauOVc2=mo",
+                "content": "Working for what I need.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2022.05",
+                "at": "2022-10-08 14:28:21",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    }
+]

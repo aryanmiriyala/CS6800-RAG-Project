@@ -1,0 +1,91 @@
+[
+    {
+        "filename": "x13a-_-Duress.json",
+        "published_at": "2022-08-18T14:50:45Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "eb789abd-cdb0-4ebe-89ea-81f3e5fdca95",
+                "userName": "WineWeasel",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVn-eLZBIZBNJVWOhWNFbpQCo6sOzkoJPQTV4ZtSlq3ewmQ",
+                "content": "Not had to use it but it's better to have it and not need it than need it and not have it I also think it should be built in to android",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.0.9",
+                "at": "2023-11-30 14:03:57",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "d7776bba-8319-40fd-ab8f-48e9ffb90fa4",
+                "userName": "Joseph Lewis",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJVSx1SymDDFowmtQIYsS2Hvwvo_sXAVMqbO9ZzE9H6ZJM=mo",
+                "content": "Amazing app to stay secure at airports where you have less rights. Please support keep supporting upcoming versions for Android 14 and beyond",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.0.9",
+                "at": "2023-10-08 22:59:41",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "cfe366a6-d393-4699-81ea-f6260524ebd3",
+                "userName": "sina zp",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWVuebrcJRDQ6BzXUcEp1a3otozXtvTjq7woK6KDC9T61aT",
+                "content": "Confusing ui",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.0.9",
+                "at": "2023-08-16 12:31:47",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "a68f979e-f408-463c-b22f-a4d121c8d94f",
+                "userName": "H T",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJJYd6PJ6aw15eSCqqDRdeFSeMXLTM1vSbCSc6SXho5jQ=mo",
+                "content": "Doesn't work or lack of instructions",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.0.9",
+                "at": "2023-05-11 10:48:22",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "d57d3fe8-559a-45c9-b407-3ee1cb471a36",
+                "userName": "Tony Harry",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjU2GgBZH_Z7URxXeqdp-rKrNhp_sYMMHZLn0uyI6Q5wSg",
+                "content": "\"WIPE\" and \"TEST\" function both work well on Duress 1.0.9. But in BROADCAST mode, I don't know what to fill in the blanks named \"action*\",\"receiver\",\"code\" and \"value\"… I'd appreciate it if you can reply to teach me soon~ Two suggestions: 1. Attach a detailed manual inside the app, GitHub page and Google Play. 2. Let the APP apply for the \"Modify System Settings\" permission. Because many phones will automatically turn off the accessibility permissions of Duress after phone restarts.",
+                "score": 4,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "1.0.9",
+                "at": "2022-08-21 04:26:56",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "x13a-_-Duress.json",
+        "published_at": "2022-07-27T20:24:19Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "x13a-_-Duress.json",
+        "published_at": "2022-02-23T03:00:05Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "f8dfe7ff-5a1b-4ddb-af85-ad92987f105c",
+                "userName": "Василий Кулагин",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJX2FS4p9MwFqLjTQwNmS7C9RKoPrvzMq8q6mWNigC9=mo",
+                "content": "Нужна инструкция по настройке",
+                "score": 1,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.0.1",
+                "at": "2022-06-02 11:36:39",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    }
+]

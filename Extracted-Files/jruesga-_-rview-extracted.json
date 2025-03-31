@@ -1,0 +1,442 @@
+[
+    {
+        "filename": "jruesga-_-rview.json",
+        "published_at": "2021-01-31T13:59:23Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "714c6e7f-87e6-415c-a220-e9c7419fec4d",
+                "userName": "Milton Washington, Jr.",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUK_nFNYdpczFVBD7KhtcyMnmilecQGrO9odjuPjLNGk3E",
+                "content": "It seems that every change on all of my Gerrit instances show as Merge Conflict even if that isn't the case. Is a fix available for this issue?",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.4.2",
+                "at": "2022-08-05 16:50:31",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "jruesga-_-rview.json",
+        "published_at": "2020-05-08T23:23:57Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "678571e7-f83d-4c85-a6a2-89bf983517ad",
+                "userName": "Christian Hoffmann",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocL6b2Klt84O09fK1DMjvQP8F7qc4pxBi8WxtzsACtGA=mo",
+                "content": "Please give us a dark mode",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.4.1",
+                "at": "2021-01-29 23:58:41",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "05e40e69-3071-4364-82f9-0ba425368bbf",
+                "userName": "Hiba Swdad",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJ3P8ubuRO6OeiqPvQ4anUZhdP0EQhKm7JHmbFA33nD=mo",
+                "content": "Review",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.4.1",
+                "at": "2020-08-15 18:36:18",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "3342d57b-53d6-435b-b6e7-27712ed885ed",
+                "userName": "Orges",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXIAvyiuBeJcR_S-Nvvll4txtkYcG61yL-_uwt8OPDzrpM",
+                "content": "Thanks for the update and the fix. 5 stars deserved. Waiting for the dark mode update 🔥",
+                "score": 5,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "2.4.1",
+                "at": "2020-05-09 19:23:03",
+                "replyContent": "Thanks for the heads-up. You are right. For some reason, AOSPA is the only repository forcing the accounts/{account-id}'s endpoint to have an trailing /. Docs doesn't establish that trailing / (https://gerrit-review.googlesource.com/Documentation/rest-api-accounts.html#get-account). I'll publish a fix this weekend. Thank you so much and sorry.",
+                "repliedAt": "2020-05-08 20:30:09"
+            }
+        ]
+    },
+    {
+        "filename": "jruesga-_-rview.json",
+        "published_at": "2019-04-30T21:53:29Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "e6128b09-403c-460a-b672-6906ab0d9436",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Very cool, slick and easy to use.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.3.21",
+                "at": "2019-10-05 00:21:36",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "cec7d05a-e846-43a3-9190-7309ba78ce34",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Really good work!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.3.21",
+                "at": "2019-10-02 19:09:32",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "4bd81673-fe13-4a69-9515-e29e20937ed7",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Update 4/30/2019: Thanks to the developer for the hint on authentication. This app is the real deal.",
+                "score": 5,
+                "thumbsUpCount": 5,
+                "reviewCreatedVersion": "2.3.21",
+                "at": "2019-05-01 03:58:09",
+                "replyContent": "Hi, Outh2 authentication is only supported in the website, not for the REST api. You can login via HTTP tokens. You can obtain one in the HTTP credentials section of your Gerrit settings. You can just tap on the \"click here\" link over the user-password fields to get redirected to settings. If you need more information reach me via support email.",
+                "repliedAt": "2019-04-30 04:56:29"
+            }
+        ]
+    },
+    {
+        "filename": "jruesga-_-rview.json",
+        "published_at": "2019-04-07T11:07:00Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "c04f7c16-26d0-4d8a-8520-446835897378",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Best gerrit client app.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.3.20",
+                "at": "2019-04-30 10:00:52",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "jruesga-_-rview.json",
+        "published_at": "2019-03-21T02:33:53Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "jruesga-_-rview.json",
+        "published_at": "2019-03-09T23:16:50Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "jruesga-_-rview.json",
+        "published_at": "2019-02-09T00:46:59Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "a229aa61-d9bb-4347-b267-f608a3a89942",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Does the job pretty well.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.3.17",
+                "at": "2019-04-13 02:53:02",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "jruesga-_-rview.json",
+        "published_at": "2018-12-31T12:16:06Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "jruesga-_-rview.json",
+        "published_at": "2018-12-22T21:55:11Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "jruesga-_-rview.json",
+        "published_at": "2018-11-16T18:42:56Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "f4dc9fff-b4fa-4ecd-8bf2-b686b43faeef",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Needs a black/dark theme option. The white is searing my eyes",
+                "score": 4,
+                "thumbsUpCount": 6,
+                "reviewCreatedVersion": "2.3.12",
+                "at": "2018-11-30 15:29:20",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "jruesga-_-rview.json",
+        "published_at": "2018-11-03T12:45:06Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "jruesga-_-rview.json",
+        "published_at": "2018-10-12T11:46:22Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "91ac13d5-7edc-446a-9e0d-b149db51f221",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Best Gerrit app around",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.3.10",
+                "at": "2018-11-02 05:12:10",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "jruesga-_-rview.json",
+        "published_at": "2018-09-27T21:43:37Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "jruesga-_-rview.json",
+        "published_at": "2018-09-04T14:40:09Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "jruesga-_-rview.json",
+        "published_at": "2018-09-03T22:09:05Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "jruesga-_-rview.json",
+        "published_at": "2018-08-08T21:34:17Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "jruesga-_-rview.json",
+        "published_at": "2018-07-24T22:34:35Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "jruesga-_-rview.json",
+        "published_at": "2018-07-01T23:12:48Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "107ce590-e4a6-45d1-a596-a2622ceb1c44",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Useful",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.3.0",
+                "at": "2018-07-02 22:52:09",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "jruesga-_-rview.json",
+        "published_at": "2018-05-15T17:09:21Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "jruesga-_-rview.json",
+        "published_at": "2018-04-26T20:35:51Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "bd26adf2-648a-4818-adcd-eda4319e14f0",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Thank you! Will be nice to comment on specific letters (on selection, like \nin web)",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.2.2",
+                "at": "2018-05-06 17:04:13",
+                "replyContent": "To comment on a line of a file, just tap on a line number (left or right). The comment action in the navbar is to comment on the whole file.",
+                "repliedAt": "2018-05-06 16:57:18"
+            }
+        ]
+    },
+    {
+        "filename": "jruesga-_-rview.json",
+        "published_at": "2018-04-10T21:20:15Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "41f48fbd-77d1-4875-9313-1d927790d031",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "This is how an \"Anonymous Coward\" votes. 😂",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.2.1",
+                "at": "2018-04-21 12:45:30",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "jruesga-_-rview.json",
+        "published_at": "2018-03-29T10:05:40Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "jruesga-_-rview.json",
+        "published_at": "2018-03-10T20:47:19Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "jruesga-_-rview.json",
+        "published_at": "2018-01-25T22:38:14Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "a1c09241-ef2f-4e77-891d-5b6e26cd7d6a",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Simply amazing",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.1.6",
+                "at": "2018-03-10 08:57:31",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "7931abb7-071d-4ec3-815a-03500efa54e7",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Just awesome. &lt;3",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.1.6",
+                "at": "2018-02-15 14:48:51",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "e14ce7ee-ffe2-47c3-ad6d-2b5d0924c27b",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Great job dude, much appreciated",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.1.6",
+                "at": "2018-02-09 14:26:50",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "jruesga-_-rview.json",
+        "published_at": "2017-12-27T18:39:05Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "9fc37f5d-1e56-4dd8-b6be-9ed649136eba",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Excellent. Easy install and config. A couple of seconds and you can see it all!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.1.5",
+                "at": "2018-01-20 18:17:22",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "45e63cbc-2148-4183-bb1c-e47cd80db403",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Excellent app",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.1.5",
+                "at": "2018-01-19 12:33:40",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "jruesga-_-rview.json",
+        "published_at": "2017-11-01T15:52:00Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "jruesga-_-rview.json",
+        "published_at": "2017-07-29T14:44:00Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "f0f54f17-591d-4ffe-93ab-7a6412b3459d",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Amazing how well made an app with a monopoly can be..",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.5.3",
+                "at": "2017-08-04 15:00:14",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "f01fde5c-2a1b-4806-8797-5887a674b868",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Excellent app only thing I miss is dark theme.",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.5.3",
+                "at": "2017-07-30 19:59:47",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "jruesga-_-rview.json",
+        "published_at": "2017-06-26T22:44:28Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "jruesga-_-rview.json",
+        "published_at": "2017-04-22T12:50:51Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "92fa7a76-6d7e-4ea8-8bb2-76f33491f434",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Fantastic. Better than all the other Gerrit apps around, and a great improvement over trying to navigate Gerrit in a mobile browser",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.3.7",
+                "at": "2017-04-23 13:32:24",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "473d37d8-70fc-4e67-9ece-9fbd71a253d5",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Great app, the only one that's usable as for me. The thing I lack the most is the possibility to scroll down to the very end of all the comments, or is it already possible somehow? Scrolling through the comments of a 100 patch sets change is really annoying :)  Update: scroll to end added, thanks much!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.3.7",
+                "at": "2017-04-22 17:51:13",
+                "replyContent": "You can enable fold messages and hide CI messages in the account settings to palliate the large number of messages to display. I will consider an autoscroll to end option for a future realease. Thx",
+                "repliedAt": "2017-04-12 07:59:10"
+            }
+        ]
+    },
+    {
+        "filename": "jruesga-_-rview.json",
+        "published_at": "2017-03-12T01:02:33Z",
+        "google_play_reviews": []
+    }
+]

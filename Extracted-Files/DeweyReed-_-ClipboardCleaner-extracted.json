@@ -1,0 +1,534 @@
+[
+    {
+        "filename": "DeweyReed-_-ClipboardCleaner.json",
+        "published_at": "2022-10-12T03:15:13Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "6a1746a3-4fd1-4153-b68f-f9ae5268d168",
+                "userName": "Yasir Freelancer",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVoOjGNGMgxQQqfn2dKrAnbyvSgCrJs8mD81KpM1CIFYGo",
+                "content": "The best and ad-free app for clipboard management. 5/5 for an excellent app. Keep up!",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.8.1",
+                "at": "2023-09-24 03:12:58",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "b0434c34-f9fe-4f06-92a1-6394288549ff",
+                "userName": "Shimul Shams",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUQsIXjUVbhMFihPyLZT-3HSZOfkszsypS8BrDPbBZ_bkY",
+                "content": "Well",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.8.1",
+                "at": "2023-08-12 12:25:39",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "afc3b30f-88c0-4dbf-8810-820cd4285a23",
+                "userName": "Arjyo Synth",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjV42VPdz8LKAcWWe1juNVkdkfZ8Ny0AXPMfRobHPZm-aAY",
+                "content": "Ready to go, because I've always felt that my clipboard is being tracked by someone. To be honest, the voice assistant gesture replacement is something I always found useful and other apps doesn't have it. Best app. 5*",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.8.1",
+                "at": "2023-02-24 22:09:42",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "212c69d6-25da-4ecf-a98b-6cd8383fffa3",
+                "userName": "Helen Jones",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjX1JNXCwi0xaqoicg6HCNX046OJ2feKPPxSAkcyHg49NQ",
+                "content": "Good widgets but why does it only have the option of showing the last clip and not all history?",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.8.1",
+                "at": "2023-01-15 14:56:48",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "DeweyReed-_-ClipboardCleaner.json",
+        "published_at": "2022-01-26T13:19:45Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "48aaf8d6-5f90-4e45-858a-2f165c0c827a",
+                "userName": "JBJ",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJjrn_tSndMEuQkkSMQKLBKIO-03lYtxK6-zhKlEishKQ=mo",
+                "content": "Works perfectly !",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.7.1",
+                "at": "2022-10-08 22:38:21",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "4b26e465-6af2-40c1-beeb-84508c83b519",
+                "userName": "Finn Ekberg Christiansen",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVm__08U3Tl-HrSop2mHPMnBxUX6vVYSE76hwoMVzAdfG4",
+                "content": "Works on Android v12 on my new Samsung S22 Ultra, despite the limitations described here under \"About this app\" (read below). It certainly cleans text (e.g. passwords) from the clipboard, which is crucial - and the only thing I use it for. I like apps that does one thing and one thing only (utilities) like this one. I know it's supposed to be able to show the content of the clipboard too, but I don't need, use or have tested that. Added the 5th star. 21 Sep 2022",
+                "score": 5,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "1.7.1",
+                "at": "2022-09-21 12:35:13",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "db1ab723-7fe4-46e8-b9a6-e536a6171083",
+                "userName": "Redfin",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUFF3i295KJpQF2Qj6r0pnStK9zr1b7NcSSVpk3e3l3KlQ",
+                "content": "After I installed on Android 12 MIUI 13 and it worked, now I installed on Android 13 Pixel 4 XL and it also works.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.7.1",
+                "at": "2022-09-09 14:31:07",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "ad652269-b777-4582-961f-d89add3af25b",
+                "userName": "Sargi Boy",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUopjgHbuFf1WUQGPHS116fhuAWBeiLx5op78jxuVzzqurx",
+                "content": "Best app to have.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.7.1",
+                "at": "2022-07-16 18:00:45",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "DeweyReed-_-ClipboardCleaner.json",
+        "published_at": "2021-10-23T13:01:41Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "db98fc3a-b530-4f73-8492-e86ac48a1569",
+                "userName": "Stephen Whitehouse",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjW9pIpXpnRs20_tksrBkLgRYTKHrAXSjnYyr3zVIAXKu_o",
+                "content": "Crashing when click to open the app",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.7.0",
+                "at": "2021-11-10 14:27:39",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "DeweyReed-_-ClipboardCleaner.json",
+        "published_at": "2021-10-08T05:56:16Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "DeweyReed-_-ClipboardCleaner.json",
+        "published_at": "2021-09-13T02:23:30Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "DeweyReed-_-ClipboardCleaner.json",
+        "published_at": "2021-07-13T13:55:28Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "86ef0a7e-f521-4ea9-bb60-8a1c7e6de1b8",
+                "userName": "Lawrence Bray",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXH0Qf5DWKTcaFY94LBwbsKXfFGO8SZDDaDS9KC6kZ_34U",
+                "content": "doesn't work",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.6.0",
+                "at": "2021-09-09 18:28:48",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "ccac6b14-a7dd-4bd1-ae89-2a0e5647e53a",
+                "userName": "Haja Moideen Shaik Dawood",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJN8NVvnVIpFEGhiQRsLPCsIwwQS5Bf7E3UmTw0PnAs=mo",
+                "content": "Simple, straightforward and works as intended.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.6.0",
+                "at": "2021-08-10 10:26:23",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "DeweyReed-_-ClipboardCleaner.json",
+        "published_at": "2021-01-26T03:52:12Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "e4337736-cc87-4b65-9c95-c2404581f88d",
+                "userName": "Souvik Kundu",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUQv0rrS2C-6Q6UtIiTsphPmcHoZND1IRAO0wj5OjzAZHBz",
+                "content": "It deletes the clipboard history on Samsung M31. Problem solved. Thank you.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.5.1",
+                "at": "2021-03-20 10:14:09",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "471c7dce-2399-4a42-be61-3089add51977",
+                "userName": "Bill Clarke",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXTtTL4O_K04BIeZ--ZnOImNASUQloq-Y0ZXdiNui95Gf7F",
+                "content": "Works well. I like the quick settings tiles. It doesn't clear gboard's selection, so it must have its own copy.",
+                "score": 4,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.5.1",
+                "at": "2021-02-05 05:05:31",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "DeweyReed-_-ClipboardCleaner.json",
+        "published_at": "2020-09-22T04:16:43Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "d751f239-579c-4176-8409-b11ffb52f2a7",
+                "userName": "VSSM",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVhWQFen0W-_dBgKCpuMDRQFkO-6g_iitXXioCJUPd87bk",
+                "content": "No use... I uninstalled",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.5.0",
+                "at": "2021-01-20 11:44:54",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "DeweyReed-_-ClipboardCleaner.json",
+        "published_at": "2019-10-15T05:22:20Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "4942a1d5-9b0e-4259-84ca-8600683a00c1",
+                "userName": "Abhilash",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUtxy7tpqmSUrjfkHaDteQDZZWDVqc1fp9IiykTZ05aNAE",
+                "content": "Content widget is not showing the texts of clipboard... Only the clean widget works, that's it....",
+                "score": 1,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.4.2",
+                "at": "2020-07-30 10:12:40",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "c1221563-d8cc-472c-88e7-cfbcc21ba288",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Did a good job until Android 10, (I read the description and I know why it doesn't work anymore), just want to say thanks to the developer!",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.4.2",
+                "at": "2020-03-23 19:22:52",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "921ee4a5-76c8-4f5f-9b18-97b8f6c7594f",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "You served your purpose well old friend. :(",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.4.2",
+                "at": "2020-02-02 16:42:55",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "be4e5fad-2169-4dd6-a0fb-bab5c1eace4a",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Samsung Galaxy Note 10+, Android 9, app says it's cleared the clipboard but it hasn't, copied data can still be pasted. Uninstalling.",
+                "score": 1,
+                "thumbsUpCount": 5,
+                "reviewCreatedVersion": "1.4.2",
+                "at": "2019-11-28 15:31:33",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "d5bf1d57-9ee7-42a5-8ff0-7c64d239c855",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Good, usefull",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.4.2",
+                "at": "2019-11-09 01:01:53",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "DeweyReed-_-ClipboardCleaner.json",
+        "published_at": "2019-10-01T10:53:35Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "6ce2a432-df0e-4218-b212-afbe839397f3",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Always Worked Nice App",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.4.1",
+                "at": "2020-02-27 19:43:57",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "DeweyReed-_-ClipboardCleaner.json",
+        "published_at": "2019-03-26T03:15:59Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "99650f9d-0c61-489a-bc35-cfabffac0040",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "does its job exceptionally well. high regards to the devs! care about security? you need this well functioning, usefull, no-fail app!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.3.0",
+                "at": "2019-10-03 18:22:35",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "a3aaf0c4-a138-4773-b7d4-e9a3573ecf74",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "9 months on Pixel 3. Excellently simple and effective utility on Android 9 [Pie]. However, its operation appears not to have survived the upgrade to Android 10: No longer cleans the Clipboard and no longer provides the corresponding message, \"Clipboard has been emptied'. Only notifies that that 'Clipboard is empty', which manifestly is NOT the case. Here's hoping compatibility with A10 can be be accomplished and a return to 5 Stars!",
+                "score": 3,
+                "thumbsUpCount": 8,
+                "reviewCreatedVersion": "1.3.0",
+                "at": "2019-09-21 21:13:14",
+                "replyContent": "Hi, Android 10 prevents all third-party apps from accessing the clipboard. Of course, this app won't work anymore. You also don't need this app because your clipboard is very safe now.",
+                "repliedAt": "2019-09-22 03:17:26"
+            },
+            {
+                "reviewId": "a17b69c2-ca3d-44a1-8b62-93bcb7310386",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Way cool. Protects.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.3.0",
+                "at": "2019-08-27 22:01:18",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "dfcd08e2-1c37-4628-a91d-2f2f5d57744b",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "I agree with the word \"incompetent\" in the app's own description. Don't be thinking that this app actually works unless you have the know-how to thoroughly check its effectiveness. The app may say your clipboard is clean but, as the dev says, it may actually not be. In my tests other apps can read the clipboard EVEN WHEN this app tells me it's clean. When the app says that it has cleaned the clipboard, it probably hasn't. Along with the developer I understand why not. Hopefully you do also.",
+                "score": 1,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "1.3.0",
+                "at": "2019-06-12 15:10:40",
+                "replyContent": "Hi, I'm sorry this app wasted you so much time. Just like what the description says, this app won't work if you let other apps manage your clipboard history. 😳",
+                "repliedAt": "2019-06-13 01:56:56"
+            },
+            {
+                "reviewId": "1847d7ae-5ae9-4e46-8002-cabb702ad155",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Excellent for clearing the Android clipboard. Quick and efficient. The 2 shortcuts are very handy. Highly recommended. I share the .apk with friends and associates. Thank you, DeweyReed!!!",
+                "score": 5,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "1.3.0",
+                "at": "2019-06-05 00:33:47",
+                "replyContent": "Glad you like it! :)",
+                "repliedAt": "2019-06-05 02:33:01"
+            },
+            {
+                "reviewId": "9a70ada5-e08d-4f66-9d53-42a5b79fdb73",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Very functional, put a shortcut for Content and Clean on home screen. Handy when you need each quick.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.3.0",
+                "at": "2019-05-11 18:49:44",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "dd8a89fe-82dd-433c-81a1-b56752d819e5",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Hey, I have found smarter apps fixing this maybe by filling clipboards with NULL objects, blank texts, empty pics etc! // former rate: this app can not clean any clipboard not even simple text (Android boolshit Pie 9.0)",
+                "score": 2,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.3.0",
+                "at": "2019-05-07 08:39:48",
+                "replyContent": "Hi!\nJust like app instruction:\n\n\"The clipboard holds only one clip object at a time. When an application puts a clip object on the clipboard, the previous clip object disappears.\"\nIf you're seeing multiple clips or the clip history, it means something like soft keyboard app stores them. In this case, this app is incompetent.",
+                "repliedAt": "2019-05-04 05:28:15"
+            },
+            {
+                "reviewId": "69dc64d5-c610-469a-a4d2-e660bedbfac7",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Does not work in Oreo on Duraforce Pro 2. The app SAYS it deleted content from clipboard, but I have a long list of stuff still in there and I have to manually delete..... I'd PAY for on app that actually worked!",
+                "score": 1,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.3.0",
+                "at": "2019-05-06 16:42:36",
+                "replyContent": "Hi! Android says: \"The clipboard holds only one clip object at a time. When an application puts a clip object on the clipboard, the previous clip object disappears.\"\n\nIf you're seeing multiple clips or the clip history, it means something like soft keyboard app stores them. In this case, this app is incompetent.",
+                "repliedAt": "2019-05-07 02:04:21"
+            },
+            {
+                "reviewId": "f3f9c4d6-f701-4b33-92d0-39095c8d8322",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Best App",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.3.0",
+                "at": "2019-04-18 14:53:47",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "DeweyReed-_-ClipboardCleaner.json",
+        "published_at": "2018-08-06T04:32:36Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "aacffd95-6aca-439f-b166-f143e5238063",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "I like it, I like it a lot! And that's not because Dewey & I share a name, but I feel that my phone is actually running faster. This opinion is subject to change without notice (no offence intended Dewey!)",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.2.1",
+                "at": "2018-12-23 21:40:19",
+                "replyContent": "Thanks for sharing your idea(and name) but your phone may complain and run slower because there're too many apps installed.🤣",
+                "repliedAt": "2018-12-24 02:27:09"
+            },
+            {
+                "reviewId": "33ac41c7-1559-4cf7-bad4-5b35627398d4",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "great app does its job, no permissions needed. no ads. Thanks",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.2.1",
+                "at": "2018-12-15 17:56:31",
+                "replyContent": "You're welcome! Have a great day.",
+                "repliedAt": "2018-12-16 01:15:34"
+            },
+            {
+                "reviewId": "2d4b357f-97bd-4936-8cf8-771cdd706c06",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Works perfectly, great job on the app, no ads makes it even nicer!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.2.1",
+                "at": "2018-12-04 13:13:06",
+                "replyContent": "Thanks for your review! Have a good one.",
+                "repliedAt": "2018-12-05 01:49:32"
+            },
+            {
+                "reviewId": "b1c170ce-ba6a-467a-ab10-b23d64da3f05",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "It does exactly what it says. No permissions and no ads. Simple interface and easy shortcut access. Thank you for this app.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.2.1",
+                "at": "2018-09-30 07:32:26",
+                "replyContent": "Thanks for using my app! Cheers🍻",
+                "repliedAt": "2018-10-01 02:27:01"
+            },
+            {
+                "reviewId": "2d7b096e-d39f-4af3-b3d7-ce5daed02bd0",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Small footprint, no permissions, offers a shortcut, no ads, free and most importantly, it cleared the clipboard albeit with a blank file. Nice.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.2.1",
+                "at": "2018-09-07 01:15:31",
+                "replyContent": "Thanks for using my app! 😉",
+                "repliedAt": "2018-09-07 02:03:57"
+            },
+            {
+                "reviewId": "12388f71-b466-4e97-8508-4e5a165a0c33",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Doesn't clear my clipboard... Everything was still in my ClipTray after \"clearing\" my clipboard with the app.",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.2.1",
+                "at": "2018-09-03 18:30:00",
+                "replyContent": "I'm really sorry for the problem. If you're seeing all clipped messages in your ClipTray, it probably means your input method app stores all clipped messages(clipboard history). This app can't touch other app's content so nothing can be done in this case.",
+                "repliedAt": "2018-09-04 03:04:04"
+            },
+            {
+                "reviewId": "f50c976e-705c-49c8-a101-89edc47fde75",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Wow. My first time. Faster than light. But no where does it say the cost? \nWhat's the catch??",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.2.1",
+                "at": "2018-08-10 17:18:02",
+                "replyContent": "Thanks for using my app!\nWhen you click \"Clean\" or the app detects clipboard changes, It simply overwrite current clipboard message with an empty one.",
+                "repliedAt": "2018-08-11 03:22:51"
+            },
+            {
+                "reviewId": "f8d372b5-6095-40be-9998-77e2c063c8ac",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Clean simple and bloat free. Does exactly what it's meant for. Highly \nrecommended",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.2.1",
+                "at": "2018-08-08 05:59:55",
+                "replyContent": "Thanks for using my app! Cheers🍻",
+                "repliedAt": "2018-08-09 02:53:35"
+            }
+        ]
+    },
+    {
+        "filename": "DeweyReed-_-ClipboardCleaner.json",
+        "published_at": "2018-03-29T08:08:49Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "4939c360-c118-47d6-8b1a-45f4a51ee01f",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Best simple, one-touch clipboard cleaner ever!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.2",
+                "at": "2018-06-15 23:38:21",
+                "replyContent": "Thanks for your review! 😊",
+                "repliedAt": "2018-06-16 02:17:33"
+            }
+        ]
+    }
+]

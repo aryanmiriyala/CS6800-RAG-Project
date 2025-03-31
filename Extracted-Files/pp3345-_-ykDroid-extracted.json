@@ -1,0 +1,350 @@
+[
+    {
+        "filename": "pp3345-_-ykDroid.json",
+        "published_at": "2020-10-11T21:20:03Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "a797582f-6c3f-4aeb-aeec-1bbe3ad9c40f",
+                "userName": "S0U1SB4N3",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjV2L_vuAFiIswwSS1eoojW1ICA91o1YMDHbadN5TrzoPA",
+                "content": "works great on android 13",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.2.1",
+                "at": "2023-04-26 06:01:41",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "06db7a99-463b-4769-9c16-76d86328dfca",
+                "userName": "Marvin",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVbKsigcKPZACqad1CuuV7VjvZRyoz9ujVhKTFYkEtDCcU",
+                "content": "Works perfectly, really happy that this tool exists. The sound ist kinda annoying, but thats on Android. Guess they don't expect anyone to actually use NFC for anything but payments...",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.2.1",
+                "at": "2023-02-03 19:08:58",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "b8ac1377-3571-4aad-abd8-4325d34a79ed",
+                "userName": "Jeff Burke",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVI0EJN17b6j7ABI8XMi-0i41iYmn9zpdLaN8-zsv-whLQ",
+                "content": "Worked with keepassxc",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.2.1",
+                "at": "2022-11-12 02:25:21",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "00143223-00c1-40f9-9b50-53a17940a5de",
+                "userName": "ScottW",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLysqZCG70mgh1xSx0Sm80lU4Zd0Jel81HwVtNjsxQ0=mo",
+                "content": "Works great！",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.2.1",
+                "at": "2022-09-23 13:17:10",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "f54542fe-e327-4aae-8db6-09b4cb22b9bc",
+                "userName": "Trygve Stageberg",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVNB_pF4b-4aYDVTz0Wbrwy1EaXt15quT3PSGU_RU-Alke4",
+                "content": "Works well, no complaints!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.2.1",
+                "at": "2022-08-02 02:36:24",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "976be159-138a-4393-bc18-41dca8031316",
+                "userName": "Xubile",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjV-XnTBQbkXK8CC8gqWZiZbR93Crxjrs_XmRdUNsvGwmW0",
+                "content": "The scenario where you need ykDroid is when you use Keepass2Android to open a Keepass XC database with the master key type changed from Password Only to Password + Challenge-Response for Keepass XC. Wished this info was stickied in the app description because I spent months figuring how to manually activate ykDroid when it's really a system service automatically triggered by other apps. Also wasted time trying to figure out why ykDroid didn't show in the Keepass2Android plugin list (it doesn't).",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.2.1",
+                "at": "2022-04-16 07:58:50",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "8fd4918c-09df-4009-a1be-c28217cd392e",
+                "userName": "P h",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJ0uF4t0j4IdJnDIeg6OKuwxbGMTOYVL1xr2EG2iIvWuN8=mo",
+                "content": "Works with Keepass2android",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.2.1",
+                "at": "2022-04-09 02:10:44",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "0a8b319f-f86b-47e3-b1df-eda55bc73d7f",
+                "userName": "Andrew Kolchoogin",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLoy8lwuM8aKCvquYGjeTSuHQ6OQeyRoxixTqq1_O6n=mo",
+                "content": "It damn works! I was able to re-add my Google account after Advanced Protection enrollment!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.2.1",
+                "at": "2022-02-02 00:23:45",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "eb732880-43e2-4226-a7c1-7b29d2a5426c",
+                "userName": "Bob Ford",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXG4qzVymLRqnLwPRRwF2n12P-lXR3bsMEHnVj0Rua7MF0",
+                "content": "Works perfectly! Saved a huge amount of time in trying to understand the Android Yubikey example.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.2.1",
+                "at": "2021-10-04 23:34:20",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "21bb575e-b42e-4575-a720-1f54707ed166",
+                "userName": "Jenny Lou",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKb-aihGf0evlGsej09EMtGFXeSNmQJSagTWvXyvnga=mo",
+                "content": "It works but slow",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.2.1",
+                "at": "2021-08-30 08:08:58",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "6deac1e9-a4e3-41df-a481-9a8d345c69c3",
+                "userName": "Jacob Derington",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXWyymtV2Z972QrfzKiwpsP90sCAvulEKOtfLM9mpmcyTo",
+                "content": "Works perfectly!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.2.1",
+                "at": "2021-08-28 07:41:05",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "65e1b9b8-e49e-4b9f-b928-4c08ed9b4e27",
+                "userName": "Marcel",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjV_QqjjI9KhvPnJzSKN5ulsSLFljmoKrixfWWIN8zK9L043",
+                "content": "Top, no problems at all.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.2.1",
+                "at": "2021-03-26 22:18:37",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "965d17bb-38bb-4e54-9f2e-470cfc83929b",
+                "userName": "Roger",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjX50NYBanIQIcjHcz4m5gZGPQva_opEHSxycYn7hxLYwQc",
+                "content": "Thankfully previous experience from other users allowed successful installation as there are no instructions anywhere on the Internet.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.2.1",
+                "at": "2021-01-28 08:22:48",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "4190c6a5-2557-42bb-a2a8-ab46d62ae906",
+                "userName": "Thanasis Georgiou",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUDEq3EDk7V-acK77NIFS2tyALab7LgAaYskbJ0SpxU_9w",
+                "content": "Worked out of the box for me",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.2.1",
+                "at": "2020-12-21 17:10:42",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "pp3345-_-ykDroid.json",
+        "published_at": "2018-10-04T21:35:55Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "6d97eada-817b-417c-b4da-27517a46dd25",
+                "userName": "Tobias Blacher",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVtfvG3EzAyov1am2I9jb_CzYkPquV6kYmefJEqxd4rEOIY",
+                "content": "Works perfectly. I had an issue at first, but it turns out that was because the NFC reader in my phone was in the camera...",
+                "score": 5,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "1.1.1",
+                "at": "2020-06-01 11:59:46",
+                "replyContent": "Hi Tobias, sorry to hear that ykDroid isn't working for you. Please send me an e-mail to dev@pp3345.net so we can figure out what's going wrong and fix your issue.",
+                "repliedAt": "2020-05-26 07:35:15"
+            },
+            {
+                "reviewId": "a4435f27-d64c-41cf-8133-216fc0d875ea",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Works fine. Keepass2Android, Yubikey neo, NFC",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.1.1",
+                "at": "2020-02-02 21:53:54",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "040c7285-8d39-4aa8-82bc-ffdf0cfeb903",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "the app asks for permission to access the usb device everytime even if you tell it to remember. i found out this happens when you unplug and replug it",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.1.1",
+                "at": "2019-06-15 13:00:54",
+                "replyContent": "Sorry to hear this is annoying you. However, this is a bug in Android itself and there isn't anything that can be done about it.",
+                "repliedAt": "2019-06-17 18:07:13"
+            },
+            {
+                "reviewId": "95abca83-c8b7-4e93-9fba-192ec99f3ff9",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Works as desired with my Yubikey and KeePass database!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.1.1",
+                "at": "2019-03-24 04:04:18",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "8e69178e-96b9-415c-b2d6-872a0394b187",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "It works great but I've almost given up on getting it work just before I read other reviews saying that the database type must be KDBX 4.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.1.1",
+                "at": "2018-12-16 19:32:09",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "95144c8b-1470-4bb6-b63d-092127a8795c",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Works great! If you're using it with KeePass2Android, just make sure your database is saved with KDBX 4 key function. Thanks Yussuf!",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.1.1",
+                "at": "2018-11-28 02:24:35",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "cf413775-d7ca-4cf6-8e0e-5fb923401b1e",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "This app works well IF you set it up right.  The problem is knowing what to do as there is no guide for setup with a YubiKey as mentioned below.  In case it helps others out there, this is what my setup was on a device running Android 9 with a YubiKey 5 NFC.  I used KeePassXC to set-up the challenge response function with my YubiKey along with a strong Master Key.  If I did the same with KeePass 2.40, the database just would not work with Keepass2Android and ykDroid.  Also, as another reviewer mentioned, make sure the Encryption Algorithm is set to AES-256 and the Key Derivation Function is set to AES-KDF (KDBX 4) in database settings.  Then with the Keepass2Android app, make sure your Master Key setting is set to \"Password + Challenge-Response for KeePass XC\".  I couldn't even start the database unlock with any other setting.  Once these things were done with the respective software and database file, the app worked seamlessly.  With better instructions for the less patient among us, I would give it 5 stars, but without, I'll give it 4 for effort and forward thinking.  Thanks for laying the groundwork for a great way to better secure our sensitive information on a mobile platform",
+                "score": 4,
+                "thumbsUpCount": 31,
+                "reviewCreatedVersion": "1.1.1",
+                "at": "2018-11-27 22:21:47",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "af4c1548-5b63-4eed-b0c0-1f633e8f8c87",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Works well with a KeepassXC created database. (Make sure your database type is KDBX 4, which can be changed in the DB settings) Using with Keepass2android, a Yubikey 5 NFC, Android 9.",
+                "score": 5,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "1.1.1",
+                "at": "2018-11-16 04:21:38",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "pp3345-_-ykDroid.json",
+        "published_at": "2018-08-30T09:46:52Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "4814f658-d9de-40d1-bf58-f93ff9301a71",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "I originally reviewed this with 1 star and why it wouldn't work. Turns out neither this app or KeePass2Android have instructions for this new feature, so here's the details for those who are confused or think it's not working, like I initially did.   You keep the normal selection for your challenge. It'll ask you to select where the xml file is, normally in the same folder as your KeePass database. After it reads the file, it'll quickly recognize the format and ask you to select which slot on your YubiKey to scan from. It's 4 stars now because it does work, but due to no instructions, it's a little confusing. However I like it so far.",
+                "score": 5,
+                "thumbsUpCount": 38,
+                "reviewCreatedVersion": "1.1",
+                "at": "2018-10-06 19:56:52",
+                "replyContent": "Sorry to hear ykDroid isn't working for you. Please open an issue at https://github.com/pp3345/ykDroid or contact me at dev@pp3345.net so we can investigate what's going on here.",
+                "repliedAt": "2018-10-03 14:59:30"
+            },
+            {
+                "reviewId": "7026e4d7-aa45-4bdc-99db-1be1e121c297",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Does what it is created for. I needed a few tries to figure it out but if you know your yubikey and know at least how it works there should be no surprises. I am using an usb otg cable with a oneplus3.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.1",
+                "at": "2018-10-03 13:40:34",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "21f47484-c5b2-4be6-8165-10349ccd1690",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Doesn't work! I just went to the trouble of fixing a bug in YubiChallenge and had everything working and now Keepass2Android goes and removes support 😑. I have a Yubikey Neo and the nfc challenge/response takes longer than the OS default timeout for a nfc transaction. Please see YubiChallenges bug tracker for more info.",
+                "score": 1,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.1",
+                "at": "2018-10-01 13:35:49",
+                "replyContent": "I am sorry to hear ykDroid doesn't work for you. I think I know what issue you mean and current ykDroid versions should already contain a fix for that. Please open an issue at https://github.com/pp3345/ykDroid or contact me at dev@pp3345.net so we can work out a solution.",
+                "repliedAt": "2018-10-01 19:27:35"
+            }
+        ]
+    },
+    {
+        "filename": "pp3345-_-ykDroid.json",
+        "published_at": "2018-08-29T20:37:09Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "58cf3d38-2a2a-461b-b7a4-e3dfe5f800da",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Does its job perfectly.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.0.1",
+                "at": "2018-08-23 14:00:56",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "a18c49dc-ece2-41d6-9e26-3b82f5abc757",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Supposedly works with KeePass2Android, but hell if I know how! K2A stupidly insists on NFC whether this is installed or not.",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.0.1",
+                "at": "2018-08-23 02:41:20",
+                "replyContent": "Please note that Keepass2Android supports ykDroid starting with version 1.06. The currently published version on Google Play is 1.05, which only supports YubiChallenge. Please enroll for the beta program at Keepass2Android's store page if you'd like to obtain a pre-release version of 1.06. Contact me at dev@pp3345.net if you have further questions.",
+                "repliedAt": "2018-08-26 18:33:08"
+            }
+        ]
+    }
+]

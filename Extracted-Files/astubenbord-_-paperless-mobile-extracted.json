@@ -1,0 +1,173 @@
+[
+    {
+        "filename": "astubenbord-_-paperless-mobile.json",
+        "published_at": "2023-11-08T17:58:23Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "2fb4d06c-a39c-4585-8ac9-d2ed2bf28b17",
+                "userName": "QuesterDesura",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVujDuWSnyEglNCPqtRLUrqDoUoKi98uDsLON3eTAXf_Qk",
+                "content": "Had some issue and got a response within a few hours. Haven't tested the app much yet but so far everything went smoothly and was able to upload multi page documents just with my mobile phone",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.1.3",
+                "at": "2023-12-01 23:32:45",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "16b1e84b-0a62-45ec-b3be-c9e756ffb30c",
+                "userName": "Thomas Kowar",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWtqmiXw9dZTNj4GEGVK17K4sOJNOWxIvlycczannHkDI1t",
+                "content": "It's a great app, but after a re-install i couldn't sign in anymore. The sign in button was always disabled. In the end it turned out that, although being in a local network with a direct connection to the server, it just took several minutes until the app could determine that a connection was possible. After that it worked normally! Still give 5 stars, because the issue doesn't affect me in daily use!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.1.3",
+                "at": "2023-11-21 06:48:55",
+                "replyContent": "Please write a bug report on GitHub. Make sure you prepend http:// or https:// to your server url. There should not have been any changes concerning connectivity.",
+                "repliedAt": "2023-11-20 07:55:45"
+            }
+        ]
+    },
+    {
+        "filename": "astubenbord-_-paperless-mobile.json",
+        "published_at": "2023-06-18T10:26:49Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "396764c2-9fa8-4b25-bab6-650ff97a2e1a",
+                "userName": "Gonzalez",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocL3DIuzUk0YHWQBsKKlh7K06JCJcCRKnew6xK1izHaz=mo",
+                "content": "The Best app for Scan Document !",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.3.9",
+                "at": "2023-10-27 14:39:58",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "58f37aa5-36a9-4c0d-8858-c5a8fea574c6",
+                "userName": "Peter Yates",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVNNX8fdlglxGYb-aiNK3hrvFyhoUzd69mYBuak6YJhf-M6",
+                "content": "It's fantastic, works exactly how I'd expect it to, all intuitive and straightforward so far.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.3.9",
+                "at": "2023-10-08 13:06:11",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "4316a8c6-c211-4d4e-bf77-6f2a3b5b516a",
+                "userName": "Mike Jones",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjV5YUZouCeMyDGY_t0XE96csW4XTsAZDtNms5pkPs-S_jMY",
+                "content": "App appears to have been fixed and I've yet to find any lingering issues. 🚫 Original review: Only works once . First launch after install is fine. Close the so and it won't open again unless you clear the data and cache, then you start over again. Note 20 ultra.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.3.9",
+                "at": "2023-10-06 17:57:25",
+                "replyContent": "Hey, this should be resolved in the newest version (3.0.0) which is currently available in the open beta. Maybe give it a try :)",
+                "repliedAt": "2023-10-06 16:34:08"
+            },
+            {
+                "reviewId": "857ff6ad-565d-4ae8-9756-9c08d8232925",
+                "userName": "Tamás Déri",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWxxte-uPpUkcQCfZW3wl9BvZxpNLvL3jCsAou_wLak61c",
+                "content": "Would be a great app, but too often hangs on the splash screen and gets unresponsive, even after restart, and it breaks its main purpose of sending documents instantly to the database",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.3.9",
+                "at": "2023-09-09 11:20:09",
+                "replyContent": "Hi, this should be resolved in the new version (3.0.0), which is currently available in the open beta.",
+                "repliedAt": "2023-10-06 16:34:40"
+            },
+            {
+                "reviewId": "8d1ef6ad-0f3e-431f-be70-bea2a9f64e8f",
+                "userName": "Tom Chapman",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjX6_hFts_O7Rf8-p8WaLBJ2VunTLTe6ECplb2ueRHsyMk04",
+                "content": "Fantastic app. Has literally every feature I could ask for, clean and simple UI and is even open source. Couldn't ask for anything better.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.3.9",
+                "at": "2023-09-06 21:41:52",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "3699cb12-2910-4923-b4b4-a358196bd67c",
+                "userName": "Florian laschober",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLeSp7V7PyKg-F9W6fJCzULudeHKvhPawRZAkliTPX2=mo",
+                "content": "Very nice app! Really appreciate that it's not just a webview of the web interface. But the user interface is a little unintuitive in some places. (setting tags for example) And adding a new tag/document type just opens a gray blank screen for me. The App also allows me to select multiple files to upload but does not seem to handle that case at all.",
+                "score": 4,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.3.9",
+                "at": "2023-07-09 10:07:31",
+                "replyContent": "Hi, the issue with the grey screens should be resolved in the newest version (3.0.1 in the open beta currently). Also, sharing multiple files is supported now :)",
+                "repliedAt": "2023-10-06 20:39:37"
+            }
+        ]
+    },
+    {
+        "filename": "astubenbord-_-paperless-mobile.json",
+        "published_at": "2023-06-14T17:29:51Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "a0ae6467-7ad8-4ffd-9a44-3d47e1e088ec",
+                "userName": "Yaser Shohani",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLVJfmK5rFeaxQ_Di-2kAlVSOW04BGLEpodCcRw2G2X=mo",
+                "content": "Great mobile implementation for Paperless.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.3.7",
+                "at": "2023-06-17 12:40:51",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "97b26fde-9a74-454e-9be3-286193b6a224",
+                "userName": "R J",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXC_xBdIuoW5eXe_Pf4fEXlyAOGca2tPAu0gyTGnSqSOA80",
+                "content": "Works perfectly, great ui and has all of the mostly common features of the webui. And also you can use material you (it's in the settings)",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.3.7",
+                "at": "2023-06-15 09:11:15",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "astubenbord-_-paperless-mobile.json",
+        "published_at": "2023-03-03T17:28:50Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "astubenbord-_-paperless-mobile.json",
+        "published_at": "2023-02-06T16:54:44Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "astubenbord-_-paperless-mobile.json",
+        "published_at": "2023-01-21T21:52:52Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "astubenbord-_-paperless-mobile.json",
+        "published_at": "2023-01-15T17:00:36Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "0207bb61-cfd2-457b-bdd0-c4de0ef70851",
+                "userName": "Jeffrey Eng",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWPcJLSICCuSv5gS1-ZKr2VlB1b0VbJlUjbIGgmmb8mzw",
+                "content": "A promising, full-fledged Android app for Paperless-ngx has finally arrived!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.5.1",
+                "at": "2023-01-21 14:19:01",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    }
+]

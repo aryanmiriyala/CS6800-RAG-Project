@@ -1,0 +1,62 @@
+[
+    {
+        "filename": "javiersantos-_-MLManager.json",
+        "published_at": "2015-08-19T15:10:04Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "71db1691-8534-41ea-a2c3-18aea01e7b37",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "But it don't have the stability. In my note 4 it crashes simply by changing orientation to landscape to portrait. But it looks nice. Shame is not practical",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.0.3",
+                "at": "2015-09-02 02:38:09",
+                "replyContent": "Well, crashing for you doesn't mean that it crashes for everyone. There are a lot of devices and Android versions, so some issues could only happen to certain devices. It is the first time I get an issue about the screen orientation. I have received the log with the issue and will try to fix ASAP. Thanks.",
+                "repliedAt": "2015-09-01 11:16:53"
+            },
+            {
+                "reviewId": "7d939958-608e-4f41-b93f-d2b146cea2cd",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Great app! Whoa, it even has the option to choose the name variation of the extracted Apk. This is a must have app. Thanks for the app, keep it the awesome work :)",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.0.3",
+                "at": "2015-08-29 22:35:16",
+                "replyContent": "Hi Valery, thanks for using ML Manager. Isn't it the same as setting the \"Default filename for extracted APKs\" as \"Name\"?",
+                "repliedAt": "2015-08-29 22:31:44"
+            },
+            {
+                "reviewId": "ab730b5e-a0fa-4bdf-ba39-58c785a6dcf6",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Just needs a dark theme then it'll be perfect!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.0.3",
+                "at": "2015-08-23 16:26:30",
+                "replyContent": "Hi. Great news! A night mode has been included in the latest update 😀",
+                "repliedAt": "2017-02-18 10:34:54"
+            }
+        ]
+    },
+    {
+        "filename": "javiersantos-_-MLManager.json",
+        "published_at": "2015-07-17T18:07:42Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "2d61ef6a-1cd6-429f-855f-343f67a590de",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Why doesn't it give the option to share with WhatsApp ?",
+                "score": 3,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.0.1",
+                "at": "2015-07-28 11:12:58",
+                "replyContent": "WhatsApp doesn't allow to send files. Telegram is a good choice to send APK files :)",
+                "repliedAt": "2015-07-28 11:46:05"
+            }
+        ]
+    }
+]

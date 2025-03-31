@@ -1,0 +1,98 @@
+[
+    {
+        "filename": "OCSInventory-NG-_-AndroidAgent.json",
+        "published_at": "2017-11-10T13:38:16Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "3effbbca-d514-41ce-afd7-2fcdfb68b3d7",
+                "userName": "Luis Giordano",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXbvMVrhktZ6m1KT7wcZmWN6HXMVWbUA86T0ylvtGR2d2Uv",
+                "content": "This application wasn't updated since 5 years, and may lack some newer OCS Inventory features. It also doesn't even have proper translations, as there are many empty and/or vague messages. You might want to check the developer's website for a newer version compatible with OCS Inventory 2.10 or later.",
+                "score": 2,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.3.1",
+                "at": "2022-12-23 04:38:28",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "8e8ccb30-d52d-45c8-97f7-dff3772e20af",
+                "userName": "Christoforos Kesidis (HardCoder)",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjV0vnxyb67ZGRK0kC2Hk9tdWzK1a9aaYJK5JOuCP3ofNA",
+                "content": "Getting a not in gzip format error",
+                "score": 2,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.3.1",
+                "at": "2021-07-28 15:48:44",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "826dc724-ef53-4ce8-961b-fa838560e2b9",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "There's any way to track the username? Or at list to edit the user in the inventory console (by default is android-build)? Tested on Android 9.",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.3.1",
+                "at": "2018-12-28 18:44:27",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "54dfa2cc-12ec-4c77-997c-56026e6dec16",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "OCS inventory is such nice software I ever seen.",
+                "score": 5,
+                "thumbsUpCount": 5,
+                "reviewCreatedVersion": "2.3.1",
+                "at": "2017-11-21 14:07:47",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "OCSInventory-NG-_-AndroidAgent.json",
+        "published_at": "2016-12-22T11:42:15Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "2e9bfc48-20db-4a89-9e86-1d7c8c5e6c9c",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Crashes on sending inventory everytime",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.3.0",
+                "at": "2017-07-12 16:05:29",
+                "replyContent": "Bonjour,\nLe problème lié aux droits avec Android 6.0 a été corrigé avec la dernière version. \nCordialement",
+                "repliedAt": "2018-03-15 10:51:32"
+            },
+            {
+                "reviewId": "9b9dfa76-b0fa-48dc-b82f-93e84e9e2aaa",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Crashes when pushing any of the buttons. Android N.",
+                "score": 1,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.3.0",
+                "at": "2017-06-30 16:31:39",
+                "replyContent": "Bonjour,\nLe problème lié aux droits avec Android 7.0 a été corrigé avec la dernière version. \nCordialement",
+                "repliedAt": "2018-03-15 10:51:56"
+            },
+            {
+                "reviewId": "3e1c33be-8329-4fb5-8469-fbade3473bfd",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "App opens but then crashes immediately after hitting one of the 3 buttons.  Not working on Android 7.  Tested on multiple devices.  Needs fixing.",
+                "score": 1,
+                "thumbsUpCount": 5,
+                "reviewCreatedVersion": "2.3.0",
+                "at": "2017-06-29 17:10:16",
+                "replyContent": "Bonjour,\nLe problème lié aux droits avec Android 7.0 a été corrigé avec la dernière version. \nCordialement",
+                "repliedAt": "2018-03-15 10:52:12"
+            }
+        ]
+    }
+]

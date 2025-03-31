@@ -1,0 +1,294 @@
+[
+    {
+        "filename": "saber-notes-_-saber.json",
+        "published_at": "2023-11-27T08:30:43Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "saber-notes-_-saber.json",
+        "published_at": "2023-11-21T11:12:06Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "saber-notes-_-saber.json",
+        "published_at": "2023-10-28T19:12:05Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "577482bd-c629-4b37-a512-25d9f8336e5c",
+                "userName": "Doraemon",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLGCGbXqqiBFSsr-4bJyCsQEHEMdAuQmYYICUqFhOJt=mo",
+                "content": "The shape drawing feature is not good. It does not recognises the desired shape and often the application gets hang when using shape feature. Shape feature is not working properly. Kindly fix that asap.",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "0.17.1",
+                "at": "2023-11-24 07:49:56",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "85d2022e-57be-4beb-b880-b8e34f7c2fa9",
+                "userName": "Gavin Lyall",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXNGF2Y2DM7Z4gtre3Bn8EdCVRoM8LybjrYEueYPUnFsbE",
+                "content": "It's a great app to write on, but a shape and line feature would be nice",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "0.17.1",
+                "at": "2023-10-30 21:03:59",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "saber-notes-_-saber.json",
+        "published_at": "2023-10-22T00:01:19Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "f8230aa4-b041-483c-b72a-dba018749bf1",
+                "userName": "Dennis Raju",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocITlWeI2qv9o5S5n1BABKXu60xjz4R-3kNi613Wg6uOfw=mo",
+                "content": "It would be more convenient if the toolbar was editable with options to create shortcuts to favorite pens, colors and thicknesses. The last update added 'shape recognition pen' but it doesn't work properly. It is difficult to draw a straight line. Most of the time when I try to draw a straight line, triangle or circle it turns into a rectangle. Using this tool freezes the app. I hope this bug is fixed soon. If it wasn't for this issue, this app would have deserved a 5 star rating.",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "0.17.0",
+                "at": "2023-10-24 11:38:31",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "saber-notes-_-saber.json",
+        "published_at": "2023-09-29T20:50:28Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "345bb3fe-695e-4db1-8d9e-7498170be3b4",
+                "userName": "Melviin Khoo",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVI8NkP5YdglL6-5AvDlWdPc6nDD9TEKxVM9mT8O86H",
+                "content": "The concept is great! However it seems like I'm not able to login the same account on different devices. It keeps navigate me to Hanny website.",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "0.16.1",
+                "at": "2023-10-11 03:07:26",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "2968c390-74cf-4704-b420-4285c7fa698c",
+                "userName": "Anamitra Pal",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocL92JWpYp2wUX_KFYz4Gh2FTcsDkY6kjod4OyxGoJkj=mo",
+                "content": "Amazing! Feature request: basic shapes like circle, rectangle, arrows etc",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "0.16.1",
+                "at": "2023-10-07 08:08:05",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "820a0b97-eb26-4cc6-b21d-2c597658cea1",
+                "userName": "Yannic Rinke",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKxQiYAYx7ZFI19PP4qBrcFHeUfzd30EVuODMNSqMd3=mo",
+                "content": "I really like the UI of this app. But I do not like not being able to set the filepath of the notes. That would be really helpful if you want to use this app with Obsidian markdown. If this app could do this and maybe use pdf as default filetype then it would be perfect.",
+                "score": 3,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "0.16.1",
+                "at": "2023-10-03 12:44:05",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "e2a49b67-9a46-431b-a34d-3746d5de59e4",
+                "userName": "Bayu M. Anwari",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVCVETd2s__6HP4TE83hx9cKyO2DD-atOUvl20iddUj-Q",
+                "content": "I know this app is created mainly for doodling notes on big touch screen devices, but for more serious notes I prefer to type the texts to avoid \"shaky\" situation. The app is close to being unusable on 6\" screen in text mode, keyboard takes the lower half of the screen, toolbar takes almost all of the top half, only leaves about 2 lines of text visible when typing. Maybe not for my use case, for me typed in text notes are more useful when syncing back & forth with computers. Good idea otherwise.",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "0.16.1",
+                "at": "2023-09-30 14:18:56",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "saber-notes-_-saber.json",
+        "published_at": "2023-09-19T20:58:24Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "f288addb-25b7-40ed-852d-8eabb2ac22da",
+                "userName": "Iveta Šedivá",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjV7WPQvrd_pbxiqrt3omHrTG6ot5kkD6OmnSvA4Ajf8SxmK",
+                "content": "I LOVE this app, so simple, has everything I need for my notes but the only thing I'm not sure about is toggling with my pen, I have to keep my hand from touching the tablet when I'm writing something so I wish there was something to prevent that, like toggling off a one finger touch which would still work with my pen which some of the other apps offer...",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "0.15.5",
+                "at": "2023-09-26 13:24:07",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "saber-notes-_-saber.json",
+        "published_at": "2023-08-28T23:30:15Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "saber-notes-_-saber.json",
+        "published_at": "2023-07-27T04:06:54Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "saber-notes-_-saber.json",
+        "published_at": "2023-07-23T18:58:32Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "saber-notes-_-saber.json",
+        "published_at": "2023-07-17T21:03:28Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "188c72ef-f7b8-4d76-b424-5995e053f1ce",
+                "userName": "Prankul Singh",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWdeHhkGuMuGX1_UQimSxG9fTgidalbtE-VmDeeEaXs5QQM",
+                "content": "Lot of potential in the app. Has many good features and is simple enough. I am facing issues with PNG export (button is grayed out) and deleting folders (can't delete folders).",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "0.14.7",
+                "at": "2023-07-18 14:38:03",
+                "replyContent": "Thank you for your feedback.\nIn v0.14.8 and later versions, you can now delete folders by long pressing on them and selecting the delete icon.\nPNG export isn't currently implemented, so I've removed the greyed out button for now to avoid confusion.",
+                "repliedAt": "2023-08-26 13:56:44"
+            }
+        ]
+    },
+    {
+        "filename": "saber-notes-_-saber.json",
+        "published_at": "2023-07-05T20:22:40Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "5c231785-188d-48ab-bb26-8690543fe5f5",
+                "userName": "Amit B",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIbUMF2hhKHVvgCh_Bu-_DQM_9mcz-vop9HOo11X86U0Os=mo",
+                "content": "Notetakers! DONT sleep on this app! It functions super well and gets the job done better than onenote! Open source? I love it! Personal cloud sync? You bet! It's ticking all the boxes so far. The ONLY drawback so far, (Tab S6 Lite) is that the pen erase button is not mapped at the moment. Though, the dev seems super committed to the project, so I'm sure it will be added soon. Lovin it so far!",
+                "score": 4,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "0.14.4",
+                "at": "2023-07-08 16:56:00",
+                "replyContent": "Hi, the latest update (v0.14.6) now includes S-Pen button support thanks to @ZebraVogel94349 on GitHub! There are still some parts of S-Pen support (such as hovering) that are being worked on by the Flutter team, but they will appear in Saber as soon as they're ready :)",
+                "repliedAt": "2023-07-11 17:32:39"
+            }
+        ]
+    },
+    {
+        "filename": "saber-notes-_-saber.json",
+        "published_at": "2023-06-18T13:17:16Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "saber-notes-_-saber.json",
+        "published_at": "2023-06-06T14:46:18Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "1c3b109b-39c8-49ea-b090-f0eb00a7f01b",
+                "userName": "Visveshwaran K",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVbE3l0MoA0YuIvBJxTXO93Fxv3YCrRWS0RuQPYGK5N4F8",
+                "content": "Absolutely good app, I searched for hours installing every app which I find and finally decided with this.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "0.12.10",
+                "at": "2023-06-08 14:46:03",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "saber-notes-_-saber.json",
+        "published_at": "2023-05-29T23:16:27Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "saber-notes-_-saber.json",
+        "published_at": "2023-05-25T13:31:24Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "c6168799-7245-4e74-96cf-a131804eed24",
+                "userName": "Isaac Wright",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWKIcCgLSe7q_aLVH6sfHNi5U5A4Rh7y5aqW70mj9VoGp4",
+                "content": "Keyboard flashes then disappears. Needs to be fixed!",
+                "score": 2,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "0.12.8",
+                "at": "2023-05-26 18:32:55",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "saber-notes-_-saber.json",
+        "published_at": "2023-05-21T18:36:36Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "saber-notes-_-saber.json",
+        "published_at": "2023-05-17T02:55:30Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "saber-notes-_-saber.json",
+        "published_at": "2023-05-14T13:20:43Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "saber-notes-_-saber.json",
+        "published_at": "2023-04-28T07:46:25Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "saber-notes-_-saber.json",
+        "published_at": "2023-04-05T01:47:14Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "saber-notes-_-saber.json",
+        "published_at": "2023-03-20T12:31:00Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "saber-notes-_-saber.json",
+        "published_at": "2023-03-12T11:13:00Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "saber-notes-_-saber.json",
+        "published_at": "2023-03-05T02:39:22Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "saber-notes-_-saber.json",
+        "published_at": "2023-02-25T00:07:04Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "saber-notes-_-saber.json",
+        "published_at": "2023-02-01T21:25:04Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "saber-notes-_-saber.json",
+        "published_at": "2023-01-23T05:34:02Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "saber-notes-_-saber.json",
+        "published_at": "2023-01-10T01:51:08Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "saber-notes-_-saber.json",
+        "published_at": "2022-12-14T14:15:21Z",
+        "google_play_reviews": []
+    }
+]

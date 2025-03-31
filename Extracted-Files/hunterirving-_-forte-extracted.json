@@ -1,0 +1,32 @@
+[
+    {
+        "filename": "hunterirving-_-forte.json",
+        "published_at": "2020-10-20T22:49:03Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "0c28e241-8a37-4aca-90a4-1348f5888eb0",
+                "userName": "Philip Wright",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVp5Krw6uB7hF2p7hYxD1IzzzrEne41JMbSwh8T91lA2svR",
+                "content": "A bit too simple. Only lets you run four apps. Not configurable at all.",
+                "score": 3,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.2",
+                "at": "2021-01-25 05:24:16",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "0145478d-29ab-42f0-b73f-a7866401f3dd",
+                "userName": "Karan",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXfqCVDZs2XqPX2J63oPHuKB-9zET-O654daFh76EXyxqM",
+                "content": "Off to a great start! I really love the simple interface! The menu system somewhat resembles sailfish os' pulley menu. Would love to see it getting developed further:)",
+                "score": 4,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.2",
+                "at": "2020-12-11 05:39:38",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    }
+]

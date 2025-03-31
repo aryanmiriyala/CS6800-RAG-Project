@@ -1,0 +1,55 @@
+[
+    {
+        "filename": "gryphius-_-androdns.json",
+        "published_at": "2019-05-31T16:18:59Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "a251f59b-0522-4b00-8dc9-7638c33194c9",
+                "userName": "Sish Kitane",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXbnxt29den52-snEw_q5UoLGkWbVmO5x3K1FGnbeb0U6ks",
+                "content": "Gets the job done!! Wish the UI was a bit cleaner and I think some default public servers would save me from having to type one in. But if you need to test DNS from your phone this is the way.",
+                "score": 4,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.6",
+                "at": "2020-12-17 04:47:11",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "b9f1d572-9067-4119-955d-f6c04e4c140d",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Best DNS diagnostic tool when on the go",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.6",
+                "at": "2019-06-01 09:08:35",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "gryphius-_-androdns.json",
+        "published_at": "2019-01-01T09:02:52Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "gryphius-_-androdns.json",
+        "published_at": "2017-12-28T20:51:52Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "8d447a0c-1a14-4f93-b359-7a742f810113",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Great tool!",
+                "score": 5,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "1.4",
+                "at": "2018-04-09 10:55:20",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    }
+]

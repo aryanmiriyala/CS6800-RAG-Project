@@ -1,0 +1,42 @@
+[
+    {
+        "filename": "SecUSo-_-privacy-friendly-2048.json",
+        "published_at": "2023-09-26T11:18:39Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "SecUSo-_-privacy-friendly-2048.json",
+        "published_at": "2019-03-28T12:50:02Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "cbd19986-4a8d-4df3-a2cd-71857506bd8f",
+                "userName": "Teemu Ojansivu",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUn89aBSxh0in1zuEJaYPicYjiWKJ3kzXQnVhdvklhznF1K",
+                "content": "On gesture based ui really annoying. Easy to press back swiping from to close to the screen edge. Otherwise fantastic.",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.2",
+                "at": "2023-02-11 12:35:49",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "59fdd531-5cae-46cc-b0f4-5991f6c72c41",
+                "userName": "Вадим Владимиров",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUB-P4XBJLlboWtxxi6lbn0vB9Qr6RjE5Rm_wR1ieVnIA",
+                "content": "Прекрасная игрушка :)",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.2",
+                "at": "2020-09-10 04:54:33",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "SecUSo-_-privacy-friendly-2048.json",
+        "published_at": "2018-10-29T21:27:17Z",
+        "google_play_reviews": []
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "filename": "SecUSo-_-privacy-friendly-interval-timer.json",
+        "published_at": "2020-05-02T19:22:11Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "b32e3da5-4628-4aa4-9bf5-e084d37b0f32",
+                "userName": "David Wettstein",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVpWytj4yh6pqGG4mHzeKNiFR1vQ6-vcdlOOpguVxDOcLw",
+                "content": "Easy to use, no ads, no internet connection required, open source. Thank you!",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.2",
+                "at": "2021-06-15 11:46:02",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "SecUSo-_-privacy-friendly-interval-timer.json",
+        "published_at": "2018-03-09T12:39:39Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "84746f01-1a5f-4226-9bb2-41d948a465a2",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Thank you so much for your small privacy friendly and open source app alternatives. What would be great for the interval app were 5 second steps for the workout lengths though.",
+                "score": 4,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "1.0.2",
+                "at": "2020-02-01 09:20:31",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    }
+]

@@ -1,0 +1,926 @@
+[
+    {
+        "filename": "CookieJarApps-_-SmartCookieWeb.json",
+        "published_at": "2022-02-16T11:45:45Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "7edefbcc-37c8-470f-b2f8-e676019439c7",
+                "userName": "Rajab Ali",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJeCi-ctIGGMr_h65DyCT_b6SvwkxbbiXAY_O5MP3rt=mo",
+                "content": "❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "16.3",
+                "at": "2023-11-22 15:34:47",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "e0434022-18d0-4152-bcbb-2949d26131d3",
+                "userName": "Piers Whiting",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVt6JbEnWHJPVU5DbQ24VzJNdmyN4DET3t5K-U0gOEH-h0R",
+                "content": "Very fast browser but no update for sometime. SmartCookieWeb Preview app looks good though!",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "16.3",
+                "at": "2023-10-23 15:45:13",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "d0b5972c-0745-4c51-a272-a1785b1a73fa",
+                "userName": "dlex 5178",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKbd1VsgM2KkvjkLn3G5npqsPOhv4aoACwa1P9oABfl=mo",
+                "content": "good",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "16.3",
+                "at": "2023-10-11 19:10:35",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "3b46f42c-f5ef-4d65-a512-ee21e48aa4f4",
+                "userName": "YESHUA HAMASHIACH",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXYBWXTPWLu8rFEWyShx1limaNM5HP2MkOgeXtYR_QDEoA",
+                "content": "Good.. choice of two searching bar. 👍",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "16.3",
+                "at": "2023-09-22 13:45:38",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "b5813219-0433-4da4-b8e9-f804401903cd",
+                "userName": "Mark Jensen",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKFQACLgsTMgkWaelegGnKdG_YmwClJm_yLBrxVLkQLOA=mo",
+                "content": "I enjoy reading zerohedge website, but their new cookie consent monster have more than 100 companies to turn off and i just gave up. Looking for a cookie concent blocker i found this browser, and after turning on innsettings to block cookiehell and seeing it works im now very happy to give 5 star. This will be my primary reading news browser. Thank you to the devs :)",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "16.3",
+                "at": "2023-04-28 06:41:58",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "93a13d5c-1b4c-45f3-b091-6701fd479278",
+                "userName": "Deepak Kumar Samal",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIt_IDvmZUlLLwE8-lLAF0s32Nn-p2jykoZZBQxLJ_i=mo",
+                "content": "Very good app..Sad that development has stopped",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "16.3",
+                "at": "2023-04-01 19:42:07",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "340aeac0-05a4-4f54-ba88-5b3b447c2370",
+                "userName": "Dennis E. Armstrong",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKZNW7-IRESJ9SL-MYTDQuOjCY4pYUEYByXPKQH4Q7P=mo",
+                "content": "Helpful / relaxing",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "16.3",
+                "at": "2023-01-04 09:32:23",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "61269430-36c2-4420-ace8-3860974f9603",
+                "userName": "drunkennewfie midget",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUPF-USRrZNPfTMEUdRubTyzxce9RYillPZeM6pLA93",
+                "content": "I'm excited for this browser. It really seems like a step in the right direction. Currently it crashes entirely when viewing some images, and I'd love to see support for site notifications and being able to set a list of sites where you opt in to keeping their cookies across instances of the app while other sites get their cookies wiped on restart.",
+                "score": 4,
+                "thumbsUpCount": 7,
+                "reviewCreatedVersion": "16.3",
+                "at": "2022-12-24 02:33:06",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "f3588cea-d103-4cd3-9015-9eb8df82f6d2",
+                "userName": "Bruce Newman",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLX4o1L8btFGRIeSp5R65QHnWqIhNjpimqQ1CXOI2DT=mo",
+                "content": "Makes reading The New York Times for free possible.",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "16.3",
+                "at": "2022-12-18 22:49:05",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "627f25c8-637d-46ae-8015-7d44bbdd1e9f",
+                "userName": "N DD",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKGMWTPAGHe2EDq-k8ueKKKb-rpSTn9Lr65pvcRkV7Q=mo",
+                "content": "Although the browser is good, there's no way to stop autoplay videos from running. It really lets the browser down. How hard can it be to fix it?",
+                "score": 1,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "16.3",
+                "at": "2022-11-25 23:21:30",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "ef94302c-1399-48d5-af9e-64478424e3d8",
+                "userName": "Don Earles",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKtM7jMFRLr1hfFLRSRkZ2Ga1iby4P9S2fC7K8nShGe=mo",
+                "content": "Accept cookies for browser",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "16.3",
+                "at": "2022-11-12 01:20:58",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "babdfa57-ddf9-4936-b39d-e2847e1d9af0",
+                "userName": "Eva Sinju",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIwfbbKqXF1C5vtfAExnunASxBuZPIwGnUwAvDTipHc=mo",
+                "content": "Like how the interface.. but on the browser page keep on refresh and refresh.. please fix this",
+                "score": 3,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "16.3",
+                "at": "2022-11-05 04:51:29",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "fea71527-6fc5-4213-943e-a94a009b1b63",
+                "userName": "suwaji 36",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVvMA4u2mm4ovl0nlgSmMrdi4NJarDQr77PNrnpMuScUg",
+                "content": "supprots bela negara",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "16.3",
+                "at": "2022-09-27 02:35:45",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "7d4f0a79-c829-423b-9c8d-0202bc58d17f",
+                "userName": "Roya FARD",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKWnCjNu3UkSKi6M9IxRxNeAu0MiSeV--gUKiVDlxL4=mo",
+                "content": "خیلی عالی very good *****",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "16.3",
+                "at": "2022-09-23 04:58:55",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "a75552c6-defa-4225-8c34-cbf298d667a0",
+                "userName": "Jacopo",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXbU9M-PsRiUs-5m7G32v7t-Q4SP44J6HfkQUJf_HTxbFw",
+                "content": "Good browser. The only thing that I don't like is that the navigation bar is black.",
+                "score": 4,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "16.3",
+                "at": "2022-09-07 07:55:34",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "7bc794c7-ab6d-4e7d-b4dc-8ac17f718d7b",
+                "userName": "MOTO",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjURMiThALN9bEZpGnmJblK7E7SL_VO7-0eTuP8nDqIA-Q",
+                "content": "Great job..if you want a browser that's cool without the tracking nonsense.. look no further.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "16.3",
+                "at": "2022-07-09 20:19:38",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "c3636016-4e12-44bd-ac05-6b5ef59887f0",
+                "userName": "Roger Jay",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKLlmNxT1IYUWiM1Z0HJqdilo3bXQtHd0W6kIeqNACx=mo",
+                "content": "1st impressions, very good",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "16.3",
+                "at": "2022-07-01 23:40:10",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "e11006ab-4a75-418c-ae5b-76ac2721f898",
+                "userName": "Shovan Modak",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocK9T6yxAok-6AlkN0ygvslZrNG6Kl3oRlm-NeEtUlbvzA=mo",
+                "content": "I like it. But can you tell me how to open YouTube links in actual youtube and not on browser? Will update it to 5 star then.",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "16.3",
+                "at": "2022-06-06 04:55:09",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "3d3d38f5-a5be-40be-8917-1844ffdc33f5",
+                "userName": "Prvate Private",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocK-3ZKPEVCPYLi-IJyg_qiCYovMoGhulWKGjo4TnR0=mo",
+                "content": "Pretty decent browser. Has a bug where I cannot kill closed tab. I have 23 tabs which are saved as a tablist. When I close this browser, the same 23 tabs reload no matter if I closed those tabs or opened new ones. Somehow the active tab list is set as READ ONLY.",
+                "score": 3,
+                "thumbsUpCount": 5,
+                "reviewCreatedVersion": "16.3",
+                "at": "2022-06-04 02:49:06",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "7a1cba80-fc6a-4494-92d4-bdc3856b451e",
+                "userName": "NguvuZaWatu NguvuZaWatu",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJBPMRpuQDSdIi1GRu_BYc0wnjBIcff60EbLBb9MNFI=mo",
+                "content": "DON'T UPDATE to it's latest version! IT DOES NOTHING BUT BREAK THE Web Browser Ap!",
+                "score": 1,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "16.3",
+                "at": "2022-05-31 10:01:59",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "4b174d99-78bb-45d3-af50-47f6f2b94803",
+                "userName": "Gourab Banik",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVg8u02qyH4FJXLDzr1ifoefw_9fyU1bMbxx5rlspX9P_g",
+                "content": "Sir,plz plz plz plz plz add the Extention add ons like smartcookieweb preview browser,or improve the smartcookieweb preview browser like this browser all features included..i like the Extension feature which support desktop extension,and the ui of smartcookie web browser.",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "16.3",
+                "at": "2022-05-25 20:11:20",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "00fc2da4-334b-4b48-809e-8f04ba7584f9",
+                "userName": "white Dove",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIChHlWfOLIV2A4C2390nZ7UOkhhj9sBfDTh6bqfFeD=mo",
+                "content": "🧿🌐",
+                "score": 3,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "16.3",
+                "at": "2022-05-23 11:10:00",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "3901a732-1ad4-4161-a5fe-802cc3d65277",
+                "userName": "Lass Aly",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVN7uKs-sMr2E3hwTUIoOqYK3ASQL1E3I6vBDgvAN_TFy0",
+                "content": "Should probably reconsider the misleading name. The name and description make people believe it removes cookies automatically. There is no point in creating just a plain old browser, we have enough of those. Garbage app",
+                "score": 1,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "16.3",
+                "at": "2022-05-15 16:10:48",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "518f048c-7e23-49af-ace6-541626338d67",
+                "userName": "Kaito Kid",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLiGLr2NI2M_fssAuTenm2a40koLsw4JNFNDU6TQOOM=mo",
+                "content": "This Browser is really good.Its easy to use and despite its small size it has a lot of option.I really like the reading option.Also its fast.Great job",
+                "score": 4,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "16.3",
+                "at": "2022-04-29 09:14:49",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "f7ac5049-da42-40a0-8c8d-1709c8f02da2",
+                "userName": "Mike",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWTTDbf1vOrlSSn0tbjwD4xJHO8lEHhiEBlJAvZ8k8By7c",
+                "content": "good",
+                "score": 4,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "16.3",
+                "at": "2022-03-07 01:29:58",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "CookieJarApps-_-SmartCookieWeb.json",
+        "published_at": "2021-08-15T18:24:11Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "411e4871-8a8a-446d-9ba8-61e8ad74e788",
+                "userName": "Mae Thomas",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLrsd-PxGgRKGlpvVSzUns6nZVfGZn1-xhAXgU8Ejf5=mo",
+                "content": "Just downloaded and did a quick test run. I really like it, it loads quickly, but strangely it has a hard time with links? Clicking on a link sometimes doesn't take me where the link is supposed to go, and trying to open them in a new tab doesn't seem to work either. These links are not broken, they function properly in other browsers. I'm not sure what's going on, but that might be a dealbreaker for me, as it's pretty frustrating.",
+                "score": 3,
+                "thumbsUpCount": 23,
+                "reviewCreatedVersion": "15.0",
+                "at": "2022-01-13 20:25:17",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "bad776e7-41f1-435b-af7d-309ab7db3595",
+                "userName": "Wind Slightly",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVCTYEB5bcjSXpph3rsyfrDU78rWM-euiBj8e4QsiyLim0",
+                "content": "Haven't seen the source code getting any update for a few months now, but the browser works great. Not all keyboard shortcuts work, but browser tabs don't get discarded and have support for user scripts.",
+                "score": 4,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "15.0",
+                "at": "2022-01-09 01:21:05",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "32a8355d-c834-4de8-8943-140c387cdc51",
+                "userName": "J. S. (darkocean)",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjW-HfwSVeqe7luI2TnKLvlIIUV9nz5lBMrhVhTRGBHwa_s",
+                "content": "Has a homepage, lots of settings :D, clasic tabs, extensions ❤, bookmarks, private tabs and more! (Finally real settings) I need to test it out for a while to see how well the very few sites I visit work on it. So far I'm happy to try this browser again. 😀 Rats it breaks the cookie clicker browser game. I'll send a screenshot.",
+                "score": 1,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "15.0",
+                "at": "2021-11-17 01:07:08",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "CookieJarApps-_-SmartCookieWeb.json",
+        "published_at": "2021-05-16T13:29:35Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "5b671ab8-077a-470e-a023-1da1849ed0f3",
+                "userName": "Kaine Dube",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIUBBwfU00-u3my5sKd7w9vwRyS83oAkZmJGY1G0KCX=mo",
+                "content": "I have a question incommon for blocking using parental settings can your parental settings can block or web filter youtube videos or video found on the internet web",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "14.1",
+                "at": "2021-10-11 00:50:01",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "48945304-3af0-42b7-8508-d7de40862de8",
+                "userName": "Mugiwara luffy",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKXrJp89Sc9Y4z5NcXpAnf3zgKFGOtm89gs5x8vrzU6=mo",
+                "content": "5 star if space for 10 star i'd give. Much better and more functionality unlike popular browsers, you are truly in control of your privacy",
+                "score": 5,
+                "thumbsUpCount": 9,
+                "reviewCreatedVersion": "14.1",
+                "at": "2021-07-25 14:56:29",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "618db2cf-6345-4326-93ea-7aa12d8d348f",
+                "userName": "Nisha Choudhary",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWOhf8tizpDn3XznZVzG5Z5ltWJd5yFZa3KuLwhcK543w",
+                "content": "Browser is good but plz take a look at battery consumption...............",
+                "score": 5,
+                "thumbsUpCount": 9,
+                "reviewCreatedVersion": "14.1",
+                "at": "2021-07-17 11:10:12",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "351a1a25-9a9a-4e09-8dd3-c9dbc40b6393",
+                "userName": "Simon Ghoul (Detective Neko Ghoul)",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWegyEeXIWiL1MimJWR2Uvi9LYi8Vr2bL-dmLolymu7zNe7",
+                "content": "don't force read and write permissions to use the app. If I deny these and I am already aware of what I am going to miss out on, then I shouldn't be forced to provide these permissions. Edit: epic",
+                "score": 5,
+                "thumbsUpCount": 10,
+                "reviewCreatedVersion": "14.1",
+                "at": "2021-07-03 09:40:04",
+                "replyContent": "Thanks for your review - I agree that you shouldn't be forced to allow read/write permissions during onboarding. I'll make sure that this is fixed ASAP.",
+                "repliedAt": "2021-07-03 09:37:01"
+            },
+            {
+                "reviewId": "d7abf2ca-a2ae-473d-833e-0b1342de313a",
+                "userName": "Skryf my net eerder be'nI'puqlI' vISov (roj HIvjeq)",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVcYFuNcf0wTgf_hsi5SiveaZfg5yyxWtsJuCH1B8qUFw",
+                "content": "would having the ability to store saved logins defeat the security of this app?",
+                "score": 3,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "14.1",
+                "at": "2021-06-20 19:13:04",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "06cad95e-ad56-4adc-8284-7438212c5b01",
+                "userName": "Thapa Nepal",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKWdNZGvGSbXq-iued16ZZ8X63Pd2vnT7eJdS8rwWH-=mo",
+                "content": "i Liket smartcookiew Butt my problem access google switch data web remove access system very danger root app",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "14.1",
+                "at": "2021-06-04 12:54:04",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "ebfcf873-66d0-4be4-b6ee-dbb265e14730",
+                "userName": "Dave Murray",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIk_g1IJS_OxEvDM_zzUK8vRYYMBEqbhqURuX5C-KTCHw=mo",
+                "content": "Attempting to download a RAR file from a website results in ending up with a PHP file,had to use another browser to get the file.Changing from browsers own downloader to system downloader didn't help either.",
+                "score": 4,
+                "thumbsUpCount": 9,
+                "reviewCreatedVersion": "14.1",
+                "at": "2021-05-27 22:24:40",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "CookieJarApps-_-SmartCookieWeb.json",
+        "published_at": "2021-02-09T19:28:28Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "8f1446e7-02f6-4690-8c10-9dc01f386421",
+                "userName": "Ddz",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJQFZZttxR8KGL0dGVTdnFxuwG-_sEnFBzvee_xgaPC=mo",
+                "content": "I like it but when I quit it does not delete my cookies even when I'm turning on that feater but it does not work I gave you 5 stars to motivate you and I hope that youl will fixe the problem that I have the app is not deleting my cookie when I exit",
+                "score": 5,
+                "thumbsUpCount": 6,
+                "reviewCreatedVersion": "12.1.1",
+                "at": "2021-05-09 07:44:04",
+                "replyContent": "Thanks for your kind review, I'll look into your issue this weekend and I'll make sure it's fixed in the next update.",
+                "repliedAt": "2021-05-11 20:56:38"
+            },
+            {
+                "reviewId": "dcc31e32-209a-4e8a-9cb4-607df35fd388",
+                "userName": "abbas habib",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUDkKMmoLroJX_nP50VVwL7ybCZ6uUkf73Nlw-2JRRicjI",
+                "content": "I just started using it and it's definitely reliable Wish it included a vpn",
+                "score": 5,
+                "thumbsUpCount": 5,
+                "reviewCreatedVersion": "12.1.1",
+                "at": "2021-03-31 09:53:24",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "e5d53ee3-a447-42da-a26b-8761b827a7b0",
+                "userName": "Dawna Cara",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXnjPGsqGqQXMvQz7g0QUy8fbilBKxmBlntK5C30ltiWg",
+                "content": "I really liked it at first, especially the security with clearing cache and cookies automatically set, but I went nuts with the passcodes and app locks. I couldn't access the stop it mode (to change or turn off that part) so unfortunately uninstalled.",
+                "score": 4,
+                "thumbsUpCount": 12,
+                "reviewCreatedVersion": "12.1.1",
+                "at": "2021-03-14 03:41:55",
+                "replyContent": "Thanks for the review, I'll add a way to override the app lock in case you get locked out.",
+                "repliedAt": "2021-03-16 18:51:49"
+            },
+            {
+                "reviewId": "9c87b41a-2c94-44ee-aa2c-c328a7d6a377",
+                "userName": "Aleksa",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLSogAE553Q17g3ID62_kZPnPl6btT-lx-r9anwqgc_uw=mo",
+                "content": "nicely done",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "12.1.1",
+                "at": "2021-02-25 09:34:27",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "c3d74e57-df35-4676-8b53-95dd434294ed",
+                "userName": "Hootie",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVuzCY-1ZrqjSBQHBPj9Ey5OQmd2Ahf0i3zG3uOn0vqqHs",
+                "content": "BEST Google App If You Need Milk With Your Cookies Both Are Attached Go Good Together.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "12.1.1",
+                "at": "2021-02-23 12:24:07",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "3fcc80c3-0093-44ef-9117-57c631d87bc6",
+                "userName": "guy fifth",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKVhIa3vTpgHccnl3213oRcxSlIokyW0WA-EroXsX9X=mo",
+                "content": "Simple and wonderful. Thank you for your efforts.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "12.1.1",
+                "at": "2021-02-22 09:44:07",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "CookieJarApps-_-SmartCookieWeb.json",
+        "published_at": "2021-01-26T16:44:57Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "CookieJarApps-_-SmartCookieWeb.json",
+        "published_at": "2020-12-26T14:59:55Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "CookieJarApps-_-SmartCookieWeb.json",
+        "published_at": "2020-11-15T20:04:45Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "b3ef365a-431e-47dc-bece-c159b0578827",
+                "userName": "Pratiksha Vadhar",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJ5AC4EB1MqKxiQJnA6BhszRg7wQp48kl3_oUZl4U42=mo",
+                "content": "Not sure why others say it is useless, but I have been using for 8-9 months now, and I find it easy, having all one needs and is better than soul or brave. Not intrusive at all. Please stop giving useless comments (who give).",
+                "score": 5,
+                "thumbsUpCount": 10,
+                "reviewCreatedVersion": "10.0.0",
+                "at": "2020-12-18 16:44:11",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "bbdf8698-38ad-4296-8168-b403619033b7",
+                "userName": "Yashwanth Nethi",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWZCahJ_OEax8ZMxl5Jjy2xdiokxqAlljN8ktgWk1UiEgg",
+                "content": "This browser is awesome I didn't expect that much from this browser awesome.",
+                "score": 5,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "10.0.0",
+                "at": "2020-12-05 10:17:28",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "7372ddd7-e7e5-42f9-bb95-5bc14a6f7033",
+                "userName": "Merlin Esther",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJ_OIGwqkAmC1x-Ch8Ial7Csvit4swi0MJv4vWLvqXzPw=mo",
+                "content": "good",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "10.0.0",
+                "at": "2020-11-21 05:47:03",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "4133c0cb-548f-4708-bb16-356dd7b00ec8",
+                "userName": "Timothy Travis Barnes (Timmy)",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIhPIuy0AEhix-uQ2Bn6b9hEPMFE4V_RDkjH8_vxWggUDo=mo",
+                "content": "A Smart Cookie Web app",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "10.0.0",
+                "at": "2020-11-19 22:14:30",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "CookieJarApps-_-SmartCookieWeb.json",
+        "published_at": "2020-11-01T09:37:44Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "CookieJarApps-_-SmartCookieWeb.json",
+        "published_at": "2020-10-21T13:41:56Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "375c3f1b-5523-418b-8a4c-3e6fbd892232",
+                "userName": "Денис Черепко",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIm_9F7IjorPsXU0BvwOOQ7SV0G4AgjZkXQKv33k3yj=mo",
+                "content": "One of the stunning app available for dating and building relations on social media! Would highly recommend it!",
+                "score": 4,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "9.2.3",
+                "at": "2020-10-28 15:55:17",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "784beb4a-7691-4933-a6cf-599f3d9546fd",
+                "userName": "cielo reyes",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXTJ9Q6r-QAuxSymTXIviL6BBQO6FDG3F9wRZ0boGMtPuc",
+                "content": "Cool and brilliant mobile application. The idea and concept are amazing. Easy and simple to use. Really helpful and useful app. Love it. Highly recommended. Thank you",
+                "score": 5,
+                "thumbsUpCount": 6,
+                "reviewCreatedVersion": "9.2.3",
+                "at": "2020-10-26 06:02:01",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "CookieJarApps-_-SmartCookieWeb.json",
+        "published_at": "2020-10-11T17:17:26Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "CookieJarApps-_-SmartCookieWeb.json",
+        "published_at": "2020-08-26T19:36:29Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "fac2042c-7b6c-41e4-961b-0c447833d5d2",
+                "userName": "Louisa Smith",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIAiVXsMy78s2zLXWF04iebAN4bmsK0E0Z_0mbZpf1b=mo",
+                "content": "Will not work",
+                "score": 1,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "8.1.0",
+                "at": "2020-09-15 15:09:32",
+                "replyContent": "Please email support@cookiegames.co.uk",
+                "repliedAt": "2020-09-15 15:10:16"
+            },
+            {
+                "reviewId": "f95ec48a-1a6a-470d-8644-80fa184f4507",
+                "userName": "Baivab Jena",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUOLpuKHjG_tIWqrMj6UTGCnYXdPfVNoHniPfv2VLfuu5M",
+                "content": "Great concept, but the tab tray is not at all one hand friendly. Also the adblocker isn't that strong. Any way you can enable the browser to trust the user certificate store? I have adguard https certificate installed on my device that blocks ads perfectly, would love it if I could use it with Smart Cookie Web.",
+                "score": 3,
+                "thumbsUpCount": 14,
+                "reviewCreatedVersion": "8.1.0",
+                "at": "2020-09-14 10:50:18",
+                "replyContent": "Thanks for the review :) - I'd you're using your phone one handed, the best settings are probably turning off \"Show tabs in drawer\" in customisation settings and turning on the bottom navbar. I can spend some time looking into the 2nd thing this weekend. For anything else, email me at support@cookiegames.co.uk",
+                "repliedAt": "2020-09-14 14:58:11"
+            },
+            {
+                "reviewId": "86029882-a714-4b8f-81d3-103cd0850b55",
+                "userName": "Crawford Kirkpatrick",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjW4XgwdIZTheMTXO-VnvdHDogobZHlTsyXMe22kuc5qVFE",
+                "content": "This is a terrific browser. I always liked the speed and performance of Lightning, but not the interface and security. This is a vast improvement on both fronts. Nice work.",
+                "score": 5,
+                "thumbsUpCount": 9,
+                "reviewCreatedVersion": "8.1.0",
+                "at": "2020-09-01 00:42:24",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "4b5572cc-7f78-4cc6-95a5-eb54bcbf9166",
+                "userName": "Wretched",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXPIrK5mhbXc6MGRr8VQWR_OFRSJ7unhZzaGasckhKvVhs",
+                "content": "epic",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "8.1.0",
+                "at": "2020-08-31 12:26:07",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "a54c3ae9-ee5c-4fea-8df1-d2ab406f23c0",
+                "userName": "Michael Mashegoana",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWnFtq2KLHp2JZWIT9btawFaO8xcYkwnefLzejab3lHRK8",
+                "content": "Must have app",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "8.1.0",
+                "at": "2020-08-27 23:17:55",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "CookieJarApps-_-SmartCookieWeb.json",
+        "published_at": "2020-08-13T20:06:36Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "7de7f7c0-e0f2-4cc1-96f2-32a8731f4695",
+                "userName": "Bibisha M",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUbO34bOwwD0kiiiL4GVal3cakqFjeYrhEe1GbIehyvEA",
+                "content": "Smart browsing app. Really luv it. Thank you.!",
+                "score": 5,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "8.0.0",
+                "at": "2020-08-16 14:06:47",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "CookieJarApps-_-SmartCookieWeb.json",
+        "published_at": "2020-07-19T20:48:35Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "b5e49bc1-6087-45fb-b718-cfb2ea41d8bb",
+                "userName": "J",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjX7jNhrkpkOQI2ddMXl72KAlio7WPwdqaF5_skC_A6mMReG",
+                "content": "Dammmmmnnnnn your browser has taken off and has every bell and whistle a user could want. Free and a freedom loving app as well. 100% Approved! Can it work with SearX or Presearch (the French wonder )?",
+                "score": 5,
+                "thumbsUpCount": 9,
+                "reviewCreatedVersion": "7.12.0",
+                "at": "2020-08-15 07:05:02",
+                "replyContent": "Thank you for you review :) I'll add some more search engines to the selection list in the next update.",
+                "repliedAt": "2020-08-15 10:45:57"
+            }
+        ]
+    },
+    {
+        "filename": "CookieJarApps-_-SmartCookieWeb.json",
+        "published_at": "2020-06-21T17:15:44Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "c97bf114-cffb-4192-8759-7cd2463426b4",
+                "userName": "Derek Butt",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLs90uGmIyMJLxc_V4S-XwuUuhzNI6PrYy86_t-cH77=mo",
+                "content": "Exelent discovery",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "7.8.0",
+                "at": "2020-07-12 16:06:45",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "b048f2e6-e0b8-4ea7-9d51-9618b82af94e",
+                "userName": "Hook",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWf0kUB0OmMh3uZLwoNYUCCMoiaq_-zLLXvkGFyufbXtn0",
+                "content": "Fast clean advertisement free browsing!",
+                "score": 5,
+                "thumbsUpCount": 5,
+                "reviewCreatedVersion": "7.8.0",
+                "at": "2020-07-08 16:58:47",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "61ad2561-4a46-44db-9ab0-26a9e907a9c2",
+                "userName": "young voke",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocI8tZqabsvLnjeLaWhkoP3VRKtHb1v8zDStE1FWI3Hm=mo",
+                "content": "Cool",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "7.8.0",
+                "at": "2020-07-03 21:53:23",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "CookieJarApps-_-SmartCookieWeb.json",
+        "published_at": "2020-05-17T14:56:13Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "3e5b3947-e4d2-4cc5-b07b-98d701754b2a",
+                "userName": "N CHUCK",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjU2_3_kLCbMyEWMgRKSqhDjZwIKuIW7KOc_WX9sVnDYh0U",
+                "content": "UPDATE - Good so far. Developer is responsive! Settings list is long and while it does have a back arrow, it takes you back to the web page, not the settings menu. Seems to be a \"Let web sites open a window\" conflict in Settings? Would work better for me if Bookmark settings were closer to the top? Pretty fast. Minimalist UX. Like the left slide out tray. 6.21 GoodLeadsServices blank screen? Malicious! Buh buh.",
+                "score": 3,
+                "thumbsUpCount": 32,
+                "reviewCreatedVersion": "7.7.0",
+                "at": "2020-06-21 16:46:27",
+                "replyContent": "Thanks for updating your review! I'm planning to release a big update this weekend, so I'll add some of your suggestions :) EDIT: open the bookmark drawer, go to the list icon and select 'disable adblock for this site'",
+                "repliedAt": "2020-06-21 16:49:34"
+            },
+            {
+                "reviewId": "7d9cbad8-f158-444a-821d-313e6e5dc87e",
+                "userName": "Shreenidhi Vinze",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjX24sdUdJnuOuEBCGVQrwMClPn5WVunDudvmPIWLgPI898",
+                "content": "Super fast, clean, blocks most ads, open source, dark theme. Perfect browser!",
+                "score": 5,
+                "thumbsUpCount": 12,
+                "reviewCreatedVersion": "7.7.0",
+                "at": "2020-06-12 04:18:58",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "0aef5a35-b541-442f-a798-80761b00ea59",
+                "userName": "Rhez Lopez Vlog",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWG_hZVFTuBjqRzn-0LujZ649uNLRq13mIFzCf6X22xAYov",
+                "content": "So useful",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "7.7.0",
+                "at": "2020-06-09 06:23:35",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "CookieJarApps-_-SmartCookieWeb.json",
+        "published_at": "2020-04-27T07:17:09Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "edb567ac-d53c-4971-9cc2-3fb5701c72e4",
+                "userName": "caleb craig",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKzLy4Y6gIH9mbRzYD9phJiX391Snr-K6VHsUva1Gv-=mo",
+                "content": "keeps evrey thing hiddin",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "7.6.1",
+                "at": "2020-05-20 20:04:14",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "883aefbd-1308-4d09-b8fa-f8ea13978eaf",
+                "userName": "Supreet Tiwari",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWPh7pr6QnKiR5fVQ8IWsViWa6Q1kS3qNYxCfa1wrIbCRs",
+                "content": "Useless app",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "7.6.1",
+                "at": "2020-05-19 14:35:30",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "02e9ed13-3543-408d-8b5a-78be438727d6",
+                "userName": "Angela Andreeva",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXwMpoHAcFccFDxNX-ahqUBzjqpl-HmRC3KsQF8HidcNw",
+                "content": "Nice and easy to use app to browse through the network securely and without a single ad. Thank you!",
+                "score": 5,
+                "thumbsUpCount": 12,
+                "reviewCreatedVersion": "7.6.1",
+                "at": "2020-05-04 11:37:10",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "19fa0735-786b-406b-abca-785d783bb0ed",
+                "userName": "Alex Pande",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLgMHYWwto5CQyHM7rw3lvXBI72lP4SalQNdRKqRIu_=mo",
+                "content": "Smart Cookie secure Web browser is amazing app. I have use best searching browser. I like this app.",
+                "score": 5,
+                "thumbsUpCount": 8,
+                "reviewCreatedVersion": "7.6.1",
+                "at": "2020-05-04 11:36:44",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "8a995976-943a-483f-b0b1-91bd77556607",
+                "userName": "Marta Lopez",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIMS2KjOVpXTAzY2ZHv2xJauq4DTyhiQZg-kUlzYLcZ=mo",
+                "content": "it's working and free!",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "7.6.1",
+                "at": "2020-04-30 11:40:01",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "f9914461-5416-4f0b-bf2c-a5fc00257341",
+                "userName": "Kari Stray",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKNVHBCf9ZUBKQXGH2FSMRrXsImE27eSluZMZ7dxwi9=mo",
+                "content": "Very helpful application. It works fast and keeps all the data safe.",
+                "score": 5,
+                "thumbsUpCount": 9,
+                "reviewCreatedVersion": "7.6.1",
+                "at": "2020-04-30 11:39:30",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "CookieJarApps-_-SmartCookieWeb.json",
+        "published_at": "2020-04-26T16:17:39Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "CookieJarApps-_-SmartCookieWeb.json",
+        "published_at": "2020-03-26T18:29:12Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "CookieJarApps-_-SmartCookieWeb.json",
+        "published_at": "2020-02-22T17:49:58Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "13218c81-6882-4280-9911-fd73417b7131",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Does exactly what it claims, I love it",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "7.2.2",
+                "at": "2020-03-01 16:53:37",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "6ef22ad4-3067-4414-83da-b997b30ea22b",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Downloaded this after being recommended by Android Apps Addicts podcast. Works perfectly. Thanks.",
+                "score": 5,
+                "thumbsUpCount": 12,
+                "reviewCreatedVersion": "7.2.2",
+                "at": "2020-02-28 09:36:14",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    }
+]

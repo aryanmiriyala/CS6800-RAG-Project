@@ -1,0 +1,44 @@
+[
+    {
+        "filename": "AlinaStepanova-_-SeaBattle.json",
+        "published_at": "2021-01-16T15:41:20Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "f517b315-401a-4d13-9f83-f23ae9c666f0",
+                "userName": "game play",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJGQgThECnvxxZdnYIgK-cbFU1nq9o5lCF7x8mJpQ9Y=mo",
+                "content": "Ok game!! Small mb, good gameplay",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "8",
+                "at": "2023-12-04 12:24:52",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "f4b6a030-29ca-4dca-b9d2-30f09bb4d941",
+                "userName": "Eric Johnston",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjX49xqtZk66U4HPC5jKyge64qMhokkPoWTAs-fWXjgyDQ",
+                "content": "Really fun game! I recommend it to others.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "8",
+                "at": "2023-10-27 16:22:06",
+                "replyContent": "Thank you very much for the feedback!",
+                "repliedAt": "2023-10-29 07:57:05"
+            },
+            {
+                "reviewId": "39a45bc2-1cdf-4e22-9f17-2305f7ab6c6f",
+                "userName": "Avik Dutta",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXku5Cm7l3Dwwh3uAzXlXcMb7cjyvkCy18sCMjnbicNlwN9",
+                "content": "Neat and minimal interface, not a hog on device resources. Recommended.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "8",
+                "at": "2022-06-22 14:04:35",
+                "replyContent": "Thank you for the feedback!",
+                "repliedAt": "2022-07-07 06:03:03"
+            }
+        ]
+    }
+]

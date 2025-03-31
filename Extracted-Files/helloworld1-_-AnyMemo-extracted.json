@@ -1,0 +1,110 @@
+[
+    {
+        "filename": "helloworld1-_-AnyMemo.json",
+        "published_at": "2021-10-22T23:46:10Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "c7df754d-65e8-47f2-af1c-abea947df246",
+                "userName": "Klaas",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWUf0KbLERlm60gqG-FgUB3mq3iWdGp-_oAQhsHrlnktXvP",
+                "content": "Looks ok but complicated setup. Pressing the Help only takes you to Version History.",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "10.11.7",
+                "at": "2022-05-26 20:30:17",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "b2e462bc-4703-4ffd-a20a-bcdcc0615a22",
+                "userName": "Michal Mikoláš",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVulEoeElFus63MiLdgAe_9mmgBsYcIuaNQNOnBtBWVP2M",
+                "content": "Best flash card app. From time to time I try another flash card apps (because I miss syncing with PC or web), but I still keep coming back to AnyMemo every time.",
+                "score": 4,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "10.11.7",
+                "at": "2022-01-15 10:30:27",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "helloworld1-_-AnyMemo.json",
+        "published_at": "2020-08-08T16:21:50Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "b2a7dcab-b09c-4f03-b526-718aaeb128bf",
+                "userName": "Elie Trinidad",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVKLpJbTlFU9pvHQecOyKr-nkKs0zm_ZV0zonsHuqGdSWg",
+                "content": "Muy buena la mejor que he encontrado ya que es muy facil crear tu lista de palabras..",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "10.11.6",
+                "at": "2021-11-01 06:34:36",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "helloworld1-_-AnyMemo.json",
+        "published_at": "2019-12-05T05:40:46Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "ebcc7e79-ab09-4ed3-bcbe-5c8bbfea1b3f",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "👍👏👌🍺🎂 Please implement category-wise search",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "10.11.4",
+                "at": "2020-03-10 02:06:10",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "helloworld1-_-AnyMemo.json",
+        "published_at": "2019-02-21T23:53:58Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "12d44fcf-3231-4905-ad31-54a84ee38017",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "can your add a sorting by recently learned words pleace?",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "10.11.2",
+                "at": "2018-12-28 19:50:40",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "a1a259bb-39b3-4030-aecc-04f4ae7c6e7b",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Awesome and easy to use flashcards. I really like that you can add your own content to a spreadsheet and then just sync with Google drive!",
+                "score": 5,
+                "thumbsUpCount": 6,
+                "reviewCreatedVersion": "10.11.2",
+                "at": "2018-11-17 18:18:52",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "c06c857f-0dfb-43c4-9455-6eebbc96fb2c",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "I have used Anymemo since 3 years ago and I have learned a lot things with it.",
+                "score": 4,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "10.11.2",
+                "at": "2018-09-20 01:49:58",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    }
+]

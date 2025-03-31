@@ -1,0 +1,32 @@
+[
+    {
+        "filename": "vlmaier-_-taski.json",
+        "published_at": "2023-01-12T20:01:21Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "71350fe9-06c5-4b2e-8055-93883403f6ca",
+                "userName": "Amylia Ameera",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIHYh1OerFwMpzyWiDmpgX90XMvB8I0a6YebjVW2M08=mo",
+                "content": "So far I like it. Very simple. Would like it more if it has a widget.",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.5.1",
+                "at": "2021-09-23 18:35:09",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "a0e0a576-9ac8-4355-b35b-dc2e69c7fd8f",
+                "userName": "Aldemer",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUxGq94nI2-FPOXADLysax5naI9P35l1fz3IWxZbWquhUk",
+                "content": "I love how simple it is, not like any other apps that are very complicated and confusing. Everyone should try this!",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.5.1",
+                "at": "2021-09-06 13:37:37",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    }
+]

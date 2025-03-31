@@ -1,0 +1,40 @@
+[
+    {
+        "filename": "artemnikitin-_-tts-test-app.json",
+        "published_at": "2017-02-05T15:39:40Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "f0bbad24-52d3-4648-9e8c-57482029c797",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Force closes after opening  9/30: just sent you Google feedback, I don't know how to send logcat any other way",
+                "score": 1,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.5",
+                "at": "2017-09-30 22:39:13",
+                "replyContent": "Unfortunately, I can't see info about the crash on your device in developer dashboard of Google Play. Can you get logcat info from a device after a crash and send it to me via email or create an issue on Github? I will try to fix it.",
+                "repliedAt": "2017-09-30 17:00:29"
+            }
+        ]
+    },
+    {
+        "filename": "artemnikitin-_-tts-test-app.json",
+        "published_at": "2016-10-23T22:17:05Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "artemnikitin-_-tts-test-app.json",
+        "published_at": "2016-09-13T16:53:15Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "artemnikitin-_-tts-test-app.json",
+        "published_at": "2016-07-27T18:13:39Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "artemnikitin-_-tts-test-app.json",
+        "published_at": "2016-04-02T06:38:47Z",
+        "google_play_reviews": []
+    }
+]

@@ -1,0 +1,958 @@
+[
+    {
+        "filename": "markusfisch-_-ShaderEditor.json",
+        "published_at": "2023-03-01T17:40:14Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "cc84c572-ef27-44ed-b22b-eb14480d4094",
+                "userName": "Silvanus Ejeh",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVCvu_9GA3O_xZNqrVlC7DgwR5an1Jl4J_m3B9AMeLlljU",
+                "content": "I love this app, it helps me to easily write and edit shader live😋",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.28.4",
+                "at": "2023-12-02 23:31:51",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "02cb0d53-8872-4ae1-b5c9-a973885c7982",
+                "userName": "Tendai bhebhe",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjX9l7pKqN31E88f1rhkE_11bRLk96FQkcwTtwEVTtOgsg",
+                "content": "Really amazing app and clean interface",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.28.4",
+                "at": "2023-07-13 18:47:01",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "8e672330-34c9-4012-8e60-ce0f31522274",
+                "userName": "Huy",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJ8CH7CQJJ0vhnaznJ6H1FiysN7yZP_xjruJ-b2MWxI=mo",
+                "content": "Nice. The only improvement would be a console to print to and view errors from",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.28.4",
+                "at": "2023-07-03 18:01:26",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "50f27c4f-5f6a-495a-9e7e-f4d6800eea4b",
+                "userName": "crazy gamer",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVdj5iBOM4o2XNg6EGLZL31r5gXPBbHgVyOcnJ3OS5aCVg",
+                "content": "Is this use for games of wall papers?",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.28.4",
+                "at": "2023-07-01 06:04:50",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "f7a84e3e-a313-48a3-9c39-4456fc908fe0",
+                "userName": "Firefoxx",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVrLHrTM0DEVLAAaDiXLOtY8kYm-B1ny5HI5wQ9wyowcAs",
+                "content": "Simple but powerfull",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.28.4",
+                "at": "2023-05-19 23:33:51",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "0e851d91-197f-41eb-8f7f-1e82578946fc",
+                "userName": "Stegames Live",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIquW4eQnr3mun7CBF9Sn1HPOHZM83fj3UpuESZ5ic1=mo",
+                "content": "Best for mobile out there.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.28.4",
+                "at": "2023-05-16 10:58:17",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "adb448cc-c2ce-4b48-b94d-989107ba21ab",
+                "userName": "Atomiz",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXbMBCzfqQPMX2Z2bs0fLOwh9CoFSgxTy7gCza01pct5Qs",
+                "content": "seems amazing except I can't find a way to set the app as my wallpaper. it appears the app is compatible with my device but there's no custom wallpaper nor anything else in my wallpapers setting that would set this app as my wallpaper. only the default ones show and there's 0 info on where I should look or what should I do. help? android 11 realme ui v2.0 rmx3201",
+                "score": 4,
+                "thumbsUpCount": 5,
+                "reviewCreatedVersion": "2.28.4",
+                "at": "2023-04-13 21:07:11",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "a9dcc13b-4f09-4e9f-a412-dda70b101d0b",
+                "userName": "Chris S",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWOvHhjYRfiLI8Amg5XisBG3XCIKxSN9GQ2xC5t5yvidA",
+                "content": "This rules. I love playing with fragment shaders and this is perfect for messing around with GLSL on-the-go. To others who've just installed: if the constant compile errors and/or shader running in the editor background drive you nuts, set Run Mode to \"Run in extra activity\" in the app settings. It took me a bit to figure this out, but won't dock a star because the setting is there nonetheless and works fine. 😛 Huge kudos to the app author for creating and maintaining this editor! 👏👏👏",
+                "score": 5,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "2.28.4",
+                "at": "2023-03-11 20:53:36",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "markusfisch-_-ShaderEditor.json",
+        "published_at": "2023-02-22T18:22:21Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "markusfisch-_-ShaderEditor.json",
+        "published_at": "2023-02-14T19:27:35Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "markusfisch-_-ShaderEditor.json",
+        "published_at": "2023-01-11T20:05:35Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "27a41237-bb6f-47c0-b94a-8d53bc4eef2e",
+                "userName": "Nat Stott",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjW6NvGdHYVtn-8eYCp1iI6mL6VAvkuADNxMZvxkPWIUk7U",
+                "content": "Enjoying editing shaders on the move. Things I'd like to add- additional direction or speed of touch events. A second texture available for storage. Maybe something like compute shader? Some non shader variables that can be controlled by touch events, or sliders to adjust parameters, for example to allow zoom?",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "2.28.1",
+                "at": "2023-01-31 19:58:46",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "4960617b-5a12-4536-a821-7bbed1309a63",
+                "userName": "Presley Gray",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJJcbl4KfS_310l_HzOrRbsuxGG-HqaGRKn1LL2ZspW=mo",
+                "content": "This app is so amazing for shades and you can edit your own and there is no problems not any adds that I see",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.28.1",
+                "at": "2023-01-13 22:59:51",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "markusfisch-_-ShaderEditor.json",
+        "published_at": "2022-12-19T17:47:24Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "d8e00f95-8072-4549-828d-479310e6c264",
+                "userName": "Dan Wills",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVwiJ2wzgBGk62lDxxGaQAd7VDqQqUhxLhInMnEtpbTTcux",
+                "content": "I just love being able to tinker with shaders in spare moments like while on the bus! This is a brilliant app for creative exploration of code!",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "2.28.0",
+                "at": "2023-01-09 12:22:16",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "27d59a95-88e3-4299-9f9a-2aaede517281",
+                "userName": "Sharique Sangle",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVWi3Zl56wl9m3gIlrR9aSv5MLtMecJpj2zGTb_pf6E-0o",
+                "content": "This is the best shader editor for Android platform.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.28.0",
+                "at": "2022-12-30 07:12:01",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "markusfisch-_-ShaderEditor.json",
+        "published_at": "2022-12-03T19:54:10Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "025091ef-fdab-4491-9cd8-6221e7009831",
+                "userName": "Rafael Bringel",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVBenrtx5-HjmKHac7f2H3Osc8AdtwnTBoI_AH20Lb3ow",
+                "content": "Obviously it's could be better, but that's the best we ever got on Android as far as I know it. I would love to see some QoL updates, even if I known that's improbable.",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "2.27.0",
+                "at": "2023-01-05 11:59:26",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "39a76d3f-5a54-4316-9bbc-3c72f303ea85",
+                "userName": "CC Iglesias",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVGVExbZ9bdxF6Sy-N_0Rtavo_K4p1ZrPn3x70gRLncTCaI",
+                "content": "IN-SANE! Experimenting with GLSL and setting the output as a live wallpaper? Awesome!",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.27.0",
+                "at": "2022-12-07 22:12:44",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "markusfisch-_-ShaderEditor.json",
+        "published_at": "2022-11-17T19:21:31Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "105f7aa5-4c41-4eb7-8cc4-f1cb87c64719",
+                "userName": "Lev Asmanov",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjV8MYwC8fEz1QFABdeEjBMl_7pOv3pVIO-HIYcTmC5rwg",
+                "content": "My favorite app ever",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.26.0",
+                "at": "2022-11-25 12:05:40",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "markusfisch-_-ShaderEditor.json",
+        "published_at": "2022-07-06T17:37:39Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "7e2b5244-8f78-48b4-9547-1001e082f979",
+                "userName": "myth0genesis",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVfVC2waH2djVaVM4h7F-nsggP0u807J_lTk4dCv_e-Z0I",
+                "content": "Aw, man! This app is a dream come true! Avid shader programmer of many years here, and I'm always excited to see an opportunity to apply what I know in a context other than the confines of some material buried deep in a game engine or 3D modeling environment. Also: shout-out to the fact that the patent for simplex noise finally expired this year!",
+                "score": 5,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "2.25.0",
+                "at": "2022-09-03 14:51:35",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "c8c2c044-d170-4e33-b348-f9afcfe6689d",
+                "userName": "Савелий Чирков",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVHaf7zsmGze3nVIM0l5qu6DUDZmRaqTN2enZnAIb7ZjEQ",
+                "content": "I did not know I wanted this. Now I can't imagine living without it.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.25.0",
+                "at": "2022-08-06 06:32:59",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "markusfisch-_-ShaderEditor.json",
+        "published_at": "2022-06-05T15:02:19Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "11222c23-3d36-4fb0-a9a3-cb5824ac3f4a",
+                "userName": "Victor Redacted",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWcJLZ_MtOlij62n0O9LCV9O6wrzxH8pDvAm83Vt3XLqU8",
+                "content": "goood",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.24.0",
+                "at": "2022-06-25 06:57:55",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "476cfdb1-ed40-4360-a1cb-526d1b35833b",
+                "userName": "Alfred",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWp5dALKoc9TZzi1dnyjM2CtQsUwBcsdffK-Yeiu5E957U",
+                "content": "This app is the best! hopefully in future this app will be able to support and run both vertex and fragment shader together.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.24.0",
+                "at": "2022-06-19 11:20:14",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "42aba188-97e2-46fc-a13c-633610e7b260",
+                "userName": "Aaron H",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXMeUglLnrIBv4_T74mxPRS29vm3Cn4mtTrh4d9knl_s1E",
+                "content": "Awesome! the only thing I am missing is the ability to know on which Home Screen tab I am currently at, but I am not even sure if that is possible. This would allow for very neat background animations.",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "2.24.0",
+                "at": "2022-06-09 12:08:14",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "markusfisch-_-ShaderEditor.json",
+        "published_at": "2022-04-11T10:14:38Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "markusfisch-_-ShaderEditor.json",
+        "published_at": "2022-03-01T20:27:51Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "e90398e1-c312-47df-8947-b16cfc31af94",
+                "userName": "Ryan Blue",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWjO2sti2QDp4Ymn9uungGYorPdWw7GYPuvoftncmnC6HZH",
+                "content": "Amazing all around",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.23.3",
+                "at": "2022-03-17 02:36:32",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "7411dc11-41bb-452d-abef-75abd95d1ed2",
+                "userName": "Freedom Convoy",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKywmnlcLdzfxuy7JP4wqAo30tePcK3qMhJnxAMTBQK=mo",
+                "content": "Great app",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.23.3",
+                "at": "2022-03-12 01:40:18",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "markusfisch-_-ShaderEditor.json",
+        "published_at": "2021-12-16T20:04:09Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "a9b5dedd-5f72-4f66-8c5c-1512af51a7dd",
+                "userName": "Sergwest",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUlj_Ml45JOVVzWijCQwhWWivzyZRB8664sm5jKfZpqHUg",
+                "content": "very good",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.23.2",
+                "at": "2023-02-27 23:07:55",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "4c88d61b-5a43-428f-bad4-9133f315213f",
+                "userName": "Lev Asmanov",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjV8MYwC8fEz1QFABdeEjBMl_7pOv3pVIO-HIYcTmC5rwg",
+                "content": "Thing where I'm spending time instead of games.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.23.2",
+                "at": "2022-02-08 08:55:50",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "fba8a977-a423-4ac1-8930-a5b854c34ef5",
+                "userName": "Rodrigo Torres",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVVwtHEGDuP5Cz-xmuCaBOGOypdD6F4MYUZXp_GjOjfF0s",
+                "content": "Great way to test shaders mobile, do some glsl kata while commuting or in waiting rooms.",
+                "score": 5,
+                "thumbsUpCount": 5,
+                "reviewCreatedVersion": "2.23.2",
+                "at": "2022-01-17 11:27:45",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "fd10096e-34ae-4f13-adbe-bf1469d68176",
+                "userName": "DosU",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVgiIqt3rVSYanVqdPXNqIpoDp2FV08q_hNregNUTUIja4",
+                "content": "Best shader toy for mobile but I can't implement array, requires language level version 300",
+                "score": 4,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "2.23.2",
+                "at": "2022-01-02 16:23:51",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "markusfisch-_-ShaderEditor.json",
+        "published_at": "2021-10-24T10:39:14Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "5c1d008b-3453-4f23-9f2d-884746acd72d",
+                "userName": "Mlgdogexdd",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjURJ9aYhGnUTIPIkMSq8xZBWB82-fPFviX0MacMTdbktEs",
+                "content": "Really cool.",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.23.1",
+                "at": "2022-07-26 13:16:15",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "d71712cc-344e-4894-8cbb-d190220d4b5e",
+                "userName": "hafidh hanafi",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJ5pfL9g8UJ5AKIZiXBhaZrm_aLqhuIcvdeF2OzrY1g=mo",
+                "content": "I can't import the shader",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.23.1",
+                "at": "2021-11-21 09:27:46",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "f3732192-b566-4d96-9dae-95b731bc894d",
+                "userName": "Gian Bassani",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUJauLHC3ph8TLYC6hpanK5gP8s3EduzDIXJ_mWh_wXacs",
+                "content": "Fun creating your own live wallpapers using GLSL shaders. Very cool app! 🇺🇲 Let's go Brandon 🇺🇲",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.23.1",
+                "at": "2021-11-12 14:41:41",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "a0cdfce1-5f17-44ff-ac6a-bbb800fc9d16",
+                "userName": "Uladzimir Zinchuk",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJmi_mVTPLTao0F-NB1uYOvk4x1XVV-pZuQn38r0lYB=mo",
+                "content": "Cool and smooth! Made my shader and set it as wallpaper. Perfect!",
+                "score": 5,
+                "thumbsUpCount": 5,
+                "reviewCreatedVersion": "2.23.1",
+                "at": "2021-11-06 22:48:55",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "markusfisch-_-ShaderEditor.json",
+        "published_at": "2021-10-19T19:17:53Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "14cde537-35bf-450d-8228-095c86e581b2",
+                "userName": "Kyle Bowles",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjW09D0fA5WOD8OaNMkkmJbvdVjlu14AjXYLt0KzNI-kTg",
+                "content": "Perfect for wasting time on the airplane lol, I ported some of my Shadertoy stuff to here!",
+                "score": 5,
+                "thumbsUpCount": 6,
+                "reviewCreatedVersion": "2.23.0",
+                "at": "2021-10-21 03:19:13",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "markusfisch-_-ShaderEditor.json",
+        "published_at": "2021-06-29T19:39:54Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "eda228d7-8a23-4b17-8929-425b2efe5cd6",
+                "userName": "playbyan1453",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjV2LGsVBCpZ5jH-7-ST1WVrDCmEjLH-_P-nP1TdDTL4QUE",
+                "content": "Usually im bored ended up making random things, likd converting shadertoy shaders to glsl.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.22.0",
+                "at": "2021-10-24 22:53:39",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "1e197ad5-c602-44a4-b820-3fc3c66a9f11",
+                "userName": "Nahim Yaya",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKMg1_YPA_hsekRBbPD0S04RRxtZximfANc7NNxdczn=mo",
+                "content": "This is one of the coolest apps I have ever used. It'd be cooler if we could load/save file in storage though.",
+                "score": 5,
+                "thumbsUpCount": 5,
+                "reviewCreatedVersion": "2.22.0",
+                "at": "2021-08-21 12:14:18",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "1a2d0bc3-bc60-4b60-bb7b-4021646bbbd8",
+                "userName": "Brahvim",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXtE_iIyqWCEAeAxeFlJIn9LuwQ7uKOsSicWcqnzhCESVA",
+                "content": "Love the experience, Thank you! Hoping to see constant updates as newer versions of OpenGL (`ES` of course) and Android come by! ..and thanks for making the code Open Source on GitHub, \":D!",
+                "score": 5,
+                "thumbsUpCount": 13,
+                "reviewCreatedVersion": "2.22.0",
+                "at": "2021-07-23 14:26:25",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "f68d2c89-dde0-46bf-8207-792824c1d0e8",
+                "userName": "MrChan YT",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUxcV-5A3SD-YXJ9wKrIKtplGzbbf17loww2lOEdV0WbA",
+                "content": "This is the best😊😍",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.22.0",
+                "at": "2021-07-08 18:50:12",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "58b996bf-bf01-4688-a44f-bb98000f27ad",
+                "userName": "Miki by",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWFROPFN-OSjMFuYNLXRmTrn_B93hEhRb3ipyn9go4d3qI",
+                "content": "Love it",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.22.0",
+                "at": "2021-06-30 14:20:29",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "markusfisch-_-ShaderEditor.json",
+        "published_at": "2020-08-11T18:43:50Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "488ad6d9-b60c-4007-ba32-52568083adde",
+                "userName": "Farid",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVkN0tJTHOi8D5w3n6d07gU6_Knp6UvnZjEPWXjBRM50g8",
+                "content": "Perfect! It's free and has most (if not all) of the features.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.20.0",
+                "at": "2021-05-08 22:45:39",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "620807a6-50d2-4718-82d2-77ec5ffa2254",
+                "userName": "Asbjørn Birkelund",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKiqUKDSq35pQ89y63wporq_w0ye11WKFQzHhLfPW26=mo",
+                "content": "I love this, I've always wanted to make my own live backgrounds, and I'm also currently learning to do computer graphics, so this is perfect. The editor is a little finicky (what you'd expect from coding on a phone), but it's cool how much stuff you can make (sometimes with hanky workarounds though). while it seems like the app isn't getting updates here *that* often, the GitHub repo is still constantly updated.",
+                "score": 5,
+                "thumbsUpCount": 23,
+                "reviewCreatedVersion": "2.20.0",
+                "at": "2021-04-29 22:08:21",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "833f5943-8aaf-4b20-a75e-f36fd265f9fc",
+                "userName": "Daniel Fernandes",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJjc_eUSe0lTy793tLDBaa0IUQd7kJZPgmhUhUKuYLgwg=mo",
+                "content": "Really well built app! I'm quite new to GLSL and this seems like the perfect tool to use while learning it!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.20.0",
+                "at": "2021-04-25 12:12:54",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "96e0dbb1-cc67-4257-a58f-21c5f3f7757e",
+                "userName": "Danzel Migallos",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVjBlmJNF5LJ_q_nnL1F3Z5LuNrInDjatMaPXkZqHvqeQ",
+                "content": "sweet but on rare cases, deleting a chunk of text cant undo and is gone forever. lost a huge portion of my main function and my motivation to recover it. seeing my shader on my wallpaper just brings bad memories.",
+                "score": 4,
+                "thumbsUpCount": 17,
+                "reviewCreatedVersion": "2.20.0",
+                "at": "2021-02-19 17:12:44",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "b0308a74-52e2-43b3-aadf-a6f05947672d",
+                "userName": "nini kiki",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKnqJ0fzcPC3ug9f6vwUIAVSTBJuwt3nqTTIBt1EXRT=mo",
+                "content": "gravity lost after lock screen",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.20.0",
+                "at": "2020-11-27 00:53:06",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "7e8594c7-e7e6-45cd-af81-24c5cf4ac422",
+                "userName": "Another Guy",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVQ3_w0IiFBF7uuoqcVN8RiJrrQtnqC9NPITPoMA77SlGuo",
+                "content": "Best shader editor I've found so far!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.20.0",
+                "at": "2020-10-23 18:20:25",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "b9d91aea-d435-49b5-80c3-742339b30471",
+                "userName": "Kyle C (Humanimations)",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjU7mK1dRQaN-E9ji_kOLczMXiYJWZ-1hRjWMoR0XJ2pNS4",
+                "content": "love love love it! i am addicted to shaders. how do i make the preview fully full screen?",
+                "score": 5,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "2.20.0",
+                "at": "2020-10-22 14:59:28",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "b38dae61-e576-451d-96c6-378f3a934377",
+                "userName": "JasimGamer",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjX-e_yMwBGgm4SIoS3gkdeUioS7QbN2G_ERZBDQefzuE00",
+                "content": "very good free app",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.20.0",
+                "at": "2020-10-21 11:45:34",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "6a969760-146b-4b2d-9d20-59d050c9e7f9",
+                "userName": "Gabriel Loewen",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjV9mSX4ZrdrzRkci6wwmXKTUHZ4yuIyamB_mHYrW1IbnA",
+                "content": "The front camera won't work on my device and it just goes black. I'm using a Huawei p20. Other than that great app",
+                "score": 5,
+                "thumbsUpCount": 20,
+                "reviewCreatedVersion": "2.20.0",
+                "at": "2020-10-21 01:30:39",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "b3b09dba-310a-4338-99fc-9722b112d681",
+                "userName": "Rizky Saputra",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVOK98clAKmkUm0_PMiuZJWwv0eblxwdiPWAg5z6X6Rwwg",
+                "content": "nice app 👍👍",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.20.0",
+                "at": "2020-08-29 11:00:34",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "markusfisch-_-ShaderEditor.json",
+        "published_at": "2020-03-01T14:02:02Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "0fefe15c-2343-4969-8264-37af985bbd5e",
+                "userName": "M-N H",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLARYbLpSWhKJJpna0LbwJHV6AYt6V1heCHXTEH0aI_=mo",
+                "content": "This is the coolest thing ever! Guess it's time for me to finally learn GLSL",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.19.0",
+                "at": "2020-07-30 09:58:25",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "39f00037-83c0-4ea9-a61a-e58798f72900",
+                "userName": "Olay Godino",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIxdIdOR4Xm9IbagAoHlRW6Y4gyt3ybEuN_nDXq20fT=mo",
+                "content": "Im going to mess up with a mind...",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.19.0",
+                "at": "2020-07-11 07:08:32",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "6d8b6195-7814-41a8-b264-215617e27075",
+                "userName": "Arsen Gharagyozyan",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUemm2bIX8qSF7f_63sfnd4PoIL__7ZLFdKcEIh2gacrPM",
+                "content": "Really a nice app. You can write a really cool shaders with animations and even make them interactive and set as a wallpaper. Cool and original wallpaper can be squeezed out from this app. Thanks!!!",
+                "score": 5,
+                "thumbsUpCount": 11,
+                "reviewCreatedVersion": "2.19.0",
+                "at": "2020-06-24 21:54:38",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "9ffaaeed-6377-4488-ac09-e8fca4989fd5",
+                "userName": "Stas Calisie",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUF6XdG6OeMazj7mC8jXWnb8-fRcZYyui66kEUurf_GxR8",
+                "content": "Hey! Great app! Actually there are annoying things while editing. And orientation uniform updates not fast enough (around 5fps, while fps of the shader is 60). And I think, it would be great if the shader updates only when the code compiles successfully (the black screen which appears all the time is really annoying). Thanks!",
+                "score": 5,
+                "thumbsUpCount": 24,
+                "reviewCreatedVersion": "2.19.0",
+                "at": "2020-06-19 10:52:03",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "3af65afe-90c1-438f-be38-9ef264063d8c",
+                "userName": "Lindsey Brendle",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLBjHtmeaGDboRT6QyXVYfyWoo1Esks6GbZoZypBJ_o=mo",
+                "content": "My only problem is i dont know how to code the shader. Plz add a tutorial atleast?",
+                "score": 4,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "2.19.0",
+                "at": "2020-06-12 07:02:35",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "07be31cd-e0d9-4bf5-863a-5bedb34d6600",
+                "userName": "herminia sanjose",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocK7JPoZIAOksYE0xIBQkdv6ELzjDrCYndkNCO-1oVS-=mo",
+                "content": "This is not one star,this is a zero star,because there a no hint.I don't know to doing to this app,plese",
+                "score": 1,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "2.19.0",
+                "at": "2020-06-08 06:45:55",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "d9ffd9c7-4e0b-48e0-91ea-04b9545d0403",
+                "userName": "Adam Sjolander",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJ49zBPaajX5z9XOU_WjKqJcHp6fmVwRNdmzWF4IUra7A=mo",
+                "content": "Gave me the life changing revalation of how much I suck at GL",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.19.0",
+                "at": "2020-05-24 03:43:10",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "fc898f91-6421-4cff-b4a9-6fcc09809373",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Fun toy.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.19.0",
+                "at": "2020-04-10 18:18:55",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "9a42249c-d843-4f09-81fa-1496675bbc4f",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Does somebody know how to put it as a wallpaper, when I try it appears that I have to set the app as live wallpaper? Please help me",
+                "score": 4,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "2.19.0",
+                "at": "2020-03-18 02:15:48",
+                "replyContent": "Please open Settings (of your phone) and go to the \"Wallpapers and Themes\" menu. Tap on \"View All\" under the Wallpapers heading. Access the overflow menu from the top right corner and then tap on \"Live Wallpapers\".\n\nSorry for the inconvenience. Unfortunately, an app cannot set itself as a live wallpaper due to security restrictions.",
+                "repliedAt": "2020-03-18 08:20:48"
+            }
+        ]
+    },
+    {
+        "filename": "markusfisch-_-ShaderEditor.json",
+        "published_at": "2020-02-23T14:58:55Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "markusfisch-_-ShaderEditor.json",
+        "published_at": "2019-11-09T15:37:13Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "a09e3d21-cf78-4c9e-bb13-fd6011fb85fa",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "This is a great app. I love just tinkering while I'm waiting around for something. Would be cool to have a dedicated programming keyboard or something, I suck at typing on these phone screens. One actual request, if we could have even smaller scaling like 1/16 and 1/32 for some super retro fun",
+                "score": 5,
+                "thumbsUpCount": 14,
+                "reviewCreatedVersion": "2.17.0",
+                "at": "2020-02-13 15:56:34",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "ec80d517-778a-42f1-8698-d46fa4187181",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Awesome",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.17.0",
+                "at": "2020-01-15 11:05:47",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "markusfisch-_-ShaderEditor.json",
+        "published_at": "2019-04-12T08:18:37Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "9329cd9c-71ad-48b6-90c3-622978024fa4",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Helps pass the time and gains experience.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.16.0",
+                "at": "2019-11-21 06:38:21",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "968ba403-f353-437d-b7f0-219660ace96d",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "yay!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.16.0",
+                "at": "2019-11-09 19:14:58",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "3cbc980c-4475-4a10-b532-52e9ab9b96c0",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "it is nice to have camera input) pls keep working, there always are things that could be better",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.16.0",
+                "at": "2019-11-02 08:45:06",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "b29ef810-0983-4a8b-ae34-fd6fff1004ad",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Crashes when pasting lines introduces a new variable. Import and export create new files each time instead of overwriting. Editor becomes progressively slower until restarted, regardless of highlighting. Screen rotation causes delays in shaders that display independently of orientation.",
+                "score": 4,
+                "thumbsUpCount": 5,
+                "reviewCreatedVersion": "2.16.0",
+                "at": "2019-10-01 16:14:19",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "79a035f3-0092-4e47-8d49-ac4ee5461cb1",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "WOW :)",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.16.0",
+                "at": "2019-09-18 21:29:52",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "dfd3a5c9-1ebc-4461-9470-b9fd089c41e5",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Perfect",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.16.0",
+                "at": "2019-09-05 16:07:17",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "49287340-0306-4818-91d9-78c7414ae1dc",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Very Good",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.16.0",
+                "at": "2019-07-31 23:52:12",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "523a9d28-db15-485f-b403-78b3e8696f79",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Amazing app, if you know glsl then absolutely great, I've made a few dynamic wallpapers already",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.16.0",
+                "at": "2019-07-07 16:26:50",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "bce165e2-6812-48a5-9963-d252f93a5bfa",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Dear God this is awesome, I can now keep practicing my shaders from the bathroom.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.16.0",
+                "at": "2019-06-12 15:54:57",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "2a143fef-2feb-4648-82c5-f44863ce2a3b",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Perfect, just made a cool bandelbrot live wallpaper",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.16.0",
+                "at": "2019-06-08 16:20:55",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "a5596b01-04d7-41d3-b7a9-e86914715f42",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Neat! I was originally just looking for a shader editor, but this guy ALSO gave it a use - wallpapers! Clever!",
+                "score": 5,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "2.16.0",
+                "at": "2019-04-17 17:22:02",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "e635ecf9-c084-43e8-b047-1131410df893",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "This app is what i was looking for! Thank you",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.16.0",
+                "at": "2019-04-10 18:58:06",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "cfe46050-0b83-4727-bf2e-f3e270574800",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Awesome editor with straightforward and obvious workflow. Frag fiends take note, it's a 2D plane for generative art / image manipulation / etc rather than making textures for a model. Hard to stop tweaking, and would love to see vertex shaders in this format",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.16.0",
+                "at": "2019-03-30 00:24:57",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    }
+]

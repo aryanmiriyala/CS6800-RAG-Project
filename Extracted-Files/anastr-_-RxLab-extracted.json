@@ -1,0 +1,25 @@
+[
+    {
+        "filename": "anastr-_-RxLab.json",
+        "published_at": "2020-10-09T03:44:49Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "anastr-_-RxLab.json",
+        "published_at": "2020-09-12T15:51:38Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "63da87e7-2bde-4814-b073-913ada300e19",
+                "userName": "bluepixel technologies",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVCiPJBhk6seEE0N-JKWrhIieUVwRARi-aEamaxf5danHs",
+                "content": "App not working in Samsung j6",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.2",
+                "at": "2020-10-08 05:01:00",
+                "replyContent": "Hi, please send us more details regarding the issue you are facing or any error message that is displayed on the screen at https://github.com/anastr/RxLab. Thanks. Update: We have just uploaded new version and we hope it will fix your issue, please let us know.",
+                "repliedAt": "2020-10-09 02:41:39"
+            }
+        ]
+    }
+]

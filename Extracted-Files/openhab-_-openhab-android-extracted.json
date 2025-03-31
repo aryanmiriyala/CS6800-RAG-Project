@@ -1,0 +1,1508 @@
+[
+    {
+        "filename": "openhab-_-openhab-android.json",
+        "published_at": "2023-06-01T05:16:11Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "7d123564-eb20-409d-9ef7-4a62c8d8a745",
+                "userName": "X Xx",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLFA5YD1uOr9Dmkh_8euO9Be0r1Y-4VPbZT3MmTZCVp=mo",
+                "content": "Offers no value over web interface but is harder to use. Better to save space on your phone and use the web interface from your browser.",
+                "score": 2,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.7.0",
+                "at": "2023-11-15 17:44:07",
+                "replyContent": "With the app you can use several features, e.g. send information on your device to the server, like the next alarm time.",
+                "repliedAt": "2023-11-19 15:30:49"
+            },
+            {
+                "reviewId": "5dbbfccc-8961-45fa-8fc9-cadad728c322",
+                "userName": "Leon Šinko",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIORIOedIMA2VrgcM8ZGzVR1kEmlR3HFzoQPHMOebL1=mo",
+                "content": "No connection.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.7.0",
+                "at": "2023-10-16 05:24:45",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "9349d37d-d2dd-48e3-a431-054f1d599112",
+                "userName": "Rafał Mar",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKHA0G9v-9m0ODs3EQt47iPJmXn2hjYEy-mAZxjywXF=mo",
+                "content": "Very good",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.7.0",
+                "at": "2023-09-13 16:46:38",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "c7c8a418-fbc7-41be-aced-cb3d5928fc42",
+                "userName": "Nizar Khetani",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJ0lBPrcyiuQa6WQ4WRIo09UurzUCWEUs3fW0z4LKL0=mo",
+                "content": "OpenHAB not working",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.7.0",
+                "at": "2023-07-28 17:51:53",
+                "replyContent": "Hi, can you post your issue on https://community.openhab.org/ ?",
+                "repliedAt": "2023-08-17 06:30:02"
+            },
+            {
+                "reviewId": "6702e8a1-3353-4dee-b50b-5c5a37e30f25",
+                "userName": "Fayaz",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJhpy3vyNBx5rAXHo9-UT-tm5gjz20pSUiQrBU853RV=mo",
+                "content": "5 stars just for the efforts. thanks",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.7.0",
+                "at": "2023-07-10 01:37:03",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "openhab-_-openhab-android.json",
+        "published_at": "2023-05-11T19:50:20Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "openhab-_-openhab-android.json",
+        "published_at": "2023-05-02T07:41:57Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "openhab-_-openhab-android.json",
+        "published_at": "2023-03-25T18:38:35Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "openhab-_-openhab-android.json",
+        "published_at": "2023-02-24T13:09:28Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "openhab-_-openhab-android.json",
+        "published_at": "2023-02-11T12:34:14Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "openhab-_-openhab-android.json",
+        "published_at": "2023-02-04T09:37:00Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "7b2b25ef-4878-4abc-9367-a890904c8390",
+                "userName": "Steve Tayler",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWEdT83_4FUe_3mwYQ0f9LQ21XsGCBzS_nxMlz-A8Tuu4U",
+                "content": "Version 3.1 sitemaps look ok. Any chance of allowing user to select font size for labels and values? Either add to settings or just have the values in _preferences.xml so rooted users can modify it.",
+                "score": 5,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "3.1.0",
+                "at": "2023-02-06 14:57:16",
+                "replyContent": "Currently version 3.1.0 is rolled out. There are two new settings:\n1. A compact mode for Sitemaps, so that all widgets use one line again.\n2. On Android 12 you can use the wallpaper color instead of the orange/brown.",
+                "repliedAt": "2023-02-04 12:16:08"
+            }
+        ]
+    },
+    {
+        "filename": "openhab-_-openhab-android.json",
+        "published_at": "2023-01-28T17:03:05Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "openhab-_-openhab-android.json",
+        "published_at": "2022-10-13T05:54:38Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "947d38ce-3df5-4fb4-8635-b6488a24f314",
+                "userName": "Ray Marshall",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLKR69GNMsdwvvmJN9ZtiHtfjsroKy14Kn9RfYwdlM=mo",
+                "content": "Jan 2023 Release 3.0 is a disaster! Looks terrible. Reverted to version 2.23 because at least it looks decent. Please ditch the new layout and revert to the previous one. It is not fancy but it works!",
+                "score": 1,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "2.23.0",
+                "at": "2023-01-30 13:11:05",
+                "replyContent": "Currently version 3.1.0 is rolled out. There are two new settings:\n1. A compact mode for Sitemaps, so that all widgets use one line again.\n2. On Android 12 you can use the wallpaper color instead of the orange/brown.",
+                "repliedAt": "2023-02-04 12:12:37"
+            }
+        ]
+    },
+    {
+        "filename": "openhab-_-openhab-android.json",
+        "published_at": "2022-08-01T07:00:11Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "afa39a4b-dc9d-497e-a758-8e473c14a377",
+                "userName": "ghenea viorel",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIEZh6xSsLeRHurc-7Qv3Z_OWlpcvk437sMYmYiHLEe=mo",
+                "content": "Very good",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.22.0",
+                "at": "2022-10-15 12:04:00",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "openhab-_-openhab-android.json",
+        "published_at": "2022-01-30T18:38:59Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "773b9648-1703-4793-9d11-1e9265849d1d",
+                "userName": "Thomas Clancy",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjW1cCk4K7QY70LAfhyMOQZQd-VNyMEGMY-n8rQRiDV2wMM",
+                "content": "Has been working fine for over a year (though sometimes took multiple attempts before successful connection), however now it launches, connects to server and promptly displays a black screen where it remains until I exit the app. Rinse. Repeat. Everything works fine from the web interface, and I have made no changes to UI. Unsure if app issue or OH issue (running the latest stable build).",
+                "score": 1,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "2.20.0",
+                "at": "2022-06-20 01:23:20",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "ef434958-1c81-478b-b4aa-f47dfc9039b9",
+                "userName": "Kevin Ford",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWUjor-4sIk4GSJVP_iVCbW0HfDAixDgPrP3vGhT_bFthUG",
+                "content": "What a load of @#_&. Lost count how many times I installed linux and openhab before I was finally able to get to the create a user screen. Now Can't login using app. Had enough going back to homeassistant. Would give no stars if I could.",
+                "score": 1,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "2.20.0",
+                "at": "2022-06-08 18:01:15",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "82c42818-e849-449f-9da1-3b6d6fd5142d",
+                "userName": "Adrian Dlhy",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVVC883VddTU86hbhxOul6xi7cq9_UAabWZJfmKHXjkJg",
+                "content": "Almost always problems connecting Sometimes loads different page, not default",
+                "score": 1,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.20.0",
+                "at": "2022-06-06 20:20:51",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "84fb523a-63b3-41ce-ae17-de345177ccfe",
+                "userName": "Justin Olsson",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWBsqiJ7icYLBsMQ2n3s2oBY_VyR6_k5pDsWpUbu2Mo_JE",
+                "content": "Openhab returned empty site list error shown over and over. From the forums this is a problem with openhab 3 and has been known with no fix for a year",
+                "score": 1,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.20.0",
+                "at": "2022-05-17 21:20:30",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "78d6258c-51ed-4faa-8b25-81673003cdc7",
+                "userName": "Todd Phelps",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIGv-2_MuSTiOfGeJRa2orXUSLti6OJhxgV-NSgK6wn=mo",
+                "content": "Gives authentication error when logging in despite the password being correct.",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.20.0",
+                "at": "2022-04-18 03:03:48",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "f973516b-03a7-4d3c-abca-6eb9e42a39a6",
+                "userName": "Maik Niedermayr",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWfsmJWKm6KkQALGIu_RNxdN4LXKYIeGXEiU3YzJwEhy12i",
+                "content": "Awesome! How do i get a server?^^'",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.20.0",
+                "at": "2022-02-24 23:41:44",
+                "replyContent": "Hi, you can get a start at https://www.openhab.org/docs/",
+                "repliedAt": "2022-02-25 07:44:16"
+            }
+        ]
+    },
+    {
+        "filename": "openhab-_-openhab-android.json",
+        "published_at": "2021-09-16T06:16:06Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "8889025e-c78b-4cd3-b4d9-bb565c16ca5d",
+                "userName": "sparky c",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJss6cORLN6VuoM91PLoUTLethmfrzrOoBhH-RoT-4iuA=mo",
+                "content": "Junk disconnects randomly then will not reconnect waste of time",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.19.0",
+                "at": "2022-01-15 21:49:21",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "6a46a013-310a-49a9-9afd-387f0e6344a7",
+                "userName": "Seva Nechaev",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWouNdio92mjH6Blst_rsR2ji99iRif1YvncW6-51jnipIi",
+                "content": "Awesome! All my important controls on speed dial. Requires some work to create sitemaps etc., but it pays.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.19.0",
+                "at": "2021-12-18 10:32:36",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "22e36e1a-cd60-4b5e-97f4-b5c117e01a98",
+                "userName": "Yves Heller",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVzAZ7WntZpbFgY4uAOHp68rpxIySPLPYGgBY1U1AKx_jw",
+                "content": "very unreliable. Does not work quite often. The Webinterface via browser of course works every single time, just not the app.",
+                "score": 1,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "2.19.0",
+                "at": "2021-12-09 08:42:16",
+                "replyContent": "Hi, can you create a new topic at https://community.openhab.org/ to debug this issue?",
+                "repliedAt": "2021-12-12 18:58:20"
+            },
+            {
+                "reviewId": "406e88ae-dee3-451a-80e1-a4b3dba9e382",
+                "userName": "Ricardo Briceño",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVvEhU79AWLsSz4lopRUShXl9b_U7QJjBpmb3WRKe3UY2b4",
+                "content": "After a clean install of openHAB 3, I can reach the server via the ports 8080 and 8443 using the internet browser and manipulate the configured switches, but the app can't find the OH3 server, even copying / pasting the address from the browser. 1 star because the app is not working for what it is intended to.",
+                "score": 1,
+                "thumbsUpCount": 6,
+                "reviewCreatedVersion": "2.19.0",
+                "at": "2021-11-08 21:27:48",
+                "replyContent": "Hi, can you open a new topic at https://community.openhab.org/ to debug this issue?",
+                "repliedAt": "2021-11-09 12:40:56"
+            },
+            {
+                "reviewId": "2252f2b3-f4f1-4940-b290-a0b7b60de184",
+                "userName": "SeNS Boston",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXM7tVh9zYCInOEz1vG-2gnonbOm9uOapM6-EEW3V_Aj5M",
+                "content": "Extremely overcomplicated, non user friendly, mess open source garbage, incompatible between their own versions! Will completely get rid from this piece of junk ware! Will not recommend to anyone (if you don't wanna waste time to resolve all issue and read tons of manuals and stupid advises)!",
+                "score": 1,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "2.19.0",
+                "at": "2021-10-02 16:57:55",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "openhab-_-openhab-android.json",
+        "published_at": "2021-06-17T15:26:32Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "bd3a1973-08cc-4220-8a5a-d29963d27441",
+                "userName": "Blontang Lumuten",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWRwbOBy4yfnKMTLypAPS5xMRGxtmEIm6dCqQdLwNuwxA8",
+                "content": "Still learning",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.18.0",
+                "at": "2021-09-20 19:18:07",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "aa05551d-7558-41c2-aabd-fa43b63abb58",
+                "userName": "Stephen Adams",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJiw-ubdW1YdGgB7qLJEVd9Bn_AIUe-UrlLwKtlfS-E=mo",
+                "content": "This terminal software only works with a non android server it s a wate if time putting it on google play if you cannot use it!",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.18.0",
+                "at": "2021-08-29 19:20:23",
+                "replyContent": "Hi,\nyes, you cannot use this app without an openHAB server, but this is mentioned in the Play Store description.\n\nBest wishes,\nopenHAB Android Team",
+                "repliedAt": "2021-08-29 20:33:25"
+            },
+            {
+                "reviewId": "1b46842b-a42d-481d-8c97-a81569ab3213",
+                "userName": "Duy Nguyễn",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocI4vpTYA5KBMB83JclIqP86NaeE1J6PKbF5YF8rLroXRCo=mo",
+                "content": "Now it works! On Linux, it's not working! On Window, it works just fine!",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.18.0",
+                "at": "2021-08-18 13:30:40",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "e4e35209-e0bc-4ec1-a27b-50b0232c4157",
+                "userName": "Stephan",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUoGfNzCFV7kliuCIvB5ykpGFoLhmllvwDuc2jN4DzrCOo",
+                "content": "no connection possible. when trying https (port 8443) I get asked to accept certs. means connection is possible,but app does not speak or recognise server. (Same for beta version)",
+                "score": 1,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "2.18.0",
+                "at": "2021-08-18 01:10:03",
+                "replyContent": "Hi, can you create a new topic at https://community.openhab.org/c/apps-services/android-app/18 so we can debug this issue?\nBest wishes, openHAB Android Team",
+                "repliedAt": "2021-08-18 14:52:05"
+            },
+            {
+                "reviewId": "02ae3229-c692-411d-b679-4c89bcb1f51a",
+                "userName": "Mạnh Đoàn",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjX4Kjrfej-VX-B1VyTTfNG1cA7holS_aBoaN00jOmeesQ",
+                "content": "very bad, i tried many ways but can't connect from smartphone to website",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.18.0",
+                "at": "2021-07-31 16:11:27",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "48fb39d6-4549-4f67-be98-7bdb80421795",
+                "userName": "B Loso",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVpG7KDteAw7YlWBCdUFFW-DuW12LURL-uLQT8j-pg-xqA",
+                "content": "Things worked fine. Then OH3 came along and ruined our lives",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.18.0",
+                "at": "2021-07-30 03:06:21",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "634e0ccf-3be1-4f01-81c6-ad898b0d7a30",
+                "userName": "Joshua Hanner",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIEK6x36ONfs86sbfvWaE3cKnO62iDnPBLAMIefy2hht94=mo",
+                "content": "Would not connect to a server. Doesn't just work \"out of the box\" with minimal configuration the way a phone app should. Useless. It's SSL problems that people have been having forever, according to Google. I'm sure some smug jerkoff from the community would tell me to read a tutorial, but that essentially boils down to me having to fix something the devs won't. After resolving this, I find changing the server's port is needlessly complicated instead of just having a setting in the server's UI.",
+                "score": 1,
+                "thumbsUpCount": 11,
+                "reviewCreatedVersion": "2.18.0",
+                "at": "2021-07-01 01:01:55",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "openhab-_-openhab-android.json",
+        "published_at": "2021-05-26T17:49:06Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "cc709c9d-1b30-4018-bdc5-ccaa98308b29",
+                "userName": "inmar tzemach",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKL6dWJPIx9FbKrny5sobXDOcC9yl2k-4Z4frVq1gTE=mo",
+                "content": "You definitely messed something in version 2.17.4. Everything become slow and stuck and main issue here is that the HABPanel is not working anymore on remote configuration. It always stack on \"No default panel configuration!\" - and yes I logged in ,in local it works.",
+                "score": 2,
+                "thumbsUpCount": 7,
+                "reviewCreatedVersion": "2.17.4",
+                "at": "2021-06-06 14:57:00",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "dc7ca89d-d6f8-4f22-82d8-9d49775ab27c",
+                "userName": "Jeff",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocK4SwZCNCUfwZuY45BQUdbe5DPdwsg55XEei_TQjN4Z=mo",
+                "content": "Have used openHAB for years now and have tried other smart home systems. Absolutely the best for home/smart system control. Great job guys/gals!",
+                "score": 5,
+                "thumbsUpCount": 12,
+                "reviewCreatedVersion": "2.17.4",
+                "at": "2021-05-31 01:24:45",
+                "replyContent": "Thanks for your review!",
+                "repliedAt": "2021-05-31 17:21:58"
+            },
+            {
+                "reviewId": "82089aa3-50d2-46a6-bc46-b58e054702f3",
+                "userName": "Innocentroy Okech",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJiia5ZZzKb4lD8q-n3fs-vcETnwPWEoLfaMKt8NrZkfg=mo",
+                "content": "Let's try it",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.17.4",
+                "at": "2021-05-30 16:46:42",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "openhab-_-openhab-android.json",
+        "published_at": "2021-02-03T16:05:10Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "13b81f68-1c36-4a8c-9bb2-d6e6b733320e",
+                "userName": "Simon Selva",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIJjHdwdwuEXftXgV5365MercgNzGIK6NkKcf-yJ-fpyNE=mo",
+                "content": "Great app to access openhab locally and remotely (through openhab cloud)",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.16.0",
+                "at": "2021-05-14 18:29:37",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "1aa3b6e3-61ab-4a3b-b69c-e542a6d1c7ab",
+                "userName": "Dan Vondra",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocL4G9jVqZ4nHJon_kgBDg80kfzSOCnFbUGxLeyAS4NGLA=mo",
+                "content": "Well, you do get what you pay for, I guess. This was definitely made for the annointed consultant class. If you want usablility or affordability (remember, you have to pay those consultants), you won't find it here. Why is this even on Google Play Store? It's not appropriate for the retail market.",
+                "score": 1,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "2.16.0",
+                "at": "2021-05-02 22:25:17",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "283ac4f5-f1c3-4ec2-91f0-9dddc10504ab",
+                "userName": "Master Man",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXlwJV4Aml5N-9TTYkzcFb0kz8ZZ02_12tkqF9rkpyiBk0",
+                "content": "Bought this with the hope of it actually being useful one day. Nope. Deleting it.",
+                "score": 1,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.16.0",
+                "at": "2021-04-23 11:28:58",
+                "replyContent": "Hi, the openHAB App and the server are both open source and free to use.",
+                "repliedAt": "2021-04-24 12:49:37"
+            },
+            {
+                "reviewId": "adc4e80c-0739-40f7-863e-14806e209f18",
+                "userName": "Alexander Lamb",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKOJj8k45gzZyVVWxC-pILdqead5MZdLdeOYDGTLirm=mo",
+                "content": "Highly rated for geeks that live in the world of full custom installation. I want an open app- find network - add network - build devices map - attach devices, program devices app. Create server? Nonsense.",
+                "score": 1,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "2.16.0",
+                "at": "2021-04-01 21:07:22",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "b2070933-6aad-4277-a37a-e6a96ea9425d",
+                "userName": "Jared Epp",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjU9VZsHolQO1qVB2g2SvkMW2L9NORPhpjXO3ZeVcqnQhw",
+                "content": "OpenHAB is a fantastic home automation system. Finally I have control over everything and don't have a cloud this or data collection that or device that connects to China. The learning curve is steep but it's well worth it. Thanks for your hard work OpenHAB devs. I'm also really happy to see support for multiple sites finally land in the app!",
+                "score": 5,
+                "thumbsUpCount": 23,
+                "reviewCreatedVersion": "2.16.0",
+                "at": "2021-03-25 03:50:34",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "259fad65-ce23-4d94-b5fd-f43a5b7ae5f2",
+                "userName": "Vu Nhat Minh",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKg1kcRDCFYM4zFCrQsauVcxrO6iq4xoGMBaT9yaBrD=mo",
+                "content": "Good for openhab3",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.16.0",
+                "at": "2021-03-07 04:13:22",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "0cae0238-3511-4bd3-93c3-22145f590ca0",
+                "userName": "Gustavo Almeida Costa",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXHD_ggaqfx-Dhe0JedUbQ7AEVFl0Aefq376RZjuyZWie87",
+                "content": "Awesome app! 😎",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.16.0",
+                "at": "2021-03-06 17:29:29",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "140cd2f4-4326-40e9-b26e-7bac86e844fd",
+                "userName": "C",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWmn2bW7nzrIRGFBRJBb4SD36yZu60hn8ya_FXn9oCBcDUm",
+                "content": "I'll give this 3 stars because as beginner there is absolutely no way to feel comfortable using this. For the advanced this is extremely powerful and feel really stable and less clunky then hass.io / however it shouldn't take more than a few steps to setup a tuya/smart life bulb/socket . So aggravating.",
+                "score": 3,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "2.16.0",
+                "at": "2021-02-26 02:09:30",
+                "replyContent": "Hi, I recommend to open a thread at the Beginners section of the forum https://community.openhab.org/c/setup-configuration-and-use/beginners/11 if you have any issues with setting up openHAB.",
+                "repliedAt": "2021-02-26 15:55:54"
+            },
+            {
+                "reviewId": "89688137-5f67-4c6a-aba7-d9af56a6437f",
+                "userName": "Mfreih",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWICHbCnQsMuy65zEvDLtmYZokqi8ZSPXA507732bx9qQxL",
+                "content": "OH3 is amazing.",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.16.0",
+                "at": "2021-02-24 21:40:03",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "8a4aea07-9b7d-4760-ae10-7ea81becbf0a",
+                "userName": "pete dickinson",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJPv26pPY1avzC5m8ZDhU3pZd_iHAqBUdjwruTUgH7I=mo",
+                "content": "Seems to be a new bug in this version. Every time I drag a shortcut of the app to my home screen, the shortcut disappears after first use. Widgets are not affected.",
+                "score": 3,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "2.16.0",
+                "at": "2021-02-13 11:08:42",
+                "replyContent": "Hi Pete,\ncan you open a tread at https://community.openhab.org and describe your issue there? I think it's better place to troubleshoot issues.\nBest wishes,\nopenHAB Android Team",
+                "repliedAt": "2021-02-13 16:14:01"
+            }
+        ]
+    },
+    {
+        "filename": "openhab-_-openhab-android.json",
+        "published_at": "2020-09-10T18:23:11Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "37f20f65-dc98-455c-bfb9-719cfffa01d6",
+                "userName": "Fabrizio Romanelli",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXq0qn-jBSmUNX_KUge4sb8qlJsVT_RRGD3bKylaM0kkjo3",
+                "content": "Worst app in Google Play Store! 🏆 The openhab system is probably the worst software ever developed: it's terribly counterintuitive, uselessly hard to program and manage and with the worst performances for a system that just have to manage simple mqtt connections and if/else clauses (everytime it boots, takes something like 30/40 minutes to run). Go for Home Assistant ASAP.",
+                "score": 1,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "2.15.0",
+                "at": "2023-01-11 09:13:35",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "8493f38c-c1ba-4c6a-92f6-240ad87e4892",
+                "userName": "Markus Theißinger",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWFWp9vubq3SL_T-4pozoKhr1HKc_pvJXqE7LegL2iVIRs",
+                "content": "App could not reach server, while Chrome could. Using IP instead servername in app setup caused switching from IPv6 to IPv4 and server became reachable.",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "2.15.0",
+                "at": "2021-08-28 11:45:00",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "026b4855-aca3-4026-ac98-0ed18a6b41a1",
+                "userName": "Sanjit Kumar Khan",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUoCN8E6_APqL_xNiRiKN1YJtci68vgHOuRLc8Kb6Mxug",
+                "content": "I'm just to start using openhabian with RaspberryPi and this app. I'm not software developer and facing difficulties to working with this software. If possible, this app may be made more user friendly like Amazon Alexa app using Bluetooth connection, including all connection setup, configuration etc. as the RPi has also Bluetooth. I'm keenly interested in this software for making my home automation using RaspberryPi.",
+                "score": 3,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "2.15.0",
+                "at": "2021-02-04 16:55:08",
+                "replyContent": "Hi,\nthe app can only connect to the Raspberry over Wi-Fi. It's not planned to connect over Bluetooth.\nI recommend to ask questions on https://community.openhab.org/ as there are more people that can help you.\n\nBest wishes,\nopenHAB Android Team",
+                "repliedAt": "2021-02-04 18:08:05"
+            },
+            {
+                "reviewId": "9ae1280c-e99d-427e-980f-f95e1b675fe6",
+                "userName": "Islam Taha",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIZBWF4olCF0mdQ8SJIOKqUzTc217v5HCzsOiSbQCnr=mo",
+                "content": "So easy to use",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.15.0",
+                "at": "2021-01-30 15:41:16",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "8e1a5c28-e714-4077-850a-79aaf7339173",
+                "userName": "Xajin Elizium",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVoOlE2c717LcAMxdhn6rOgpwVkp3ktaR9Vskjn0u9qy-I",
+                "content": "Demo mode is broken",
+                "score": 3,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "2.15.0",
+                "at": "2021-01-24 13:19:09",
+                "replyContent": "The demo mode is working again with the next release: 2.16.0",
+                "repliedAt": "2021-02-04 13:56:16"
+            },
+            {
+                "reviewId": "a90c455e-894a-433d-bc4d-dc2d2bfbe469",
+                "userName": "Tobias Zander",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIhTbFMzlxgbGlP4Ldxjbq-wTz07f5gs26NQsExK-EV=mo",
+                "content": "Nutze die App auf mehreren Handys die als feste Steuerung in den Räumen als Always-On verteilt sind. Funktioniert bei 3en bisher problemlos, ein S7 Edge gibt aber nach wenigen Minuten ständig die Fehlermeldung \"Die Sitemap konnte nicht geladen werden. Der folgende Fehler ist aufgetreten: Verbindung zum Host fehlgeschlagen\". Am Host scheint es nicht zu liegen, sonst hätten die anderen 3 Geräte auch Probleme. Komischerweise ist das S9 Edge direkt neben dem Router auch mit der stärksten Signalstärke. Nach einem Klick auf \"Erneut versuchen\" klappt es auch immer direkt, aber etwas nervig.",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.15.0",
+                "at": "2021-01-07 18:36:18",
+                "replyContent": "Hallo Tobias,\nin einer zukünftigen Version wird bei einem solchen Fehler nach 30 Sekunden automatisch erneut versucht: https://github.com/openhab/openhab-android/pull/2363",
+                "repliedAt": "2021-01-11 12:17:48"
+            },
+            {
+                "reviewId": "9d6cfe2b-5714-4dba-b1f0-1d08f1b5ef69",
+                "userName": "Attila Geresdi",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUQAVeZz4JO8vPXrjgKh4y_R-x2YOKOxw24qU8PnWr4xDA",
+                "content": "Great development!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.15.0",
+                "at": "2020-12-27 23:50:38",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "f6b598bd-8c6f-4dbc-8a10-fbb9b85861da",
+                "userName": "Kien Pham",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWAYnx9f07SP1gTx3dgDoNgK05TQkf6T0xClXWtGmWmuWA",
+                "content": "App doesn't work! What is username/password? I have a openhab server already. There is no guide showing where credentials I should use. I use the default openhab/habopen. But still showing \"Authentication failed. Check username pw...\".",
+                "score": 1,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.15.0",
+                "at": "2020-12-05 07:48:55",
+                "replyContent": "Hey Kien, the forum is probably a better place to fully understand your setup and help you: https://community.openhab.org/ Best wishes, openHAB Android Team",
+                "repliedAt": "2020-12-05 11:26:12"
+            },
+            {
+                "reviewId": "8d698795-43d0-4cb6-b271-33242ec2662c",
+                "userName": "Vincent Rodriguez",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXnXZHnyQU64H_qAlJyQpivnFja3zExhPvRH1-Uwl8ZHpno",
+                "content": "Love it",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.15.0",
+                "at": "2020-10-30 05:37:47",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "8dec3e1e-b39a-408e-a266-682af2bffd55",
+                "userName": "Y B",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIiNtaNzsPrba4PPmkK1ZXPzmCWi29Z36bdcOuewOHO=mo",
+                "content": "Fantastic, flexible and powerfull app!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.15.0",
+                "at": "2020-09-30 01:40:29",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "f4dcd84d-f7a7-4ac1-8e0f-319f665706b8",
+                "userName": "Hosam Abdelkader",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVlaekMqKqQDxnzVoC_zQWbcNvihxZDwFJ2KFKdO-D_LRvR",
+                "content": "Amazing if you know how to utilize it",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.15.0",
+                "at": "2020-09-19 19:30:11",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "openhab-_-openhab-android.json",
+        "published_at": "2020-08-19T15:15:52Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "60c08eea-b647-4385-9f96-ec71ed4d8956",
+                "userName": "Sean Morrison",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXWuAr-pn1gaWgvr31jBZahI4x_OBHvHURwd5iJtixjKw",
+                "content": "Always works, constantly updated, great app.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.14.0",
+                "at": "2020-08-25 01:22:00",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "80c62262-5295-47e0-bc13-6e33857924d4",
+                "userName": "Ajay Joyson",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUdwNs0aLdYV06UkaPdcs04TdyQ1-jDDvBqyR0AyXmoKeWm",
+                "content": "The latest update with Quick Settings tile is great! Great work OH team",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.14.0",
+                "at": "2020-08-24 23:47:53",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "openhab-_-openhab-android.json",
+        "published_at": "2020-06-03T18:14:39Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "1e46f4e7-c5b9-45ba-ba6d-b95b273a749e",
+                "userName": "Oleg Kleshchev",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWAuTNQjJfN37fkLS88xoB_7R3tKBiub8gSDPgiHgZTcZaM",
+                "content": "Works as expected.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.13.0",
+                "at": "2020-08-11 07:39:50",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "d92f892e-651b-4549-99ae-c33e31ed423b",
+                "userName": "Greg",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUgvqy57d-nNvwVhlinAzSQ9rl7SNwBbRXZXV3jBCfXc_w",
+                "content": "The setting to use svg icons is missing. It used to be there. It is on the iOS app. I use svg icons and now they don't work when switches are used. The icons don't change state anymore. It turns out it is the data saver option that stopped the refresh of the icons. All good now. I have 2 identical phones and one worked and the other didn't and now i know why. Data saver! Thanks for the help. It was the data saver on the phone setting and not the data saver on the app!",
+                "score": 5,
+                "thumbsUpCount": 14,
+                "reviewCreatedVersion": "2.13.0",
+                "at": "2020-07-31 03:52:41",
+                "replyContent": "Hey Greg,\nI guess you're facing two new features here: 1. With openHAB server 2.5 the icon format is automatically chosen. SVG is preferred, except there is a custom PNG icon with the same name. 2. If data saver is on (either the in-app one or the one by the OS), icons are always loaded with the default state to save data. Are images loaded?\nCheers",
+                "repliedAt": "2020-07-28 15:21:15"
+            },
+            {
+                "reviewId": "3e857ecf-c3c1-415f-9ec6-96adb9029e6d",
+                "userName": "Valerie Ann Lang",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWj0U1344j6H27j-z8DWty2fIzXwswf2k9UvUtd_wwTyf8",
+                "content": "Stops and starts at will. I rely on this device when I am alone. I am disabled😩",
+                "score": 3,
+                "thumbsUpCount": 6,
+                "reviewCreatedVersion": "2.13.0",
+                "at": "2020-06-30 07:05:15",
+                "replyContent": "Hey Valerie,\nI don't see any crash from your device. Can you open a thread in the community forum? https://community.openhab.org/c/apps-services/android-app/18\n\nRegards,\nopenHAB Android Team",
+                "repliedAt": "2020-06-30 17:24:08"
+            },
+            {
+                "reviewId": "6f2b28db-04bf-4193-ac2d-64119837e34d",
+                "userName": "KFash",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXxaIiyQYyIuX9ZEkxgL6wFP_6GCXuGhJ2kdL8cdJ4KOUQX",
+                "content": "Amazing",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.13.0",
+                "at": "2020-06-19 17:54:25",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "openhab-_-openhab-android.json",
+        "published_at": "2020-03-23T13:26:16Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "8b9405c2-946c-4d53-adae-b8e97fdf5f24",
+                "userName": "Peter Shoesmith",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIOfQAeIQ0WpHAGMcFf_5XcRB_VM0U2ZcO25X-UN3r7=mo",
+                "content": "Was good. Update introduced a bug in the setpoint widgets. For a setpoint widget with step=0.5, if the widget has a current value with a fraction, e.g. 14.5, the widget behaves correctly. But, if the current value is a whole number, e.g. 14, then the list of values are displayed as integers with each value twice, e.g. 13,13,14,14,15,15 etc., i.e. 14.5 is displayed as 14. Also, the up arrow increments by 1, and the down arrow doesn't work. Fixed - All good now, thanks!",
+                "score": 5,
+                "thumbsUpCount": 10,
+                "reviewCreatedVersion": "2.12.1",
+                "at": "2020-05-07 21:42:01",
+                "replyContent": "Hey Peter,\nthis sounds like an issue that has been fixed recently. Do you still have any issues?\n\nCheers,\nopenHAB Team",
+                "repliedAt": "2019-11-18 11:02:55"
+            },
+            {
+                "reviewId": "67d73673-741d-453e-ad4e-1cef667daf40",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Nice",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.12.1",
+                "at": "2020-04-11 08:13:58",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "openhab-_-openhab-android.json",
+        "published_at": "2019-12-25T11:06:37Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "a275933b-efa7-4322-ac44-721a2100f736",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Currently does not support connectivity with Bluetooth tethering. Says: network type is unsupported. App works great.",
+                "score": 5,
+                "thumbsUpCount": 5,
+                "reviewCreatedVersion": "2.11.0",
+                "at": "2020-01-30 17:13:31",
+                "replyContent": "Hey Theunis,\nBluetooth thethering is now supported.\n\nopenHAB Android Team",
+                "repliedAt": "2020-02-27 17:18:16"
+            }
+        ]
+    },
+    {
+        "filename": "openhab-_-openhab-android.json",
+        "published_at": "2019-10-31T09:19:48Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "7fc8b98a-821e-4270-bd03-cdf9896146b4",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Nice alternative to locked mainstream apps",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.10.3",
+                "at": "2019-12-22 23:16:37",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "f6891379-d228-48ec-ae79-97aa07e67ec7",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Awesome",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.10.3",
+                "at": "2019-11-17 18:14:13",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "9bc30882-b7f6-4721-984e-8a9e1e757887",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "The app crashes often.",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.10.3",
+                "at": "2019-11-12 18:31:14",
+                "replyContent": "Hey,\ncan you check out the latest beta version?\n\nCheers,\nopenHAB Team",
+                "repliedAt": "2019-11-20 18:23:58"
+            },
+            {
+                "reviewId": "c0544f33-c921-4e5d-b90a-1171e481c67a",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Well thank you for the prompt and professional reply but IMHO in this case the end result in the application doesn't make for a compelling argument for following the material design rules. Updating my review for Ver2.10.3: It's still a great app but why did you have to mess with the color of the buttons? What used to be solid colors became a pale shading with solid borders and with a slightly darker font. That's not great at all and I prefer the older scheme. Great companion for OH server. I just wish for the addition of right control carets from the basic UI because it's difficult to differentiate when pressing an icon can open a new frame.",
+                "score": 4,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "2.10.3",
+                "at": "2019-11-09 15:07:26",
+                "replyContent": "Hey Claude,\nthe switch buttons have been updated to the latest recommendations by Google: https://material.io/develop/android/components/material-button-toggle-group/",
+                "repliedAt": "2019-11-03 15:14:13"
+            },
+            {
+                "reviewId": "ccb5b22b-7f46-42ba-89cd-f537d07427d3",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "After update super amoled theme is gone. Looks extremely ugly. Please provide super amoled black theme again.",
+                "score": 2,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "2.10.3",
+                "at": "2019-11-04 17:55:13",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "openhab-_-openhab-android.json",
+        "published_at": "2019-09-28T06:51:06Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "a36c20cb-6ae0-45f2-8fc6-3f9b7bbb01da",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "very good way to control openhab. Widgets on home screen finally arrived, too! Now faster loading times by caching the sitemaps would be nice (although it's only an esthetic thing)",
+                "score": 5,
+                "thumbsUpCount": 9,
+                "reviewCreatedVersion": "2.9.0",
+                "at": "2019-10-23 06:56:45",
+                "replyContent": "Hey Manuel,\nthe latest beta supports äöü in the password field.",
+                "repliedAt": "2019-06-28 18:32:51"
+            },
+            {
+                "reviewId": "60d5ddc4-8c04-48d6-afe1-d5a44facf3cf",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Great app. The only one thing that sucks is the new fingerprint verification feature, as you can easily bypass it by tapping anywhere else in the app.",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.9.0",
+                "at": "2019-10-01 21:43:35",
+                "replyContent": "Hey Jiri,\nthis is fixed in the latest beta. Thanks for your feedback.",
+                "repliedAt": "2019-10-10 18:58:54"
+            }
+        ]
+    },
+    {
+        "filename": "openhab-_-openhab-android.json",
+        "published_at": "2019-08-01T18:02:27Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "c6e2fc38-15b8-4ad6-a404-840643825a27",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Best home automation platform bar none.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.8.0",
+                "at": "2019-10-03 15:37:50",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "3b64a52e-4811-4cac-ad44-f71782c71013",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "I am regular user of openhab app. Recently i have changed my mobile from refmi note 5 to Nokia6.1 niw i didn't get ipenhab notification on my new mobile. Everything else is working fine. Finally its working. Thans support team",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.8.0",
+                "at": "2019-09-01 11:53:55",
+                "replyContent": "Hey,\ncan you make sure that openHAB is excluded from battery saver? https://dontkillmyapp.com/nokia",
+                "repliedAt": "2019-09-01 11:45:23"
+            },
+            {
+                "reviewId": "78df4156-a3f0-4bc1-926e-fad07c08c28b",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Can not scroll down for \"Webview\"... In any browser its fine, only the scrolling issue on Android app...plz dix it",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.8.0",
+                "at": "2019-08-29 07:44:41",
+                "replyContent": "Hello Mohammad,\nscrolling WebViews in the app isn't supported, but you can remove the height parameter from the WebView and the app will display the full website.",
+                "repliedAt": "2019-08-29 14:56:40"
+            },
+            {
+                "reviewId": "31a566b5-3818-48e6-88d9-65f7c3437dbe",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Super app to control my home",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.8.0",
+                "at": "2019-08-02 18:00:58",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "openhab-_-openhab-android.json",
+        "published_at": "2019-05-20T16:55:13Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "d43bc3bb-24e2-4d43-82fa-21b0e98117fd",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "The best home automation app ever",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "2.7.0",
+                "at": "2019-06-16 19:57:20",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "7abfcf4a-ea4d-46c7-a62f-d3dab5303157",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Brillant app for brilliant home automation server.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.7.0",
+                "at": "2019-06-08 06:28:51",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "ead59218-b102-42d1-aba3-be5d9ec0c495",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "getting better",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.7.0",
+                "at": "2019-06-03 09:25:51",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "openhab-_-openhab-android.json",
+        "published_at": "2019-03-14T16:27:00Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "efb9f1cf-96cb-4910-a1d1-023be057abaa",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Excellent!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.6.9",
+                "at": "2019-04-28 19:20:15",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "5bd2d4d0-b49c-45db-81ea-1f40899e5b97",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "When i use the visibilty tag on the sitemap, it seems be hung up a bit when i use that switch with visibility condition, on the browser it is smooth and my switch will change with the icon. When the openhab seem to not respond, clicking the interface in browser changes the items instantly. Commented out my visibility tags for now as workaround for the app. up to 4 stars for quick response from developers, using icons based on my own number states like fan-0.png fan-1.png also hesitates a slight",
+                "score": 4,
+                "thumbsUpCount": 8,
+                "reviewCreatedVersion": "2.6.9",
+                "at": "2019-04-19 01:18:09",
+                "replyContent": "Hey Charles,\nDo you still have this issue?\n\nopenHAB Team",
+                "repliedAt": "2019-11-17 21:34:00"
+            },
+            {
+                "reviewId": "2a71e5ae-dedb-45d5-a512-03fb2b81a28a",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "How can anyone give this 4+ starts? The whole openHAB system is a mess. Doing ANYTHING is like pulling teeth. Don't think you can set this system up and go. Expect dozens of hours and many, \"well in that case\" moments.",
+                "score": 2,
+                "thumbsUpCount": 9,
+                "reviewCreatedVersion": "2.6.9",
+                "at": "2019-03-18 04:38:00",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "e41e53bc-12ce-4943-94c4-e22b999e79a7",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "What an amazing system!",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.6.9",
+                "at": "2019-03-18 04:06:10",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "openhab-_-openhab-android.json",
+        "published_at": "2018-11-24T09:13:05Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "82b6b38d-d5f0-49dd-81b6-e9466f2d573a",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "I love the fact that it gives me the option of using my own cloud. I prefer home automation using my cloud.",
+                "score": 4,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.5.0",
+                "at": "2019-09-24 03:42:35",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "81ec8ac4-6726-4808-95df-76c60a89a1e8",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "been using this the software not the app for years and its really good and i like it alot",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.5.0",
+                "at": "2019-08-04 23:50:56",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "92303d13-b92e-4eb6-9c82-97d8aa30ceb4",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Took me a while to figure out how to set this up, but that's no surprise given its flexibility in handling a wide variety of devices. Documentation isn't perfect, but you can  get most of your answers from examples and forum discussions . Ed. 2019Mar: 2 years and still going strong.Upgrades to OpenHAB and its bindings and extensions can kill things. You'll need from forums, documentations, and other users experiences to fix, upgrade, or workaround.  HABPanel helps you do away with this app for most practical purposes,  The review is about the whole of OpenHAB and not just this app.",
+                "score": 5,
+                "thumbsUpCount": 9,
+                "reviewCreatedVersion": "2.5.0",
+                "at": "2019-03-27 10:26:28",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "3062ad1e-eddd-4c73-bb76-3fad09778f8c",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "great app for self HA builders",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.5.0",
+                "at": "2019-03-13 16:31:56",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "a876a780-6fc9-4e89-94d2-722cb985b917",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "good. but very confusing, easily get lost when adding things to google home.",
+                "score": 3,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.5.0",
+                "at": "2019-02-27 17:23:16",
+                "replyContent": "Hey Taufiq,\nyou can find help in the community forum: https://community.openhab.org/\n\nCheers,\nopenHAB Team",
+                "repliedAt": "2019-11-18 11:06:51"
+            },
+            {
+                "reviewId": "0a3139a1-eb17-4add-8093-3cee6f5b89e6",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "good",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.5.0",
+                "at": "2019-02-26 11:03:30",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "4d4f5090-7671-4593-aa14-b40c0d582aef",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Good app, works as expected. I'd however add an authentication layer (PIN or fingerprint) as typically people expose so much of sensitive control over their houses and anyone who has access to the phone can use it (obviously after inserting password first but this is assumed to happen once and get stored in the app data)",
+                "score": 5,
+                "thumbsUpCount": 17,
+                "reviewCreatedVersion": "2.5.0",
+                "at": "2019-02-20 16:44:28",
+                "replyContent": "Hey Witek,\nsupport for fingerprint authentication is tracked in https://github.com/openhab/openhab-android/issues/1216.",
+                "repliedAt": "2019-02-25 18:57:07"
+            },
+            {
+                "reviewId": "1cee0744-d8ea-4fc5-b01d-5432f51f62a2",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Works perfect!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.5.0",
+                "at": "2019-01-15 19:20:39",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "5d6e5d51-2746-40d2-ac4e-70032e382ead",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Absolutely the worse home automation interface I've seen.",
+                "score": 1,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "2.5.0",
+                "at": "2019-01-12 23:24:42",
+                "replyContent": "Hey Vito,\nwhat exactly don't you like about the interface? By changing the sitemap you can configure, what's shown in the app.",
+                "repliedAt": "2019-02-10 13:19:35"
+            },
+            {
+                "reviewId": "a53bcc82-5655-43ba-9316-1be701432693",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Great addition to my OH setup.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.5.0",
+                "at": "2018-12-25 01:20:52",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "95509e24-c179-4ca3-bd9e-38a3a1b4bc48",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Great app for notifications and controll of your smarthome openhab server",
+                "score": 5,
+                "thumbsUpCount": 5,
+                "reviewCreatedVersion": "2.5.0",
+                "at": "2018-12-23 15:43:49",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "f292787e-2d5c-4316-8b1e-02d07f7878e2",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Excellent stuff",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.5.0",
+                "at": "2018-12-21 00:06:51",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "7ddceca2-9f37-4195-b52a-da473f89baed",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Installed it. Didn't work at all.",
+                "score": 1,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "2.5.0",
+                "at": "2018-12-13 14:34:53",
+                "replyContent": "Hey Jason,\nyou need an openHAB server to use this app. You can try out the demo mode to get an imagination of what openHAB is capable of.",
+                "repliedAt": "2018-12-16 13:02:55"
+            },
+            {
+                "reviewId": "33fbaf75-f0c5-4e0c-9fe1-6f1904dcc5f3",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Works out of the box, no problem. The openhab community (and the android app maintainers) are very responsive with bug fixes. Thanks for the grafana fix👍",
+                "score": 5,
+                "thumbsUpCount": 7,
+                "reviewCreatedVersion": "2.5.0",
+                "at": "2018-12-05 20:47:06",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "openhab-_-openhab-android.json",
+        "published_at": "2018-11-06T18:41:58Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "9bbb49bc-0806-4daf-aeee-5c6bd36fb991",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "I installed the app and the demo isn't working.",
+                "score": 1,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "2.4.0",
+                "at": "2018-11-27 15:19:38",
+                "replyContent": "The demo server at http://demo.openhab.org:8080/ was done - not the fault of the app!\nTry again now!",
+                "repliedAt": "2018-11-27 16:13:32"
+            },
+            {
+                "reviewId": "e422577d-d720-4979-8f69-d3bd2c801948",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Last version takes to long to connect, when it does it times out or is very slow to respond.",
+                "score": 4,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "2.4.0",
+                "at": "2018-11-14 09:46:28",
+                "replyContent": "Hey,\nthe openHAB foundation deployed an additional server to speed up connections to myopenhab.org.",
+                "repliedAt": "2018-11-19 16:25:38"
+            }
+        ]
+    },
+    {
+        "filename": "openhab-_-openhab-android.json",
+        "published_at": "2018-05-22T18:03:33Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "3455004f-5d2f-49fb-b30b-cd36fbd73279",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Could you add a setting to enable/disable notifications? Thanks",
+                "score": 4,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.2.0",
+                "at": "2018-11-09 07:56:57",
+                "replyContent": "Hey, you can use the Android settings to disable notifications. Try to long-tap on the notification.",
+                "repliedAt": "2018-11-25 12:09:53"
+            },
+            {
+                "reviewId": "10a5a8d3-5c68-4676-a26a-24009948f109",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Constantly loses connection to the server, makes you go into settings and change nothing for it to try again and realize there was no problem. Doesn't implement all of sitemap details. Colorpicker is amusingly bad. I'm glad this exists, but it's pretty sub-par. Will be replacing it with a custom version soon.",
+                "score": 3,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "2.2.0",
+                "at": "2018-08-26 19:49:29",
+                "replyContent": "Hey Chris,\ncan you try out the beta version? We've improved the colorpicker and display more sitemap info compared to the stable version.\nCan you give us some more information about the connection issue? Please log in to the forum and we can help you out. Play Store reviews aren't the best place for troubleshooting. https://community.openhab.org/",
+                "repliedAt": "2018-08-27 14:47:04"
+            },
+            {
+                "reviewId": "7a472ccd-af6e-4de4-80d9-a5ea56721f77",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Works great, just wish the remote option worked without having to go \nthrough myopenhab, I got mine exposed with a password and it won't connect \nto that.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.2.0",
+                "at": "2018-06-22 12:39:34",
+                "replyContent": "Hey Edward,\nCan you give us some more information about your issue? Please log in to the forum and we can help you out. Play Store reviews aren't the best place for troubleshooting. https://community.openhab.org/",
+                "repliedAt": "2018-06-22 14:54:37"
+            },
+            {
+                "reviewId": "d9495356-1f47-47f8-8762-3d49222916d2",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Great must have app for anyone with an OpenHab server and home automated \nsystem.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.2.0",
+                "at": "2018-05-23 04:50:39",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "1ffe538b-e812-46e2-8d06-4e5efcefb575",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Perfect companion for your openhab setup",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.2.0",
+                "at": "2018-05-23 03:20:11",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "dec9caf9-c520-4bc2-8fcc-a002b6ee083a",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "It works very well in my case. Remote and local modes exactly what i need.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.2.0",
+                "at": "2018-05-23 01:26:14",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "openhab-_-openhab-android.json",
+        "published_at": "2018-04-20T10:25:16Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "2c875ab6-8adc-427b-8acf-9de73cd6cac8",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "More software should be like this. Rock solid for multiple years now. \nNitpick: Multi-button widget is pretty cramped. In general could use some \nreflow of some kind for small/portrait screens",
+                "score": 4,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "2.1.0",
+                "at": "2018-05-22 22:32:23",
+                "replyContent": "Hey Hans,\nthe design of the app evolved over the last two years. Do you have any suggestions what should be look nicer?",
+                "repliedAt": "2018-04-13 22:08:35"
+            },
+            {
+                "reviewId": "e657a207-8246-4460-b3f9-bddb26cea697",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Great app, just since last update label colors defined in sitemap stopped \nworking in this app. Basic UI still works. Can you get this functionality \nback please? Thank you",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.1.0",
+                "at": "2018-04-24 06:08:06",
+                "replyContent": "Hey Jan,\nwe changed the way how colors are shown: When having a dark theme and the label/value color \"black\" it is set to white instead, otherwise the text would be hard to read. If you want to enfore a color, please use the hexcode for a color in the sitemap file instead. If colors are not working at all, please open a thread in the forum. Thanks!",
+                "repliedAt": "2018-04-24 17:27:51"
+            },
+            {
+                "reviewId": "cdbeb9fb-636f-4f4e-81e5-8722f7081f8b",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Works on Galaxy S5plus, but fails to connect on Galaxy S2 and Galaxy Tab3 \n(identical settings) while in the local net. So unfortunately my experience \nis a 66% failure. I guess the app incorrectly relies on something that \nisn't present on slightly older Android systems.",
+                "score": 4,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "2.1.0",
+                "at": "2018-04-23 11:54:15",
+                "replyContent": "Hey, do you still have these issues with the latest version?",
+                "repliedAt": "2018-11-25 12:11:42"
+            },
+            {
+                "reviewId": "b42ed1b9-9804-431f-bec9-326fb5894cca",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Rollershutter icons now work correctly, thanks for the fix! Gave back those \n5 stars :)",
+                "score": 5,
+                "thumbsUpCount": 5,
+                "reviewCreatedVersion": "2.1.0",
+                "at": "2018-04-20 17:30:22",
+                "replyContent": "Hey Zoltan,\nthe icon issue will be resolved in the next version.",
+                "repliedAt": "2018-04-13 20:38:59"
+            }
+        ]
+    },
+    {
+        "filename": "openhab-_-openhab-android.json",
+        "published_at": "2017-12-16T14:30:27Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "e558d4bc-9b6a-459a-a633-caa0d60b4f3a",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Seems to work, but does not show the external images for my weather widget. These images work within Chrome at the tablet. So cannot make use of the app.",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.0.0",
+                "at": "2018-04-06 11:47:39",
+                "replyContent": "Hello Tom,\nCan you give us some more information about your issue? Please log in to the forum and we can help you out. Play Store reviews aren't the best place for troubleshooting. https://community.openhab.org/",
+                "repliedAt": "2018-04-13 19:50:06"
+            },
+            {
+                "reviewId": "5d76f554-ccf9-4e51-9963-a9573e938842",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Love it",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.0.0",
+                "at": "2018-02-25 20:57:27",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "6d4c8f9e-4793-44a6-8a51-19e7b4adc1fb",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Not responding when using voice command",
+                "score": 3,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.0.0",
+                "at": "2018-02-07 18:25:53",
+                "replyContent": "Hello Nhan,\ndo you still have this issue?\n\nCheers,\nopenHAB Team",
+                "repliedAt": "2019-11-18 11:12:45"
+            },
+            {
+                "reviewId": "fed8ac8e-7e8b-4ca2-8c34-07d44a7f7407",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "So. Many. Notifications.  I don't know by what metric this app determines that openHAB is back online but it must be set to the clock at 10-20 minute intervals. Never in the past week has my my device gone offline yet I have received almost 500 notifications and no way to adjust them without blocking my legitimate openHABnotifications. I have noticed this problem is worsened when using the myopenhab website compared to my public IP with port forwarding. Please fix or add an option to disable the \"openHAB is back online\" notifications",
+                "score": 1,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "2.0.0",
+                "at": "2018-01-31 00:41:21",
+                "replyContent": "Hello Logan,\ndo you still have this issue?\n\nCheers,\nopenHAB Team",
+                "repliedAt": "2019-11-18 11:13:02"
+            },
+            {
+                "reviewId": "0eef96f0-59e2-481d-8fa4-d156b8758a8a",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "How come the charts aren't displaying even with a higher refresh rate??",
+                "score": 2,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.0.0",
+                "at": "2018-01-14 19:58:16",
+                "replyContent": "Hello Samyadeep,\ndo you still have this issue?\n\nCheers,\nopenHAB Team",
+                "repliedAt": "2019-11-18 11:13:48"
+            },
+            {
+                "reviewId": "87980868-8ba6-47de-8e6e-9e2f648901e0",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "There are improvements that can be made but there is a good consistent effort for improvements. Appreciate the work and enthusiasm",
+                "score": 5,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "2.0.0",
+                "at": "2017-12-22 16:08:14",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "80fcb702-1e9a-41cd-a680-6070f2535e53",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "It's broken! Can't use volume keys to dim lights anymore. Feel like a crippled Apple user now. And new icon sucks. Looks too much like OpenVPN icon.  Old review: It's a 3.5. Maybe a 4. If it supported multiple servers it wouldn't be less than a 4.5. Multiple sitemaps on the same server it'll see but I have to rely on 3hou.se to use my setup at work AND home without changing settings all the time. 3hou.se actually auto detects servers too. Can we get that here? Kthxbai!",
+                "score": 1,
+                "thumbsUpCount": 20,
+                "reviewCreatedVersion": "2.0.0",
+                "at": "2017-12-21 07:22:33",
+                "replyContent": "Hey Mike,\nwe decided to remove the feature to control slider items with the volume buttons as it was very limited (only one slider) and undiscoverable. If you don't like the new icon, feel free to use a launcher with the ability to change app icons. Multiple sitemaps and auto discovery are both support. For more questions: community.openhab.org",
+                "repliedAt": "2018-04-22 17:48:41"
+            },
+            {
+                "reviewId": "78b6bd2f-32ed-4ff6-9765-e79e7e8af516",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Great app and client certificates work again. Thanks very much.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.0.0",
+                "at": "2017-12-19 01:50:28",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    }
+]

@@ -1,0 +1,441 @@
+[
+    {
+        "filename": "afollestad-_-material-dialogs.json",
+        "published_at": "2020-02-08T03:42:34Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "f2b1276b-afe5-4413-97d2-fc88a38e8d82",
+                "userName": "Sankaranarayanan YG",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJh8gz8uxww_ieYQd8K9nywZh5iE0_HeEZSC4URoTtj=mo",
+                "content": "Good one for developers",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.2.1",
+                "at": "2020-05-25 12:22:17",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "afollestad-_-material-dialogs.json",
+        "published_at": "2019-07-02T18:23:33Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "e52b7ed1-44d0-4603-b237-b9dbbce5c2a0",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Best dialog samples",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.1.0",
+                "at": "2019-10-30 06:49:15",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "afollestad-_-material-dialogs.json",
+        "published_at": "2019-06-25T01:56:57Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "8d5d9f78-82f0-4dbb-8753-7657a4c525d8",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Do you support Java as well? in the documentation I was only able to find Kotlin examples.",
+                "score": 5,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "3.0.0-alpha3",
+                "at": "2019-05-18 07:30:32",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "afollestad-_-material-dialogs.json",
+        "published_at": "2019-04-06T20:33:58Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "afollestad-_-material-dialogs.json",
+        "published_at": "2019-03-20T19:46:09Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "afollestad-_-material-dialogs.json",
+        "published_at": "2017-01-10T23:18:57Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "4c364c26-e70d-433e-a9d5-91bc67409e9a",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Great library that has never failed me. It's become my defacto standard for \nAndroid dialogs!",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "0.9.2.3",
+                "at": "2018-07-05 19:34:22",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "3d168c02-aef8-41fc-b764-141c054128f4",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "This library is powering my management app. It's a great job that has been \ndone at there. Thanks a lot to the owner.",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "0.9.2.3",
+                "at": "2018-05-08 19:54:23",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "71b52cc2-e03a-41f5-aff1-6824647ab06a",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "good",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "0.9.2.3",
+                "at": "2018-04-26 21:06:27",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "f3a04f5b-a32f-4f2a-be16-c66ee312eb78",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "awesome",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "0.9.2.3",
+                "at": "2017-12-23 02:25:42",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "68019e9d-f8e3-498b-8a72-18b06dfaf869",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Good",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "0.9.2.3",
+                "at": "2017-11-04 07:53:08",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "b142d83e-9a27-4afc-9f3b-a0dce28ed013",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Library looks amazing. Excited to start using it!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "0.9.2.3",
+                "at": "2017-10-31 15:11:27",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "8dbfbbb6-df8b-42dc-9c3a-5d03974b21c6",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Awesome Library, Thanks",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "0.9.2.3",
+                "at": "2017-08-20 13:29:59",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "0db5c519-0e29-40a9-b8de-a69061d2b48f",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Great app! Help me a lot.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "0.9.2.3",
+                "at": "2017-07-06 09:23:49",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "e099134c-498e-4af3-a9d8-dcb6a6107f0e",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Very nice library, thank you!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "0.9.2.3",
+                "at": "2017-05-21 10:08:25",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "54278664-15f9-4613-b537-a18ca6326570",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Exhaustive demo for an excellent library. Makes dialogs actually usable.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "0.9.2.3",
+                "at": "2017-05-04 04:05:28",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "86ef45ac-ae88-4371-9a25-cae9d70c2a53",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Good job on the lib!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "0.9.2.3",
+                "at": "2017-04-27 14:50:45",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "11b9f14c-f08e-4acf-be82-f0976dafe6f1",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "You saved me a lot of time thank you so much",
+                "score": 5,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "0.9.2.3",
+                "at": "2017-04-17 18:06:19",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "55da64b3-d270-4814-aa53-8a3f838a77f1",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Nice job, Aidan!  Google should incorporate this into its API.",
+                "score": 5,
+                "thumbsUpCount": 10,
+                "reviewCreatedVersion": "0.9.2.3",
+                "at": "2017-02-17 16:41:52",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "3620918e-fbe6-4bd3-b797-782d14e3b595",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Been using the library for a while now, it's the best around for material dialogs",
+                "score": 5,
+                "thumbsUpCount": 9,
+                "reviewCreatedVersion": "0.9.2.3",
+                "at": "2017-01-12 20:11:16",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "afollestad-_-material-dialogs.json",
+        "published_at": "2016-08-13T18:19:07Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "c0705f19-3508-494f-a6bf-404dc2a4d0a4",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Best library saved so many line of code for me",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "0.9.0.1",
+                "at": "2018-06-09 19:24:04",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "4ffb8ac8-741d-488a-999e-d80853effc5f",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "I have been using Material dialogs in my apps thanks so much ! works perfect!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "0.9.0.1",
+                "at": "2016-12-28 19:31:00",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "61b8320f-aec8-4d27-871f-dd77638523fb",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Much appreciated",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "0.9.0.1",
+                "at": "2016-12-12 10:10:43",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "332ee74d-5204-481e-9e15-0aa170e376e6",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Excellent library!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "0.9.0.1",
+                "at": "2016-12-03 06:44:08",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "d741aea8-6451-4154-8b42-33267a2d8f5c",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "I don't understand the point of the app.",
+                "score": 1,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "0.9.0.1",
+                "at": "2016-11-25 10:39:02",
+                "replyContent": "It's a demo for a library used by app developers, not for regular people. Please remove your review.",
+                "repliedAt": "2017-01-08 22:34:13"
+            },
+            {
+                "reviewId": "71eb0694-4425-4789-ae8e-25f6a95888b5",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Very easy to use, wonderful library. Thank you very much. You saved much of my time.",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "0.9.0.1",
+                "at": "2016-08-27 20:29:10",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "a95e08ff-ab4b-46c3-a8c3-32db2f429855",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Old review was for an older model phone",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "0.9.0.1",
+                "at": "2016-08-16 01:47:28",
+                "replyContent": "Can you be more specific? Bugs should be reported on GitHub, not here.",
+                "repliedAt": "2016-08-16 00:39:24"
+            }
+        ]
+    },
+    {
+        "filename": "afollestad-_-material-dialogs.json",
+        "published_at": "2016-08-08T00:50:35Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "afollestad-_-material-dialogs.json",
+        "published_at": "2016-07-18T21:34:24Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "ceb7a7ad-4109-4332-b640-57614e0cb32b",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "For support an older version",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "0.8.6.2",
+                "at": "2016-07-19 07:09:09",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "afollestad-_-material-dialogs.json",
+        "published_at": "2016-06-25T23:09:52Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "afollestad-_-material-dialogs.json",
+        "published_at": "2016-06-20T22:11:44Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "e8508546-116b-47f2-b406-ef12840e0c24",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "I use it in all my projects",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "0.8.6.0",
+                "at": "2016-06-23 13:54:48",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "afollestad-_-material-dialogs.json",
+        "published_at": "2016-04-09T21:03:54Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "afollestad-_-material-dialogs.json",
+        "published_at": "2016-03-14T06:07:44Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "42f49b94-727b-4be2-b686-958d91abea04",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Great!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "0.8.5.7",
+                "at": "2017-03-24 14:12:12",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "c3d8bd10-06a2-4c2f-8907-72ae6a3c595e",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Keep on the good work!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "0.8.5.7",
+                "at": "2016-04-09 23:50:36",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "3e6045e4-f8dc-4d31-b6f0-1c4833a0b60b",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Choices list and custom view bugs",
+                "score": 2,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "0.8.5.7",
+                "at": "2016-03-16 12:02:13",
+                "replyContent": "Can you be more specific? Bugs should be reported on GitHub, not here.",
+                "repliedAt": "2017-01-08 22:35:06"
+            }
+        ]
+    },
+    {
+        "filename": "afollestad-_-material-dialogs.json",
+        "published_at": "2015-09-23T21:33:16Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "83f000ec-bc43-4142-96fe-b147e50751e0",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Love ur library",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "0.8.1.0",
+                "at": "2015-09-28 06:02:58",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    }
+]

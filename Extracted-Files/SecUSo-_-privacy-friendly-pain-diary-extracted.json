@@ -1,0 +1,170 @@
+[
+    {
+        "filename": "SecUSo-_-privacy-friendly-pain-diary.json",
+        "published_at": "2022-08-03T16:03:47Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "13fff43e-8d47-4b66-805f-baa5f4c1639b",
+                "userName": "Alireza Aghazadeh",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUbdooObx8HppMRNSruA8S_5s5OvTZ629NWdcCMnZqbxdQ",
+                "content": "It would be awesome if you could add two more features to the app. 1. Possibly to log in for example with a Google account. So, if a user logs in on another device, every record is exactly there. 2. Possibility to add more than one record for each day; with the possibility to add duration of pain with exact clock time. For example from 14:32 to 15:23; the level of pain was 4. Then the user can add more than one record with exact times. Thanks 😊 🤗",
+                "score": 4,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.3.0",
+                "at": "2023-10-31 20:33:14",
+                "replyContent": "Thanks for you review and input.\n1. We do not want to implement such a possibility to maintain our status as privacy friendly\n2. You can track the progress here: https://github.com/SecUSo/privacy-friendly-pain-diary/issues/21\n3. You can input additional data to each entry where you can specify the time and duration",
+                "repliedAt": "2023-11-14 10:32:04"
+            },
+            {
+                "reviewId": "9db9ff52-f76e-4437-ac69-20c557801443",
+                "userName": "Morgan Botha",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjX3PFamWeKHan2UOaKBAnovm0nOtJYDzTgcqw9K7Ps6BPkY",
+                "content": "This App is so useful but I wish I could make multiple entries a day for each time I feel pain. My pain is varied throughout the day so the intensity isn't stable all day. Please add multiple entries 🙏",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.3.0",
+                "at": "2023-10-13 07:20:17",
+                "replyContent": "We plan on adding this feature in the future. You can track the progress here: https://github.com/SecUSo/privacy-friendly-pain-diary/issues/21",
+                "repliedAt": "2023-11-02 15:32:14"
+            },
+            {
+                "reviewId": "ee05f6c7-5fed-453f-9ea9-8c77543809c2",
+                "userName": "sue oneill-duff",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjW_SpF5Sv7Lta9Upo8UpKQcCUJj_JZdlYFEC1FupWn7UtU",
+                "content": "thought it would be good but unlike other trackers does not allow more than 1 entry per day as things change and only small amount of notes to add. Unfortunately apart from thank you for .I have no idea what reply says",
+                "score": 4,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.3.0",
+                "at": "2023-04-29 11:11:17",
+                "replyContent": "Danke für das Feedback. Dies ist eine Funktionalität, die wir zukünftig umsetzen möchten. Sie können den Fortschritt hier verfolgen: https://github.com/SecUSo/privacy-friendly-pain-diary/issues/21",
+                "repliedAt": "2023-04-26 13:42:22"
+            },
+            {
+                "reviewId": "0718abec-9ce5-4ad8-86e9-99d5b00282c5",
+                "userName": "mike kram",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUhNQUEDtABcmfQx-73MKg2DOKtXn07KCa_yIiEgbrvaw",
+                "content": "Pointless! I was under the impression that if you highlighted the area of the body where you felt the pain it could give you some sort of indication of what was causing the pain. All it did was show me the information I entered into it. And that was it! I may as well have written that information down on a bit of paper for the good it did me. Fruitless exercise in uselessness. You could have just have put this information on a website. Why did I have to download it on my phone.",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.3.0",
+                "at": "2023-04-09 13:42:13",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "f3d52dfd-17ef-479b-8003-c1a2feed86aa",
+                "userName": "Pippa Flaherty",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWxCZlFUjrMYpBFcg6QIOlGE3uY5uSX0FXG2b8J96jzBg",
+                "content": "Good app, one of the only free ones I could find. Would be better if it was made clearer which side of the person was left and right for when you're clicking on the place where you're in pain. I can't figure out which side I should be clicking for my left and right side on the option for the back of the person",
+                "score": 4,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "1.3.0",
+                "at": "2023-03-29 14:09:18",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "4c9e27cb-4b38-45e6-ba3c-f9f6b7ba8c6d",
+                "userName": "Anto Mort",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUqwyedV7B2vHrGFWmVbFcHW3iyhwSYTLrZll6t8Gg0Emc",
+                "content": "This is a well designed app that steps you along recording all of the key details of your pain state. YET you can only make the one single record for a day. This will work for you, if your pain is just constant, across a day. For me, needing to record changing pain-states over 24 hrs, it is useless.",
+                "score": 2,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.3.0",
+                "at": "2022-09-23 07:05:41",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "SecUSo-_-privacy-friendly-pain-diary.json",
+        "published_at": "2018-03-29T12:39:14Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "156692c6-3893-4419-9a3f-15813980975b",
+                "userName": "ポール",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXN8zVlP9v3SiwocmM8X4hUCQ2j1VWsF7uQjps1Vqghxkg",
+                "content": "Very useful. Only issue is that the neck is hard to select because it's very small on the diagram.",
+                "score": 4,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "1.0",
+                "at": "2022-05-10 19:21:14",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "90ef05ca-d23f-42b9-b250-ed8c03b1570d",
+                "userName": "Brenda-Ann Wilhelm",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWhdSbsnTVquDesqFyQihZJxtPhbyIl399D5UFDigiBFg",
+                "content": "Not for older people",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.0",
+                "at": "2021-03-20 14:14:52",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "c0e702b2-000b-40dd-b1fd-d2f194596eae",
+                "userName": "Chris Australian Art For Sale",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVFwLPaa6lQvcc_9r3iYjUydxhHovrN9i0lDwnm_qGhA5Y",
+                "content": "If you were born before 1970 you cannot set your date of birth",
+                "score": 1,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "1.0",
+                "at": "2020-12-11 23:16:09",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "5987f2b1-b008-401a-942c-3fe2282e4cdf",
+                "userName": "Ti Vu",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLJHliLeVe9Z8k8ooRX9ePmZSKkbN1ycTMzu1v2zWht=mo",
+                "content": "App had NEVER been updated! Rudimentary basic pain app. Needs improvement. Does NOT need internet connection to create log. Does not forward your info. Wish pain diagram, symptoms was more detailed/specific,. See Pain Scale and others for details.",
+                "score": 2,
+                "thumbsUpCount": 6,
+                "reviewCreatedVersion": "1.0",
+                "at": "2020-07-14 16:16:03",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "a40d7595-4939-4de6-a1bf-654c86740060",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Excellent for finding cause and effect",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.0",
+                "at": "2019-09-11 22:15:36",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "d76aa44a-6439-4eec-a3dd-e38aede72272",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Without multiple entries for a day... Useless",
+                "score": 1,
+                "thumbsUpCount": 13,
+                "reviewCreatedVersion": "1.0",
+                "at": "2018-07-05 03:06:24",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "a2b7dd15-424e-4e94-8b74-0d910d8c670e",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Like very much that this app is not intrusive! But wish that I had the \nability to log multiple entries/times for the same day sInce chronic pain \nis consistent throughout the day but at different levels at different \ntimes.. I do not understand the medication portion (it is not intuitive) \nbut maybe that's because it's laid out for a full day's input versus split \nout into multiple time frames. Probably will not use this app since it does \nnot fit my needs. **** Update: figured out that I can add another entry for \nmedication for each time I have to take another dose.....just wish I could \nalso log the different intensity of the pain level at that particular time. \n***** Increased star rating to 4 ***** but still need to give more \ncharacter space on both lines under medication lines so we can add hourly \nnotes of pain levels as well as adding more character space in the notes \nsection ....with doing this we (I) can manage to get this app to basically \nwork enough to be useful",
+                "score": 4,
+                "thumbsUpCount": 12,
+                "reviewCreatedVersion": "1.0",
+                "at": "2018-06-15 11:15:26",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "filename": "clean-apps-_-CleanLauncher.json",
+        "published_at": "2020-10-04T05:36:47Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "clean-apps-_-CleanLauncher.json",
+        "published_at": "2020-09-26T05:46:45Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "clean-apps-_-CleanLauncher.json",
+        "published_at": "2020-08-01T05:57:56Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "da77a5e8-a552-41af-8b8c-4a90c14ae43b",
+                "userName": "Vîshñü Prãsäd",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUR_7sf9zRMLGOCmrnuNE3A1MEw31-yROmMDDEwZRr_oB8",
+                "content": "It keeps stopping and not working in my tecno phone.",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.0.4",
+                "at": "2020-08-20 09:56:34",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    }
+]

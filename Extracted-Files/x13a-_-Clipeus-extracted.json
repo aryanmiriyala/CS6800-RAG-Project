@@ -1,0 +1,25 @@
+[
+    {
+        "filename": "x13a-_-Clipeus.json",
+        "published_at": "2022-07-23T20:49:32Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "x13a-_-Clipeus.json",
+        "published_at": "2022-02-16T01:44:28Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "ea00cd8b-2acb-43d0-8aa3-bdd19fcc7be1",
+                "userName": "Adrian Gheorghe",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjV5RE6SgmvTZbgUOUXM8LnRVy_L6Mc3tLQHv_khETCPLQ",
+                "content": "Sa spunem ok,intr-adevar functioneaza,sterge,nu stiu cu siguranta cat de\"safe\"este.Se poate gasi si pe Fdroid.Recomand,dar nu 100%,fara un firewall activ.",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.0.3",
+                "at": "2022-06-09 20:12:15",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    }
+]

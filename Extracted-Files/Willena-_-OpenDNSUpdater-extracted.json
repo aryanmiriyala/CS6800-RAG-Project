@@ -1,0 +1,601 @@
+[
+    {
+        "filename": "Willena-_-OpenDNSUpdater.json",
+        "published_at": "2020-08-24T18:51:58Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "f9764e62-9c0b-4b73-85ec-55a1d4b1e863",
+                "userName": "Daniel J. (Yogi)",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUP_DIC4E-r478iX_c3L1M76ZBcSkszGqp1-Ma3og1Q-Qze",
+                "content": "I am not exactly sure why things are not functioning. It will log into openDNS but that's all. No filters no nothing...",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.2.2",
+                "at": "2023-08-16 02:37:31",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "2712bc18-3dbc-4fd4-9602-634d7459c582",
+                "userName": "Said Bakr",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXUTJagF7Qfbw3mx2oQGYzBGAs_MTj3JMzCUEHRvn-olVo",
+                "content": "It works fine, but read installation notes well. i.e use url safe password in other words, special characters in that password should be . ~_- to ensure correct interaction between the application and the opendns API.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.2.2",
+                "at": "2022-12-25 21:22:57",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "6804346f-a36c-4d70-9464-5ffd755b4a42",
+                "userName": "Tv Samagodu",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocINoA9GMHLmDTjnc26CXvC8WSxVJTbYhq8o_QTjhI_D=mo",
+                "content": "I use this app to update my dynamic IP automatically from my smartphone. Though OpenDNS provides an app for windows to update ip automatically, there is no solution provided by them for mobile platform. Thanks for this awesome app.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.2.2",
+                "at": "2022-08-06 15:30:47",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "e36e2285-ba0f-47c6-aa1a-b7d6f2386f79",
+                "userName": "Anthony Grubb",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXOQcY1vJaygCnGoKmcTPaHtOuPi3jj6Zeuomue1WUuyhA",
+                "content": "The current rating of 3.0 maybe just a tad low, probably more like 3.5. Seems to work with Cisco's Free Open DNS nameserver filtering. However, it has a nonstandard method of initially teaching the features with an abundance of Engrish to filter thru --broken English that stays around for the life of the app, I should add--and with very technical configuration material where clear and accurate communication is vital! If they would humbly submit their code to a native standard English speaker...",
+                "score": 4,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "2.2.2",
+                "at": "2022-05-23 12:22:08",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "c8be2b2e-8ae4-41b3-a7a3-d67ff2104c5f",
+                "userName": "Abdurahman Mashur",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWMAdBzagWVurG2CSJ2fpNzUmOhIhAH9QTcRHdgJeAcB8s",
+                "content": "Did not work for me, i have filled my opendns account and it said impossible to connect",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.2.2",
+                "at": "2022-03-23 15:42:54",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "099fb084-a3cf-433a-93c1-e085eaa014b9",
+                "userName": "Timothy Longman",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVZ5_4wXSs6jkA91YerPK5YKOrk2tUQhW5wldKeSzF8_g",
+                "content": "How does the app know I am on my home network and not attached to my work network? I am just thinking when I go to work, will it register my work public IP address with my home controls?",
+                "score": 4,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "2.2.2",
+                "at": "2022-01-23 18:33:46",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "e4eed911-d9cd-4d83-a1fc-38c495e98e4d",
+                "userName": "Alex “AP”",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUnpEvebqfzw_u46CyN-6THcxL05idPKGMHtlIsWGfK6_M",
+                "content": "Works like it should.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.2.2",
+                "at": "2022-01-07 18:29:13",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "c33521a7-80de-4415-bff4-8d898125f351",
+                "userName": "Andrè Beneke",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXWeH-rPLbnFOnTCqcDlt5d_P6ZVch7hhN5msEOgi7S",
+                "content": "The red background is awful. I still do not know what to enter in the field, Network? The app can not identify my Ssid. Whould be nice if you can get it going",
+                "score": 2,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.2.2",
+                "at": "2021-12-16 21:24:07",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "6184be88-e9d0-4d4f-b503-0ccf46c150f9",
+                "userName": "A K",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLD5DJq0B8dEq7RhCWK8vmPO762skXX40u8ptZ5rXw4=mo",
+                "content": "It stopped updating ip for my dlink router after the latest update.. I didn't change anything and it used to work. Won' t even update if i open the app (shows a red x next to ip update and It shows i am logged in).",
+                "score": 2,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "2.2.2",
+                "at": "2021-12-09 13:24:32",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "a3db724b-8a24-4af2-b71c-0a35e46705f9",
+                "userName": "Mr. Prison3r",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJhP36K5tjgLKPgm_qmh6RgWVmsdMLAS-4zNr-IwoOd=mo",
+                "content": "suddenly it stopped working.",
+                "score": 2,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.2.2",
+                "at": "2021-12-09 07:19:42",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "c8c01dc1-87cc-404e-957f-5059fd0c6ed9",
+                "userName": "Hh Gg",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKMmuf5UHWxIpE3ylfE--kKaX8F1L4ZEO-05-QbMbO-=mo",
+                "content": "Nice",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.2.2",
+                "at": "2021-11-11 18:21:58",
+                "replyContent": "FYI, this app is not edited by opendns (the company). I'm an independent developer that built something that was (at the time) missing.",
+                "repliedAt": "2021-11-11 18:20:16"
+            },
+            {
+                "reviewId": "23710cd1-9522-4184-84c6-e2117d456c0d",
+                "userName": "John Rey Martinez",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjViIBDWJ0ZQMa1Uu7RVZrWZt0-4hr5ysMfVx28izJgQiw",
+                "content": "Not connecting",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.2.2",
+                "at": "2021-11-04 17:36:13",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "4d0842e6-1b86-4257-bbdf-07653a01ef1f",
+                "userName": "Sangram Biswal",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjX4qp4DYF1NCHTKE5nfcQ72YvHTFw5TCqtCOT2tEMtg7Jwn",
+                "content": "What address should I enter? There is nothing about it on Open Dns website",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.2.2",
+                "at": "2021-06-09 09:00:20",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "bf83c6b8-0c96-4c7c-8639-b0a9679c67d6",
+                "userName": "Ernie Jun “Jun-Jun” Valledor",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjV1BKS3cCN6bt5GOXa14QMW1qmMzDzf77vlMq6vPAJFlUM",
+                "content": "Why this app unable to detect wifi name of my current wifi connected unable to filtered out current connected device hoppe it fix soo",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.2.2",
+                "at": "2021-05-10 22:47:54",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "70908fbd-690c-41ee-8e4a-2aa3a1db7ef8",
+                "userName": "Amaan",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUy-5lBpEf1ZHQDQJ0gD9UMikLvy_qPPJcNQEQ80l369TZA",
+                "content": "Thanks man. I am new to this kind of stuffs...and none of windows dns updater I tried worked out for me. Finally, found this amazing app. Just a simple login, enable auto update and all set. Thanks dude.",
+                "score": 5,
+                "thumbsUpCount": 8,
+                "reviewCreatedVersion": "2.2.2",
+                "at": "2021-04-25 15:33:40",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "2471ae94-471e-4343-8657-a02e5645ab09",
+                "userName": "Juan C",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJjIfaifSZkDeAk6NGS_d2_PvoOq_3vbDUd3FusvT2bZ3s=mo",
+                "content": "Well done. All in one. - open dns updater - virtual VPN for applying the DNS",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.2.2",
+                "at": "2021-03-27 17:20:20",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "13622dab-795f-402f-881c-be8bd699b26a",
+                "userName": "Minh Tài Trịnh",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVcWkK32wBZbLJZOCmRXbvj9mPuSBCiPzqtRhS8zT5YB10",
+                "content": "for those who can't get it to work, the Name field is the name you granted for your network whem you set up the dashboard (eg Home, x...)",
+                "score": 5,
+                "thumbsUpCount": 10,
+                "reviewCreatedVersion": "2.2.2",
+                "at": "2021-03-26 15:30:16",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "b74012a5-7a07-4e3b-8e0f-4954c9172b06",
+                "userName": "Ahmed Hussein",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocK8mJJ8bKKwa-igBp2WgAm__LS5BM7Ms8J9VhmX2mb2=mo",
+                "content": "wasn't the company name Umbella ?",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.2.2",
+                "at": "2021-03-18 13:12:06",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "c41fc831-5757-47b8-b780-d280d37450a6",
+                "userName": "O.T.B Harmony Limited",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVgzmCFFyTkjb4egPULSfbllS5XT2vKeguFyQpMgQ0BnBs",
+                "content": "you say network name is the name in the dashboard. can you please elaborate it what you where refering to?. like exact thing",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.2.2",
+                "at": "2021-03-08 12:59:54",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "48f4c6b7-dea6-4520-93c4-502c9e3ab36e",
+                "userName": "Noraschid Ghani (The_City_Landscapist)",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUwIho8Oy6Mbmhj2hTR-cML5ogqxAFYGiveP9mC27ebuvZ5",
+                "content": "I have been looking for this for ages since using Android phone. It works for me and wished I can give ten stars for review.",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "2.2.2",
+                "at": "2021-01-24 05:14:06",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "c064d912-1435-453d-abef-824bd218d2a6",
+                "userName": "Kelly Pittman",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjULuOLIKVnIngdhh8FwAF9XmEM1FQ1UhOqaJIvp9Hb9_wM",
+                "content": "Can't get past login screen. Not sure what it's asking for for Network. I tried putting in the IP address that OpenDNS has for my home network, Test Connection fails.",
+                "score": 1,
+                "thumbsUpCount": 12,
+                "reviewCreatedVersion": "2.2.2",
+                "at": "2021-01-16 13:44:10",
+                "replyContent": "Hi ! The required network name is the one you gave in the OpenDNS dashboard. It is not an IP address.\nIf needed feel free to contact me by email.",
+                "repliedAt": "2021-01-16 14:33:16"
+            },
+            {
+                "reviewId": "faf080dd-03aa-4e20-9053-18fa635266a2",
+                "userName": "Pamela PGH",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjW5W-mg4YmnNRAFFYx_9z31F2P2bqB1sPe74-UXFoTCYXY",
+                "content": "Is this even associated with opendns? Used my credentials and it said couldn't use them. Bullet dodged?!",
+                "score": 1,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "2.2.2",
+                "at": "2020-10-28 15:50:26",
+                "replyContent": "Hi ! \nThe app is not maintained by opendns, but by me an independent developer. Credentials are stored on your phone and are only used to update your IP using opendns APIs.  It seems that there is something wrong when you're trying to login. I'll try to investigate as it is working for me and I'm using the app on an every day basis. \nGuillaume",
+                "repliedAt": "2020-10-28 16:29:08"
+            },
+            {
+                "reviewId": "71abf98a-f59e-4fe3-b851-9445f736a957",
+                "userName": "Rain Lopez",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjU70r9AWsEeFAUmOnMuS746bfXfzlqQ6X3SAlCCvUGyl-s",
+                "content": "I have been using my account for morethan 5 years. They have helped me beyond my expectations managing content access for my household. I cannot thank you enough",
+                "score": 5,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "2.2.2",
+                "at": "2020-09-30 14:22:35",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "bbc76008-b376-4983-90f0-e7c57c3841e9",
+                "userName": "A Kranox",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWgr8jq8pGiglW_JvZJkBqjK2s2r_RKcDhqTk9-BcxdVWc",
+                "content": "It works",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.2.2",
+                "at": "2020-09-25 20:38:28",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "64e20855-d0d2-45a7-bf9a-0fc487772ca7",
+                "userName": "Mo-bi Wan Kenobi",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVttUR9bBMP2nSSTspMtVhs-R_uJ_DcxN-RZt2DMPA2Fjs",
+                "content": "I can't login at all. Keep getting cannot login in with filled account error I do not have any & in my password.",
+                "score": 1,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.2.2",
+                "at": "2020-09-10 18:47:31",
+                "replyContent": "Hi ! The network name is the name you gave in the OpenDNS dashboard. It is case sensitive.",
+                "repliedAt": "2020-09-23 17:03:09"
+            }
+        ]
+    },
+    {
+        "filename": "Willena-_-OpenDNSUpdater.json",
+        "published_at": "2020-06-15T22:14:24Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "94e69095-2a5e-415b-b7ef-18b954ab8081",
+                "userName": "Alexandre Dumont",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXNWLWVdaCR8BBufpcwnfx1u_eHMb5t9bXE_MlU0ipFrbbf",
+                "content": "I give it 5 stars as I loved it. At first, I had an issue, it was failing the Login Test, but I had an \"&\" in my OpenDNS password. I was able to fix the issue by changing my OpenDNS password, no big deal. Then the app is working very well so far, as expected. (I have necer used any official OpenDNS app, so I can't compare feature-wise). I love the whitelist feature on this app. I am using this app on soe Android phones that I have connected duing the summer to a MiFi router, I have set the OpenDNS servers in the Mifi DHCP config, so that I can enhance security of the network and enforce some URL filtering.",
+                "score": 5,
+                "thumbsUpCount": 24,
+                "reviewCreatedVersion": "2.2.1",
+                "at": "2020-08-11 09:10:58",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "b04bd829-10d7-482a-a669-d365c09cfd18",
+                "userName": "Eniola Matimoju",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJLVi8EpjUvrAQEPGGxg4O5ak5UmsW1iuGWNzKcyEsB=mo",
+                "content": "It works perfectly for me now, easy instructions to follow up. So happy this works, it really brings about a huge difference in your internet speed. But during those tests.....Is getting all four Mark's necessary?",
+                "score": 5,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "2.2.1",
+                "at": "2020-07-10 22:36:49",
+                "replyContent": "Thank you for using my app. I'm happy to see that every thing works for you. The four green tick are not required. Two of them depends on the configuration you've done inside the opendns dashboard. The two first one are indicators for : are you using opendns servers and has the IP been updated. If you need more information contact me by mail.Thanks",
+                "repliedAt": "2020-07-14 21:44:53"
+            },
+            {
+                "reviewId": "763856c3-26e7-4b70-a5c7-41baa4d172c5",
+                "userName": "pho tar",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjW2sYSwGoOyihbMn_HJmiFURFHcp1RXoGgPER-Wqhgh_w",
+                "content": "Very good",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.2.1",
+                "at": "2020-06-23 05:15:04",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "Willena-_-OpenDNSUpdater.json",
+        "published_at": "2020-05-19T12:52:03Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "afb30972-c91c-4dfc-a331-7984fb75f913",
+                "userName": "John Carlo Sarmiento",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJ1mRWtaaTN2i3YEDjc52SvOV87TbzNfWnNYSmIuJSntw=mo",
+                "content": "Good app",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.2.0",
+                "at": "2021-03-14 01:37:07",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "493990df-4ca3-4ffa-812a-f2685fbecb9a",
+                "userName": "Kukuriku Men",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIiy-vfVick2khR3bKVUds4prKF4D-Pfyui-CSEQvyz=mo",
+                "content": "After phone restart it started working as expected.",
+                "score": 4,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.2.0",
+                "at": "2020-05-20 07:50:10",
+                "replyContent": "Hi ! In order for the filtering to work you need to define OpenDNS dns servers in your network configuration. \nIf you don't know how to do that or you can't do that you need to activate the internal VPN server that will only forward DNS request to OpenDns. If you need further information do not hesitate to contact me at android@guillaumevillena.fr",
+                "repliedAt": "2020-05-20 07:37:38"
+            }
+        ]
+    },
+    {
+        "filename": "Willena-_-OpenDNSUpdater.json",
+        "published_at": "2019-08-05T19:28:22Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "a381bec2-b2f4-4c21-881f-7421bf7f3c02",
+                "userName": "Matt Larkin",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVFHJuAzUFTMHUJoPOGF2EEy7D7N5Y0PTmb8VS9rIuVdPjg",
+                "content": "Fabulously responsive developer, this looks just the ticket to ensure my home DNS settings remain in place to keep filtering in place even if my dynamic IP address changes.",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "2.1.3",
+                "at": "2020-05-19 15:44:44",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "42c09976-6752-4b28-9de2-a58294769520",
+                "userName": "e Ashish",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXWvP7X1rndhS0pL83UXBr59f674n6RDhJ0Jgf6TnM-6g",
+                "content": "Works great",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.1.3",
+                "at": "2020-05-19 03:45:41",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "8c7c6372-e80d-4b7d-9a2c-7e208b2ec8fb",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "You've provided us with OpenDNS Updater but I need the standard OpenDNS app.",
+                "score": 3,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.1.3",
+                "at": "2020-04-28 05:52:07",
+                "replyContent": "Hello,\nCan you contact me at android@guillaumevillena.fr, explaining what you need, and what is missing ? Thanks.",
+                "repliedAt": "2020-04-28 07:08:01"
+            },
+            {
+                "reviewId": "98ba1cdd-a9f3-480f-aa3a-cbb1cc20f6bc",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Awesome and free!! It takes some time to set it up, but it works like charm!",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.1.3",
+                "at": "2020-04-09 08:25:13",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "a099d9e1-3833-4e02-bf22-b9d341ec8537",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "I'm unable to get the app to work. I'm using the email address that I use to log into the OpenDNS website, and password (which does not contain an ampersand per your instruction) and I'm using the network name which shows up on the windows app. It simply fails to log in. Perhaps I'll briefly change my password to something simple and try it again.",
+                "score": 1,
+                "thumbsUpCount": 26,
+                "reviewCreatedVersion": "2.1.3",
+                "at": "2019-12-22 20:38:38",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "1d548dfa-e990-4c5e-a478-87f820167e30",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "I believe I have done everything right, but it always fails at IP address update. :(",
+                "score": 2,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "2.1.3",
+                "at": "2019-09-15 17:49:41",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "Willena-_-OpenDNSUpdater.json",
+        "published_at": "2019-08-05T19:29:50Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "bd310b3e-a2ed-4956-a551-15d68b62eaf1",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Does not work on android tablet. All blocked sites open. It does not block any categories either..",
+                "score": 1,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "2.1.2",
+                "at": "2019-07-30 23:17:45",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "12e6ac01-a8c2-40e5-a58d-dfb62f543dd5",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "OpenDNS Updater took a bit of fiddling to setup, but was usable. Appears to be doing its job of updating my dynamic IP address at home into OpenDNS service. Thanks",
+                "score": 4,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "2.1.2",
+                "at": "2019-06-29 14:24:02",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "e23233a2-12fb-4260-924e-ef5ac092cc7f",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Working. However it says fishing sites are not filtered and I don't know why.",
+                "score": 4,
+                "thumbsUpCount": 5,
+                "reviewCreatedVersion": "2.1.2",
+                "at": "2019-06-11 04:51:18",
+                "replyContent": "Thanks for the report, I'll try to investigate the problem !",
+                "repliedAt": "2019-06-11 05:10:04"
+            }
+        ]
+    },
+    {
+        "filename": "Willena-_-OpenDNSUpdater.json",
+        "published_at": "2019-05-23T21:14:57Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "Willena-_-OpenDNSUpdater.json",
+        "published_at": "2019-03-02T16:27:04Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "5d4d4e09-8521-413e-8c8d-351d4a0db0c2",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "does not work",
+                "score": 1,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.1.0",
+                "at": "2019-04-30 22:06:20",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "b8ffb623-1248-4763-b0ef-ef25cfd7dcd6",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "good",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.1.0",
+                "at": "2019-04-23 19:03:49",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "6010cb3e-6ff7-47a1-8269-08ec6d1a759b",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Not logging in",
+                "score": 1,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.1.0",
+                "at": "2019-04-11 12:07:50",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "cc6d49ac-f341-40da-b62c-7fc6f1a4a095",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Can't login with my opendns creds.",
+                "score": 1,
+                "thumbsUpCount": 5,
+                "reviewCreatedVersion": "2.1.0",
+                "at": "2019-03-19 21:14:01",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "d26ab9cb-e93f-45b1-ac05-87f3c9b68767",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "awesome app works very well 👍",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.1.0",
+                "at": "2019-03-17 18:33:22",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "Willena-_-OpenDNSUpdater.json",
+        "published_at": "2018-12-24T10:36:38Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "765cbf91-9ea7-4d37-92d1-f380d9df1e12",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "IP address updates work after you input your info just like the windows app auto updater, very responsive developer, keep it up.",
+                "score": 5,
+                "thumbsUpCount": 7,
+                "reviewCreatedVersion": "2.0.3",
+                "at": "2019-03-02 13:28:24",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "41fabf27-bda6-4561-bc32-f4444f72ccb9",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "dont use this for opendns. its not working at all",
+                "score": 1,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "2.0.3",
+                "at": "2019-02-09 05:49:30",
+                "replyContent": "Hello and thanks for your feedback. \nPlease have in mind that the main functionality of this app is to update your IP on opendns filtering service ( that uses opendns for that ). The user has to configure his DNS settings properly if it want everything to work. A small VPN server that act as DNS translator is included but without any guarantees.",
+                "repliedAt": "2019-02-09 08:53:31"
+            }
+        ]
+    }
+]

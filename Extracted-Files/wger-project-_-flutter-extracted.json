@@ -1,0 +1,61 @@
+[
+    {
+        "filename": "wger-project-_-flutter.json",
+        "published_at": "2023-02-10T11:13:52Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "wger-project-_-flutter.json",
+        "published_at": "2022-12-06T18:04:17Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "28f88ab7-7359-4f52-9405-b15e8ffc4a80",
+                "userName": "Austin",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXVZ5u8OE-cGA-JpZ-kF1RGKQ-IIWDLC4-fpAtXz0idsNg",
+                "content": "This app is a simple workout tracker at first glance, but has very detailed information available- from the reports to the workout descriptions and images, it's impressive for something that the developer has made fully open-source and self hostable. The developer was very responsive for technical support and assisted in setup directly; not something you can say often! Hoping for the ability to import workout logs from CSV or other 'bulk import' functionality to make migration easier!",
+                "score": 5,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "1.5.1",
+                "at": "2022-12-08 18:57:37",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "wger-project-_-flutter.json",
+        "published_at": "2022-10-11T07:55:46Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "630bee0f-90ed-4545-b78d-371093d67fcb",
+                "userName": "Trent Bell",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVyLBBGIlFB8B9CEZWhH_wDjeNHcXAruhwzR9Gb_nPU9DY",
+                "content": "A good start, but needs major work",
+                "score": 2,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.5.0",
+                "at": "2022-11-15 07:08:45",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "wger-project-_-flutter.json",
+        "published_at": "2022-04-14T10:45:08Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "4042454d-e252-41c1-98d4-e2ac87169fd3",
+                "userName": "Morgan Kinnaman",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVwLWReRviwWFKl6EvydyY3cEDjg-8idqnPkwt-SSoTLF2-",
+                "content": "Has issues with standard/imperial inputs otherwise a nice app. Setting unit preferences in account creation would help. Also even after units are updated BMI remains metric.",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.4.2",
+                "at": "2022-08-14 23:04:29",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    }
+]

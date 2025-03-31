@@ -1,0 +1,80 @@
+[
+    {
+        "filename": "gdlow-_-brickguard.json",
+        "published_at": "2021-03-21T15:42:21Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "35611e6c-e48d-4177-9e16-cec80f65e100",
+                "userName": "Don Backa",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIKhA6ovNWPL8miGra6D5KPeNzVDfBeIlMZwc2UQSwHVA=mo",
+                "content": "There is a major flaw in the settings. The 'activate on boot' is not behind a passcode and the child using the device can just turn this toggle off and restart the device to disable the features entirely.",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.1.4",
+                "at": "2022-07-30 12:45:24",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "d059c667-baec-4d3e-abdc-21a6f34e6421",
+                "userName": "Trace Akers",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUcFxYZNraci7xLeWai9XD0--m9MHg72DvqZZVWfcKMtkg",
+                "content": "I like that it enforces youtube restricted mode without blocking things like reddit. However I wish I could filter youtube content by keyword as well. I would also like it to where I can prevent uninstallation of the app as well. If this is added then it would a definite 5 stars.",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.1.4",
+                "at": "2022-05-16 20:36:19",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "4183649f-7d44-4526-bdea-cc8700387410",
+                "userName": "Sam Mathew",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjX2Acedd_Vxv2QGdeSnbFhu6oUnkmIn63HJeFTYFZCLv98",
+                "content": "Great app! I can now browse safely without unnecessary content on my screen. This app is a savior!! 🙌 Well done devs!!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.1.4",
+                "at": "2022-02-08 05:29:46",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "736af9be-139a-467c-ab63-bf6594ff0865",
+                "userName": "Rohan Joseph",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocL6QXm-MTVG0FIsXAekqn37dl4H-b7_4O7BUSsiLTE3=mo",
+                "content": "Incredible app. Very handsome designer of said app",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.1.4",
+                "at": "2021-10-09 21:34:30",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "27b27892-a57e-4997-95de-56dc86bff01e",
+                "userName": "Saya Salunke",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocI14IrGqML9N1SqeJGpctuJnKu7AxR5XxTtnVgCAmxU=mo",
+                "content": "Not working in chrome and Firefox, it's only work in Opera browser.",
+                "score": 1,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.1.4",
+                "at": "2021-05-19 14:34:16",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "403158ed-738b-49f9-a4d2-4dfb661c34e2",
+                "userName": "Krishna Seeruttun",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUeEmaK78qxzEOaqQCuOyg4emAY3qFH7spCwDfecSnqswk",
+                "content": "I don't understand why the service Deactivates on its own?",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.1.4",
+                "at": "2021-03-28 11:30:10",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    }
+]

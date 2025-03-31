@@ -1,0 +1,199 @@
+[
+    {
+        "filename": "SmartPack-_-BusyBox-Installer.json",
+        "published_at": "2022-02-27T21:15:16Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "3b44087b-fbc7-4f6b-9e72-c3b2a81ac51c",
+                "userName": "Christian Fredrik Stormyhr",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocI0Tp7MDd6PbqqhwicymmJ0uRWBN3jlDvBJBpI1kEiW=mo",
+                "content": "Great",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "v2.7",
+                "at": "2023-06-27 08:07:14",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "27b53d57-e9da-4cf4-869d-498e0282fa0c",
+                "userName": "Dbagfragr Dennett",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIeOWKnFKfbTs6lF9YRilQNcxfYyfvVii0xdVI2yF7G=mo",
+                "content": "fake installs hidden app",
+                "score": 1,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "v2.7",
+                "at": "2022-08-26 01:11:47",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "6295a01d-4332-409a-9af0-6b012dd2f468",
+                "userName": "C S. (C.J.)",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXcLaRRdnbD52iaLEVPU2dp_CGzd2OjxFe2Gg77rMyy9wM",
+                "content": "Doesn't do anything.",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "v2.7",
+                "at": "2022-07-26 01:19:58",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "d94190a2-7364-407f-904f-1e04cf77052b",
+                "userName": "МГУ БиоТех записи",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXIWUR6odU7WBkIvR1LhLYw6AINKva7i8xRoXECU9JEub0",
+                "content": "This (piece of cr)app extracted busybox binaries right into the root dir, and then refused to remove anything, even a usual xbin installation - just wrote that everything is removed, and then, after reboot, still stated that busybox is installed and offered to remove it one more time",
+                "score": 1,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "v2.7",
+                "at": "2022-06-14 19:30:51",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "6e4ca57f-adee-45d8-a764-511b236181a2",
+                "userName": "Chris Rosenbaugh",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWp_ZikoNri3SzNhcKObGspCLStlCNsohDqiVbIh7_klw",
+                "content": "Good",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "v2.7",
+                "at": "2022-05-17 22:12:26",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "SmartPack-_-BusyBox-Installer.json",
+        "published_at": "2021-09-23T21:06:09Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "ccdb44b1-ef16-4fa4-a2e6-a89d2582685c",
+                "userName": "Get Bacc",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUCNNbh2oSidD0biR9w9VkbAylUxwP0tCJPb9vn6fH6sfo",
+                "content": "Cool man",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "v2.6",
+                "at": "2022-02-11 06:51:55",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "f3c242e0-1a01-4cda-a79e-8ad4666d6296",
+                "userName": "John Bradshaw",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXbIJQiz07JLkQZqn9NEQms--0hDIvb0LeUK8VgiOhQnk4",
+                "content": "Does not work on Lineage OS 18.1 (Android 11). The app says it installs successfully. After reboot it says it's installed, but every app that I've tried that requires BusyBox says it's not installed.",
+                "score": 1,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "v2.6",
+                "at": "2021-12-11 14:28:39",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "SmartPack-_-BusyBox-Installer.json",
+        "published_at": "2021-06-10T20:55:02Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "SmartPack-_-BusyBox-Installer.json",
+        "published_at": "2021-04-10T08:31:31Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "b3eabbac-9a86-4318-82ed-c3cebeadc1a3",
+                "userName": "Sahil Bhandari",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWpcAs45KzD0pqni_XbF3yBIOFk_pyUIthlEXWWCXUcu_E",
+                "content": "Works Good For Me ThankYou So Much 😘",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "v2.4",
+                "at": "2021-05-16 05:58:03",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "642f911a-f623-4346-9765-887917e2a5b9",
+                "userName": "Faiyaz Ebna Osman",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWVfrDjY_7FuucilE1vMmXM2e0R4-wO-bXp9oq6UcE0tK5C",
+                "content": "#Device 7t #Magisk v22.1 It says \"both 'root' & '/system' partitions on your device are not writeable!\" I installed the busybox using magisk and it succeeded. But this not, why?",
+                "score": 3,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "v2.4",
+                "at": "2021-04-11 10:09:03",
+                "replyContent": "Busybox Magsik doesn't need system partion to be mountable. However, my app, which directly injects binaries to /system/xbin does. I don't understand, why people expect two totally different installation methods behave alike? Thanks for the review, anyway.",
+                "repliedAt": "2021-04-11 10:02:49"
+            }
+        ]
+    },
+    {
+        "filename": "SmartPack-_-BusyBox-Installer.json",
+        "published_at": "2021-03-29T16:42:48Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "a0fdc9b2-c511-4206-bc2f-b88c17e54bab",
+                "userName": "hmd qrbn",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjW_H0fnB6DRUpbJFmIui0CzZ4fUTmC_xQK3kN6zbGHahg",
+                "content": "great",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "v2.2",
+                "at": "2021-04-16 19:12:51",
+                "replyContent": "Thank You",
+                "repliedAt": "2021-04-16 20:06:45"
+            }
+        ]
+    },
+    {
+        "filename": "SmartPack-_-BusyBox-Installer.json",
+        "published_at": "2021-02-27T10:36:11Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "SmartPack-_-BusyBox-Installer.json",
+        "published_at": "2020-11-17T11:51:45Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "SmartPack-_-BusyBox-Installer.json",
+        "published_at": "2020-09-06T09:44:13Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "SmartPack-_-BusyBox-Installer.json",
+        "published_at": "2020-08-19T18:08:45Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "SmartPack-_-BusyBox-Installer.json",
+        "published_at": "2020-05-18T18:07:40Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "SmartPack-_-BusyBox-Installer.json",
+        "published_at": "2020-05-17T20:45:03Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "bc860da8-732a-4440-9512-88fbcfb6cef0",
+                "userName": "E. Grigoryan",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVk7CfwTG0MkJ3nl0rAI3ZCrEqz9H9lkqHVt6w1nxdqLKem",
+                "content": "I have an error in my Redmi Note 6 Pro, in the last update, when I tap to search for updates, the program crashes, but everything else is just gorgeous, well done.",
+                "score": 5,
+                "thumbsUpCount": 14,
+                "reviewCreatedVersion": "1.6",
+                "at": "2020-05-18 05:59:08",
+                "replyContent": "Thank You very much for the report & review. Just reproduced that error here. Will fix it in another few days.\nEdit: Fix submitted to Playstore, and hopefully available soon.",
+                "repliedAt": "2020-05-18 18:08:40"
+            }
+        ]
+    },
+    {
+        "filename": "SmartPack-_-BusyBox-Installer.json",
+        "published_at": "2020-05-08T17:49:31Z",
+        "google_play_reviews": []
+    }
+]

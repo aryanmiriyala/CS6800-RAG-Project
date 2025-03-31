@@ -1,0 +1,56 @@
+[
+    {
+        "filename": "MrMannWood-_-launcher.json",
+        "published_at": "2023-04-24T15:58:58Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "c06b4578-4f6a-41ec-bbfc-4e143bbca387",
+                "userName": "Blank",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWV-2QrDbQdR-n3QE2N3BgjUusRrvefRvQCL6el7daMsEE",
+                "content": "Bad",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.4.9",
+                "at": "2023-09-30 18:05:16",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "a3a58a03-3dac-4c80-a0ab-e2195a4e6977",
+                "userName": "Sam P.",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLGuraD4TyK78qEc0hXXwo7tTqad6qVXWi4tR66TOc-1w=mo",
+                "content": "Good fundamentals, but needs better customization. On the s22 ultra the gesture wheel is too small to see. Icons are mostly covered by my thumb, and no way to resize it. Theres no clear way to disable the greyscale shortcut icons in the wheel. Dragging up brings up a search, theres no way to turn that into an app drawer, that's only available through a few extra steps. You are always limited to the 8 gesture shortcuts, no option to add additional outer rings or folders which expand the wheel.",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.4.9",
+                "at": "2023-07-11 15:32:33",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "c7e7d10c-6262-4213-a222-88f1988ec941",
+                "userName": "suman parag",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUp7SvXtQ6kCdn-2CVHIz6aLwJeDFYjktdEymJNFvjKNA",
+                "content": "Thanks for the launcher which works perfectly fine.. And i recently discovered that even the theme I use is set on it making it convenient.. Super thanks.. 😄",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.4.9",
+                "at": "2023-05-24 19:45:59",
+                "replyContent": "Thanks for the great feedback! You can move the widgets when you're in the \"manage widgets\" screen so that they don't overlap. I'll look at making the UI better :)",
+                "repliedAt": "2022-01-13 05:52:10"
+            },
+            {
+                "reviewId": "74bfafc3-c7e5-4ac6-b350-82a17cc17be9",
+                "userName": "Laurent Séraphin",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWbdjz_7Ryx9eaAqn2-YHxGw7s4nh5nexXoTAgICirH6oiD",
+                "content": "Great launcher (I'm sure it will get even better over time!). Reminds me of OnePlus 3 Hexa launcher which could provide further inspiration. Thanks for your work! --Update-- very good, very efficient and intuitive launcher indeed! Thanks again!! I wasn't able to find the repo for the OnePlus 3 launcher I was referring to earlier, sorry. Suggestions: another ring of 12 quick access apps, please? bigger icons for the 8 (+12) quick access apps, please?",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.4.9",
+                "at": "2023-05-20 15:27:52",
+                "replyContent": "Thanks! I'm glad you like it, and I'll take a look at Hexa Launcher!",
+                "repliedAt": "2023-05-16 15:54:50"
+            }
+        ]
+    }
+]

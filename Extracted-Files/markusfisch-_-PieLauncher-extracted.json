@@ -1,0 +1,840 @@
+[
+    {
+        "filename": "markusfisch-_-PieLauncher.json",
+        "published_at": "2022-02-25T17:31:11Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "98835196-a8bd-405c-89a8-b4b27e4532f4",
+                "userName": "Chandan Mondal",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWiy7q8nKF5pzexKYujcutMw0szGz4M49gWlHp9YmyyaA",
+                "content": "Nice app for fast usage",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.13.0",
+                "at": "2023-09-15 18:03:25",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "c370e7df-d0d9-4ce3-9c4f-1189e2e176cf",
+                "userName": "Carry Boom",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWg3Bc62XUttd88YVYk9Tut9-KAMGmkQ_Q_seBTEUPPng",
+                "content": "I am rating 5 star because it provides great UI and I'm Using it for many month. but there is one bug When you in landscape mode and exit from main button then the main screen also in landscape mode and if you want in to vertical then it not happen . So to take this in vertical one you have to open an app like mobile settings where vertical homepage is there and then you exit it becomes normal . So please fix it when exit it should be in vertical position 🙂🙂🙂.....",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.13.0",
+                "at": "2023-07-19 12:02:02",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "86efc368-8720-49d3-8c30-4041e3647903",
+                "userName": "Josh Allen",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocI65VDBhYwwQYA_Off-WKd8VM-8OF7O1bcLN48zFTF_=mo",
+                "content": "Gave 5 star because this is such an awesome app. Everyone has alot of good ideas. I would really like an app folder option inside, because even though being able to get to my apps quickly with the search option is awesome, sometimes i wanna scroll through the apps and select it. If i had the option i would turn the keyboard popping up automatically off as well, because i never use it, even though its great. Someone also said widgets. I also had the orientation issue. Thanks for the awesome app!",
+                "score": 5,
+                "thumbsUpCount": 5,
+                "reviewCreatedVersion": "1.13.0",
+                "at": "2023-07-16 18:20:55",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "3bfc7acb-c90c-48df-b146-327019627be5",
+                "userName": "Vikas Jogdand",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWlPGY2clt8mIf1SKE8OJBu-PO4-GpnDo4HLKU8tb0hJVY",
+                "content": "Good app best launcher",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.13.0",
+                "at": "2023-07-13 03:50:04",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "1b911bd4-25e2-4433-aa9a-938bbf3f423e",
+                "userName": "Sujith K Saji",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjX7Kz-kgO3jFBl_1J2JscZd_izAAeTmGGXJFzojgHMVza4",
+                "content": "Oombiya app no use",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.13.0",
+                "at": "2023-07-08 17:44:53",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "d2cf82bb-4a53-4eee-8471-832febd9222f",
+                "userName": "Manjeet Singh",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKwNl165EcLh3y70vdOtVZEB9Jp7_Qh-Fd7EGZhFADL=mo",
+                "content": "Great app 👏. The only problem I faced is it don't support the full-screen gestures. Hope developer will soon recognise and fix this.",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.13.0",
+                "at": "2023-07-07 11:08:24",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "9d067249-7445-4f01-9ba2-f4ba683ea268",
+                "userName": "Christian Morogan",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVVQ2fpY6W16BmXakx_aQtvCucDW4L9tGoazpUboA5HfA",
+                "content": "The launcher is just clean and easy to use",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.13.0",
+                "at": "2023-07-04 19:18:40",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "d4297133-72ff-4ece-bcce-f635e522429e",
+                "userName": "Mama's Boy",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjW_PCuFHDE_pkSi4-gdFbZVlFAVmY8YOT2TAHs5aHgVsbg",
+                "content": "Super cool...worth it",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.13.0",
+                "at": "2023-07-03 20:33:47",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "65db5bc9-b2b7-4d60-bda3-d2d272083efb",
+                "userName": "Henrik Kocsis",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJji6emns1vfxdkGHv8h0w-D5nxDjP-Bg33ymIoHpjl=mo",
+                "content": "It's not too bad, but it lacks some features. For example, widgets, to disable certain parts of the screen. It messes with gesture control so I can't use it",
+                "score": 2,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.13.0",
+                "at": "2023-07-02 01:07:11",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "36e03949-44a9-456d-b833-632d5008f09b",
+                "userName": "Ahmed Ali Memon",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWYTX2foTInA9eLj9BzUOdSM2kKl4OgiodiNHLFJ37aOhM",
+                "content": "This is awesome app",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.13.0",
+                "at": "2023-07-01 02:38:56",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "50ef0d3c-2584-4503-a943-9f347a076511",
+                "userName": "Ralph CerZa",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXK9_IO542eYBt9KpbiEYn2R2bEI9ZxMFeA9rkLCIfKkw",
+                "content": "Exceptional",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.13.0",
+                "at": "2023-06-26 23:49:40",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "808711e9-e006-40a0-81ea-99ffe173bb3a",
+                "userName": "Jasmeet Singh",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWLJbzvmW5iEy-Ow5Z-LxmgEkhyeOAXVg0tYZGaaRCC9Ek",
+                "content": "It's amazing",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.13.0",
+                "at": "2023-06-26 22:46:36",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "98970755-d216-45e3-b500-22454d1b27cf",
+                "userName": "M FR",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJR4LkBY_X-QekELy4kaBvP7Fa3XRmoNBsoIXWJx8xL=mo",
+                "content": "Works great!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.13.0",
+                "at": "2023-06-26 22:01:25",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "c23b44b0-29c5-4fdc-904e-84007b8eb16e",
+                "userName": "Mer x gamerz",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjX2nEOkk4dC2qlMoObl4lytPMD-L-iSC5HtNQWLb2hvtBU",
+                "content": "Good 😁",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.13.0",
+                "at": "2023-06-24 07:26:49",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "8a8ca418-1d8a-4c72-a592-a3bc9c88359f",
+                "userName": "Song Ko",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXCY1IKFDLsrBXFe0UWAIohjMZFFfvF-mgMAr3_pNB6eA",
+                "content": "I like how lightweight and unique this launcher is actually. But it has a problem... I was playing a game in landscape and when i close it i am stuck with the gesture navigation in home screen in landscape mode",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.13.0",
+                "at": "2023-06-20 21:27:50",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "863dfb37-b9d8-4a5f-9109-6e43638bc20c",
+                "userName": "Saddam Hussain",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjU6cdQggXxHvaHwodAUtsbGNA8zQJbFBThDq2dwLImGwMU",
+                "content": "Worst aap Increase you headed",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.13.0",
+                "at": "2023-06-20 07:19:06",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "51f8f725-0247-4cf9-962d-0a5fda752272",
+                "userName": "VIVEK BHATTACHARJEE",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUi1B0yROoZgJSqxUwomNOcCI39cpFBLW4-he3QulIFMEil",
+                "content": "NICE",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.13.0",
+                "at": "2023-06-18 16:59:29",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "0ce94fae-b10c-4c48-952c-48b828177d87",
+                "userName": "Zarch",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXxr68InnpHcEFbMFOWc9iTevbX9HMsq6L31CfpizmC54c",
+                "content": "Great launcher, there is just issue and that is whenever I watch a video or play games and then get back to my homescreen the home screen stays in the same orientation as while watching the video. Hope this gets fixed soon.",
+                "score": 4,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "1.13.0",
+                "at": "2023-06-16 11:59:48",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "2e32b91a-b90d-4c23-9ad2-960fff0c5271",
+                "userName": "Grafix River",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWFG6DXybLgkYA2rW9qZTd67EP3Czy3p-1Dl22GcIOfBDM",
+                "content": "Please update the icon shape design",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.13.0",
+                "at": "2023-06-16 10:20:32",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "9e6550cf-f7ea-44c3-b9e3-c5374093a4d3",
+                "userName": "Mh R",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWB0s0s8t_G-NqL2F1xIMLeOrdk2qaoDS0lY8_FHctPCCGr",
+                "content": "too good",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.13.0",
+                "at": "2023-06-16 09:21:58",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "1173b046-42dc-4a07-ad59-7b50c84f1731",
+                "userName": "Rian Iskandar",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjU6ONBwpYqmWcbgk25bTr4zxEH-ZuDv9BK75_pEKIYxuA",
+                "content": "I love the design and how the app works. A little bit struggling to change the favorite app.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.13.0",
+                "at": "2023-06-09 14:48:15",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "cc09d2df-36dc-4a83-844b-b7b4bd03bbba",
+                "userName": "Deki “Art”",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVVuOnj3pwjA2WGEF_5iPkS2mkS8cg4eme-p7ZlV2e7W5Y",
+                "content": "So first l give two stars becouse in edit dont show icon for remove app from circle, but there is just black on my black walpaper so l don't see, so there 5 stars and good work 😁",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.13.0",
+                "at": "2023-06-04 18:11:32",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "c443e5b2-c1d6-489d-b8fd-d44e7bbfbb08",
+                "userName": "Warren Manzueta",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWf1F7sRl09LhlmCUvFTuBSO4W7jHegK7FqFMoGwjcL8cJN",
+                "content": "Very good to productivity. But The screen is too empty, can we have the option to add a digital clock at least? Facing the 5th star door when that option comes!",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.13.0",
+                "at": "2023-06-04 17:42:35",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "be23a0bb-567f-45d5-b880-4c898da3be18",
+                "userName": "Milo Thrasher",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIEV4PDQd_pwd4MZXXTw2qNUNjQC7lmeMU8IUPajWpA=mo",
+                "content": "How do I change the apps that pop up? I never use chrome, but it is one of the apps (also, I rarely use any of the apps that do pop up) that pop up, nonetheless, 5 star app, -1 for the apps that pop up",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.13.0",
+                "at": "2023-06-03 22:19:48",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "abc1e893-52ba-42bd-ab58-c9dc5db2ab41",
+                "userName": "Moon 30001",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjX8k19StW-08jy9Tq4D1REcGrPt3-m52RsJ2l_sHPYXf05e",
+                "content": "good idea but it does not persist. once you press the home button tge launcher disables it self and the only way to re intimate is to re open it as an app.",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.13.0",
+                "at": "2023-06-02 13:24:44",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "8271b50f-ed9c-4474-88a8-a217186bdde8",
+                "userName": "Malligarjun",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWwWb-NbrW_9B5jJk3IIxiv-Ojg1399aJXmNhsq9eC79R0",
+                "content": "Very well thought out app launcher out there. It's minimalistic, quick and snappy but there's so much room for improvement. Adding Quick gestures like pull down to open notification drawer, double tap to lock screen l, customisable icons and it's arrangements can be really helpful and it will make this app perfect. Other than that, It has orientation issues, after using an app vertically the home screen also rotates automatically. Hope it's fixed soon.",
+                "score": 4,
+                "thumbsUpCount": 24,
+                "reviewCreatedVersion": "1.13.0",
+                "at": "2023-05-31 15:24:33",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "d4959af5-3a87-4d8a-9de0-7fa0fb360243",
+                "userName": "paseka majara",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVeP6T_YRaeGZpzJD_QYLihzZ4JRmFqZCrYSGsJdgtYAyA",
+                "content": "Love the app but i wish the keyboard didn't pop up when I view all my apps",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.13.0",
+                "at": "2023-05-31 02:55:54",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "d4aea18f-5064-426c-ae68-0a09505f6e9c",
+                "userName": "White Devil",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUHzuCi1JRPnkTMKUHRI1edLKvup501M04H83f4Q7gZSdo",
+                "content": "One of the best and simplest launchers.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.13.0",
+                "at": "2023-05-30 16:09:15",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "40b899ad-cd99-4939-a664-008a7c8673fb",
+                "userName": "Subba Rao S N",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWAq50pubDa3hSJYLceNSz47ubcPnwf-U9Y58jbG1DJahSV",
+                "content": "Its very nice",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.13.0",
+                "at": "2023-05-22 14:35:49",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "501051d9-c5c3-40d0-8f35-b119f4ae29be",
+                "userName": "Jo jo",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVDshbtpjbPkFiVOtra46Xbp9669SXDiETSs_KeY2K4_uZR",
+                "content": "Pretty good. My only complaint would be that I wish I could use my weather widget. Or widgets in general. Along with having a home row at the bottom as an option. And Long holding the screen to edit the wheel/(open widgets) rather than having to pretend to add another app to the wheel and then canceling it",
+                "score": 4,
+                "thumbsUpCount": 7,
+                "reviewCreatedVersion": "1.13.0",
+                "at": "2023-05-20 05:24:46",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "faa67255-7dc6-4e16-b51b-720e220aec12",
+                "userName": "Thomas Gilchrist",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjX5pwtaLRQOXZcizhpNY1ycNqvjUAqsvcY_K_FFv1_KHx8",
+                "content": "Amazing minimalist launcher. If you're looking for a truly minimalist launcher- one that does not distract you with distractions of bells and whistles def check this one out. Brilliant coding. Eminently useful. 7 stars. 🤪",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.13.0",
+                "at": "2023-05-20 02:20:29",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "6e28b175-8798-413e-9997-726e242fcfc7",
+                "userName": "Ahmed ghanem",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWYAO-GvPo8dIJgIQ980iMdg1qpJyCpiNeX0ht6CCNOvg",
+                "content": "Useless",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.13.0",
+                "at": "2023-05-19 21:46:49",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "bc3849c8-ca91-413e-9848-8cbaa8608bde",
+                "userName": "Arjun Muralidharan",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjV3nhec5zU1liD1oy-L5SFHh1dZpl_7OYtSiYZoioucDqow",
+                "content": "Try to include a gesture to bring down the notification area, like a two finger swipe down or something. Everything else works as intended. Good job.",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.13.0",
+                "at": "2023-05-19 17:09:51",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "9f6b8f7d-3198-4185-bc95-1bf5e024b65b",
+                "userName": "Olakanmi Inioluwa",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWleSnRsOcNoeiUQTJOfhj7H1kB6etuyUE2U_tYNoIgFg",
+                "content": "The design is very simple, and less distracting It's lovely",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.13.0",
+                "at": "2023-05-19 14:31:26",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "dc73e682-f180-4346-a01f-2deb10b8c8e3",
+                "userName": "GrrrBoyHalo",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIe_TLrw6XBpUk4mWAyzdLVthd04AP4Z2FsVUIoQuwF=mo",
+                "content": "Hi, I was just wondering on how to r remove apps from the pie? I saw on your github that you remove apps from the pie, but I don't know how to do it",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.13.0",
+                "at": "2023-05-19 05:30:28",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "4b6165ac-824e-40b7-9868-64e5193713f2",
+                "userName": "Jan Joseph Broqueza",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUAWkGinfZCFjD1GKreX6gQVYK9JzQ7eQa47FK1xCen8b8",
+                "content": "Satisfying & smooth, unique concept, minimal, beautiful and overall, a good app but there's so much room for improvement. Could really use an app info option, widgets, and more customization.",
+                "score": 3,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.13.0",
+                "at": "2023-05-18 16:21:23",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "027cf1f1-a415-4178-8893-46edf7891092",
+                "userName": "ItsADG",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLgLqYntCM0zzQiUMWcZQDqArezM_WPzeS33QFSsdZI=mo",
+                "content": "Very good launcher, tho it is not the most intuitive to use on your first time.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.13.0",
+                "at": "2023-05-18 12:47:52",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "b005a08f-d335-4616-82e9-3c3c2442a349",
+                "userName": "Carlos Gonzales",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXXLIihMgkRgzvdt4aGfxYpO3elkbHGy3QdLr_z9QsrkI4",
+                "content": "I love this app, but I am not satisfied for its features so I gave it a 4stars. I like more customization features.",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.13.0",
+                "at": "2023-05-18 06:40:05",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "24bcd82e-c7ae-4de7-a098-8509d5e5b502",
+                "userName": "Batiste Tucker",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVJjdoqJfGjMJrYwP6KWYwBDwDhBhmg59hZ_tdzV7-dxlM",
+                "content": "😡👎🏿Doesn't stay operational after first initial tap, immediately converts back to previous stock UI.",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.13.0",
+                "at": "2023-05-14 02:23:58",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "47cf06c1-8f31-4c8d-a08f-62d20118b373",
+                "userName": "Rodolfo Gomez",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXPrSu3fMoeXMA4PuTBhVHPlbOH6xnd6UyljSBu0qWvZ5g",
+                "content": "Very simple but need to improve. It well be better if you can put wedgit on home screen.",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.13.0",
+                "at": "2023-05-11 12:37:46",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "2026436d-9a57-475b-aa11-3c60a1a71d0c",
+                "userName": "Shadman",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjX8wz7k3lvwggA38fubeb-ghm_s1xvRMGFqEaAbATN2p5E",
+                "content": "It's a fast & simple launcher, have potential to be GREAT if you add more features & make it customizable. Good work. Keep it up",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.13.0",
+                "at": "2023-05-01 21:29:47",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "c9d05ca1-9026-4ff0-9cd4-a5bb6ec72b11",
+                "userName": "Jainish Rathod",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUutZje9Omd7a5rXdExp3NkB5lcqBvIRLC4i40KblQjLdxo",
+                "content": "Just one issue it does not let me choose what app to put in home menu",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.13.0",
+                "at": "2023-04-28 21:16:44",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "b535db55-7c1f-4c1a-9f8e-cd6d090f0fc9",
+                "userName": "Ronnie Aceves",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjW4DSBEFFyX2P9WgQHWMa29hdubUpF9rWaT0y268Sng4Lg",
+                "content": "Such a minimal launcher. Love seeing the wallpaper and works fairly smoothly.",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.13.0",
+                "at": "2023-04-27 14:15:37",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "8f706905-48ec-418c-baef-796bbc405a1c",
+                "userName": "Nicolás Jaramillo",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVqpUmPH9hsMB9BnRjPQuIo7W8LK4jnGSgdTSJSYSpLI3E",
+                "content": "I really like this launcher and its simplicity, although I would like it to have more customization features, like icon packs or maybe a space for widgets at the top of the home screen.",
+                "score": 4,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "1.13.0",
+                "at": "2023-04-26 18:42:41",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "2f1d3e65-26a2-4c5b-bfa8-51b071f6f545",
+                "userName": "Arjyo Synth",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjV42VPdz8LKAcWWe1juNVkdkfZ8Ny0AXPMfRobHPZm-aAY",
+                "content": "An YouTuber called \"How to Men\" suggested this launcher and this is just amazing, if not good. For those who wants a time efficient simplistic launcher for their device, this is the best launcher for them. So far, no bugs have been spotted. Great job making this launcher. ❤️🍁",
+                "score": 5,
+                "thumbsUpCount": 8,
+                "reviewCreatedVersion": "1.13.0",
+                "at": "2023-04-26 13:06:21",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "2df0c73d-2cbe-47f0-9135-afdab179c54f",
+                "userName": "Mandaar Pawar",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjV0QU14sYj2bOo_gi2WERC_jeoFmKD1rHcIMEmr4cWIp2QM",
+                "content": "Very good launcher once it fits in your muscle memory!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.13.0",
+                "at": "2023-04-26 07:22:07",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "4a5353a3-9339-499a-b79e-7e2dbe3de992",
+                "userName": "Melvin “Pax”",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWYOXkxre4Y3woRlO2Fy7IfRmp2kqwUY2n4_rc16CQcGp7q",
+                "content": "This is the type of launcher I've been wanting since forever. Clean, simple and very responsive. The only reason I gave it 4 stars js because it doesn't have widget integration. Despite that, I'm gonna be using this launcher for years to come!",
+                "score": 4,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.13.0",
+                "at": "2023-04-25 18:10:20",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "1b9ef2e2-fcb4-4962-b710-7f50a021fcc3",
+                "userName": "Amit Rath",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWNm2ONdhjeU5SnY9a8VMxaYgI1pwt6LuijA_hQ9FAEGgIU",
+                "content": "NICE liked it bt can u add atleast option for adding a widget. That would be helpful.",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.13.0",
+                "at": "2023-04-25 14:11:21",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "e21a6ee3-3609-424a-88c4-6cec99ad3def",
+                "userName": "Gabriel Felix (Gab)",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVL8o0mAum5bhfJSjmGtcbS0mOZdXgsSn_z3mFsvncX288",
+                "content": "Excellent work. Would love to see support for custom icon packs, if possible.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.13.0",
+                "at": "2023-04-25 04:34:04",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "c5976ea5-995b-4fce-a4f6-02b076ce43a0",
+                "userName": "Concept Luch",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXRFKWux0foyflrUvAGcgwPuE5SttdfYgshToRsFhawx50",
+                "content": "Entering the menu is difficult, u have to tap the screen multiple times before you can enter the menu",
+                "score": 1,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.13.0",
+                "at": "2023-04-04 08:47:20",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "0ff7359b-dae8-4fa9-bb49-c59254d2d364",
+                "userName": "Dal Han",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocK1RzlWaxgHJTMJBXrmnZRfxEhOCtyhZL1kqRmNmJWh=mo",
+                "content": "Dope Amazinggg",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.13.0",
+                "at": "2023-01-08 02:04:58",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "e6751376-5d73-4c42-abf3-0f62c00a8740",
+                "userName": "Blue Rose",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjW8Z-sNJtqM_3lQqYsvc_kLrP9NbiM_KrAOybM2ENyOayk",
+                "content": "Can't add widget",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.13.0",
+                "at": "2022-11-25 08:47:09",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "b5a5dd6d-af12-47cc-9f36-3ccee66248fc",
+                "userName": "Naveen Roy Vikkram",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUXQBeZ3YyZnrjiKcATBLHxffOlGTYYMGiHP9bCGdSZ-ob1",
+                "content": "Smooth, lightweight - works as intended! Looking forward to more refinements and updates",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.13.0",
+                "at": "2022-05-14 17:47:42",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "markusfisch-_-PieLauncher.json",
+        "published_at": "2021-04-10T12:25:02Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "a4824f6d-ffd5-472a-8637-5bcfe0172cd7",
+                "userName": "JH WINTER",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWTbJGI4IuPOpLl0Z-DbiszKePRdT102ctNLTi3wDh4whix",
+                "content": "Brilliant... Great idea, very smooth. Ignore the ridiculous one-star ratings - this is a cool, minimalist launcher.",
+                "score": 5,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "1.12.0",
+                "at": "2022-02-24 14:27:56",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "e9203b7f-9445-47de-b8f0-6bdc80a0b22a",
+                "userName": "Anirban Bhowmik",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUzFcWrm9_Oo_hnWhzK413a5MQwj-47lNBbXMjuLkK_Xg",
+                "content": "Only some genius but lazy person could have come up with this idea. Really excellent work! 💯💯💯",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.12.0",
+                "at": "2022-02-17 04:34:57",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "96ef1954-eab8-4fd5-9bdb-a0c520afdc7e",
+                "userName": "Connor Brown",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVEi9FYFJTjylSYm_KWvCvTg6Q29B8LZai0tZAoPQf5WEP7",
+                "content": "this app would be perfect for me, but none of the apps on my work profile show up in the app drawer. widget support would also be cool, but not super necessary",
+                "score": 1,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.12.0",
+                "at": "2021-10-03 03:48:18",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "f3455860-7dca-4a34-81f0-1fb6fd6948d2",
+                "userName": "Tony Sidaway",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXkO0a-Ko350zA-LGeZONA43PF4KJJw7wDKqG_lCp_pInq7",
+                "content": "I use this all the time now. I seldom miss the conventional launcher I used to use. Thanks for a great idea well executed.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.12.0",
+                "at": "2021-05-05 23:21:36",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "36fb33a6-a20f-4db3-8e53-94c7952d3a8c",
+                "userName": "Michele Pipoli",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVYm49HSfaruBn1i9Om_YpCGDQ_alhjWqFlrWoQj6hZdp8",
+                "content": "Great idea and works properly. I suggest to use a T9 keyboard when selecting apps from the list. Keys would be bigger so it'd be easier and quicker",
+                "score": 4,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.12.0",
+                "at": "2021-05-01 10:02:51",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "markusfisch-_-PieLauncher.json",
+        "published_at": "2021-02-07T18:09:14Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "109eb367-a558-4d10-b5f8-598633966209",
+                "userName": "Animesh Nath",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUlHzEkpXYOYvmOWlaLOjNVFjNLVn1r73JArN_o4nkNaGs",
+                "content": "The Automatic keyboard popup should be disabled.",
+                "score": 5,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "1.11.0",
+                "at": "2021-04-01 07:46:38",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "7d1987e1-f303-41af-92a0-58c3cbd737d3",
+                "userName": "Starbrune87",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVYRbm0lZK6r8tlzKnRgtcKsK6Je7eQNdDsvJ0V3JwWddEb",
+                "content": "i really like this launcher. 118kb size, most lightest launcher with icons and yet the fastest but sadly I can't see the work profile apps in the app list/menu",
+                "score": 4,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.11.0",
+                "at": "2021-03-29 14:42:57",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "markusfisch-_-PieLauncher.json",
+        "published_at": "2021-01-24T13:47:20Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "markusfisch-_-PieLauncher.json",
+        "published_at": "2021-01-11T21:36:34Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "markusfisch-_-PieLauncher.json",
+        "published_at": "2020-10-06T20:23:47Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "2e69e7aa-47c8-4369-9a04-7fd582be26d1",
+                "userName": "Kurnia Ramadhan",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjU7mlMG1NGYU7Of2E6dgCFUQKAxrv01d7DLxuIVQmQHZC4",
+                "content": "bad",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.8.0",
+                "at": "2021-01-03 11:06:42",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "48de5502-4c39-4e8c-93a1-cd7b7889f9c9",
+                "userName": "Peter Andro",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUvJiKJpsk23CBKkiWO2eQO2HEsQeFKm9rNRZk1yy7gkls",
+                "content": "I don't get it",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.8.0",
+                "at": "2020-12-03 13:10:59",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "c6e6e54c-2bc8-4d3e-a884-f1218a071050",
+                "userName": "Android ProATM",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUaqWGFtWmADOUdqxI0SqktRjWvsOjbA1u-aEGbNDTw-YQ",
+                "content": "It's So buggy everywhere by that I mean is when I open one of my apps and stay in the game or app for awhile the Launcher takes a little while to load back up",
+                "score": 1,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.8.0",
+                "at": "2020-10-09 19:24:19",
+                "replyContent": "This is because the system is killing the app to save battery. While this is okay and good for most apps, it doesn't make much sense for an app launcher. Unfortunately, there's nothing an app can do, but you could disable battery optimization for Pie Launcher in the settings: https://www.youtube.com/watch?v=IwWFx-v_F4M",
+                "repliedAt": "2020-10-09 20:48:46"
+            }
+        ]
+    },
+    {
+        "filename": "markusfisch-_-PieLauncher.json",
+        "published_at": "2020-07-14T19:58:14Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "10d1ce19-ce54-4b6a-9b40-2c2af54504e5",
+                "userName": "Petter Love",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocI1UPb0L_gkUMTMES_P8rus-RWCBKWk6k9bnSGVtN_j=mo",
+                "content": "It is very stylish and it downloaded well thank",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.7.1",
+                "at": "2020-09-01 01:07:36",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "markusfisch-_-PieLauncher.json",
+        "published_at": "2020-06-19T14:58:39Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "markusfisch-_-PieLauncher.json",
+        "published_at": "2020-04-10T17:46:58Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "markusfisch-_-PieLauncher.json",
+        "published_at": "2020-03-01T13:46:31Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "markusfisch-_-PieLauncher.json",
+        "published_at": "2020-01-25T12:30:38Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "markusfisch-_-PieLauncher.json",
+        "published_at": "2020-01-21T22:10:32Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "markusfisch-_-PieLauncher.json",
+        "published_at": "2019-12-19T20:31:11Z",
+        "google_play_reviews": []
+    }
+]

@@ -1,0 +1,2646 @@
+[
+    {
+        "filename": "dkrivoruchko-_-ScreenStream.json",
+        "published_at": "2023-02-04T16:39:40Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "096cb71d-1a16-4bd4-b174-b82f1af987cf",
+                "userName": "Parker Reed",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjX2iFsEiqH31eVvfU5O-C1qnyn_9wIet82pSmG6FWrgERLM",
+                "content": "Older open source release from February works great for streaming to an old Sony reader. Whatever is in the newest Play Store updates causes a static logo screen, but no image to ever be displayed using basic HTTP MJPEG.",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.10.6",
+                "at": "2023-10-14 06:48:20",
+                "replyContent": "Working on fix. Sorry.",
+                "repliedAt": "2023-10-14 13:21:01"
+            },
+            {
+                "reviewId": "73005a0a-fb15-4f89-90b3-aa4c8a70a0a5",
+                "userName": "abdelrahman abdelrahman",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXg8GPEOYCQDd-7itR0_BSCTCOKK-Fdq53lswZBwJt67g",
+                "content": "I love this app very much",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.10.6",
+                "at": "2023-08-03 13:14:48",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "a27343e1-e50f-4827-a279-548d6fda33bf",
+                "userName": "Somrom",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUKKLZ9tRxnQnSksuB4XRKCrnYboAbPJ6oEyViCf06FT6Nj",
+                "content": "easy to work 😉",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.10.6",
+                "at": "2023-07-29 13:26:51",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "e5608830-bd03-4979-82f1-b3a85aae747a",
+                "userName": "KBM",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJMardcKBw_AchZgUTcYKhz7LdCd9RDf3sUgDPlSqO0=mo",
+                "content": "It would be perfect if it'd casted sound also",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.10.6",
+                "at": "2023-07-29 10:28:31",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "4115fd41-a8b6-4885-8ae8-2d16d65c40ec",
+                "userName": "awadh",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWccffDWx-UUiGv7joimTxoYCbZV2zHMTUZxkC8mo4mPg",
+                "content": "Please please add support for usb and audio forwarding. Great app!!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.10.6",
+                "at": "2023-07-16 10:41:01",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "a855bdbf-b8d6-439d-8e42-0740cd483eff",
+                "userName": "Ana",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWiYn4mI2-TH4P4A3oxYCkDkvlV9ONFqc5N2QuxF6tFxfxu",
+                "content": "Great! It does what it has to do, love it.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.10.6",
+                "at": "2023-07-01 11:43:40",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "5c33fed5-7f4a-4b27-977c-01d7b866a78d",
+                "userName": "Hocine Chekman",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIgR3-6sjwQrMI6zIi8WEgHIzaXDpuvYVGv5rUALBwu=mo",
+                "content": "Nice app. Why in some devices when i type the right pin , it say : Please follow the required format.",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.10.6",
+                "at": "2023-06-30 15:16:56",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "6927bc5f-78f9-4b65-9c84-d26d4b6f159b",
+                "userName": "Soumik Das",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVQ-2QK5bkZ6WaFo3OJIrM6-FaG2eKT0w5_-1zLHmBKw9E",
+                "content": "I just found the best way to get a second screen for viewing",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.10.6",
+                "at": "2023-06-23 17:47:42",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "91824ede-bb7e-4176-bde9-d239e3b2ff5b",
+                "userName": "Vansh Attri",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJabc_qVzzU1UudSGC8HlCDiVP-o3uoXg5LjFzGpNp2=mo",
+                "content": "Sound not",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.10.6",
+                "at": "2023-06-19 05:51:37",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "d7e0ab63-3c9c-4dbc-815e-d02ead3f80a5",
+                "userName": "Bernardo Ravazzoni",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUfNLJXoej5i5njk8SDqy4lXBKxnd6cFSNl9bsDfmNqUhnG",
+                "content": "Does exactly what I needed",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.10.6",
+                "at": "2023-05-10 14:04:25",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "f14f3111-4113-4f6b-96fb-1a0fb50334b2",
+                "userName": "Vishal Alex Chacko",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVxxfLd73vQFLFgUisbHVi9KV8M4mFv3jAUZWeE_8QoOR3U",
+                "content": "It's a neet app. So far good. But how to remove the advts?",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.10.6",
+                "at": "2023-05-09 06:31:09",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "ff6b8fde-674e-4582-b26d-a8cf2fad3d90",
+                "userName": "Kifah Ammar Aboul Hosn",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWqpafsf2xgv_Y9O7NIhdrnSeNNXb5OZFPuoBzoOmVtn1Y",
+                "content": "The best 👌",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.10.6",
+                "at": "2023-04-18 10:20:09",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "11f4bf10-6a14-450f-ab70-185b57d9344c",
+                "userName": "Basim Daoud",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXw2Fg8G8vKOUlollnaST8MpgM6a6bvO3-RZ7ykFljfow",
+                "content": "Very bad app",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.10.6",
+                "at": "2023-04-11 06:48:04",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "4d892de6-a9ca-4ef7-928b-a0228884a0d5",
+                "userName": "Michael Krammes",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUrQXIHyYoJ8ndtuUhk6uCVa_VNGDZm-J12uG361XZaHg",
+                "content": "We love it!! I'm going to rate it 5 -stars!!! 👍😘🔥🔥",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.10.6",
+                "at": "2023-03-31 11:38:46",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "a15cca46-f9e2-44f0-9932-b103d5fcd198",
+                "userName": "KOGYI KON",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXSwi3hmWvdZMTD6_z_lqudpK9aUdjP5mEGugbO217Mjg",
+                "content": "KoGayi kon",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.10.6",
+                "at": "2023-03-28 14:17:27",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "7e50fa54-6ca5-4fea-9125-9076c5722932",
+                "userName": "Lal Jayasundara",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXtjjHBHflpHjCCC108pwm-A-vy-D9vsObgB__ftMAxyA",
+                "content": "works as you designed. Good Apk. thanks",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.10.6",
+                "at": "2023-03-24 01:25:23",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "93fe1406-2e47-42cf-b197-f2bc72702316",
+                "userName": "Prof. Dattaraj Vidyasagar",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjW0YSnDdsigZ7ndg8uBjv9f5wJyvygk6uIpwqcZU0ldfhlc",
+                "content": "Great app",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.10.6",
+                "at": "2023-03-21 11:24:36",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "a3116405-0799-484f-8418-f8d5bd17514b",
+                "userName": "Sad Gaming",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjW67-g2f0VQBhUQD7zTHIQO9hfECUqji0WYic1qtgf4Tw",
+                "content": "Well its very good, no sound but better than nothing",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.10.6",
+                "at": "2023-03-17 03:11:25",
+                "replyContent": "App use MJPEG standard that has no audio support. Sorry",
+                "repliedAt": "2021-06-24 17:15:08"
+            },
+            {
+                "reviewId": "9159bc43-2e07-4b75-9b57-251bd900a552",
+                "userName": "Jeeva Vj",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWTlXkwxaCD0MAr9jUcwbeznC4ZctGs6uFALWnhtrXbsFM",
+                "content": "Nice",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.10.6",
+                "at": "2023-03-03 01:53:11",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "4349776e-ceef-4eab-b5be-93fe589665bd",
+                "userName": "M. “TektroNaut” London",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJi74-YMpZAZgliUSeoNyQGxx5wu-9b1pbhzaLA0GTH=mo",
+                "content": "Audio can indeed be transmitted. After all you are essentially using the internet browser as a means for streaming. Audio will not come with the file but rather spliced through this app itself via code. Due to the way this app operates under HTTP makes it possible and therefore is reason I cannot disclose how this is done. The devs need not waste time reviewing any data associated with this account. Because there is none. ;)",
+                "score": 5,
+                "thumbsUpCount": 18,
+                "reviewCreatedVersion": "3.10.6",
+                "at": "2023-02-13 11:21:38",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "dkrivoruchko-_-ScreenStream.json",
+        "published_at": "2023-01-16T07:28:46Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "dkrivoruchko-_-ScreenStream.json",
+        "published_at": "2022-12-16T12:55:16Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "35c1d07c-eb9f-4e80-b7d3-5401135adde4",
+                "userName": "Thinesh B",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVeQnxFhRtIQakv-CNeE5_996ltrxk8IYnn2qi4GShTLA",
+                "content": "Super",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.10.4",
+                "at": "2023-02-02 12:34:17",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "ce762f90-a295-4e6a-85c4-37dea650722a",
+                "userName": "Eugene Kot",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVIgPfkVZNRTMhpoEXPdtsPPnuRb02hy5UzyOzKn5JkrKo",
+                "content": "Poor image fps",
+                "score": 2,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.10.4",
+                "at": "2022-12-30 17:54:42",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "2792f1f7-76ac-48e0-9db9-22b8a0f3d730",
+                "userName": "JOHN KISHORE CH",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWDyoyDpWRTeeySc1XdegDQLBlq9x6ZFTEMaboMJ2oc9-M",
+                "content": "Worast apk not work",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.10.4",
+                "at": "2022-12-29 08:19:34",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "903ed0ae-bb53-470f-8378-f035ab4a2f12",
+                "userName": "Rayz Com 13",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXbtMEmlkx_VSDkkMyoyMwSZCbBdiBChd-HSm4mj3DCNSI",
+                "content": "need help, my screen stream from mobile phone to OBS software is lagging not smooth at all",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.10.4",
+                "at": "2022-12-25 03:20:04",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "dkrivoruchko-_-ScreenStream.json",
+        "published_at": "2022-10-30T08:50:20Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "59a6a223-d557-4c9a-b1cf-85690d5ce4be",
+                "userName": "Hamed walid",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWjhtOkmVjjDoJpZbVP7K_EF1ULXUf0wBnV0wAK7Z7So3Y",
+                "content": "It's very good but I need it to open even the Mobile rebooted",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.10.3",
+                "at": "2022-12-05 17:56:22",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "c103b2d8-0ff9-428f-8979-6268813b9eff",
+                "userName": "ORDAINTOWIN",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUV9DwnRMGEYHD0yOdP_w6E2MRWSguanbLBLcKeV71C7qs",
+                "content": "Used to work but is full of bugs",
+                "score": 2,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.10.3",
+                "at": "2022-11-16 18:43:23",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "5798836f-0bd5-4c2b-96c7-6b1befd7b20c",
+                "userName": "Mark",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjU_dUdbvCFGLPiOa_i5FNFdY3KD9p90pobG_oYQUxhfOcM",
+                "content": "This app is so useful But spent two days searching for something like this and couldn't find until it was posted on Android repo Try to add some keywords like: share Android screen on Lan (or to phone, or over wifi, or without internet connection)",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "3.10.3",
+                "at": "2022-11-08 07:05:59",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "dkrivoruchko-_-ScreenStream.json",
+        "published_at": "2022-09-29T08:08:08Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "1b916bcf-3a35-4d58-acc7-13ec80ec580e",
+                "userName": "Amin MT",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXzO9kjuiE_KzBmDSghuAEknecCEEFOkrHJ1kVbGWzMlw",
+                "content": "I like it , very good",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.10.2",
+                "at": "2022-12-21 16:48:10",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "1311efe2-64d2-4fa3-9928-b52d38b219cb",
+                "userName": "amjad hajep",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLd__-83qDV4d28ZL49I162UUnFFX1c-s-zMJ1hVCiW=mo",
+                "content": "جيد",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.10.2",
+                "at": "2022-10-20 19:18:28",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "49547645-14db-4791-9c09-e9c06f11e40b",
+                "userName": "Levi Abellar",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXSijuPKvy1WITYk7f_LAB9Xlx5eKjCkkaQlktJgttTekI",
+                "content": "Easy to use.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.10.2",
+                "at": "2022-10-15 23:17:50",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "dkrivoruchko-_-ScreenStream.json",
+        "published_at": "2022-09-06T07:23:20Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "f45d1204-b23f-4c4d-985a-f5d92679f2c3",
+                "userName": "Jeremiah Saunders",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKzUjlq6fmoEREWOOvAs3SNYlmIFSOHB1XwejkWFWGitw=mo",
+                "content": "Wonderful app, works well.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.10.1",
+                "at": "2022-09-27 00:57:57",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "5308890e-43ea-4386-8c1d-8b30ee04fd7d",
+                "userName": "Lawarance Antony",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVQGrtK2Fh72dY4udAbE3TPgTZY85cnoNUsM0EnfHAGSRc",
+                "content": "Usefull",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.10.1",
+                "at": "2022-09-20 05:59:22",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "1eee9fe1-6053-41a0-9e67-370a9a454206",
+                "userName": "Terry Wagner (taw420)",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXWsoAPsuNQz4AmbvNL8w0P9WvrjyuS15eF-Uxt6Yno3btQ",
+                "content": "A++",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.10.1",
+                "at": "2022-09-12 11:07:34",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "33664bdc-966c-494d-85e6-61fe5e1e3aad",
+                "userName": "George S.",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXhf3BHgv-oLgmzBwLsUPKVctV6SkJjNaIUM8PBwpqR9Ig",
+                "content": "Fantastic app, been using it to do video tutorials on how to use apps and features of android phones for elderly people and anyone else. Thank you very much!",
+                "score": 5,
+                "thumbsUpCount": 5,
+                "reviewCreatedVersion": "3.10.1",
+                "at": "2022-09-10 07:00:11",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "dkrivoruchko-_-ScreenStream.json",
+        "published_at": "2022-08-24T09:04:53Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "1f4d5a03-9518-463e-8326-c34c340a20da",
+                "userName": "Patrick McMunn",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKksiya4-sUJgqyBhgLGYo-qolVoCQJyK6AIhQYo3jK=mo",
+                "content": "Does what it says. Simple to use. Ads are unintrusive. The only thing it doesn't do that I wish it did is transmit audio. Othwise, I have no complaints.",
+                "score": 5,
+                "thumbsUpCount": 7,
+                "reviewCreatedVersion": "3.10.0",
+                "at": "2022-09-04 04:13:26",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "e64bcb24-87cc-4989-bec9-1072fdc82824",
+                "userName": "Hüseyin Hambolat",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXsIJ8gvu2oglQpVtQXJOSBLBQx8LndH2_5P-ZFVi-6jbc",
+                "content": "Touch support if posibble please and sound",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.10.0",
+                "at": "2022-09-03 14:30:15",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "6ba2efcc-802f-472c-adaa-b4a07fe3ae13",
+                "userName": "Rashmi",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJtCxqmrxMyPXn_nsMye9xLP_pn327ClwJxditt0P6ELA=mo",
+                "content": "Very nice app. Even works in devices that does not support other apps",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.10.0",
+                "at": "2022-08-28 08:43:17",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "dkrivoruchko-_-ScreenStream.json",
+        "published_at": "2022-07-28T08:04:37Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "40c4f871-d9f3-45f9-a2e9-31cf1904d500",
+                "userName": "Benarfa Adem",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUNUcPurtaogGL7kr1iC2oCpv-CZI8gDqIN1O9mCZ_4RXw",
+                "content": "جيد جدا",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.9.6",
+                "at": "2022-08-24 01:31:40",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "b4ec806f-d306-407c-8e89-f95f385914f8",
+                "userName": "Paul abraham",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXWyZL7FA117ibYiqYIzDie5NFP9iij4KsVxEUiw2uQRZE",
+                "content": "Very good",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.9.6",
+                "at": "2022-08-08 10:37:20",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "baffe68a-b16e-48fa-b2ed-2344fa61b478",
+                "userName": "Sorge Jummero",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLHQuWhRrHPSmyQr6qlUAXqY-8e386U6CXkt0_qgcuW=mo",
+                "content": "Works just as needed and expected",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.9.6",
+                "at": "2022-08-03 20:29:32",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "dkrivoruchko-_-ScreenStream.json",
+        "published_at": "2022-07-23T07:06:38Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "dkrivoruchko-_-ScreenStream.json",
+        "published_at": "2022-07-21T08:31:51Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "c54a664e-5564-45bd-8094-a4ebea92d347",
+                "userName": "mohamad abdulghani",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKRAcOvRftmiHc_LhT3S9d-XVyrZ7QUGwsMHumNc8Fx=mo",
+                "content": "This app is life saver to recover data from a broken BLACK screen android phone using a keyboard, a mouse, and google assistant. However, I suggest dedicating a keyboard key for the start button ( having this feature would made my life much easier)",
+                "score": 4,
+                "thumbsUpCount": 13,
+                "reviewCreatedVersion": "3.9.4",
+                "at": "2022-07-23 22:56:44",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "dkrivoruchko-_-ScreenStream.json",
+        "published_at": "2022-06-21T05:29:13Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "4d177ea8-5a7e-4fbf-8837-dac5c2388fba",
+                "userName": "Karthikeyan Visvanathan",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUWNPF0JupBX3JpICl4RUc5du5H7opCuwr5fLaGVNmwK-8t",
+                "content": "Works perfectly",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.9.2",
+                "at": "2022-07-08 01:45:48",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "dkrivoruchko-_-ScreenStream.json",
+        "published_at": "2022-03-30T11:49:40Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "1e0d0ad0-b16a-4681-ad4b-c5871fc87dd6",
+                "userName": "Markos Fragkoulopoulos",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjW1_EUgfBKmZ_XJ4TroUhFHS_ayUsjh6yrQg53Zcqq3K4E",
+                "content": "excellent",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.8.8",
+                "at": "2023-02-02 16:21:07",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "a394c0eb-6f32-4e1e-b60d-072fd38690de",
+                "userName": "Mikey Freeman",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXFjwLGUHLEFyLO42xOdHA8L9Vjr7bVq2g1J7rP8mwdFrY",
+                "content": "Impressed with the app, especially since it's also open source",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.8.8",
+                "at": "2022-06-11 15:45:52",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "211372b8-0bb6-494f-89af-a81b0610e326",
+                "userName": "Praveen C P",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjU1WQbR21XfzfKUTSdgnRpuvrdh90fK8ZrSTM3opO6DkJA",
+                "content": "Very useful application. It's also super.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.8.8",
+                "at": "2022-06-11 05:42:01",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "3cb877f6-d26e-4440-889d-7a94c26ac616",
+                "userName": "scutoff",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocL8QT3MzrVLLp-rDzL1Min_TS7a4WlUTws4UJJLLY9SOQ=mo",
+                "content": "Пытаюсь через это приложение подключится к телефону у которого не работает ни экран ни тачпад. К телефону подключил клавиатуру через OTG. Приложение поставил удаленно через google play на компьютере. Не могу нажать кнопку Start. На рабочем телефоне выянил кол-во нажатий стрелок на клаве или табуляций, но на сломанном это кол-во не работает. Можно ли как-то сделать чтобы сразу после запуска этого приложения оно стартовало трансляцию?",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.8.8",
+                "at": "2022-06-10 15:49:52",
+                "replyContent": "Нет. Но можно в настройках включить \"Показывать кнопки на Web странице\". В любом случае нужно будет ещё подтверждение нажать на системном окне.",
+                "repliedAt": "2022-06-10 15:54:21"
+            },
+            {
+                "reviewId": "5b48f610-8112-49e6-b04c-72f24bdb5bea",
+                "userName": "Mike W",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocK3H2AYr3tQgE3wH_D38kz4QAqfqvGLApQqcIeXE4zs=mo",
+                "content": "Incredible app. Works amazing!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.8.8",
+                "at": "2022-06-06 01:45:20",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "c28aae58-bf5c-41b7-962f-c4efb8bd4e97",
+                "userName": "Robert",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJp2kq75Z4sApvzWiKzUagNQPCOwXsI70Le0eorXnqa=mo",
+                "content": "Super useful for recovering data off a phone with a broken screen.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.8.8",
+                "at": "2022-06-03 06:47:18",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "4a6eebc4-8e36-4b33-8bea-b0ee09ce7ba0",
+                "userName": "Deng Mawien",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWcE4tQ-f06pdNYflv7YOLTHKfeH__b4jeCq57hQanczuc",
+                "content": "Nice app thanks you guys",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.8.8",
+                "at": "2022-06-01 08:15:19",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "1e7f0c48-c01f-490a-a5a1-2a48e9aee0c8",
+                "userName": "Gerard Acchat",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLe8lllklcfw5DH2c7EpNLCj9XR6NMC86J8EabAjtIQ=mo",
+                "content": "Streen st I love her very mucheam",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.8.8",
+                "at": "2022-05-21 20:15:25",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "0b3de8e9-2598-47dd-b85a-a86b3d59ade2",
+                "userName": "Chuppa master Choco expert",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKo8zqY7pQZ4aQPwuV2eFQhrD9L9H5wBbh96ZpC3Ex8=mo",
+                "content": "Why is there no sound on video streaming ?",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.8.8",
+                "at": "2022-05-11 08:22:40",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "68c05a49-694c-4cc0-b2b3-111c49015fe5",
+                "userName": "by AirbnbAssistantCOM (LogoQRCode.com)",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXPLgXZExLJ7JPcrkkKJc2EhQ7kAg1VLhrsi4sQe6Z9u6s",
+                "content": "I would give it 5 Stars for how easy it is to set it up in compare to many paid ones. But it's very slow via good wifi Hotspot. Please offer a wired option!",
+                "score": 4,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "3.8.8",
+                "at": "2022-05-09 21:40:49",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "b51522d3-8506-4626-87fb-680f2a52fceb",
+                "userName": "Arne Weber",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVuC4b3Cl5lO3H5c6T5e4kKnBfA8voo7Pe3I8aIUOITZQ",
+                "content": "The phone starts running at like 10fps after a while.",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.8.8",
+                "at": "2022-05-07 22:21:22",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "481d5490-cd0b-4ff9-8c28-25b0a1216b34",
+                "userName": "يوشع الجوراني",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVFgEC1-FbkAOXRCFCvzfd3GVFiqAMKbBi2yv-h9f41HOU",
+                "content": "please enable iptv local server broadcast thus will get ride from chromecast 😍 man ❤ iptv local server mirroring is too much needed take a breath and lets do something special 😍",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.8.8",
+                "at": "2022-04-26 19:39:38",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "089e6df3-2b93-4de7-a59e-5021c380d7d7",
+                "userName": "Mostafa HMIDA",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjU77H6rciaHxkLdv2B82PedyU_PpsuEcEVyTnaOkIAwwQ",
+                "content": "Supeeer",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.8.8",
+                "at": "2022-04-22 15:45:26",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "0f6f8432-5a99-4bd4-9876-7858256a59e0",
+                "userName": "Moiz OnLine",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXlJWxRmvc6SY5uHhegprkusw05pXTHhjw5fkA1qAWxx6k",
+                "content": "Very amazing app brother please add audio out function?",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.8.8",
+                "at": "2022-04-22 12:12:10",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "cc84a6ba-7eac-4457-bf2e-da07d5b70de6",
+                "userName": "Barka Mohamed amine",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVK3J4y2yYnNJ_dyDQynKW3tqC6io6RPObtuDlezVjcS-0",
+                "content": "the best",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.8.8",
+                "at": "2022-04-15 21:05:02",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "ee9ff210-7525-4fb3-b8e5-50fb39dd2129",
+                "userName": "Jehinos Aghas",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXtKcRx3SJu2s8uN9I-_BdTrGRMOCGAorSo3-9_jhujplc",
+                "content": "Works fine 🤗",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.8.8",
+                "at": "2022-04-15 14:48:58",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "dkrivoruchko-_-ScreenStream.json",
+        "published_at": "2022-02-18T12:16:32Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "eac9faaf-ab86-4778-93a8-3e976e4f43c8",
+                "userName": "Hari Sankar",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWgPKXTjqNKARgmCAsuxipiscvIKw_AUtSfn0RjKXshYgA",
+                "content": "Good app. But Usage of internet is very High. If the mb redused Its Even more good",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.8.7",
+                "at": "2022-04-01 12:54:34",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "c6bad6ab-390b-4b59-98fd-f4a48c7f255c",
+                "userName": "Cam Young",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKQ7ZnkyP49df48ZzwhcnbW8w4Tv3u7NP4eq20OhIEtlg=mo",
+                "content": "I like this app because it gives you the option to stream your phone that doesn't have any type of screencast or mirror ability. I've used it on one of my phones that only has half the screen semi visible and touch isn't working. Using a bluetooth keyboard to control my phone I realized I couldn't cycle through to the button that starts the application. Solution?",
+                "score": 4,
+                "thumbsUpCount": 37,
+                "reviewCreatedVersion": "3.8.7",
+                "at": "2022-03-20 20:07:53",
+                "replyContent": "Try to use start button in notification",
+                "repliedAt": "2022-03-21 04:52:58"
+            },
+            {
+                "reviewId": "2bbbd2f1-d97e-4ffe-8441-687b895ad941",
+                "userName": "Sahil Kumar Aditya",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVO_TRgny_-sfGbsAlmYQY3cF4GdKWaWdMKL2PiwTuzYOM",
+                "content": "I want HTTPS because HTTPS was safe and secure. Sir HTTPS not unable on steaming over HTTP.",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.8.7",
+                "at": "2022-02-28 02:10:05",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "dkrivoruchko-_-ScreenStream.json",
+        "published_at": "2021-12-23T11:11:50Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "0e7e4d55-b927-4ae9-b74a-8f71e0fc2fa3",
+                "userName": "Jared",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJznkTR0ArELrXDgR9hTJVq7pqBbi497lZqRB51ujmO=mo",
+                "content": "love it! Turns out this even was able to stream to my eReader (has an eink display). Really cool, works well!",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "3.8.6",
+                "at": "2022-02-22 19:22:49",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "fd8cf3cd-929c-4a72-8117-4e2471aa937a",
+                "userName": "Myan mar",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjV0g4lrr8xffFLP-0KfXK7MnJHlPNa0w3z5Injn4zXDsSFh",
+                "content": "Good",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.8.6",
+                "at": "2022-02-09 13:34:58",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "7667de82-8291-46ec-9f7b-2d0d6e245c37",
+                "userName": "Tomasz Nicewicz",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVt_ZO2VJ6WudtcBLi-uWwI14SmcGF-ao6v8s6qot2NZ9k",
+                "content": "I'm using it in my Moto G Power 2021 Android 11. It is absolutely amazing. Very Very fast video transmission. I live it.",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "3.8.6",
+                "at": "2022-02-08 10:48:15",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "b8f1b0a7-273a-44c0-a43a-1a5ef1631d8b",
+                "userName": "alekss",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjV2YT8GYuNmuLNiwUACYSbT7klKgWBlO-BVSGcTR1nIkFrk",
+                "content": "It actually works quite nice, a little bit nicer ui and it would be great.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.8.6",
+                "at": "2022-02-03 08:11:06",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "f10a2310-ecbb-41ea-9828-f3b40d2c9a01",
+                "userName": "Michael “Mike” Tether",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXwjQFNBRoV8p1BVLpXiNRIQ_8GJrrovyGfNGNtaKBDZEJb",
+                "content": "Ok",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.8.6",
+                "at": "2022-01-27 11:45:48",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "532600fe-e280-43e1-8ada-0105b1eb3b12",
+                "userName": "peter luckham",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVGzo-2p7IKccOQI4Q_wAcE7IBdxafvhIfWPZhwkeNvlzU",
+                "content": "I have used it a few times now and find it works very well. I just started using it on an old cell phone to monitor my 3d printer. Beats buying a streaming camera. Thanks",
+                "score": 5,
+                "thumbsUpCount": 5,
+                "reviewCreatedVersion": "3.8.6",
+                "at": "2022-01-25 17:14:05",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "34ea3f33-68fc-4dd4-b7e2-fd200bba4044",
+                "userName": "PUMBA twin",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXH9dbEn8oclzu0I3wEfEyNFhG4NPIyaYCtOouefI4IVw",
+                "content": "Very nice app! Please add two new features for my new stream! The first new feature is the audio feature. The audio feature allows the host to enable it or disable it even the stream has started. The second new feature is the chat. In the HTTP stream, you can access the chat. The host who sends a message in the chat, the hosts nickname color will be yellow (same as youtube). You can easily join the chat by entering a nickname only, same as the host.",
+                "score": 5,
+                "thumbsUpCount": 16,
+                "reviewCreatedVersion": "3.8.6",
+                "at": "2022-01-22 17:19:44",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "fe444017-fcf0-4cf0-8b3e-bb0fd5736659",
+                "userName": "AABAN SHAIK",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjX8_FmPqf09JF1fO2Kt8l5_fv39SxgzdfIdC8G1geNRAiU",
+                "content": "Ok. But sound option is disappointed me",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.8.6",
+                "at": "2022-01-19 20:09:38",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "01d9984a-8894-4a4d-b8d3-d9bb0cdf81d7",
+                "userName": "DinhDotDev",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKz2qqmmPyUE3JhrfEMODsLWR9bpkJ4RwOveCQRUX9c=mo",
+                "content": "Amazing app. Does what it tells without hassles. It works much smoother than the built in cast screen app on my Mi A2",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.8.6",
+                "at": "2022-01-18 11:22:04",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "3924c01f-0155-4421-8cbd-6de99b0b73e8",
+                "userName": "Sombir Suresh",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLkEXx1BlcdXEaSlTgWL6UCoU-97fh9wydp0G1Zmh0I=mo",
+                "content": "Please start",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.8.6",
+                "at": "2022-01-15 13:19:37",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "cc536c56-bf01-4e1a-9108-ebf3f7e7fead",
+                "userName": "K.h Suranga",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJr9Xr8yf5RLee-IKkmCue4QmShw2jfYA51TPaUXLRx=mo",
+                "content": "Reliey",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.8.6",
+                "at": "2022-01-15 13:09:39",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "c0ccab7f-8fa3-49cd-801b-6533ded46256",
+                "userName": "Krishantha Kumara",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJED7QaIsLvuKv18aqkHSCl071O1SNoNBOZRGH86qym=mo",
+                "content": "good app",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.8.6",
+                "at": "2022-01-13 14:41:43",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "8d366166-bf58-4f77-9794-cf4179bf5ade",
+                "userName": "xperiment alex",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUe7lhwYaAqvxUTp8eTtK17gakuwZ19C0jyQlP1EOyHgw",
+                "content": "Works like magic! The concept was already perfect, the delivery even better. I appreciate the warning about the latency but if you trottle down resolution and fps is basically realtime! Interface and UX: outstanding. U guys are just cool devs. Big props",
+                "score": 5,
+                "thumbsUpCount": 14,
+                "reviewCreatedVersion": "3.8.6",
+                "at": "2022-01-06 22:25:45",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "ae3b9b96-61dd-4680-9e73-10444f71b512",
+                "userName": "Ryan O'Neill",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUFqUfSzxLQ-2yfjXiEEj2lq4hD0Nv99iFN1ZEMIDizmg",
+                "content": "AMAZING Normally Apps I've Used Don't Work But This Is Amazing 5 star",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.8.6",
+                "at": "2022-01-04 14:35:10",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "e2f47e1e-c6b4-4499-8bd7-e504a55ed7d7",
+                "userName": "Leather Artist",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocK5xsLea86Y2_BEne-IYLcetW2a6mEoCjgZ2aUwjeoK=mo",
+                "content": "Thanks developper for this amazing job",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.8.6",
+                "at": "2022-01-02 14:21:05",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "af876e92-a0ea-4076-853e-e98ca8638cad",
+                "userName": "Prince B TV",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXrtxaQQXt_9G8D7X4654jx8DS0wKdEjw4EUk2NF_mdU_w",
+                "content": "Good",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.8.6",
+                "at": "2021-12-27 04:04:22",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "a8aac5e0-4a3b-48a9-a0da-58b8f6ce4104",
+                "userName": "Fuse mc",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXkVsU1FuSHn_AMpeerp1RosSnx1LHTjvTCc7E1FDiNtPc",
+                "content": "So many adds non stop..... Didn't even work",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.8.6",
+                "at": "2021-12-26 21:33:07",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "dkrivoruchko-_-ScreenStream.json",
+        "published_at": "2021-12-09T10:29:50Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "234db86a-fd70-49da-ad7b-5beb5ac20208",
+                "userName": "Bacho Pancxava",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUytNwvMv7wdXB12ZOVcC9XKic1nByc1Q1Dha0ksJwCLg",
+                "content": "It's work it's so so God app Dowland this now!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.8.5",
+                "at": "2021-12-15 11:39:13",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "93ec4917-dd75-45f6-adaf-4a915a5620b9",
+                "userName": "Hot Smelly Garbage",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVGtMG2-W0VJ7lxgTePylgT4YlTHiMyngpZqbhgnEyBF6Q",
+                "content": "wonderful",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.8.5",
+                "at": "2021-12-12 15:49:37",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "dkrivoruchko-_-ScreenStream.json",
+        "published_at": "2021-11-18T09:51:54Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "adddee8d-d79d-4cf9-aea1-bf54ff15100b",
+                "userName": "Gosai Mahesh",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUfK54oMrPd3EMrkAqdX-lRxYwQd5rnnZklFaLW5uPew08",
+                "content": "Good",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.8.4",
+                "at": "2021-12-06 04:43:36",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "9d0baed9-d5fa-42b8-b5b8-5c7804d8555e",
+                "userName": "Khalad Benhammada",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjV8cSCKUHal3CasMy3BHbcKBt-1KRAl5_ZEZ9hQ2VBm6Q",
+                "content": "It's very good and fast but i have to set an advice to make it batter can you edit it to be using by hot spot not wifi",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.8.4",
+                "at": "2021-12-02 11:38:14",
+                "replyContent": "You can use it in Hotspot mode too",
+                "repliedAt": "2021-12-02 12:26:23"
+            },
+            {
+                "reviewId": "1bae56b0-dfed-4947-be6a-67f793c49e6d",
+                "userName": "Florián Rácz",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjW0bgPg1HUfwaCoApVrxbJhmyTrnj6jJ6vsAIweb7obQOY",
+                "content": "This is exactly what I was looking for. Doing its work like intended. Great work! Thank you!",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "3.8.4",
+                "at": "2021-11-25 14:09:45",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "8f46f481-daf3-42ac-bf32-58b57c8caad8",
+                "userName": "Igor Kubrakov",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjU1-ccH_dwkaCxzShqiA3v51QVzr77PnfEJBYpt2WhIlZU",
+                "content": "Great app! Is it possible to share the screen over an external address (outside of local network)?",
+                "score": 5,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "3.8.4",
+                "at": "2021-11-25 13:30:09",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "dkrivoruchko-_-ScreenStream.json",
+        "published_at": "2021-11-03T06:17:04Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "c47c060d-1454-4f7d-901f-6ed4c66d33fe",
+                "userName": "Mohamed Rizwan",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocK_JqNySJlibtAUu8AiaYXAjFvpakOC-1fx8EulWnbd=mo",
+                "content": "I like this app",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.8.3",
+                "at": "2021-11-24 16:27:40",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "f12c7471-ad76-48ff-87a7-5a28b13564f7",
+                "userName": "Thomasarputharaj",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXMt_K-fGX9tg4fK-DDECqsTtPNtNllI3wcubmF6nCKEFg",
+                "content": "Super super super super super super super super super super super super super super super super super tttt you 😊😊😉😊😊😉😊😊😉😊😊😉😊😊😉😊😊😉😊😊😉😊😊😉😁😁😁😁😁😁😁😁😁😁😁🥳 me a pic of the schedule is pretty open for me 😁👍😁😁😁😁😊😁👍😁😊😊😉😊😁👍😊😊😉😊😁😊😉😊😊😉😊😘☺️☺️😊😊😉😀😃😊😊😉😊😘😊😊😁😁",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.8.3",
+                "at": "2021-11-17 15:37:27",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "d19d26bd-6682-42f2-b23e-684bc3246713",
+                "userName": "10-E .G.AYYANAR",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXHS2AjhpdvqE2jRasSz5QMou9L-sSVLWyqYaOxElMKdw",
+                "content": "Super",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.8.3",
+                "at": "2021-11-11 13:16:18",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "8954da59-7892-4a28-acc3-482cfe4e4947",
+                "userName": "Norielyn Chutani",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVVhP_2QBJ4u1_q_Qz5Sj6dfaW_1BtOjwvGrZyJNZLYm9Y",
+                "content": "Nice",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.8.3",
+                "at": "2021-11-08 12:46:51",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "e9876bf9-f2c3-4e2e-876e-8b0922a3bfe4",
+                "userName": "Jeff Nelson",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJG9ScLXxTortGLJ4vmcT0ROLyBlh4AM-8GE_B9JtVQ=mo",
+                "content": "Very clever app",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.8.3",
+                "at": "2021-11-07 22:30:08",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "dccc415f-6cd4-4b30-a208-f26a17765050",
+                "userName": "Lynnus Tan",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWrGZP1WZtyf-taqyhfclgFmunMOdwPVsppxyql6VoMqg",
+                "content": "It works.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.8.3",
+                "at": "2021-11-07 21:37:22",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "dkrivoruchko-_-ScreenStream.json",
+        "published_at": "2021-10-15T07:56:21Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "fe6e56a8-e98e-4d68-b0cb-09ce0cb0b400",
+                "userName": "SASHRUTPRANAV S",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKPI9wEEo-L7bS2xnPWOTDbUFkIoviO1qn8eoVYzsSr=mo",
+                "content": "It's really fantastic",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.8.2",
+                "at": "2021-10-25 07:28:54",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "492589e7-2ce9-4c97-a1a3-c1fe0f646a70",
+                "userName": "Justin Freed",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXk8qq0NJpJp3LK520yZJlC6U2Ltagfunc6Xva499o5oZY",
+                "content": "I used this app to be able to stream a live feed from my drone into a video switcher for a live cross country track and field race and it was relatively simple to setup. I tried using a different app but i couldnt figure it out and it had to have the stream go to YouTube. This app solved my problem of being able to stream my drones feed live and I'm very satisfied with it. Although the video was a little choppy, it wasn't too horrible since we had a live drone shot.",
+                "score": 4,
+                "thumbsUpCount": 16,
+                "reviewCreatedVersion": "3.8.2",
+                "at": "2021-10-22 22:25:03",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "1823466a-a796-421b-b09d-d7422116bdc1",
+                "userName": "狼Ookami Dutski",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXEJLXGI_7cnPnfiu7ZronSW0-wd0hAfujEN66Px1Gwhf4",
+                "content": "Awesome. I ve searching this for a long time!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.8.2",
+                "at": "2021-10-21 23:52:58",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "658af777-9857-486d-ab2c-6dbf12fd2ddf",
+                "userName": "Priyanka Hemant Patil",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXjuQ9FcHN5t2jAIgLF-VMoC4Cv97fcaGOk61Uh6sWsdEs",
+                "content": "Bro don't install this app Because it is unsafe guys if you do screen share to laptop 💻 or Pc personal computer 💻 of you do screen share you direct go on the link ok this is gone but when you go on website you see there the website is unsafe",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.8.2",
+                "at": "2021-10-19 10:16:04",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "e235ae07-0f5e-4243-90fa-7ea7547c8e86",
+                "userName": "Dulach Madusanka",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKFfZlsJt2Ir_aNxwV-lDb9_LLqCCwCNZWipN5Vw_29=mo",
+                "content": "This app 100% working and this app is amazing I like it ❤️😍",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.8.2",
+                "at": "2021-10-17 06:30:37",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "dkrivoruchko-_-ScreenStream.json",
+        "published_at": "2021-09-28T08:46:04Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "4ae4a138-0bc0-4f42-bd73-be14a1b038b0",
+                "userName": "arun kumar",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJNlN5riI0iPBPPtP2ayrJ9ORuShc1-m-lGo0CjpuqYaA=mo",
+                "content": "Thanks to this app most because it help me most when my phone get Damaged",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.8.1",
+                "at": "2021-10-17 10:49:10",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "52a35c6f-de8c-47aa-87aa-82482b694df5",
+                "userName": "Kuroi Schwartz",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUxdtmjY-xP4RIPbEBu7e0z8yf4Jswlj1JQjeJwwqmyJQ",
+                "content": "It's nice and all, but it'd be perfect if you could also stream audio.",
+                "score": 4,
+                "thumbsUpCount": 11,
+                "reviewCreatedVersion": "3.8.1",
+                "at": "2021-10-09 05:02:26",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "8df3435d-8209-4e8c-9946-fce010aef2b2",
+                "userName": "Omar ZH",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJrlW1_94t1sG6auJY5YRm4HWu4R3vjpRrzPpb2MskX=mo",
+                "content": "Really cool!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.8.1",
+                "at": "2021-10-08 18:02:13",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "8b30938a-14b9-48da-ba94-6e9e2f9c483c",
+                "userName": "adli ali baghdadi",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUPBgYP7CPskQfJQQWUlHKH6iC6hpm-wvoVeRFdB-XiD8LW",
+                "content": "So far not bad",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.8.1",
+                "at": "2021-10-08 01:52:47",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "d800dbe1-cb91-4456-8980-7ea6480ee1f8",
+                "userName": "Use Gala",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKVxG6uwamxNpZ9Jg1W2Yy_E9OfwIg1YSC3F-4wKy3a=mo",
+                "content": "Ok",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.8.1",
+                "at": "2021-10-05 23:30:25",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "dkrivoruchko-_-ScreenStream.json",
+        "published_at": "2021-09-15T09:34:20Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "ae7b48a2-3713-4f91-bdc5-12dea9f574e9",
+                "userName": "Larry Myers",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXvnvZJgvMjFQffqUBJ0D7bcakSGZtjDQIgWc_T10wPkjI",
+                "content": "This is awesome",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.8.0",
+                "at": "2021-09-28 05:38:38",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "365ec74b-7be8-4040-bd7f-eea65bd20d3a",
+                "userName": "József Pap",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUBIYCeCsINIKXPkgWYjrKpJm3aE4f6ChqKnttFytEjGtE",
+                "content": "legjobb screenstream böngészóhóz",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.8.0",
+                "at": "2021-09-27 07:33:20",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "75b98e32-14ed-4e03-8ffe-6893184433e1",
+                "userName": "Mike Bliv",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIlvxujVKLeu6ErthgxH5hxLIaV4JEo94CRWQF8xFPf=mo",
+                "content": "Does what it says with the minimum of fuss.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.8.0",
+                "at": "2021-09-25 05:58:49",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "8b8e4908-9aa9-4bae-a232-05f120701414",
+                "userName": "Nagendra Sardar",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVP9Nc-VOSQK7njFwBEzaaCx8jYu-cssrSbGkLtHVkfqZw",
+                "content": "Nice experience, very easy to use.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.8.0",
+                "at": "2021-09-22 07:18:36",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "b48abe16-5150-408c-a8f9-0822a6fffc3b",
+                "userName": "RJCM SINGH",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKoK4INoBlB3nriGXvvm3HA8Ra-fgL6L0Kt0lqGOAcO=mo",
+                "content": "Good to see thousands to millions. Will you please consider to include root system audio stream. Pls mention the reason if not.",
+                "score": 5,
+                "thumbsUpCount": 7,
+                "reviewCreatedVersion": "3.8.0",
+                "at": "2021-09-20 20:15:15",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "dkrivoruchko-_-ScreenStream.json",
+        "published_at": "2021-08-24T06:57:56Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "af025b04-0d67-4cca-a620-654fe605b76d",
+                "userName": "Flip Everything",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWdZwCIJVgiEBW7yV8KNcTYWlen5FnEsYAueD179jbghdk",
+                "content": "App is a super app but I go an game its automatically stopped stream please clear this problem",
+                "score": 2,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.7.6",
+                "at": "2021-10-06 08:26:10",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "38ac3554-6571-4805-9860-e074a86a1610",
+                "userName": "Jeff Onam",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLqVlwj71axgd6MJCTAzU7fEM1nLSUU1STrcBwUdd0M=mo",
+                "content": "Great app helped",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.7.6",
+                "at": "2021-09-16 10:45:58",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "b3a5073b-a988-4dcf-adbf-b83bdafc971a",
+                "userName": "Tim Turben",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJSgjUC5QNihYScoA2sIYTWa1KIeKXtlSQHi7SZ1Ya_=mo",
+                "content": "Perfect. All options that I need.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "3.7.6",
+                "at": "2021-09-14 03:50:05",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "f7bff5ce-1180-41a6-afde-01ba71913441",
+                "userName": "Laeeq Hamid",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLCOB-SjpoWQVHMPd-3WlFC45UBOKmtB_6BhzQ-FKGl=mo",
+                "content": "Works fine",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.7.6",
+                "at": "2021-09-14 01:03:43",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "8500b637-b424-455e-9a5d-7cde2cbde2c6",
+                "userName": "Balaji K",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWscrG6YQoo51Oa3Rr0a6rMA7hDRXVVfMg8YMqEsw5zpA",
+                "content": "Working fine... best and easy app to mirror your mobile screen. I tried in my laptop also... No ads...",
+                "score": 5,
+                "thumbsUpCount": 21,
+                "reviewCreatedVersion": "3.7.6",
+                "at": "2021-09-10 12:34:17",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "3623b1c8-cdcd-4a7a-bb00-6a423309f972",
+                "userName": "Todd Stone",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJwaG9y2lGwJYc_h3M4OL0l__2TGfEiBwq4C9X-dou7=mo",
+                "content": "Does not work.",
+                "score": 1,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "3.7.6",
+                "at": "2021-09-03 16:13:39",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "0caa88e3-8615-4fb4-9375-a028db18c297",
+                "userName": "syed ashfaq ahmed",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJkJhosSknyhvPHVP8XTo4squTFW3PGdVUk5ap3iQ8B=mo",
+                "content": "Please make this app to control our phone while screen is mirrored",
+                "score": 3,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "3.7.6",
+                "at": "2021-08-30 17:39:49",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "a24a0d61-3919-4698-aba4-0926249dcc16",
+                "userName": "Gul Khan",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKihIwgEktA-46NjjvYG0zPvic9aprz3AucC4B8oyxZ=mo",
+                "content": "Best app",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.7.6",
+                "at": "2021-08-29 16:25:13",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "65924126-7927-4e65-9acf-525fff7837bc",
+                "userName": "AAYAN SHAIKH",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjW7t3-lJz6h2FA50oY2XXdY6eUc8B6BKnQfXX6YZglH8Vw",
+                "content": "Free fire 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.7.6",
+                "at": "2021-08-29 04:43:33",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "cef4b55a-c89f-4772-897c-e5a2da954b5d",
+                "userName": "Nox",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjU9YnwC2QRyLJU-7fvKvoH264NSyIEEbWYY3ayiQ6lNgZc",
+                "content": "I can't believe this is free.. I never rate apps but I see no ads and this app works perfectly. Honestly this is really worth installing, simple, free, works. Thank you developer, maybe add a donate function in next update? Edit, lowered rating as it now has ads and no option to remove them",
+                "score": 4,
+                "thumbsUpCount": 48,
+                "reviewCreatedVersion": "3.7.6",
+                "at": "2021-08-26 17:53:27",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "28ba83bb-81a8-41b1-82d6-3e1c22668634",
+                "userName": "Unknown True",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJAaP2rabOkBEMfPw9LHAuZdmm6W7f96RlADBOU88w50Q=mo",
+                "content": "good app and delay is very normal",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "3.7.6",
+                "at": "2021-08-26 17:25:30",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "dkrivoruchko-_-ScreenStream.json",
+        "published_at": "2021-08-02T06:26:59Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "903ca5e5-b903-4707-8dfd-d2ca79e104c3",
+                "userName": "Emma Titova",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjX9kMWMyxX8U6CjO_6g2SPfdzpciJJgaLSuxAMJCXf4Ihg",
+                "content": "Does not work if you have static ip set up device-to-device without any internet access. other 'ip cam' app works but needed the screen share feature",
+                "score": 3,
+                "thumbsUpCount": 10,
+                "reviewCreatedVersion": "3.7.5",
+                "at": "2021-08-16 20:45:41",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "e88c8f06-a894-479c-8b73-d8a640c78f37",
+                "userName": "Namal Jeewananda",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjX7KOAKjLhzc4vp13SjtQvS9o58al_IdgdNFK2hq5-w2qw",
+                "content": "Great App But URL is http. Http is Not Secure",
+                "score": 1,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "3.7.5",
+                "at": "2021-08-16 19:46:02",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "e9a8248d-3da8-4057-81e2-8624d30bb8e4",
+                "userName": "Muthu Manikandan",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjX27koPCg6Ipmav681wWDv32DNmw4YZW_gbpdKvoeapJQ",
+                "content": "Super",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.7.5",
+                "at": "2021-08-12 05:31:28",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "dkrivoruchko-_-ScreenStream.json",
+        "published_at": "2021-07-26T16:07:31Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "2aa18ca2-5474-4c0b-8931-103e352554ed",
+                "userName": "Fox Samus",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLyngPXAkJ2ABexlF7ghoaikP5kuoV7VZYj5GR2xLTU=mo",
+                "content": "Allows me to share live drone footage to other devices.",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "3.7.4",
+                "at": "2021-08-03 10:38:40",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "6eb5b592-7c22-4540-8b40-b4366c894570",
+                "userName": "Kevin R",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJvcj4CsOmDfekhic9zSXYFYCUXT5x2Gef553qLFsVz=mo",
+                "content": "Can you do touchscreen, please 🙏",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.7.4",
+                "at": "2021-08-01 02:13:04",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "835b28fd-b74e-466f-ab3e-053dfd32c6fa",
+                "userName": "Praveen Sr",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUHDFIN5PMhapsE8P8LhsHpMAVS-gYvwj8kg4aiPzrtIC8",
+                "content": "Very nice",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.7.4",
+                "at": "2021-07-30 15:43:46",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "3b4b9879-6b21-45d7-9408-0afcf8da40e0",
+                "userName": "Ayman Shakeeb",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLdKOSs60_wrqSipMQ1FSzJ8namx62cxyCukoYmdrkp=mo",
+                "content": "It is a very good app I share my screen to laptop and to television",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "3.7.4",
+                "at": "2021-07-29 11:54:24",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "dkrivoruchko-_-ScreenStream.json",
+        "published_at": "2021-07-05T14:39:56Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "34fad7cc-847e-41dd-8a09-07db7a90cc65",
+                "userName": "pink_ bunny47",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVKRqSfFjJqcU09KD1LEWB_agcX4hKwbf5_A32vCAP7JQ",
+                "content": "Ov~",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.7.3",
+                "at": "2021-07-23 13:50:28",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "0cc66fe0-76c6-41a4-8472-4f355b6621bc",
+                "userName": "Aditya B Tiwari",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJVHHo3LFent5mJtayksL77UHm1q62RwPZ58A5MPddB=mo",
+                "content": "The best streaming app ever....from quality to security everything is on its mark.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "3.7.3",
+                "at": "2021-07-19 04:54:57",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "0d0188b1-8149-48fd-adb7-3ff25c2ed8e7",
+                "userName": "S.Parvesshrajh",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUYY7ypckXfx3EnFkp2yl19o7hHl_TmxGGZPPQhpjgLO3I",
+                "content": "👍",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.7.3",
+                "at": "2021-07-16 05:31:48",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "91ef0550-5382-4bb3-9308-0923888a8990",
+                "userName": "Yogesh N Yogesh N",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVxjpOBVQMQpAM8B8Ie85ATsB2kZfff-AbyP9yrH6v-vQ",
+                "content": "Its nice app works smoothly but in browser it shows not secure but however i saw somany reviews so i trusted please make sure its safe to use because one http will cast whole screen and another problem it works one time and middle its stops",
+                "score": 5,
+                "thumbsUpCount": 18,
+                "reviewCreatedVersion": "3.7.3",
+                "at": "2021-07-15 10:22:07",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "c64468b5-f0da-4ec0-b79b-917560f4dc86",
+                "userName": "Luis Quental",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXOeouhnqnp_MahwGfEE5QQS-Qgq5xUpf_0BvSTgbpI514",
+                "content": "Very useful app, the setup is very simple.",
+                "score": 5,
+                "thumbsUpCount": 7,
+                "reviewCreatedVersion": "3.7.3",
+                "at": "2021-07-14 14:57:20",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "e1002bb1-7fc0-4f55-9e30-32b29eba3db1",
+                "userName": "Amos Babu (Ambrose Ted)",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWZQ3Qmoo1pbLJrQOBQrJN6e0goblABtZwty_oVrwMeIXg",
+                "content": "it's good nizz",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.7.3",
+                "at": "2021-07-08 17:05:55",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "dkrivoruchko-_-ScreenStream.json",
+        "published_at": "2021-07-01T07:31:12Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "82eae51d-4b9c-432b-977b-3c194d4f25a9",
+                "userName": "ammaradmin",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLqnFP3OIsENHWbVHA0VR_6TWbQZIHM26rI4_8qntHP=mo",
+                "content": "Doesn't work",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.7.1",
+                "at": "2021-07-05 11:14:52",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "609e1a79-5c18-481d-94bc-dc6f48c73a7a",
+                "userName": "Neox",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJLLedJtAbwRK3eRrd6n4V1Wp0c569HySqpt31087UD=mo",
+                "content": "No lag no delay but pls fix minecraft pe smooth",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "3.7.1",
+                "at": "2021-07-04 18:43:35",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "80d86f6c-7e49-409e-9c36-941e8844ad9c",
+                "userName": "Khalid Hamza",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjW_RThnIcMwwpoa_FDh1XUPx9D2kypVsY04NBX3o2uUSVGY",
+                "content": "This app saved my broken moto g7 power whose display was dead . I used this app to turn on usb debugging something unbelievable. One heck of an app",
+                "score": 5,
+                "thumbsUpCount": 5,
+                "reviewCreatedVersion": "3.7.1",
+                "at": "2021-07-04 11:16:12",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "2b23412f-cc0f-46bf-9441-3fe7ef85a90e",
+                "userName": "Danilo M.",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKiE9UWg-sVENmWZHTUL-jAUGhIu2diPcoH5YxjxI2pJg=mo",
+                "content": "Perfeito",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.7.1",
+                "at": "2021-07-02 22:47:42",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "dkrivoruchko-_-ScreenStream.json",
+        "published_at": "2021-06-21T09:54:08Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "21125354-3e80-4498-8f55-ff861b024652",
+                "userName": "Samuel Menzie",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjV_VTHeOzH2HNTZNKi9VAVz_Shru1s5UG_qGTPOlDsiaV8a",
+                "content": "This app works exactly as described in the description. The lack of audio is an obvious disappointment, however this is not a bug or developer error but is due to the apps use of MJPEG to function (MJPEG is used to encode screen images and send them through the network and it does not support sound).",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "3.7.0",
+                "at": "2022-09-01 09:45:47",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "c60ac345-d378-4073-9597-27a7e9b76197",
+                "userName": "Eric Work",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWWYsilKiCGYmlLSJQ-yXLSBeKirRi4t6vUYCxPz2hKtd8",
+                "content": "The app works as expected and is open source. Not quite fast enough for HD video but if you're okay with a little stutter could be okay.",
+                "score": 5,
+                "thumbsUpCount": 14,
+                "reviewCreatedVersion": "3.7.0",
+                "at": "2021-06-26 22:24:40",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "97a70f3e-9063-41bb-8568-0109f3d5ce95",
+                "userName": "M Alpizar",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJsWQSAtagzO-iI_TeMOVGPo3iRM_Wbv3szzTKNYvdZ=mo",
+                "content": "An open source with advertising. Be aware!!!",
+                "score": 1,
+                "thumbsUpCount": 13,
+                "reviewCreatedVersion": "3.7.0",
+                "at": "2021-06-23 10:21:31",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "dkrivoruchko-_-ScreenStream.json",
+        "published_at": "2021-06-03T12:13:25Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "abbae6e5-774d-4287-9240-87a32d7b32d6",
+                "userName": "Nothing is Impossible",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLeNWigjqBtqRv9A6HMY36-upZIgNwiuRR8TSaVBQZm=mo",
+                "content": "Is very good app it is useful for my online class",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "3.6.4",
+                "at": "2021-06-22 11:11:44",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "d62aaf91-830c-4078-b958-d311d7184cbb",
+                "userName": "Mathias Mertz",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJbl8sVLtMVdsk51T0X7clzSRYXXdLzih8oD_5AutU2=mo",
+                "content": "At first try this have worked far batter than some of the other bigger name mirroring apps. So far smooth and screen quality quit good.",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "3.6.4",
+                "at": "2021-06-19 07:48:17",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "75688bd5-2545-4e0b-a37c-0880160cbcdf",
+                "userName": "Dániel Győrffy",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXBAwt6EiZV7dyW4MFVrscxIXW-fDmhlvLQO1GdhuRGZmQ",
+                "content": "At first it wasnt working well; it could not stream using only mobile net. Later it started to work, so this is great!",
+                "score": 4,
+                "thumbsUpCount": 14,
+                "reviewCreatedVersion": "3.6.4",
+                "at": "2021-06-17 11:01:03",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "cf0ba57f-dd93-42c1-83de-8950e071bd0f",
+                "userName": "Alwin . J",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWieAW-O3_yagNxsZOavwtY02ybWurxGlulnqE5PVs4FqE",
+                "content": "Ok but sound please",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.6.4",
+                "at": "2021-06-14 07:39:50",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "dkrivoruchko-_-ScreenStream.json",
+        "published_at": "2021-03-28T08:54:06Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "552bd05e-88e7-4de9-b826-b84e0d1a850b",
+                "userName": "Maverick Stephens (XISM_24)",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWKRa-FllrjHDpOsNSq-5s8sT7pyStR8sSdS0bwIvDwOfg",
+                "content": "I only give it 4 star due to the fact that it does stream the sound as well other than that its great!",
+                "score": 4,
+                "thumbsUpCount": 6,
+                "reviewCreatedVersion": "3.6.0",
+                "at": "2021-05-05 11:30:50",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "70098de3-eb20-4b94-ba25-74c63d88f150",
+                "userName": "pat p",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjV2sH96r6ajGMasF1MztDQrfmTqvNNWW3xgdtAm_2-MJpI",
+                "content": "Been using this app for a few years now . It does what I need it to do and yes sometimes gets a little bit lag but otherwise it works for me.",
+                "score": 5,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "3.6.0",
+                "at": "2021-05-04 14:27:38",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "a5c1ddda-cfd1-4fe4-81f5-3194ca4c4649",
+                "userName": "CEGU ZULL",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUywAS9kQkaFytVz3gjlXLtXbvIb_uvzMObajvGcUyllA",
+                "content": "Terbaik dan mudah di gunakan",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.6.0",
+                "at": "2021-04-27 15:16:40",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "9675d2c6-156b-4599-8239-9fe113ed767e",
+                "userName": "Ahmed Mohamoud",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIyWSb1Kj5hZdbAZHjxFXA0Lw6lhyS5ojjmx4XQHCeI=mo",
+                "content": "Ahmed mohomoud",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.6.0",
+                "at": "2021-04-25 03:34:54",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "3c5c5a94-8704-4a85-ae7e-fd70ff7ebabb",
+                "userName": "Aman Patel",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjU3Qrv6WVGI6Fw21iUqeGp6iELaOjRRkO6utdx89S91yiY",
+                "content": "It is very helpful app especially to me.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.6.0",
+                "at": "2021-04-24 11:28:01",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "bbe82f2c-84c3-4366-8e68-df11cd50473e",
+                "userName": "Phi lutin",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKR38fZY5Ox8cII4mYC-gqkKCHtzuo-lFksZxc6YBH2=mo",
+                "content": "Excellent for local streaming.",
+                "score": 5,
+                "thumbsUpCount": 7,
+                "reviewCreatedVersion": "3.6.0",
+                "at": "2021-04-13 21:28:07",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "82dc156f-94f5-46da-ae2e-cf62b2439f7e",
+                "userName": "Arthur Lehdermann",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjU0mq2gExG0m0z9avQsQpuBWUb3apPxYlbN-HTLC0TUE5k6",
+                "content": "Gostei",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.6.0",
+                "at": "2021-04-13 13:39:29",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "68c0ff13-fe9b-4ec3-be54-ee9a190a72df",
+                "userName": "Jose Magalhaes",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWv3TV_c-S18GpugemptAbynXKXykHeyNF83CC6a157ZQKb",
+                "content": "It works. Thank's",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "3.6.0",
+                "at": "2021-04-12 11:15:19",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "bc5b6830-69d6-4f78-8a7e-f2a8e11d6a20",
+                "userName": "Donald Motswi",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIBS9tOFuz_ZLVPslbWj9qHj3wO-fBSrNvnzRCW_0Ke=mo",
+                "content": "Khasba k boy",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.6.0",
+                "at": "2021-04-05 15:21:56",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "7443b7a1-2e14-4f5f-9c98-cadf55c3cab9",
+                "userName": "Crusty Punk",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVMIwKNhqQfkN5mA3hgxEs-uIf3ZM3TKlgkHTyj-IQ93NU",
+                "content": "Crash central! This app crashes a lot!!! Sometimes I get an hour between crashes. Most of the time I get minutes. Tonight has been especially bad with as low as 30 seconds between crashes. This is such BS. Would rate ZERO if I could.",
+                "score": 1,
+                "thumbsUpCount": 27,
+                "reviewCreatedVersion": "3.6.0",
+                "at": "2021-04-02 01:21:06",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "dkrivoruchko-_-ScreenStream.json",
+        "published_at": "2021-03-08T09:14:06Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "ff06d77f-5290-4b5d-aaa2-9575b1791ace",
+                "userName": "amin rose",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIYUMRjfKcMQZZLmig31Oea3G-KFy9Mdb8Y4Dsa11jt=mo",
+                "content": "Very nice app",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.5.4",
+                "at": "2021-03-26 00:13:59",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "5c96cf00-8f9c-4ce8-a98b-dfc4a27b314b",
+                "userName": "Shiwani Singh",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWDPrWwGGikpGM3r6gRRvwHPgFusKGjZzyGaaTkl4H-yIU",
+                "content": "It will be so good it start with web browser.",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.5.4",
+                "at": "2021-03-19 02:14:28",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "d3e91a25-e3ed-42e0-b524-1452074cd748",
+                "userName": "Réna Da Latex Dragon",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUag9iOG7Chfe8ZZZf0H-ihh5KxDTExU8VIcZyQQCOlmzA",
+                "content": "i dont get how to connect through my mobile network, im with virgin if that helps, if i use mobile data and start stream, none of the clients can connect to my phone, why is this? at the moment i am giving two stars as i cant find any answers on the web. how do i change that?",
+                "score": 2,
+                "thumbsUpCount": 12,
+                "reviewCreatedVersion": "3.5.4",
+                "at": "2021-03-12 14:43:47",
+                "replyContent": "Mobile operations usually block all incoming connections.",
+                "repliedAt": "2021-03-12 14:38:30"
+            }
+        ]
+    },
+    {
+        "filename": "dkrivoruchko-_-ScreenStream.json",
+        "published_at": "2020-12-05T14:13:28Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "d7040370-eb6b-49eb-8cfb-b9409b2dd211",
+                "userName": "Isaac Munyaradzi Machakata",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWlGfsRPy5Iy77ZhD-kTS19z1JRV73sTLB_mFYnC-pjc_HW",
+                "content": "I wish I could share the audio too 🤗",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.5.3",
+                "at": "2022-02-01 16:28:39",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "b69f5979-c303-4c0d-85c7-6c50218ae57f",
+                "userName": "ARPITA MANDAL",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKdsdWpSvly8fi4rpbofGIsMCXMJ4qwnMhHYgLhDcrr=mo",
+                "content": "Op app",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.5.3",
+                "at": "2021-07-07 16:56:05",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "1d1cb4a3-1431-4dde-8ab3-1189729ba593",
+                "userName": "hitesh 10k legend",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUkCYpGO0p_v-IzrjXhDWxeZYigUOOLmzggnNHmtjVFPg",
+                "content": "Please add internel audio support",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.5.3",
+                "at": "2021-03-15 12:07:08",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "1e383572-02d4-4d81-809c-693c39829bc2",
+                "userName": "Vaisakh K M",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJFEid_G-a352NtHvZqkZlxkReRHOLOedeBXEKdwyBC=mo",
+                "content": "i will give 5 star if it had sound support",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.5.3",
+                "at": "2021-03-13 17:49:38",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "caa9c40e-41f9-4eb9-b0fe-98409ef76c2e",
+                "userName": "Rafael Johansen",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVGqPRIy3Qem9dtyX02nGwXuPOWuWb8v6mlGvhDzQN-o46K",
+                "content": "This is a great app! However, can you make it possible to stream to HTTP like to a secondary screen, (maybe by using the presentation class)? Some apps support casting it's content to a secondary screen by \"extending\" (not \"mirroring\"). If you could add the option to \"extend cast screen\" to HTTP, I'm sure that would be very useful for a lot of people including me. This way I could host a presentation and search for pages while the clients only see the live presentation.",
+                "score": 5,
+                "thumbsUpCount": 15,
+                "reviewCreatedVersion": "3.5.3",
+                "at": "2021-03-10 12:51:27",
+                "replyContent": "Thanks for the idea. Will look at it.",
+                "repliedAt": "2021-03-10 13:00:24"
+            },
+            {
+                "reviewId": "684979d2-faf3-456c-95a5-ce0bdead62d8",
+                "userName": "RJ S",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjW4HSclRCzI5eH7T5QiR7KtdhXvlOI6Mmh_frOYurPnf7I",
+                "content": "good but pls make audio . then i give 5 stars",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.5.3",
+                "at": "2021-03-09 00:45:10",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "74585e0f-7b82-4a72-939b-f2faa745b444",
+                "userName": "Yassin Omda",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUcK6apAsO9uuhTkU58_y52jKmhvtbntwBCPr98Ppaw6PM",
+                "content": "Wow I so happy",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.5.3",
+                "at": "2021-03-04 00:16:43",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "902e2d5c-62a1-4fa6-9b94-f6554d510b98",
+                "userName": "Gokuu the Happiest man alive",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVcydjAJlOXNz5RafiTPCLUGBJ6yqSFL2NFrhbRzYIXvA",
+                "content": "Extremely slow despite being on the same WiFi that is 100 mbps upload and download speed",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.5.3",
+                "at": "2021-03-01 22:33:21",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "91f67992-d0b0-4579-9d62-9cdd622f66b7",
+                "userName": "Xerxes Von Braun",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXtNLVSKBPmsr4GdLcRvRFETci1_VrBzoVUqBMPyi8BAGI",
+                "content": "Worked nice but app crashed 2 times and it made me waste time during a live stream ; /",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.5.3",
+                "at": "2021-02-28 08:30:49",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "069d2ba0-b9db-44cb-aba9-8ed342249959",
+                "userName": "Bedfford Arroyo",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVM6rlwsSQKx20Qwnti7jX9zlXKCMztlHQROjYCPH__k24",
+                "content": "Fantastica. Se que esta hecha para presentacion pero pagaria sin dudarlo por una version en que se puediera usar el control del mouse. Gracias!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.5.3",
+                "at": "2021-02-24 23:30:05",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "1cf48fec-f2b0-40e8-94c7-96bad0d41621",
+                "userName": "tamil songs",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIYCKKh0M-9Ouabp4x07wAvKCfpDpdPD0xG8OEWT55I=mo",
+                "content": "los app",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.5.3",
+                "at": "2021-02-22 11:40:54",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "4443e360-d759-4be1-bb9a-5624fde61ca0",
+                "userName": "Samir Dantani",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWMRTLbqVpkkH3Poxc9n23JMmiKuQU0l1uZ6-fwJZSSaBk",
+                "content": "Thank you 😊😊😊😊",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.5.3",
+                "at": "2021-02-22 10:27:11",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "257e48e2-de28-4d32-8629-3e7db7d6df51",
+                "userName": "Juan Daniel Gonçalves Mendes",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKcEGfJw833-IFjEtbYVI6pR0nNiGcbHdrbfXpmLgq2jg=mo",
+                "content": "There is a version for PC?",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.5.3",
+                "at": "2021-02-19 04:48:37",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "88028c8a-10ef-49e4-ba28-f61690cd1e1c",
+                "userName": "Sonu Meena",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUYHx4v3Ei4wEWzOn-geHxpT8QWmHIBqs_Uc0FHNUS8ZQ",
+                "content": "is working app iam give 5 star",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.5.3",
+                "at": "2021-02-18 15:38:19",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "160fa223-b189-4698-8262-0aeffc8fb4ee",
+                "userName": "basavaraja k",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJc2KPqaXsb922u9nNgyo9MZS9AiewhbuQE_Pbr0lBO=mo",
+                "content": "Excellent",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.5.3",
+                "at": "2021-02-08 09:45:30",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "51167a8f-2aeb-4602-a191-e3436bc4eb47",
+                "userName": "Darshan Gm",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLkA8ui1_xvF8mxH4MBshnon0kNHXpNsGYTTJt9YvtH=mo",
+                "content": "The app is soon Gus but the audio is included it was much better",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.5.3",
+                "at": "2021-01-30 10:44:54",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "480f780d-c00e-4080-851f-36597ebbab29",
+                "userName": "Nestor Ramirez",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVkzS73JnJtvz4qBwXrJdBGXWXjsHb8SgO8mBUcpF1i1ho",
+                "content": "Espectacular servicio, puedo mostrar la pantalla de mi celu en cualquier navegador u obs",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.5.3",
+                "at": "2021-01-26 23:56:59",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "10d8d477-92d7-403f-9bb9-3ecebfc630e9",
+                "userName": "Prayas Pattanaik",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUsfHvbfkOEURjRwwYbap9jzmXLdQ697PXjF5HLaaj8czs",
+                "content": "The screen sharing is very nice but there's one problem i am facing which is the sound...the sound is only coming from my phone not from my tv after screen sharing...is there any solution for it?",
+                "score": 4,
+                "thumbsUpCount": 12,
+                "reviewCreatedVersion": "3.5.3",
+                "at": "2021-01-25 06:00:20",
+                "replyContent": "App use MJPEG standard that has no audio support. Sorry",
+                "repliedAt": "2021-01-25 06:52:19"
+            },
+            {
+                "reviewId": "88596103-602c-493e-aa3d-0b39996726b8",
+                "userName": "Amit Gupta",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUeNAj54YhBK3xqJItIychLPjY7HxNe4hLkI9FVYGB2k_U",
+                "content": "It works. But v slow. And can't perform the action remotely. If I can do that, i can access it on kindle and can do more with kindle",
+                "score": 3,
+                "thumbsUpCount": 5,
+                "reviewCreatedVersion": "3.5.3",
+                "at": "2021-01-24 10:18:06",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "f783ae42-4648-425a-8788-4d2c63ebea4e",
+                "userName": "Tommy “Pitty” Dee",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXa6aYuUdjBl9GavUQ3G3hgIEy-quTYONiU45A7iCYhitoO",
+                "content": "satisfied",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.5.3",
+                "at": "2021-01-22 21:53:55",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "ee1a657b-15e9-466a-a8d1-cf1947f67fd6",
+                "userName": "Rusu Ioan",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVr9uwcdOvwH-pDtt_GLshkhkBn4t2ZhHv97YiY8MqSkfA",
+                "content": "Awesome!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.5.3",
+                "at": "2021-01-20 18:03:52",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "ff0806b1-e53f-40cb-8cbf-89b4a022aa96",
+                "userName": "Revanth S",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUiN-OxqziycJvvb7xQnfPJfJUEXlBP3xutM2d21oZfVqE",
+                "content": "Provide audio support",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.5.3",
+                "at": "2021-01-19 05:06:47",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "152ac532-2249-4a6f-b967-4e172e9b6562",
+                "userName": "Ts. Adnan Salleh",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjV6qszUqMxvdMV-icAjQni-J2pJHkTKgj7iHZsY9xp86w",
+                "content": "Awesome",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.5.3",
+                "at": "2021-01-17 13:37:08",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "242e4e1a-fc23-4981-92c3-549447ab5897",
+                "userName": "Khalid Mrusi",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjU4olFDa9HWP89e_iTE5aAQc3mr_EARaCBybUywQmfmDoM",
+                "content": "Good",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.5.3",
+                "at": "2021-01-14 02:54:20",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "f4830402-29e7-455c-b22b-4407c661c9ff",
+                "userName": "Bob&Lisa Estep",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWNiUep8Tkf93UFKjbkpnWa8GF0FREg61wrRIot5k_OXHQ",
+                "content": "Best",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.5.3",
+                "at": "2021-01-14 02:35:45",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "f76dfdb8-1a72-4f3e-ab7f-1449a1200a67",
+                "userName": "Uday Malaviya",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUXThK4-UeehU1hCsmREO3Iu1rVDCqgsG7GDJDb6abRmRM",
+                "content": "Best app.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.5.3",
+                "at": "2021-01-13 09:25:54",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "89f9826b-29e3-49d4-b2bb-9231003c02b3",
+                "userName": "Jayden Allen",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXLkzJxeJcOO8Bzng9j4gtub_KqLPLmq94ptn9jo-6GxS0",
+                "content": "Works just as intended. Easy to use and comprehend. Though the screen cast has no sound",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.5.3",
+                "at": "2021-01-10 17:51:28",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "db282d57-2c08-4ddf-812b-b1acc80909e0",
+                "userName": "King Yash",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWn1rJ81JofqZ37-fwr1T3RuxDZYqMGRiJpFyYrp4YFedo",
+                "content": "Very nice app",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.5.3",
+                "at": "2021-01-10 06:23:54",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "10db03a8-a825-4955-b9cd-62756ca06169",
+                "userName": "lokesh tach",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWnro7D-96Dn7p4bgD-GXy3Gl89mrtdG0sRBg0u7r6ixDc",
+                "content": "Because it help me with my laptop",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.5.3",
+                "at": "2021-01-06 11:05:12",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "ab95c055-50da-45a9-9e8e-08821aabc804",
+                "userName": "Raja Sen",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVfkN_1GR_QP5Dos1nWjU-xnc_N_MdVhYLLz63g82wvE2U",
+                "content": "Please add screen mirror with sound feature",
+                "score": 4,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "3.5.3",
+                "at": "2020-12-29 17:09:58",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "ea30d21a-4e01-4e38-9d9e-e4d30ef33733",
+                "userName": "Alvaro Glenard",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIsWsdNprP3fsHLaGaYC05YS6robA-VLleA0Nx86frf=mo",
+                "content": "Works great! Can mirror (cast) your screen to any device on the same network wether it's another phone or PC or Mac. Click on Start on Screen Stream app in the phone you want to mirror, and the just open any browser on any device on the network and type the ip address indicated on the phone...",
+                "score": 5,
+                "thumbsUpCount": 37,
+                "reviewCreatedVersion": "3.5.3",
+                "at": "2020-12-21 20:27:46",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "0dad42df-7a8d-4c3b-a9eb-af0768ef67f5",
+                "userName": "Irfan Ahmad",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKUkC3PHKWNCjZomO17MJQFJeluUNDKn9kpkP2ECJqDQw=mo",
+                "content": "This app is very easy to use,but the screen of mobile on pc is not coming full.",
+                "score": 3,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "3.5.3",
+                "at": "2020-12-19 09:31:28",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "121842e7-4566-4512-93ee-867a5ac95560",
+                "userName": "Lisa Wilde",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXtf2xo6QmInbJtEp5QWm2W52wm3BqucAg1nr8Ikfu8iyA",
+                "content": "Amazingly SURPRISING!",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.5.3",
+                "at": "2020-12-16 15:49:18",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "05bb7a40-a0c1-4cf5-ba6a-947f4f962719",
+                "userName": "Nev Delap",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXxt9i4J0ejOrURPAeAyUsHsJ2XZ9ibAfEhV-7B392Ko6k",
+                "content": "Glorious.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.5.3",
+                "at": "2020-12-16 03:03:14",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "cd03a611-8dce-43df-aa0b-528ed5340f69",
+                "userName": "Ira Rosaline De Guzman",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUi43c59_1kncsCzw0LBUN8igFeRpyL4h3rvGUkmHod0Eo",
+                "content": "This app is great and even though my mobile phone got a broken lcd I can manage to see and open my files through this.",
+                "score": 5,
+                "thumbsUpCount": 13,
+                "reviewCreatedVersion": "3.5.3",
+                "at": "2020-12-14 14:45:30",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "bf2312eb-ddaa-4f94-90d1-99d9068b4a2f",
+                "userName": "shobhit kr",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXNHydh_wk6My-tAi8X5HTEgaKGIYPigZYg-CziJZCpsw",
+                "content": "Nice app",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.5.3",
+                "at": "2020-12-13 02:01:57",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "5bbc5a3f-1b68-4a84-be67-4e5649a014d2",
+                "userName": "Vansh",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUDfrEBC5Bf-gtRdukl7WV7Z-AMdgzkhgoBIL1-28qPBa8",
+                "content": "Please add full screen cover feature. I means suppose i was sharing my mobile's screen to my android TV that the screen could not fit to my TV screen only covers a small portion of the screen not to the entire. I request to the developers that they add this feature soon. 😊",
+                "score": 5,
+                "thumbsUpCount": 22,
+                "reviewCreatedVersion": "3.5.3",
+                "at": "2020-12-12 08:48:59",
+                "replyContent": "In the app settings go to the image tab and change image resize parameter",
+                "repliedAt": "2020-12-12 09:01:32"
+            },
+            {
+                "reviewId": "351d379d-89e8-4136-828a-b8256bee047b",
+                "userName": "啊静の日常游戏",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLP4dq_96ngrvH3psyi-sq8BbMdxCWRt0E-fMn2qjN2gA=mo",
+                "content": "Google not found",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.5.3",
+                "at": "2020-12-10 02:25:17",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "dkrivoruchko-_-ScreenStream.json",
+        "published_at": "2020-11-11T14:33:52Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "5bf6777b-839c-410c-acad-218a293b71aa",
+                "userName": "František Štieber",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIa4GaqRNnZF93FWBeoZDTWtJMquc5zvdfpO13TQFTs=mo",
+                "content": "Very Good app, but I've problem with death screen. Step1 - 'adb shell svc wifi enable' (I've static IP for phone). Step2 - (connect OTG mouse.) Step3 - 'adb shell am start -n info.dvkr.screenstream/.ui.activity.AppActivity'. Step4 - 'step3' only start app but no start stream. Can you help me? I need start screen stream. Option 'Auto Start/Stop streaming' is missing on Xiaomi, but it works on Samsung.",
+                "score": 4,
+                "thumbsUpCount": 22,
+                "reviewCreatedVersion": "3.5.1",
+                "at": "2020-12-29 05:56:39",
+                "replyContent": "There is no way currently to start stream from adb",
+                "repliedAt": "2020-12-28 16:16:55"
+            },
+            {
+                "reviewId": "610bd491-e73a-487e-b4e4-af4caab9c9df",
+                "userName": "Suresh sharma",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWSV9OftnwrXAQKA3imzz58hwjxHrTpg7M-I6_i7Pn-pA",
+                "content": "Mirring bhaut slow hai",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.5.1",
+                "at": "2020-12-08 05:04:11",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "449590bd-7f65-4dbe-a2d3-e8da8b9b8083",
+                "userName": "S",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIvzddN1ohNt6oNLf0SyZTclYZ7z2JFRVjItmt_gHxr=mo",
+                "content": "How to do full screen on a 16:9 Tv with new phones with different resolution?",
+                "score": 3,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "3.5.1",
+                "at": "2020-12-06 08:13:35",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "c513749f-7320-4cb6-9bf1-03f70de0a9c7",
+                "userName": "Imtaj",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJvTzSnB-ocpYcet7Mvyb3uo7f_xNE4GUmteRPoiwAwJJ0=mo",
+                "content": "Good Working",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.5.1",
+                "at": "2020-12-05 01:40:40",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "73e82c7a-7b76-4539-8186-0ba226028b83",
+                "userName": "Rhys Nikola",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLkNuakmiLtuqaKVvfXr69SVs0Syt_eAf5T0eAb4nxq3A=mo",
+                "content": "Streams as a weird IP address that is NOT accessible by any other system except by the computer you're trying to stream. Essentially makes it so you can stream, but only to yourself.",
+                "score": 1,
+                "thumbsUpCount": 7,
+                "reviewCreatedVersion": "3.5.1",
+                "at": "2020-12-01 18:24:41",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "5d291b44-36fe-4741-9d29-688a39af315f",
+                "userName": "Gaurav Kushwaha",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWBm23herX3bvT2_VhK2nSE0ndsrIt9bA5GAZk6DwyhkUFe",
+                "content": "App is good but it cast screen only not audio.",
+                "score": 3,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "3.5.1",
+                "at": "2020-11-30 10:16:30",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "61a01581-499b-418f-bdf8-0c8c0052a1b7",
+                "userName": "SADINENI Anjaiah",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVOcI-Fi1RmTrPgkmUxAbmZjs-ORv7IzIppnetAI5Q9YrY",
+                "content": "Super app thanks very much",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.5.1",
+                "at": "2020-11-24 09:32:51",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "3ca7a32e-a6ef-4224-b0d5-dac12dfd7558",
+                "userName": "Abd alhadi Mohamed",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLAfPosS_WP7TQbmhaS8z0swCDClvVRD9vDJD1SIDGD=mo",
+                "content": "Good",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.5.1",
+                "at": "2020-11-24 02:04:37",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "3dbf7650-cdc6-4dfb-b917-43f00cf1252f",
+                "userName": "Priyanshu bhatt",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWnjuwP4dMo9AkY31u5l8RHPVngVtk-7xXCqFm4bRG5gBo",
+                "content": "It Is Good App it Work very Perfect",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.5.1",
+                "at": "2020-11-23 14:29:48",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "3a10dee6-0754-402b-a8d9-10c6cf5eb80a",
+                "userName": "Rush GamerYT",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjU-RHnT0Niw0oPUvU-1RSJJh_0QB9nq6WJrgrceFpx1en8",
+                "content": "How to use it??",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.5.1",
+                "at": "2020-11-21 17:10:56",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "79024362-1c02-4f7f-b651-77c2e2958944",
+                "userName": "Tasnad Kernetzky",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUHHxn2k7CZnvbahlCnUAm8P9p2qmIFgqy34v2AwZhZEA",
+                "content": "Works flawlessly with browser and as media source in OBS studio! I'd join the missing TLS team, though. Why not an auto-generated self-signed certificate? It does not matter much at home, but I'd wish to have it with eduroam. (btw, it's a bit scary that android lets apps capture the whole screen without any permissions..)",
+                "score": 5,
+                "thumbsUpCount": 30,
+                "reviewCreatedVersion": "3.5.1",
+                "at": "2020-11-17 22:38:59",
+                "replyContent": "Certificate requires domain name and there is cast permission request and it is mandatory",
+                "repliedAt": "2020-11-18 01:06:23"
+            },
+            {
+                "reviewId": "bc359399-ed0b-495d-afcc-083ad79422d2",
+                "userName": "Moin Ahmad",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXhROMxiAdS8rY1XB6uks4zqWSxImaZx_o5-h2rGeNF-6U",
+                "content": "Awesome, but why only screen? There must be option for streaming front and back camera. I wish developer will add this features.",
+                "score": 4,
+                "thumbsUpCount": 14,
+                "reviewCreatedVersion": "3.5.1",
+                "at": "2020-11-17 18:47:31",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "bcd256d0-a524-49c6-8a0b-0605ad603983",
+                "userName": "suhandi Widjaja",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXGIJWs0E-mKpwb5YvFHgKCzQxmh6bTbv1Xl3P_rdUIPw",
+                "content": "This app not working at all. Make my phone Samsung s8 hang and cannot be used until run out of battery.",
+                "score": 1,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "3.5.1",
+                "at": "2020-11-17 03:40:38",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "0f6ef039-01f5-4e73-8f11-3391f5352edc",
+                "userName": "Vishnu Das",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjU4Xs33eU-WlweDZzJp-cDrQGoIKFaYslXWlBHtgAoUV84",
+                "content": "Plz add sound cast to",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.5.1",
+                "at": "2020-11-14 07:53:35",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    }
+]

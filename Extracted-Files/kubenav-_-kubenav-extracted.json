@@ -1,0 +1,305 @@
+[
+    {
+        "filename": "kubenav-_-kubenav.json",
+        "published_at": "2023-01-29T16:07:11Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "b92125f0-7798-4e52-90a3-eeea5566b4d6",
+                "userName": "Alex Pekler (ThunderAL)",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWlKJ33Qyq3C8LKoC8p7l6aX-pJvMCdsv93Tu2nSQ1Slb5n",
+                "content": "awesome app. but, how to delete cluster? (oh, it's double tap. maybe you decide to add long tab or special icon for that action)",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "4.1.0",
+                "at": "2023-04-02 07:14:10",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "a0906bcb-f120-4ac2-bb75-dfdd23ddfbe5",
+                "userName": "Ken Lasko",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUKI7sHNoKjidk-NPkCNEaTBTa8sv7bd5xXaz2NTBq1b89E",
+                "content": "Amazingly useful and easy to use mobile view of your Kubernetes clusters. I can check out issues and fix them from wherever I happen to be. Absolutely indispensable!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "4.1.0",
+                "at": "2023-02-19 19:01:29",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "cc69c270-8e24-475f-a882-2bef748ac249",
+                "userName": "Andrea Florio",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWc2VWaS1o2l7M-DBNidbZ12DkIbr5yvpR0_oUmgoI-RsE",
+                "content": "After updating it to the version with the new UI, it lost kubeconfig",
+                "score": 4,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "4.1.0",
+                "at": "2023-01-30 06:51:42",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "0105a6ad-46e5-4002-8775-2c6d042b32a4",
+                "userName": "Mirhuseyn Azizov",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKUlcjcHTmCwfZi-V1i3L6ekrayBHZrLK1aJJAdVz-F=mo",
+                "content": "Nice app but how to rename cluster after added inventory?",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "4.1.0",
+                "at": "2023-01-29 17:53:45",
+                "replyContent": "Hi, you can go to \"Settings\", then click on \"View all\" in the clusters section. On the next page where you can also add new clusters, you can double click on an existing cluster to rename it.",
+                "repliedAt": "2023-01-29 18:15:23"
+            }
+        ]
+    },
+    {
+        "filename": "kubenav-_-kubenav.json",
+        "published_at": "2023-01-25T16:58:56Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "kubenav-_-kubenav.json",
+        "published_at": "2023-01-22T17:46:41Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "kubenav-_-kubenav.json",
+        "published_at": "2021-12-20T20:35:57Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "131cda28-2e2e-45ab-a7b2-be60927cc17e",
+                "userName": "Rob",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVxQQcBBtyvchh3vLsUlNsBX1NFJtDCtbTG1eCHPj7VqdQ",
+                "content": "Couple little UI things here and there, but all in all WOW!!! I can manage my clusters and restart pods that are acting up without getting out of bed?? This app is INCREDIBLE!!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.9.0",
+                "at": "2022-08-19 11:51:26",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "94fc4a4b-ede6-4c11-9dcc-ac68f0b20925",
+                "userName": "Simeon Castle",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJrQzG8wAvHko3vmXBYD3LPkLAOE2_I0cP5PCUfgKB7=mo",
+                "content": "Comprehensive and easy to use, this quickly became my go-to to manage my clusters.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.9.0",
+                "at": "2022-08-09 22:58:46",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "27eff367-da1b-4d26-9105-5834201d83b5",
+                "userName": "Rodrigo Watanabe",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXztf4989DiVw9KgaMzqFBEMnzYmVWJo48W-1yW5Gksxmo",
+                "content": "Simply awesomeness! Thank you.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.9.0",
+                "at": "2022-02-22 02:46:43",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "cce3c5ab-7f33-46c3-b809-561c914ba3f4",
+                "userName": "Ashutosh Ojha",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUpZOEfrhLhvOtIhjILkehDBf7rYc8lzTqwCuIZsFUnGrN4",
+                "content": "Very clean and nice interface.. Just 1 issue is there. I am not able to list ingress. Please fix it 🙏🏻. Thanks",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.9.0",
+                "at": "2022-01-17 11:58:16",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "kubenav-_-kubenav.json",
+        "published_at": "2021-11-22T18:37:56Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "5d7f953c-a6d0-4cd0-9711-c382fcb15821",
+                "userName": "Zee Aslam",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWYyIZ8itzIBznYdTzVnWjw88oKPB78C_EtNrtxO88Z8w0e",
+                "content": "I love this app. It's proven super useful for me and I use it a lot. It's great for keeping tabs on clusters and visually noting issues. Some downsides: You can't edit the kubeconfig after the fact (or I just missed something). The sidebar scrolls to the top each open which can be a minor annoyance. The events can't be organized by recency easily either. It's not much more difficult to use than kubectl. Rico, if you have other apps elsewhere or a donate lnk you should add it somewhere.",
+                "score": 4,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "3.8.1",
+                "at": "2021-12-09 13:09:24",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "kubenav-_-kubenav.json",
+        "published_at": "2021-09-20T16:35:58Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "04865e7d-0f24-4fb9-9713-65ed44642630",
+                "userName": "Kelly Ferrone",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVN4nRuFvbZiLnbV2CYtx-t5D53RCcA6JglnkL6p-Tc5p8",
+                "content": "Best Android kube nav. Couldn't ask for much more. The kube is yaml. This app shows the yaml I fed it.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "3.7.2",
+                "at": "2021-11-06 05:41:56",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "kubenav-_-kubenav.json",
+        "published_at": "2021-05-09T17:13:43Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "kubenav-_-kubenav.json",
+        "published_at": "2021-04-06T16:56:11Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "d9944beb-d298-41ec-9a8b-8c6c178c4cd7",
+                "userName": "Raziel Dean Garrison",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWup_yIF9sJfFsASBl57jiqu4A6Vwd8WfqiZ8U_mihCr1I",
+                "content": "Amazing tool, everything to manage your cluster included.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "3.4.1",
+                "at": "2021-04-27 18:49:36",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "kubenav-_-kubenav.json",
+        "published_at": "2021-03-01T19:44:12Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "kubenav-_-kubenav.json",
+        "published_at": "2021-01-03T18:16:01Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "4a34345b-b7cf-4f29-a5fc-b2893300987a",
+                "userName": "Jan Klinge",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjW3g-0GUfdpXq3o_BEACBptGbn5o92QHudz74VakM-SSB4",
+                "content": "A bit laggy at long texts or lists but overall great👍",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "3.3.0",
+                "at": "2021-02-16 05:17:05",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "7c4c13c3-14d8-414b-9b24-08a8c6fe619f",
+                "userName": "Anup Chenthamarakshan",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXqs8EznZXauslmxbdFjUjBLodXyvRY86gFewRf6elGJjqX",
+                "content": "Simple to use. Very convenient for keeping tabs on a local Kubernetes cluster from your phone.",
+                "score": 5,
+                "thumbsUpCount": 5,
+                "reviewCreatedVersion": "3.3.0",
+                "at": "2021-02-03 19:23:57",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "06f579a9-c1ec-424b-8798-f2cddcf5a222",
+                "userName": "Humayun Akhtar",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWshmWaFkiiBMO5B41IzcrSn0O1Krf3tHNH5ANyJ1ambX8",
+                "content": "Wow! this is just super amazing.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.3.0",
+                "at": "2021-01-19 19:30:06",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "kubenav-_-kubenav.json",
+        "published_at": "2020-12-02T18:59:03Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "kubenav-_-kubenav.json",
+        "published_at": "2020-10-28T18:27:58Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "d19ee62d-91bf-4486-bd1d-b5db1b95cee0",
+                "userName": "Simon Smith",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWO5qUXI80ttxmz9R1P1-q5nwcHVqGc6K6BkkVN1Le-WdY",
+                "content": "You can't ask for a better k8s app! It has all the features you need and more is coming! even better the fact its opensource!",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "3.1.0",
+                "at": "2020-11-28 21:45:32",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "0b7e3174-73fd-4c46-86b6-1a100e99658d",
+                "userName": "Hansraj Rami",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWlfMRk1sxjFeQdNUT_q_Ok17SBTC4EN01GMBD-kCIxhYE",
+                "content": "Awesome!! I can also manage my cluster when I am on holiday ❤️⭐",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "3.1.0",
+                "at": "2020-11-16 14:17:09",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "c57ed1f8-2e0c-44d7-beb8-551cb9ae5099",
+                "userName": "Herberth Obregon",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUvhw1euvhAs7nShueUh5GlOn1_helvq_s6w51mN0TmdAT_",
+                "content": "Amazing! 🙌 Incredible work! Is like a Lens desktop app",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "3.1.0",
+                "at": "2020-11-16 10:46:52",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "024e7f8a-c0a6-46dd-a017-2cc16bbe682b",
+                "userName": "Justin Wilson",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXi5LntRhT5yTivCPIBtx0FJIkay5o20RLKjdkC51u0lw",
+                "content": "Very impressed! Terminal, logs and restarts.. what else do you need on the go? So good!",
+                "score": 5,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "3.1.0",
+                "at": "2020-11-14 04:26:22",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "kubenav-_-kubenav.json",
+        "published_at": "2020-06-28T14:55:13Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "kubenav-_-kubenav.json",
+        "published_at": "2020-04-13T17:26:01Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "kubenav-_-kubenav.json",
+        "published_at": "2020-03-13T18:20:43Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "kubenav-_-kubenav.json",
+        "published_at": "2020-02-17T19:25:48Z",
+        "google_play_reviews": []
+    }
+]

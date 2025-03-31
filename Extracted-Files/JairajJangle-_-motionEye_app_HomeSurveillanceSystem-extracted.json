@@ -1,0 +1,145 @@
+[
+    {
+        "filename": "JairajJangle-_-motionEye_app_HomeSurveillanceSystem.json",
+        "published_at": "2022-06-19T13:51:21Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "5d6f8ba6-2120-477d-a4aa-d2ed6c8dd9c8",
+                "userName": "R Craig",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLKpB1dzIUJuQvWFtXVqXHB12S-eUxwnApFPLwYdXSf=mo",
+                "content": "Good companion to motionEye. Works on all my Android devices. Quick and clear view of all ny cameras (8).",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "0.9.9.2.5",
+                "at": "2023-08-05 02:57:27",
+                "replyContent": "We are glad you liked the app, thank you for the rating!",
+                "repliedAt": "2023-06-19 04:14:46"
+            },
+            {
+                "reviewId": "507d63d9-dba2-4d71-a48e-030829cbdf12",
+                "userName": "Anders Dalén",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXSZxd9oPjwGEDSlPkGUsxBxv6S_D2e5J6Icoz62b70B_k9",
+                "content": "Simple and intuitive, thank you!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "0.9.9.2.5",
+                "at": "2023-07-01 23:38:00",
+                "replyContent": "Thank you for the feedback!",
+                "repliedAt": "2023-07-02 05:12:28"
+            },
+            {
+                "reviewId": "1bed892c-e13f-4b77-b930-18022136e9c1",
+                "userName": "R Craig",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLKpB1dzIUJuQvWFtXVqXHB12S-eUxwnApFPLwYdXSf=mo",
+                "content": "Very good. Allows me to manage my MotionEye from my tablet. Connects quickly if i want to see the cameras.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "0.9.9.2.5",
+                "at": "2023-07-01 02:39:05",
+                "replyContent": "Thank you for the feedback!",
+                "repliedAt": "2023-07-01 03:08:03"
+            },
+            {
+                "reviewId": "e16a6127-7c5e-440f-9e7a-42cd13008e6d",
+                "userName": "José Tomás",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjX6qEYsHoeI9nmc7vB6vvpvBBfinuRe1aYhrvF4mqc0LdU",
+                "content": "Nicely integrates",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "0.9.9.2.5",
+                "at": "2023-06-17 10:01:04",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "690e8aed-6651-4307-8c59-cbc15323313f",
+                "userName": "Alexandru Daniel Zdrevit",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWVptIw_KV-cW073lemRVZww_DiPIqkIyZKveznApdhr82o",
+                "content": "Trust is the word. the app works flowesly",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "0.9.9.2.5",
+                "at": "2023-05-31 15:47:33",
+                "replyContent": "Thank you for the feedback",
+                "repliedAt": "2023-06-01 02:42:30"
+            },
+            {
+                "reviewId": "3cb1fe2f-ad82-4cb3-8d40-24a76c8d0cfa",
+                "userName": "Tam",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJDGmd0r-L7OdWEXrIp2xfDIz6Q7Iw9de3bM11pljUk=mo",
+                "content": "not able to view outside of wifi range without changing router settings",
+                "score": 2,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "0.9.9.2.5",
+                "at": "2023-05-14 12:26:43",
+                "replyContent": "It seems like the problem is with your motionEye server setup and not the motionEye mobile app. To view camera feed outside of your router range(over the internet) you would require to enable port forwarding on your router or you could use a wormhole service such as \"dataplicity\". We would like to see a 5-star rating when your issue is solved.",
+                "repliedAt": "2023-05-14 14:38:58"
+            },
+            {
+                "reviewId": "7a8b0d6b-6c06-4c99-84a9-0c4b9b1235aa",
+                "userName": "Guy X",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVKR5HOWEPTfS3Bgik3BlYJ6FusvA6zdvX1kInllhSMat2v",
+                "content": "Wow i can see all my cam in the same app tnxs.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "0.9.9.2.5",
+                "at": "2023-04-27 10:40:55",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "894b6891-3714-464a-bff9-c891e36b6b92",
+                "userName": "David Goodman",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXAHyA9WdJamU57L4aLchyFHz3PxBL_zP7MDQzAVJQ-H3A",
+                "content": "This is a great solution for my modest needs. The server makes it easy to manage feeds from a variety of cameras so I'm not locked in to one brand. The mobile app does what I need it to: allow me to see who is coming down the driveway when motion is detected.",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "0.9.9.2.5",
+                "at": "2023-04-04 00:44:29",
+                "replyContent": "Thank you for the valuable feedback. Could you please let us know what should we improve upon to get 5 star rating?",
+                "repliedAt": "2023-04-04 04:19:02"
+            },
+            {
+                "reviewId": "94f266d0-b28c-4f58-9321-d3a6c20eb544",
+                "userName": "Dirteebreaks (Daniel Nugent)",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjV62M8sCmaqOF57mUkti2nGm7aU_cWC9dYwJ9SYqG6afMg",
+                "content": "Awesome!! Does exactly what it says in the tin!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "0.9.9.2.5",
+                "at": "2023-03-01 14:07:33",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "2a087da6-536b-4ae4-822f-09808f81007f",
+                "userName": "Ed Morgan",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIkPYyYoJvGofRhM88S0ayZ-bYl_96PGiUjlcHHXNP9=mo",
+                "content": "Works well on phone. Would be good if it worked on my fire stick 4k, tried it but won't install.",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "0.9.9.2.5",
+                "at": "2023-01-20 15:17:11",
+                "replyContent": "Hi Ed! Thank you for the valuable feedback. Currently, we haven't rolled out the app to support FireTV, but we have considered to do so. We would update you here as soon as we add support for FireTV.",
+                "repliedAt": "2023-01-21 13:01:19"
+            },
+            {
+                "reviewId": "e83f2d5a-e19a-48cb-bfc8-7cd0c9908488",
+                "userName": "Spyitall Always",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIR249_BuHZ90cP-6YH4RAMlwdBMZf1f3S7LJzvDx04=mo",
+                "content": "Working good. It's a nice app",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "0.9.9.2.5",
+                "at": "2022-12-24 15:27:48",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "JairajJangle-_-motionEye_app_HomeSurveillanceSystem.json",
+        "published_at": "2022-05-30T04:33:24Z",
+        "google_play_reviews": []
+    }
+]

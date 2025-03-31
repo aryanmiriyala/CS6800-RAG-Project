@@ -1,0 +1,259 @@
+[
+    {
+        "filename": "bobrofon-_-easysshfs.json",
+        "published_at": "2022-05-03T08:31:28Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "3fdb8508-ceea-4c1c-8e23-84ada7e70754",
+                "userName": "me",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJxsvurPIrKQuy8DNzo0evd_twQ0SiKUqCJOSFWvPMtlBE=mo",
+                "content": "stop putien war",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "0.5.8",
+                "at": "2023-03-04 17:45:21",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "2d797cc2-ea80-44a9-adac-4527a5823112",
+                "userName": "0rayz XL",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUMdC1fEaPfzP2Yz9R8XLPHoAeT9ZM0YeHdgke_urQQKQ",
+                "content": "It works, there's nothing fake about it.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "0.5.8",
+                "at": "2022-09-13 07:44:00",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "b2f945f2-ff59-4892-ad66-49c1d4ee4281",
+                "userName": "Anders Odhner",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKJ-qijHl3Uqhr4WK_AZ3md1z6amFDXy_Wmdk451LO2M20=mo",
+                "content": "Works great on Android 12L (Pixel 3a) with Magisk 24.3. Requires root (obviously), and works great! This program is incredibly useful, and it sometimes makes me forget my phone only has 64GB of storage.",
+                "score": 5,
+                "thumbsUpCount": 11,
+                "reviewCreatedVersion": "0.5.8",
+                "at": "2022-05-11 20:53:45",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "bobrofon-_-easysshfs.json",
+        "published_at": "2022-04-17T18:07:10Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "bobrofon-_-easysshfs.json",
+        "published_at": "2021-02-14T10:39:36Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "133f9f01-6fe5-4ec7-86ba-68b706e46737",
+                "userName": "Victor",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXWWgakJxe30Em9MzLnSiO7Sw9uDsTSoSvmp2-dFp_5QA",
+                "content": "GREAT!!! Thank you so much...",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "0.5.5",
+                "at": "2022-03-17 21:40:15",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "ff7fd4b3-6db8-4428-87aa-adb197ecfcdd",
+                "userName": "Adam Brown",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjV6aL6ev3rAsIR6GVTTKhGlObZeELVmbf0xXj3-tFI6XvSi",
+                "content": "Dev needs to put root access requirement outside of the fine print. A waste of time.",
+                "score": 1,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "0.5.5",
+                "at": "2021-11-01 15:00:44",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "8bf750d2-cc7b-4829-b67b-346e310e98a3",
+                "userName": "Riley",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXOLaPhD0l76F9wuljWt5sHOPhv0NwDZ02Z2o1M_2KPdHc",
+                "content": "Looks easy to use, sadly my device doesn't have fuse; I'm on android 10",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "0.5.5",
+                "at": "2021-08-27 09:09:31",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "bobrofon-_-easysshfs.json",
+        "published_at": "2019-07-21T13:14:13Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "a6a54e5c-941d-400e-a630-900defffe2f3",
+                "userName": "Jon Daley",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjV5Ds7nhlDSe7GDReMyiivZZJl2F8WMNov41OBuziRVbA",
+                "content": "Didn't notice the comment in the more details that says rooted device is required",
+                "score": 3,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "0.5.3",
+                "at": "2021-03-30 17:26:35",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "20328729-7649-4c5e-8bf8-b8d2a0230847",
+                "userName": "Ray Whitmer",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjX9I3-cQ6TvqKEaL9lzQh5V85ahwoQRcqfQpXokGOS93g",
+                "content": "doesn't work, fails to mount in simple cases",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "0.5.3",
+                "at": "2021-01-31 11:15:17",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "2c3e0091-98ee-450d-a80c-ed9c4d3f2091",
+                "userName": "Sam Hardeman",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWX0eTDVoW4cYs7W35JgwwKpUpuZqvgAtRo5KJThgkh",
+                "content": "Works perfectly fine for me on LineageOS 17.1 with Magisk.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "0.5.3",
+                "at": "2020-08-26 15:41:14",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "d447d1d6-56cb-4967-9269-324197f5aa87",
+                "userName": "Dan Stromberg",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXFXBK6RfUKMHqDaUvhYM54ez5NKrTEyamDjt2d721rKA",
+                "content": "Fails tersely",
+                "score": 1,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "0.5.3",
+                "at": "2020-07-04 00:40:38",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "72bdeaf8-f576-4998-902b-3af243a627e4",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Unlike samba doesnt requre SElinux permissive. Works great (assuming you understand ssh and sshfs)",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "0.5.3",
+                "at": "2020-03-07 09:17:43",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "4427cf65-3272-4cd8-a1e5-07eff3131588",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "fuse.sshfs is not in /proc/mounts. AND THEY DIDN'T SAY IT NEEDS ROOT",
+                "score": 1,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "0.5.3",
+                "at": "2020-01-28 19:01:39",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "6e699c76-6fac-4e2a-8fac-2c58bea6f413",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Doesn't work with magisk.",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "0.5.3",
+                "at": "2020-01-28 05:49:02",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "dde26c41-aff5-4864-b099-17d330469946",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Not working as of 2020 January",
+                "score": 1,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "0.5.3",
+                "at": "2020-01-02 22:23:00",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "9a7f297f-b94a-4fd6-9ca5-73b76fb93add",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Documentarion: nada/zero. UX closely related to documentation. Nevertheless, app did work for me for some time. After update to latest version it returns \"kernel too old\" message and does not work anymore. Unfortunately it was only app able to _mount_ sshfs on Android I found ...",
+                "score": 4,
+                "thumbsUpCount": 5,
+                "reviewCreatedVersion": "0.5.3",
+                "at": "2019-11-10 21:56:01",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "bobrofon-_-easysshfs.json",
+        "published_at": "2018-08-04T04:20:46Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "d920d3cf-ad20-43e0-863e-78b3419b3078",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "doesn't work at all",
+                "score": 1,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "0.5.1",
+                "at": "2019-05-09 09:42:45",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "a957b855-6f66-4c1a-8a9c-bacc68cc9f85",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Amazing app, please note that if it didn't work for you, check the log menu before rating this app as \"bad\"",
+                "score": 5,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "0.5.1",
+                "at": "2018-11-29 09:10:59",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "87bd75e5-dc7c-4608-acdf-e2c88ee6cb5b",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "fake app",
+                "score": 1,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "0.5.1",
+                "at": "2018-09-28 12:31:27",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "1b21369c-7909-4177-9ec5-7e4d18b80a25",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "No info on how to use it. It just doesn't work.",
+                "score": 1,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "0.5.1",
+                "at": "2018-08-15 09:01:37",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "filename": "vcmi-_-vcmi-android.json",
+        "published_at": "2023-01-08T17:53:33Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "30d40d28-e733-491a-801f-783e1a35d1e2",
+                "userName": "Wasyl Koliada",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXdflNy5UCMG2DscSFjxlxcn2Nc1fCt-4ewftBI4R5-AA",
+                "content": "Keep it up, brilliant work, love you all",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.1",
+                "at": "2023-04-13 19:16:17",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "c3f3cc7d-a6bb-4454-9d77-e0710b117455",
+                "userName": "Rick Cole",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocI4P6kVDH2M76HeblK4WR8TlLKt7cnhkpoB9zUx-lwj=mo",
+                "content": "Pretty good for scenarios. But cant play campaigns. Too bad",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.1",
+                "at": "2023-04-10 21:07:30",
+                "replyContent": "Hi. We've fixed most of known issues with campaigns in latest update. Feel free to try it out if you're interested.",
+                "repliedAt": "2023-08-04 19:28:50"
+            },
+            {
+                "reviewId": "129a2b74-a963-470e-b3a9-1a5879ae4167",
+                "userName": "Teodor Dostojevski",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocITW2CNmdlt2590wrBXBzeLivSqSjnoU9VqaNK6ocCB=mo",
+                "content": "Excellent. Adventure map frame rate is a bit low/laggy, but in battle frame rate is good though. Random map feature would be great. Looking forward for future updates/upgrades, this has a lot of potential. Thanks for making it.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.1",
+                "at": "2023-04-07 22:44:37",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "b84dda8c-6f32-4a01-8ffe-4fbc95221d70",
+                "userName": "Stefan Tudor Godra",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIr9TIrAlwLnVz48r4MaebceIQqgWUNIzrR8pcucojk=mo",
+                "content": "Thank you.. Thank you.. Thank you.. You made one of my favorite games playable on the gsm.. The AI is so much better now since the last updates. Thank you again",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.1",
+                "at": "2023-04-06 13:13:21",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "d5b0848c-9a07-42da-8246-4f57a8c10743",
+                "userName": "Bojan Kos",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWiKO3A7T2yLuOhseqdqXlBSZgVw5_FwyoP7dMhtrPjQrw",
+                "content": "An essential game to have on every device. Thanks for the Android version. Some files have to be copied from a pc installation, but once that is done, it works fine.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.1",
+                "at": "2023-03-26 10:38:18",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "93e3268b-38e0-4d07-885b-f47e9bd7ed69",
+                "userName": "Wasyl Koliada",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXdflNy5UCMG2DscSFjxlxcn2Nc1fCt-4ewftBI4R5-AA",
+                "content": "Perfect, brilliant work",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.1",
+                "at": "2023-03-03 08:04:54",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    }
+]

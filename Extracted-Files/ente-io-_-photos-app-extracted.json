@@ -1,0 +1,52 @@
+[
+    {
+        "filename": "ente-io-_-photos-app.json",
+        "published_at": "2022-06-09T12:53:28Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "ente-io-_-photos-app.json",
+        "published_at": "2022-02-05T20:29:35Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "ente-io-_-photos-app.json",
+        "published_at": "2021-08-09T17:46:26Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "ente-io-_-photos-app.json",
+        "published_at": "2021-05-26T18:52:17Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "10c585d7-3012-4887-a39f-06c8d90eebc1",
+                "userName": "Peter Engholm",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLmF5WNNsiS4W4lVy_RzhrTpQXQQokMDKMX14UkzXNF=mo",
+                "content": "Fast response from the devs fixed an issue. Great job!",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "0.2.27",
+                "at": "2021-06-04 09:34:27",
+                "replyContent": "Sorry about that Peter, an update that fixes this issue is now live. We hope you'll give us another shot.",
+                "repliedAt": "2021-06-02 10:02:19"
+            },
+            {
+                "reviewId": "909debc0-583a-4820-952c-8f398b1f3856",
+                "userName": "Sam Walker",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLdsu7PyCkrNp3hEpgkRHBt3kIkWxDv9yDlWW8mI6gpglI=mo",
+                "content": "Useless For Me -- Unable to sign up as the app doesn't recognize my custom .uk domain email as a valid email address.",
+                "score": 1,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "0.2.27",
+                "at": "2021-05-29 21:35:33",
+                "replyContent": "Sorry about that Sam, an update that fixes this issue is now live. We hope you'll give us another shot.",
+                "repliedAt": "2021-06-02 10:02:08"
+            }
+        ]
+    },
+    {
+        "filename": "ente-io-_-photos-app.json",
+        "published_at": "2021-05-20T11:15:11Z",
+        "google_play_reviews": []
+    }
+]

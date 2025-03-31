@@ -1,0 +1,114 @@
+[
+    {
+        "filename": "timo-a-_-SudoQ.json",
+        "published_at": "2022-01-05T19:07:39Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "ad5f3aa9-651f-41ab-b2fa-fbdcc97e391a",
+                "userName": "Christopher Weronski",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLUfhsGFSthGs-WGMwhlvpRz2hmCtg_pLoUOTm7kaHP=mo",
+                "content": "Finally, something that I had thought to be impossible, infernal 16x16 sudoku without nasty, pestering ads.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.0.6",
+                "at": "2022-12-15 17:36:52",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "736dd199-6620-4319-8bcc-652fea2bde48",
+                "userName": "Aron",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLr2_sjDyTrA-_4xeihGpL99QpzJM-r9ZiHbOXbmC44=mo",
+                "content": "Great, simple ,perfect.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.0.6",
+                "at": "2022-08-23 23:01:38",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "timo-a-_-SudoQ.json",
+        "published_at": "2021-09-20T22:05:57Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "timo-a-_-SudoQ.json",
+        "published_at": "2021-07-04T19:02:56Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "timo-a-_-SudoQ.json",
+        "published_at": "2020-12-30T12:22:41Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "f1c2060c-c1c8-451a-bc2a-73d25f5f4b63",
+                "userName": "Alan Mansfield",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUhyezWzHXC7pD_E8Ib5MVEtoWaSNv_7QFNJxInh2daAS4h",
+                "content": "............and still has no ads",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.1.0b",
+                "at": "2020-05-11 08:36:10",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "a5ea996d-9327-4ce2-8c82-f973b06298f2",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Very nice open source Sudoku. No ads.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.1.0b",
+                "at": "2019-07-27 10:38:01",
+                "replyContent": "We're glad you like it!",
+                "repliedAt": "2019-09-27 17:21:08"
+            }
+        ]
+    },
+    {
+        "filename": "timo-a-_-SudoQ.json",
+        "published_at": "2017-08-10T21:48:14Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "c050c799-4426-411c-a337-3a0787a7b5c0",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "no ads and works great, couldn't ask for more",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.0.11c",
+                "at": "2019-05-23 18:25:30",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "129284f5-8b14-42d0-a6f0-2883c33e6310",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Does everything I want with no ads to spoil it. I've been using this app for years now and it has always worked perfectly. No ads and plenty of game styles to choose from. I would happily pay for this app but it's free!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.0.11c",
+                "at": "2019-05-14 09:33:06",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "edb17031-5460-4404-bcf7-c88de1fa72fe",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "No ads is a 5star",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.0.11c",
+                "at": "2017-09-23 00:25:03",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    }
+]

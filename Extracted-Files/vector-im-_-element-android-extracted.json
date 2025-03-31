@@ -1,0 +1,2449 @@
+[
+    {
+        "filename": "vector-im-_-element-android.json",
+        "published_at": "2023-02-23T10:19:11Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "335826df-b5a2-4cef-94e4-bc603c5b1e50",
+                "userName": "Felix Ben",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLe6JYdbUSdK1iHFJfm8a0hrjwazA2cYnfjdnrT4z_o=mo",
+                "content": "On some phones when you make a video call with your friend you end up looking at black screen while your friend can see you and when your friend calls you it's the other way around. This bug was reported more than one year ago but there's still no fix to it. We are using the latest version of Element.",
+                "score": 2,
+                "thumbsUpCount": 18,
+                "reviewCreatedVersion": "1.5.26",
+                "at": "2023-04-04 05:58:42",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "20c8cd24-cf29-4b4f-9ff3-e00a1ce8eaa7",
+                "userName": "Tas Bih",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLaO_i4T707CA0ZPTheB9PVROKhZAvnZsxlx4M-8BBh=mo",
+                "content": "Instruction to decrypt not useful.",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.5.26",
+                "at": "2023-03-24 04:15:11",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "d9b3627d-14a3-4f05-912b-b63fbfe1fc5a",
+                "userName": "Lloyd Lindley",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLQuDrXlUbAnE4K5KxT7L624xOwHlNc-L37ImB4yw3Y=mo",
+                "content": "Reinstalled and now it says it can't verify my account, so I lost access to everything",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.5.26",
+                "at": "2023-03-18 14:58:56",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "ee051178-71b5-4008-a2d2-733deab2a8b9",
+                "userName": "Dadaş Yurdsevən",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVoQc-q37GQ9NSILfEXn32H0GdsUMOwPzK143b__uGwpEo",
+                "content": "Excellent. Congratulations. At last, a messenger worked in Iran without the need for anti filter . The quality of voice and video call is excellent. Good luck.",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.5.26",
+                "at": "2023-03-13 19:43:42",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "8f1939f3-662d-44c9-896c-760b3bddb85b",
+                "userName": "Valton Tahiri",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUA_eeRaAtQpzTZ98NyEfgSsqcxg40cM1nasfY8zqevQCzR",
+                "content": "Sometimes its buggy",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.5.26",
+                "at": "2023-03-12 23:02:43",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "0c975ec5-8b13-4557-ba5a-fe96647d587f",
+                "userName": "S W",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXgTp7OT_clxf-PKZL9kFg-9N4x_zvpzwcnfKmNifCud5Fg",
+                "content": "Sharing/selling private conversation info to advertisers. Now I KNOW for a fact that Element is either selling/sharing or leaking private conversation details with advertisers. Within Element, a friend mentioned a product that I have never searched for, and literally later that day I received an ad for that product on Twitch. Would love an explanation how this happens, Element! 😡",
+                "score": 1,
+                "thumbsUpCount": 11,
+                "reviewCreatedVersion": "1.5.26",
+                "at": "2023-03-12 20:03:41",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "98e519d7-f86e-43c5-966d-7638e4acae13",
+                "userName": "noob X zubi",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLtr3Uf7ce7Ha5zmbgDCj9tXtxa4la-GOQtK7ldaHh9L7w=mo",
+                "content": "If I call then the next person does not see my video call he sees his video and if he calls person then his video call is not seen he only sees my video 🥺🥺🥲",
+                "score": 1,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.5.26",
+                "at": "2023-03-11 16:25:18",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "a16093eb-9488-4a79-87be-722558ed0cc4",
+                "userName": "Kenny Fok",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJEgdIPaYHDnjGFfZJzdX1sDXerx_uIbfuMROldYdZx=mo",
+                "content": "Video calling has no video. Stop breaking things please.",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.5.26",
+                "at": "2023-03-10 17:27:08",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "283e9022-c2df-41c4-8381-98f3a58c8251",
+                "userName": "Pro Banda",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIqpWZEoJdbkAzTdyy4xINAjWHHvcRGw9bssJgeOSqj=mo",
+                "content": "The app has too much network connectivity issue. I can not get connected to the internet at the start page for registration",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.5.26",
+                "at": "2023-03-08 06:25:47",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "d34864df-f3ab-4681-8fe6-40c1554b8ea9",
+                "userName": "Mike A. (mikenotpike)",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXP5ZRA5K8Tef2KYeg4N9fVCHn3TGeWUuyL4S1GYmU9x2YF",
+                "content": "It suddenly decided to stop working on my phone, it just doesn't open anymore and constantly crashes. Also the fact that you have to verify sessions and that's forced on is annoying just use 2fa.",
+                "score": 1,
+                "thumbsUpCount": 5,
+                "reviewCreatedVersion": "1.5.26",
+                "at": "2023-03-07 15:57:45",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "83b627db-457c-4b8c-ba19-d9a9e7e8484d",
+                "userName": "Fabian Sosa Escalada",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUjfL9tq7ayb0LRaqf4dVlLyvz9L8TNV_m8eay-JjGMfKVn",
+                "content": "Blocked, impossible to apply the\"encryption upgrade\". Desktop version in mobile is unusable.",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.5.26",
+                "at": "2023-03-07 05:26:56",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "a1d39d2c-99e5-430d-a049-e63e8d862645",
+                "userName": "Bad Santa",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXVU9vBSiw7ADLU7AbR8eZ-wQPv7HkOU6ZVBCnfGsS4og",
+                "content": "Nice app, but sometimes its crashes so only reboot helps",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.5.26",
+                "at": "2023-03-04 01:53:50",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "13a16997-a156-4145-b59d-e15066e05883",
+                "userName": "Urska Erzen",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUYUMDZqrfsZKyDp3vs0q9RbwKU1QR6VimwMZjdlGl2kRHD",
+                "content": "Amazing app, however all my family has problems with notifications not showing up. Very annoying if something important is sent since we have to also send a message somewhere else to check Element 😅🫠",
+                "score": 4,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.5.26",
+                "at": "2023-03-03 12:27:48",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "vector-im-_-element-android.json",
+        "published_at": "2023-02-15T15:17:31Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "b3582e2c-e4a9-4671-8799-3acfadf27e26",
+                "userName": "Valerio Clemenzi",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWEzlRZL4-EHBHb8kuvrWSLk67g2vZeoxU-lsf7M1ctu3s",
+                "content": "Easy to use and fast, but if you want reply a message with an image or a sticker you can't.",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.5.25",
+                "at": "2023-03-05 19:24:08",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "e573fe58-c019-490a-be31-36cabced8129",
+                "userName": "Chitrangad Singh",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWBzLS9DN3dUdVtjFUi2wIw_LGs_ad61308cHJuIGJPfag",
+                "content": "No option to disable e2ee. Been using it with my selfhosted Matrix server and no matter what option I choose on the server ( well known e2ee disable or in homeserver.yaml), I cannot get it not use e2ee. It doesn't makes sense for private server with non tech users.",
+                "score": 2,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.5.25",
+                "at": "2023-03-01 13:41:44",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "659b3654-5abe-4ca5-b04c-0647b324b3e5",
+                "userName": "Markus Kohli",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXU_R_U2A5fusfbAYvO1R_ICCp4SomfSUJ_frGeN_MFGBh-",
+                "content": "Great on phones, but it really, really lacks a tablet-mode/split-view identical to the desktop clients.",
+                "score": 4,
+                "thumbsUpCount": 7,
+                "reviewCreatedVersion": "1.5.25",
+                "at": "2023-02-25 12:15:20",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "dcd61442-3bcf-45b8-b568-8ee08df566f0",
+                "userName": "Jack “JJ” Gronke Jr",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUSIXI0-_dFxlJsCbhuM9eElYvot1axnwuuoV9CJfK7VDch",
+                "content": null,
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.5.25",
+                "at": "2023-02-20 22:45:45",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "bbc60a96-a0c5-4c92-b034-d0510c76a102",
+                "userName": "dang duomg 191",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXm35gr4fzJ6h-SybiDEBM8CdQ3f9KAv0Tu1iGsdJPTBoQ",
+                "content": "stuck at reauthentication screen",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.5.25",
+                "at": "2023-02-17 04:59:37",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "vector-im-_-element-android.json",
+        "published_at": "2023-01-25T13:56:07Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "3b21b2c0-5b42-4f54-bdfa-fc9d504de8c7",
+                "userName": "Joseph Nosie",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVioXZSlPSX_GC-u3Goxa00Gk6I_dD70bhc-ldbjiRWyC4",
+                "content": "One of the worst chat apps I have ever used. Terrible performance, toxic community, and terrible app ux",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.5.22",
+                "at": "2023-02-28 18:31:04",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "645eaf45-d812-4fe8-bb86-38a39da32083",
+                "userName": "EoflaOE ViceCity (Aptivi)",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXRh5CUeeStZ8aoHUD4hJVEI_qwYfzg2FkVep_jIf5UCDY",
+                "content": "This client is somewhat good if you're engaging in conversations using Matrix. However, something seems to be askew, because when I get a notification, if I expand it for the first time, it shows summary for more than one chat. But, when I expand one of them, it sometimes causes \"System UI\" to crash and restart after the black screen for less than 2 seconds. This happened with and without system updates for my Tab S8, Android 12. System UI no longer crashes on Android 13! Thanks for fixing this!",
+                "score": 5,
+                "thumbsUpCount": 22,
+                "reviewCreatedVersion": "1.5.22",
+                "at": "2023-02-17 17:18:57",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "b00a1af0-a4f9-4742-bf09-2f0626500cbf",
+                "userName": "josef fist",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJC7IuNpGmx7Elr1Vxr952q4psvZoYy9ZEQjbLy_n3j=mo",
+                "content": "Re Authentication needed !",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.5.22",
+                "at": "2023-02-15 06:48:43",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "2c52d7d7-8507-4670-bc49-411a93b050bd",
+                "userName": "AliReza Amiri",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWwkjjkXpYrB1IR37f67eKT88OLeezMACxiok9J11XH9Ro",
+                "content": "Very nice thank you so much",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.5.22",
+                "at": "2023-02-13 09:24:18",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "a26f3339-e6f4-4d09-a8bd-f2feb346dac2",
+                "userName": "Loushan Pourbakhtiari",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjURXkSPDFB2nGU9dsZK1rzVlNgX7HbE5Rh_D_sFxaQQMMw",
+                "content": "It's a good app for iranian people because it's still working on this country, but if i want to describe this app, it's like a stupid donkey, which is loading your stuff, but makes you suffering.",
+                "score": 2,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.5.22",
+                "at": "2023-02-11 09:29:47",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "87fbeaec-a064-47c5-8911-7dc7b5ebcbd6",
+                "userName": "Yash Shinde",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXgqUG072HwzmI4nfEeD-4PGaycQw_jtXe5p4zqH56F4tY",
+                "content": "Verification with another device is a painful process when using element desktop client. All kinds of verifications get stuck in between. They require way too many conformations. Terrible experience.",
+                "score": 1,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.5.22",
+                "at": "2023-02-09 18:03:24",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "40d26733-32c6-46b9-9dc8-bef4bc90276b",
+                "userName": "Trend440",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVb29tlidVO7IOgqxR7mpGjYJh9waIsm6d52jGdHYQ6VUg",
+                "content": "Sick when it always asks for re-authentication anytime you log in and try to access the user profile menu. Fix this please",
+                "score": 2,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.5.22",
+                "at": "2023-02-08 04:14:25",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "ad5374d9-eaec-4efc-a671-d85712acf680",
+                "userName": "Todd Medema",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXciS9q8EAouktBcxekD5rGRjWL8pRFQmq3OISKaMSifyAm",
+                "content": "Thanks to the bridging capability, has replaced all other messaging apps for me. So long Messenger, WhatsApp and Signal!",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.5.22",
+                "at": "2023-02-04 20:52:24",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "7c4fde83-d7ff-4651-8f26-0e2f35d1f07a",
+                "userName": "GLBB Mark",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVe9HiVuyl8l-rAafrXI8bOkXmzr28EhBL7JvMpnDVpXw",
+                "content": "Garbage. Even worse on desktop.",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.5.22",
+                "at": "2023-02-01 00:07:37",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "47bda336-8778-4c12-ab19-56df575607f0",
+                "userName": "Harsh Pherwani",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjW7dlosAWCjGgekgFE1Vio6GcCJgdVau-Ye_5Zl8f3Kp9I",
+                "content": "I dont understand why we can't have one seperate section for room lists without people in it, and one with people and without rooms in them. You guys had nailed it before, what happened?",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.5.22",
+                "at": "2023-01-31 21:40:36",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "b97d3fd0-0e9c-45e9-8baf-a8ebd1ffef0c",
+                "userName": "סונטות שייקספיר",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocI_vo2Z-XdBDfT2_BvMa-hp1eoG8yhWjxe7gKALKlXV=mo",
+                "content": "Links to videos, stay as small icons, and do not expand",
+                "score": 2,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.5.22",
+                "at": "2023-01-31 18:43:53",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "f76e09b0-416a-470f-9aa3-3bb1b5860a04",
+                "userName": "Sabaoon Ullah",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVsWpiQWEfuO1TNwQuW07lGnKRyM5avGazLuUIbLRuPVcQ",
+                "content": "Voice recording and voice playing doesn't work in Xiaomi Redmi 4X",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.5.22",
+                "at": "2023-01-31 16:03:21",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "vector-im-_-element-android.json",
+        "published_at": "2023-01-10T16:06:40Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "f648af73-1ad9-4204-a28a-66841f3492f1",
+                "userName": "Tengku Izdihar",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVqoMdiockY7NaSfh4kSN2bdZO0XDuyOdL2Z9zeQLAyCEo",
+                "content": "Its good with usable notifications system now, that's nice",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.5.20",
+                "at": "2023-01-30 04:26:24",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "2b0d9aa0-bb42-4ef0-b998-798133ff399e",
+                "userName": "Thomas Frans",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUXC16obCu90jCDjXA1LxJHxUAm2O4Ncc-M7Kd-srSRVHho",
+                "content": "The best messaging application, period. No ads, no tracking, actual end-to-end encryption. It's also free and open source. Can't recommend it enough.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.5.20",
+                "at": "2023-01-27 19:26:01",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "64705282-0baa-4d48-a004-6010bf31f93d",
+                "userName": "Roshan Sah",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUWrNN0Oah9Npdqm5FGWjzbNmWSzxqvRjmxJnLGtRntW2GM",
+                "content": "App is good but have many bugs in it. Sometimes it doesn't show notifications of messages and currently it's not working over wifi network but works well with mobile data. I request the concerned authority to fix these issues ASAP. Thank you!!",
+                "score": 3,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "1.5.20",
+                "at": "2023-01-23 20:10:04",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "vector-im-_-element-android.json",
+        "published_at": "2023-01-02T15:39:42Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "c7ef976a-6271-45d7-8d69-efb434c0525d",
+                "userName": "Brentus Keyking",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWlmTeptfAEMqaqABIKgYasBT9jywCYa68QJ2-nLy0mJA",
+                "content": "Even though the setup is quite nice everything is so easy to work with it is extremely slow and difficult when it comes to messages. What I mean by that is when you send a message or picture or video there's a chance that the other people who sees it but only read this message will take a moment and that is all I will say the most part. The most part it just tends to be slow.",
+                "score": 3,
+                "thumbsUpCount": 7,
+                "reviewCreatedVersion": "1.5.18",
+                "at": "2023-01-14 06:11:52",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "c5275acf-aa1b-4ec8-a155-e55149c5b447",
+                "userName": "F6 6",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIgoCXP6OYgCqIIUFMOFGBtiQjHPbZ5PnjkBuqt_yWv=mo",
+                "content": "Perfect app now that wickr is on its way out",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.5.18",
+                "at": "2023-01-11 18:41:55",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "vector-im-_-element-android.json",
+        "published_at": "2022-12-07T14:42:33Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "d77a538f-1a29-4550-87a9-f81c7729e51a",
+                "userName": "Masoud E",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocImlR8Y6WExqlaejh-yBP3VIfiGQef0Rd62R_m2GbtD=mo",
+                "content": "Doesn't work, that's all! 🙄",
+                "score": 1,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.5.11",
+                "at": "2023-01-11 12:15:53",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "bf98cab7-84ad-4338-ba58-2975e866ef0b",
+                "userName": "Andrii Dziubenko",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLY9ecIbv5wAXYZXkPHT0c1H4_eJUd0MmA864t-rv3F=mo",
+                "content": "Can you please add a way to check and delete numerous chat messages at a time? It's too annoying to delete one per time with confirmation every time.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.5.11",
+                "at": "2023-01-07 19:08:15",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "adef9177-b0a4-46a0-af4b-5166a1f80d3a",
+                "userName": "Jören Fried",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVRB2Gt5HjP2pVXmSIZY0Y97zYAZvOomznsJicaXvp4lJA",
+                "content": "No vendor lock in - that's great. No search in messages - huge bummer! Update 2023: \"search in messages\" is still missing after years - dropping another star.",
+                "score": 3,
+                "thumbsUpCount": 8,
+                "reviewCreatedVersion": "1.5.11",
+                "at": "2023-01-06 08:09:08",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "ec9794f9-db04-48e0-ac23-075fe18bec95",
+                "userName": "Default User",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIIG1FHo6COYY1gUnd7ZrxjfQfioGMtFJNptk2OsS9a=mo",
+                "content": "Re-Authentication step didn't work",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.5.11",
+                "at": "2023-01-04 02:49:51",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "fbe3ed1d-3d28-4e16-9709-60f5ab32812a",
+                "userName": "Taylor Buchanan",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVyYsTxAw9W-upR9aYIe2nFvft8XFi_JlJMfySmOGBTodU",
+                "content": "I host my own Matrix server and I've used this app for a few years now. It's great when it works. Unfortunately, there are often issues with delivery. I've had multiple times where I receive a notification but clicking on it takes me to the chat where it sits trying to load the message for a while. That's when I get a notification at all, of course. More recently notifications haven't been working. Nonetheless, I'm a big proponent of Matrix as a concept and recognize it's a complex undertaking.",
+                "score": 3,
+                "thumbsUpCount": 134,
+                "reviewCreatedVersion": "1.5.11",
+                "at": "2023-01-03 20:09:47",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "7d4144de-02cb-4418-82c3-261cff060b4f",
+                "userName": "maxo max",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXy1MhpkYMEzdgcl1n2Hhf6EbRRGQfc70LQdyXtUUl2RsM",
+                "content": "Its completely unreliable",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.5.11",
+                "at": "2023-01-03 06:52:32",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "378c9ed6-3b1a-4f48-ace3-060384c5e690",
+                "userName": "Cedar Rosenfield",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXkQwZr2HhP-96s5jTm_niO5VxOJdKTONmbgrlY_uQCwAkT",
+                "content": "I'm having ongoing issues with notifications not sounding and the icon disappearing immediately. Clearing data, reinstalling the app, and even resetting the phone haven't fixed this.",
+                "score": 3,
+                "thumbsUpCount": 5,
+                "reviewCreatedVersion": "1.5.11",
+                "at": "2023-01-02 19:15:44",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "8d8c2248-f00a-4e50-b711-63499ecd2d4a",
+                "userName": "Oscar Bowdry",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjU_Lt_fn6V3-Mt8M7aidaEmhZ2-qK2GC73yMiX2Z79ixuA",
+                "content": "The app is far from perfect but the dev team actively fixes bugs very quickly",
+                "score": 4,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.5.11",
+                "at": "2022-12-30 08:28:22",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "c6e0407a-d313-4568-b7f0-c6409671891b",
+                "userName": "008",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVjULCzzZ7Fp6FlRKzaItYl28RTcTdaFHkCxXLju7PKIg",
+                "content": "Why this program does not need permission to access the gallery and uses the gallery without permission?",
+                "score": 2,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.5.11",
+                "at": "2022-12-27 08:52:47",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "5c760783-9a57-4467-8738-2684e4a6e9e5",
+                "userName": "Eny Tarunaditya",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUH71UywaUmXcQ4GTBrpNmwS010U3xhqf8y4NZIPC33-OI",
+                "content": "The THREADS feature is awesome for those who like to communicate a lot, simultaneously on multiple topics. It can be as simple as whatsapp or as complete/flexible as Microsoft teams. The best experience in TRULY private and secure communications. Let's you choose how much control you want over the technical aspects of a communication technology with a neat UI. Bridging with other technologies, decentralization, multiple clients, universal access, complete security control. I LOVE IT!",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.5.11",
+                "at": "2022-12-27 04:03:21",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "fe5a92ed-d0c7-42aa-b9ad-9255edb243d1",
+                "userName": "Brinrin",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUz4T3_QkUn92m0r1Rhm2qjrx26oXPpN3jYKGDoRpSldkBC",
+                "content": "This app is stuck on the verification process. It's hard to do most things when half the screen is covered by something that isn't working.",
+                "score": 2,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.5.11",
+                "at": "2022-12-22 20:37:38",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "908f177b-8358-4bf6-bf7d-0d2471317678",
+                "userName": "behzad maz",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVufK6yQPgUWNBYH_-ly3jGS93P1GUYf27ZCGXAh53iJg",
+                "content": "I have been using this program well for a long time, but in the new updates, the notification of the program has been disturbed. When the program is active in the background, the notification quickly disappears from the phone. While if the program is closed, the notifications will remain on the phone. Thank you for all your efforts for this great program.",
+                "score": 3,
+                "thumbsUpCount": 8,
+                "reviewCreatedVersion": "1.5.11",
+                "at": "2022-12-18 02:22:21",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "14361eaf-7835-4997-a35c-1f9a4a7f31c6",
+                "userName": "Andrew Liebold",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXgV6a4DMPlkigx4yqxcv6-_6NjbxGi3syOQnZdC_h7A6U",
+                "content": "Notifications dissappear",
+                "score": 2,
+                "thumbsUpCount": 5,
+                "reviewCreatedVersion": "1.5.11",
+                "at": "2022-12-18 02:05:27",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "02e209b8-e17f-493a-91ab-97023683e844",
+                "userName": "Charalabos Chatzoglou",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocL1z8pYrRvMtylXDp4VDx8Q0sXpsVEcNeB03q6Y5Y3c=mo",
+                "content": "It's what everyone should be using instead of discord which is full of spyware matrix lacks nothing and should be used instead",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.5.11",
+                "at": "2022-12-12 19:37:31",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "52db4470-afc3-4dae-a7f2-74e00a549e6b",
+                "userName": "Rowan-Lee Kirkham",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVoaxgLjIEL6pH6P5kTGUlf_mIkttVxjzznQCtqZkDNXwI",
+                "content": "keeps telling me to verify my device from another session but I've had no other sessions",
+                "score": 1,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.5.11",
+                "at": "2022-12-11 01:11:17",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "vector-im-_-element-android.json",
+        "published_at": "2022-11-17T16:31:32Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "5cf0397f-ce79-4742-b456-752fdb9f25ab",
+                "userName": "Orendra Singh",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXmqcXB8FwPID0DuLUfeK_OREm5jxkB99tr_Ce6Tp0vVuaI",
+                "content": "Amazing experience with this application.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.5.8",
+                "at": "2022-12-12 10:30:33",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "116cb093-216c-454a-87eb-bc30e4fccff5",
+                "userName": "Cyber Sechs",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVH2s3q5U_9Q7upMkZ3PcPrXMXTpGVcIBa0lrsB8L4gUQ",
+                "content": "Best of the best",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.5.8",
+                "at": "2022-12-10 02:36:13",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "611d1dc4-ff18-4bdf-84a3-c51cd3408053",
+                "userName": "Flavien B",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIc35K4KHm-e1cl5gXvqERexBizQH7NZqKqGCb2iaf9rZE=mo",
+                "content": "Last update makes messages to get read instantly on last opened conversation, without even opening the app. So I don't always get notifications. However, no more message cleared since the last update.",
+                "score": 2,
+                "thumbsUpCount": 5,
+                "reviewCreatedVersion": "1.5.8",
+                "at": "2022-12-04 11:26:14",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "d36562de-025a-4c21-b974-a9fa5bb2291b",
+                "userName": "Shukrit",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjU_eD-6Ihp74dbhXcTqDW6UkvPcHh5Yr_fyUkac_zIXeQ",
+                "content": "Suggestions : 1️⃣2FA with authenticator. 2️⃣Some settings from element web like call settings(P2P or route through server). 3️⃣Some sort of verification for official public rooms. 4️⃣List of more public homeservers. 5️⃣Some sort of other verification method for sign-up which don't require email id (Though user can remove it after sign-up) or any other personal info.",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.5.8",
+                "at": "2022-11-30 16:46:39",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "c582df5d-a9db-4132-b6d4-abec7a6130c6",
+                "userName": "Pavel S.",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIstM964yXQMq0uZl6Pizfw8U0qyug5LsepaRy6eqn45Jw=mo",
+                "content": "The latest UI layout updates are a damn joke",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.5.8",
+                "at": "2022-11-28 12:32:24",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "d508b823-9ef0-419f-9157-94863449c08a",
+                "userName": "Harry Bond",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjV8sDtpzBQ6-m-U58TEB969DDQhIVuvfz_53pm8HUorWFM",
+                "content": "Fake",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.5.8",
+                "at": "2022-11-26 17:07:20",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "vector-im-_-element-android.json",
+        "published_at": "2022-11-07T17:04:32Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "0cd330d1-f43b-4aa4-b9f9-3fc27a755d87",
+                "userName": "Fahad Hakeem",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXlZVxo-5mVCgjx-xHu7-aJESgY1e51PPb4vr8hwEXBfQ",
+                "content": "The worst user friendly application i have ever tried to use. They just add it to fool people",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.5.7",
+                "at": "2022-11-20 09:36:41",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "6a069d28-12d2-4f50-8823-f7157cf97e88",
+                "userName": "behroz arshiya",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjV9ESRzAnSdmJUl_y3hu8iUYGs2DyFM0VCHomT0lPR0Z7o",
+                "content": "all your data(text, images, voice, file,... ) sale to third parties this app is very untrusted and dangerous",
+                "score": 2,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.5.7",
+                "at": "2022-11-20 06:46:16",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "e5e8fedc-01d8-4d6a-9a59-f28a88bf37f1",
+                "userName": "László Nagy",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUafEsjzwxrULt2u_fwIEXAXJ4h9Vh7u-JgJDLenv6m3Wvm",
+                "content": "There are just soooooo many bugs. Most of them are already reported on the github, many of them early/pre 2020. Some of them are closed/marked fixed.",
+                "score": 2,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.5.7",
+                "at": "2022-11-18 11:24:35",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "91371bad-6827-4fc9-9e63-5212a35c23d1",
+                "userName": "Zoë",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXFodvYK2mzpfQA13gTZHWTf3SUrWCAwlpVX2Wol3sI5B0",
+                "content": "The app is pretty great but upon the most recent update I started having a problem. When I video call someone, I can see them but my display appears black to them. When they call me the reverse happens and I can't see them. I love the app so please fix asap!",
+                "score": 4,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "1.5.7",
+                "at": "2022-11-17 16:13:37",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "e1097f15-77cb-4515-a871-a88d79412203",
+                "userName": "Jade Chan",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUZjUnDtQsSez7XDK81Wed65V12p82An38dFvZUs9MKHJ4",
+                "content": "My phone (Huawei ALE-L21, Android 6.0) crashes and does a full restart whenever I open the app. I've had this problem several times, have reinstalled the app five times already and still the problem happens anew. Otherwise good app that has achieved lots of progress in the last years, that could stand to be more customizable wrt to organization - e.g. I can't sort by people vs groups anymore.",
+                "score": 3,
+                "thumbsUpCount": 5,
+                "reviewCreatedVersion": "1.5.7",
+                "at": "2022-11-16 10:00:31",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "e7d2d3cf-e463-403d-92af-b8dd125403dd",
+                "userName": "Richard Johnson",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLm5HdBiDvMWlxaHpffmwZkLCkg6uyvjtyWsL0Z5ns-=mo",
+                "content": "The top of the screen is almost always blocked out with a message telling me an encryption upgrade is available. I click this, which is supposed to allow me to verify myself, and then the bottom third of the screen is blocked out by a \" re-authentication is needed \" message and spinner, which hangs there doing nothing until i tell it to skip. A recent update now deletes whatever i have just typed when i hit the new paragraph key. Please fix. Edit 15 Nov ... thanks for fixing these.",
+                "score": 4,
+                "thumbsUpCount": 34,
+                "reviewCreatedVersion": "1.5.7",
+                "at": "2022-11-15 12:36:02",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "30e36a1b-6c70-4903-8094-fed14c4713d7",
+                "userName": "Ahmadreza Amini",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIEdUGWEHTFR8B4T7uOijrCLLDKokoVlgcWf20pGM8YVg=mo",
+                "content": "1. Make the appearance of the app more user-friendly. The app is not smooth and does not give the user a good feeling. 2. The speed of the program is low. The infrastructure of the program can be made more powerful. 3. The audio and video conversation of the program should be better than this. It is weak. The calls are either not established or are established late, or if they are established, they are of extremely poor quality. 4. When you play voice or music, you cannot leave the chat page...",
+                "score": 4,
+                "thumbsUpCount": 8,
+                "reviewCreatedVersion": "1.5.7",
+                "at": "2022-11-14 09:48:17",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "577b7433-40d8-446f-b17c-9c69010006b2",
+                "userName": "Dan Hulme",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjX9eMOgSDxHz8Gph31Bswg8YOmhaC6X76nyhcG7KbBU",
+                "content": "Great security and privacy concept and full-featured IM. The only shortcoming is that notifications aren't reliable.",
+                "score": 3,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.5.7",
+                "at": "2022-11-13 20:31:13",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "61be011d-c255-4be0-85a4-eecd0ba0464a",
+                "userName": "Evan H",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJGME0dFPkS8pXTpA7ymEbJ8fBC9RG8L37Q8NfmHnSw=mo",
+                "content": "Carbon, and oxygen - they combust",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.5.7",
+                "at": "2022-11-13 18:19:58",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "aa8c635c-4cbc-499e-9565-974e1896133b",
+                "userName": "Jak Whit",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLYmgmPdtWDTx1G9Hrg4l5fWG7WcTnamczprkEvJ8-1=mo",
+                "content": "NOV 7, 2022, REVIEW UPDATE!!! Ok, issues with: ---Carriage Return Keyboard. ---Android Share Feature. Is now working again with this last update. Instructing users to uninstall and reinstall app, lose past messaging, to get keyboard carriage return working was not an option. Thx for fixing issues. Element works as expected. Thx",
+                "score": 5,
+                "thumbsUpCount": 8,
+                "reviewCreatedVersion": "1.5.7",
+                "at": "2022-11-11 16:13:43",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "139a6527-9f95-4670-ab34-ea28a6415e58",
+                "userName": "Loc Huynh",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJI9N31LJk5EfCEW53pBvwrPq72xNkUPxRMnZYxn8OMgpM=mo",
+                "content": "Great app. It's the only secure alternative to slack since the new layout is easy to use. -1 star for lack of multi account support",
+                "score": 4,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.5.7",
+                "at": "2022-11-10 16:51:13",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "a83c7729-2473-4d7b-b51a-3154a573e6f7",
+                "userName": "Ali Khani",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVezDSHADWt2wbuPZ7ZXNojmTTqy88iHmp1PY0qVUPTLA",
+                "content": "The app is very good but it isn't possible to enter Iran phone numbers. Its hard to find my friend because when i share my id for my friend via sms, goverment will filter it and my friends can't receive. OTOH the use of other software is blocked and we should use vpn",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.5.7",
+                "at": "2022-11-10 06:13:06",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "0ea44569-6723-4490-9265-91fccd666c2b",
+                "userName": "Yaroslav Mudryy",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWhKTQrElNc6_TUC17qZoWsJA7ndFtEnK6T9jbEg4XGEbw",
+                "content": "Love the security of this app, especially when self-hosted. Attaching voice messages, images, videos, music suits all the needs that I have. This is way better than Google Hangouts or whatever they have replaced it with.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.5.7",
+                "at": "2022-11-10 01:09:30",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "vector-im-_-element-android.json",
+        "published_at": "2022-11-02T18:01:56Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "vector-im-_-element-android.json",
+        "published_at": "2022-10-19T16:18:51Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "6b3e750e-b30a-4156-b361-cba2e552274c",
+                "userName": "Mike Vasovsky",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKGsKXic0RfJlwr4xFIrBnDqN-tA0gTRvOzOq6NUi_K=mo",
+                "content": "It half way does what people expect from it to do, however the annoying pop ups for channel/device verification (as for the desktop version, one has to do it manually, it's not by default. Why??) and other very poorly described settings optimisation sometimes leaves me without any wish to use the app further. Writing messages is pain: you write a big message, hit Enter on virtual keyboard, and everything is gone - a solution for this is to hit the app's green send button. Astonishing design.",
+                "score": 1,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.5.4",
+                "at": "2022-11-18 06:13:55",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "d96fad90-1bb8-4a05-a17f-ce915fc70d64",
+                "userName": "Farzad Saberi",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKcnoXdL9IucIrX-p3eOYNTFWp5U8lKkCyOzqxaaNdB=mo",
+                "content": "This program has only one bug, which is that you cannot save photos, videos, and music in the phone itself",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.5.4",
+                "at": "2022-11-15 18:24:38",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "4ac44448-df1f-4f8a-8a85-b253dd9e9670",
+                "userName": "Toma S",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXVkiIw7lh0_A3foORcdGKd6dA-kYOR_MS6yuWgT-K2ZNQ",
+                "content": "The way forward..",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.5.4",
+                "at": "2022-11-06 15:39:50",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "16facc39-1c76-48cd-81dd-3a5e6ef007cf",
+                "userName": "John Green",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUCx8ysUCB42xR7S2D06za3KTBNd-iwSxyKqrsbokvfFR8Z",
+                "content": "Can't get audio notifications to work.",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.5.4",
+                "at": "2022-11-05 18:52:27",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "e838e7e2-58f4-49e3-869b-d45d4aae7c6e",
+                "userName": "C Parekh",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJiBNMscFEHAYNxMmTNeFBc54oNqMex6ErKI371WzUb=mo",
+                "content": "Sharing files, images and videos has stopped working. Also null message on reply.",
+                "score": 2,
+                "thumbsUpCount": 5,
+                "reviewCreatedVersion": "1.5.4",
+                "at": "2022-11-05 12:29:39",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "05b91076-0378-4fe8-987f-d2d98cbdab49",
+                "userName": "Dale Davies",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVgnGYzg99yhbGf5UBBcpfmiYtl8c6RB_gPFjCV7sk5fXQ",
+                "content": "When it works it's ok, frequently times out trying to connect to my home server and when it does let me log in the app can be painfully slow to update recent messages.",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.5.4",
+                "at": "2022-11-02 14:16:22",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "881e530e-6b89-4314-b7a0-3b264402034b",
+                "userName": "Sharni Wiencke",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJTQN_7gUWTLVdmrAf2xUGvaAH0ZdeYhL6Nq83sMoKh=mo",
+                "content": "Yeah I'm having the same issues as the last reviewer. Pressing the return button erases all I have typed and it's quite frustrating.",
+                "score": 1,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.5.4",
+                "at": "2022-11-01 01:14:16",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "vector-im-_-element-android.json",
+        "published_at": "2022-10-05T16:13:53Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "7cbfc317-68cd-4b81-9b0e-7dce06c496ed",
+                "userName": "Patrick Haun",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWNGyK3MTc3-M45Q_Cnm3XVnl2xSU3-vg6sD0lbnV66XZ0",
+                "content": "notifications are a mess and search is useless",
+                "score": 1,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "1.5.2",
+                "at": "2023-07-31 16:01:05",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "9ec1d727-b1a9-4de1-90b8-295aba2c2a05",
+                "userName": "Osama Anees",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXHxEJIhnOsOiTbHu-feAT64e2MAV-f7VHvfBSvNbHLgiA",
+                "content": "Learn something from discord. You just need to provide a good UI. The backend is good. The frontend (which literally is your only job) needs alot of improvement. It's not like you guys also manage matrix.",
+                "score": 2,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.5.2",
+                "at": "2022-10-23 02:40:14",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "4e0f440f-94a6-4076-b1de-82174e2627b8",
+                "userName": "Darin Dacey",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWBElgg1M7Z-Yo77KoG117VB0f-9FKjHdc1-FNrZ7EHTCs",
+                "content": "A banner notification in the app keeps telling me I need \"re-authentication,\" but when I tap it it just sits there with a loading wheel forever and never does anything. Fix this please.",
+                "score": 1,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.5.2",
+                "at": "2022-10-20 01:15:37",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "d11df87b-dbc0-4894-9d9d-474ca1cbef07",
+                "userName": "Ek J",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocL6l5xa_BrPD5fph_FT2V4FVsXRObBc2Mv7Av-58R59=mo",
+                "content": "This app allows me to interact with the matrix community. Great reference client too. It does need to improve it's sync speed though.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.5.2",
+                "at": "2022-10-19 00:28:17",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "9eaba512-ab13-4292-b6b7-2e8aaa900066",
+                "userName": "hamid parsa",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVyibELWreAB69EcN1DIlHQGLj4Fa5zvbZF_IrfLLHi1A",
+                "content": "Notification don't work.",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.5.2",
+                "at": "2022-10-18 19:07:42",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "ade42d60-fe92-48aa-9328-3332fa0e8bf6",
+                "userName": "Mike McRoberts",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXOqXBsPi8P0oKqylRxEMqpP69Z852IlbYXOtKqWD9fxUaN",
+                "content": "Latest updates makes a total mess of the layout with no option to change it back to how it was. Looks like I'll be uninstalling and finding an alternative. Why fix what isn't broken?",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.5.2",
+                "at": "2022-10-18 05:46:18",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "597f3a64-cbf6-4409-8f1d-e993980dafac",
+                "userName": "M H",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjU3d-sV0fx5g8j9B1X0n4lcjt16PMqAS9WtkELvYnxV4822",
+                "content": "Every update continues to ignore real feature requests and issues and instead adds features that no one wanted or asked for. Element is truly a trash service built with trash development leadership. The disparity between Windows, Android, and iOS is hilarious, except how sad and confusing it is.",
+                "score": 1,
+                "thumbsUpCount": 56,
+                "reviewCreatedVersion": "1.5.2",
+                "at": "2022-10-17 02:34:14",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "fc948f7f-838f-49bf-81b7-5b3999762422",
+                "userName": "Parsdelta Pc",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJHcdbD_qc5qdUfuUPS3afYkaSTpX5YMlHc0Ut_YmvU=mo",
+                "content": "It's good but has no notification when calling or message",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.5.2",
+                "at": "2022-10-14 08:12:05",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "73e31e24-639e-4bd7-9c2b-bc5e9bad9d63",
+                "userName": "rob kidder",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKKBNtppfyze6tSd1ZRJv1xisbBXJpCY-uCcnhTTLn8=mo",
+                "content": "Every time I open it, it will give me this alert \"encryption update available\" and if I try to do it. I get the perpetual spinning wheel, and nothing happens",
+                "score": 3,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.5.2",
+                "at": "2022-10-14 00:59:36",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "d11f7d47-25c4-4582-a2b9-724969b6ecb5",
+                "userName": "Karo Varo",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIu2tpSAzhkEzZAUQc4PkLt_waAqgpxlXT8LEdMfW4=mo",
+                "content": "The new layout is absolutely horrible. Before, private chats and rooms were separate. Now ALL the chats are in one place. The company I work in uses element, we have like 20+ various rooms, and like 10+ chats with each other! New layout makes everything very convoluted. Allow people to choose what GUI they want to have. For small groups the new layout might be nice. But for big groups it's horrible.",
+                "score": 1,
+                "thumbsUpCount": 7,
+                "reviewCreatedVersion": "1.5.2",
+                "at": "2022-10-13 05:16:57",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "33972ec3-e430-4db8-b038-0605e1cf165b",
+                "userName": "Jason Cummings",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVZ0CtAGbItc0CsXSUcycycuuMlmFK51XZ_sd36MHRbXqxY",
+                "content": "Why would you make an update that mixes all the rooms and DMs into one incoherent long list? This makes absolutely no sense. Who thought that was a good idea? My mind is blown that someone did this intentionally. The update claims that this makes things easier, but this is a major major major step back in ease of use and navigation. Absolute insanity.",
+                "score": 1,
+                "thumbsUpCount": 22,
+                "reviewCreatedVersion": "1.5.2",
+                "at": "2022-10-12 11:15:01",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "vector-im-_-element-android.json",
+        "published_at": "2022-09-28T16:04:19Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "969d2276-5bbf-4768-9ada-838fe7464ef7",
+                "userName": "Sepehr Taherzadeh",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVgJDGMSV6iKCk95DLX0ZcChitOzNU0lFJ4ozBpFdxyIg",
+                "content": "Simply the Best!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.5.1",
+                "at": "2022-12-27 19:17:27",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "05d6f45d-4c53-403d-817e-ab1b320f06c1",
+                "userName": "Shaurya Verma",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVIzU-9flZPhqz5LBIptS9vXBA8jMB2Xm71Zsmtdc08Fyw",
+                "content": "Love the matrix protocol. Love the fact that they've added spaces now, like discord /slack. ISSUES : 1. No option to get URL previews in e2ee rooms. There's been a ticket about this for over a year. 2. Can't find the find text function in a room. I'd change my review to 5 stars once I get these.",
+                "score": 4,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "1.5.1",
+                "at": "2022-12-09 17:42:43",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "e8059d9d-b3a0-4f83-af45-faeb7bcfe254",
+                "userName": "Negin Aziziyan",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKsIhJg0Rc0eq59tM_yiw88xXH4h64IXJ3gO5LJBWEZohU=mo",
+                "content": "So bad",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.5.1",
+                "at": "2022-10-17 20:56:37",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "d8a0825e-d5b4-4523-bdcd-eb0c5f0fe49b",
+                "userName": "Koroush Tehrani",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjU2daSo0ulOB1AJIpCzu1IGERx5Y58jJZEjxOWBH5M8eu8",
+                "content": "Good work for iran",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.5.1",
+                "at": "2022-10-08 14:24:27",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "9cfe3e16-d21a-42db-9632-bbda4810e0ad",
+                "userName": "I WK",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUdxJqMmZLU-1zD0LuhRTN-zJoBjqOoAfn9-5b5dq0qeg",
+                "content": "So bad,",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.5.1",
+                "at": "2022-10-08 01:49:37",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "760fc149-00f7-4592-a990-24194fe5f29a",
+                "userName": "sepehr davodi1",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWiXtYL3yGrwsVnb6waYQ7pG_UeJnRvPLFs7clPqGz7fys",
+                "content": "Very very good",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.5.1",
+                "at": "2022-10-07 07:54:58",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "b5e56041-e0cf-4ce6-ae44-85f012782a9f",
+                "userName": "هاشم",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXQFJYEb7Cl2DLkCaWFE45ZbLqYGghKEy8S_AeufyIh0HY",
+                "content": "I'm new to the app and matrix, re-authentication takes forever to complete, any help is appreciated",
+                "score": 4,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.5.1",
+                "at": "2022-10-07 06:19:14",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "5ff770ac-f13c-412a-8678-eb290faae8c8",
+                "userName": "Mohamad Shabane",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXn9exNGQnI6rRrbaYzscCXphL3qdXz8xw-ckfXBqBaqsg",
+                "content": "everything is great, i love it. i even write a post on my blog about matrix protocol and the way it working. but there is one problem with element client on mobile. while we play a song, whenever we close the element app or minimise it with midle button, the song stop from playing :(",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.5.1",
+                "at": "2022-10-07 03:23:56",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "0510c093-e839-489c-a553-74655a975025",
+                "userName": "MEHRDAD F",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjU3aRvEeGipTwVoyO6ePEx2uFa_tQE1imzughqyTrKuop8",
+                "content": "wonderful.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.5.1",
+                "at": "2022-10-06 12:29:50",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "4efedecb-9fd9-4733-a2e7-7b6f42846bc7",
+                "userName": "Vahid Amiri",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWtx0XnzTcH98_uKVkBdIbxhQB0B2l2859pVGKOE9bI6A",
+                "content": "Very good ...عالیه ایرانیها نصبش کنید به شماره تلفن احتیاجی نداره با ایمیل فعال میشه",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.5.1",
+                "at": "2022-10-06 04:59:05",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "vector-im-_-element-android.json",
+        "published_at": "2022-09-10T07:57:47Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "eef07284-f260-4a6c-9fac-d3645a79a712",
+                "userName": "Generic Dude",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVGtI8-9xMZp4kuBsX71QwJ5Nh8n_nVlwvhw7cTCZ5r2QU",
+                "content": "This app positive, is that it's encryption. Downside, slow and glitchy. Right now, on the secure messenging systems, I've only seen Telegram deliver on a good functioning, secure system. Which I'm not a fan of...not that I dislike Telegram but having limited options, is NOT a good thing. Anything can be altered from changing of policy or simply closing shop. Variety is important, which is why other apps need to step up. Unfortunately Element is the best system after Telegram, the rest suck.",
+                "score": 2,
+                "thumbsUpCount": 10,
+                "reviewCreatedVersion": "1.4.36",
+                "at": "2022-09-19 22:13:30",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "9cad00c7-8fc6-46f6-8fff-af35189544bb",
+                "userName": "Baharul Islam",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKRjFV3Oca5ugKXwby7wc-auPezw_9taa9z6fgmuM5a3w=mo",
+                "content": "I don't recieve any message sent by others",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.4.36",
+                "at": "2022-09-16 09:57:24",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "3d4a6b10-a906-40a8-b3b5-8312aa2bb6ba",
+                "userName": "Сергей Степусь",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXkesxbJ-3vEWYIawgRRE9wPtbSaUdQSM2vvBD1FZ_w1GI",
+                "content": "Отличный защищенный мессенджер, свою задачу выполняет, большой его плюс в том что он мультиплатформенный и все чаты синхронизируются между собой. Хотелось бы попросить добавить дизайн в стиле material you.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.4.36",
+                "at": "2022-09-16 08:32:54",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "a5aa9eac-3e65-403a-b6ba-0367a19b6df9",
+                "userName": "RT",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUIJmVa-lmW0_9UrbXv72-g-X7tOETGoXS30E9W8rTfOVY",
+                "content": "Constantly getting \"connection to server lost\" when switching apps. It should just reconnect back when you focus on Element...",
+                "score": 3,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.4.36",
+                "at": "2022-09-15 05:45:20",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "a616ef77-88e4-40e4-8fe7-9e96b80aa618",
+                "userName": "coterzo",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIIqnVqUpkyzVNzRtSqCrSG9vLLlP7a1_i6m1SReDiAXZU=mo",
+                "content": "Cons-Lacks: Forum style Rooms with Topics & Threaded conversation, Multiple Accounts Switcher, Anonymous chat, Hidden Members/Admins, Full Post Comporser, Events, Easy Sign Up.",
+                "score": 2,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.4.36",
+                "at": "2022-09-14 13:37:01",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "1d5890bc-6118-4b69-8e3e-f4fe8826baea",
+                "userName": "Selman Bela",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVkjY_MR4gWIH7hwURoPG9Vf-6a99y2QU52eFhXVAKUye0",
+                "content": "This app is insanely slow, I don't know if it's just me but it takes ages to join a room even after I've been in there for a while and it's sending me notifications about the messages in there. The decryption also fails quite often and you're left with just the knowledge that a message was sent. Did I mention the membership changes that clog up the rooms and are completely unneccesary, no option to hide them or put then somewhere else either. Sad this is the \"best\" mobile messenger using matrix.",
+                "score": 3,
+                "thumbsUpCount": 22,
+                "reviewCreatedVersion": "1.4.36",
+                "at": "2022-09-14 08:12:46",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "vector-im-_-element-android.json",
+        "published_at": "2022-08-23T15:28:15Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "06e8e228-a47e-4534-9905-48722a4d66bb",
+                "userName": "Kartik Mahajan (Tech - Arts)",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjU1d2CTDOvf170ExFipYxSOW3cECiW1mVmKQ-gXZCjduVk",
+                "content": "Best 👌",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.4.34",
+                "at": "2022-09-20 02:40:35",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "18ba177b-a4fa-4ef0-b078-ee8cb1e764fe",
+                "userName": "DS17",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVEOaPjvA-B5mOzVTfJQ-M8lvWuEvgktPFCJPPBXFAVwnI",
+                "content": "Notifications don't work at all",
+                "score": 2,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.4.34",
+                "at": "2022-09-09 20:13:44",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "vector-im-_-element-android.json",
+        "published_at": "2022-08-10T09:34:14Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "4f06951c-388c-40e3-a6f7-71f444d521a2",
+                "userName": "Lucian",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVxzYi9ar6TgXSMaDqvfUeWqNuI7s9T0eAMwv-mlwDPgJ4",
+                "content": "Push Notifications don't work...huawei y9 prime...",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.4.32",
+                "at": "2022-08-27 15:20:20",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "45311c1c-eadc-4ca9-8a85-c7e6ff187670",
+                "userName": "Craig Williams",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjX3bB-FEtgvuCrEXaY55yeXG1Jz14gVsMHheHJJ9UeW4kdM",
+                "content": "Application is not reliable and it frequently prohibits you from making a voice call also daily lost connection with server is annoying",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.4.32",
+                "at": "2022-08-25 15:49:39",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "be6f65c2-1993-4538-9fe5-3c1bc5a20f97",
+                "userName": "Carl Reinke",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXwltyvKAEWIWa2T1m6pTfCXn1ABuWS796HYPsQeaISFLM",
+                "content": "Can't make Android-to-Android voice call over WiFi. It get stuck on \"call connecting\". Desktop-to-Android works fine.",
+                "score": 2,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.4.32",
+                "at": "2022-08-22 02:30:06",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "92c1b8c8-7144-4ef6-a067-177ebc8202fa",
+                "userName": "Heidi Reinke",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWXjMDFjSyjAUKi5PZ0NmbCIDiFPsFNPzKrj1WcCq2r-g",
+                "content": "Sometimes the buttons in the voice call don't work. Couldn't change to speakerphone. Couldn't answer a call, but could decline it.",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.4.32",
+                "at": "2022-08-22 02:05:33",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "2df20dde-6f20-4517-8efb-c8801161a778",
+                "userName": "Mayor Macky6",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXofdbqEoJONqkiDNetCNUZuuNVq8xoQZg-l3YKkRHA4A",
+                "content": "I am real sad about this after all this is really great and cool secure messenger app to chat with and then its just a error problem that when something pop up and ask to update a encrpytion but right now I am literally stuck with reuthenticate and I kinda hate it so I only one star to give for this app so please fix this problem I really love your app after all so please the developer if you are here fix your app Hopefully thank you!",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.4.32",
+                "at": "2022-08-19 04:40:49",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "vector-im-_-element-android.json",
+        "published_at": "2022-08-01T17:37:00Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "6ba4cc62-02ac-4762-b3c8-6a13671c5a00",
+                "userName": "Faty Wea",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJ23jcFcsdJdBeAaFR3WT7NlvAf2hzUdON3iJxYd2xH=mo",
+                "content": "Best",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.4.31",
+                "at": "2022-08-15 13:29:33",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "8e00b1ad-e3da-4b5b-a23d-924a372f7a90",
+                "userName": "Nayven Vignette",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUZw1d126yKXGZls1hSyAjdXKLuRsMZpAZXKrT-R75iDTM",
+                "content": "I really want to use this app. But right now (August 2022) I can only even open the app once every few days. Most of the time it crashes instantly upon trying to open. When it does open, it asks for heightened encryption mode and gets stuck on \"please reauthenticate\" or something. I do get notifs from my community, though, so it's great to see conversations I can't participate in. Managed to send a bug report. Desperately hoping this becomes usable.",
+                "score": 2,
+                "thumbsUpCount": 10,
+                "reviewCreatedVersion": "1.4.31",
+                "at": "2022-08-14 15:48:11",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "fec6fb8a-f9cc-4216-a5f8-913c986a071e",
+                "userName": "Lupine Allen",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjW99693mT1PPlDSdkvUTMoNHaRo7NWjTUXiB2MU6rdFOw",
+                "content": "Functioning but it tells me to do a Re-authetication procedure and just keeps loading it forever.",
+                "score": 3,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.4.31",
+                "at": "2022-08-14 05:18:06",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "f9574e4a-78ce-4cce-a720-927156868be1",
+                "userName": "Charles Desmonda",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWHoPmgKcb1cOvCk9QXvkqTX7O3k0TykeXYs44AyzG5u5nY",
+                "content": "Update number 3 : This app won't load or function at all anymore",
+                "score": 1,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.4.31",
+                "at": "2022-08-12 14:42:40",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "2f198eb4-a0d0-4a06-b68f-384505cdf4f1",
+                "userName": "Smain Chemat",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWktQJ2fx-4lqyV27_rarqiPDlvM1gEiZzKVHk88Ivb9dY",
+                "content": "My experience is great so far with the app. However i cannt edit my messages in phone app which is annoying as i need that to correct mistakes. In parallel, I can do at my desktop",
+                "score": 4,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.4.31",
+                "at": "2022-08-09 18:31:11",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "vector-im-_-element-android.json",
+        "published_at": "2022-07-06T16:15:08Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "b84188d9-904b-4718-994d-0f42789dedc0",
+                "userName": "Laura",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIqBDACQAS0Fju2lEmxgDcetIcxZPHQNDHveDHbLgNqWg=mo",
+                "content": "Works great 👍",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.4.27",
+                "at": "2022-08-04 11:00:55",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "e691f2fd-fe9b-4e47-8d51-4fff641fdab5",
+                "userName": "J Gramp",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUXbjZqHX3heopZz5P6slVSwpKbLHce9OFATewM49rUoFDY",
+                "content": "Love this app. Some small bugs to fix. I.e. quotes showing html instead which makes things difficult to read \"quoted text\"",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.4.27",
+                "at": "2022-08-01 05:59:39",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "5596204e-d0a6-4d64-8441-2623ff47ce2a",
+                "userName": "Jon Bopp-Richman",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjW-LVApV62nr-5Q-j2yUkL0dIsZ-vgBZLwTIErteV-Pda0",
+                "content": "Never had an issue, responds quickly & does what intended.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.4.27",
+                "at": "2022-07-31 14:22:28",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "e1037c59-4fe1-4e1c-9ce3-cc6df0d78cde",
+                "userName": "David Saylor",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWJSIRqd9aL0fbFxDGW3Rw5vdrelip02-pCdpWnUGHzsLU",
+                "content": "Very inactive and laggy. No other options to choose from that has encryption, decentralization and not run by the terrible reputation Facebook company.",
+                "score": 3,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.4.27",
+                "at": "2022-07-24 04:21:08",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "vector-im-_-element-android.json",
+        "published_at": "2022-06-27T16:45:15Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "8a45731e-7c83-43b4-a94d-c9ab0fcf19f8",
+                "userName": "Kai",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVOzTncVlmXIONo1ZjiqpKIppaFmu0gcqNaHAX2o6diog4",
+                "content": "Has gotten much better since the last time I used it. Easy to sign up, works ootb, no non-voip phone verification / Gmail only signups. The only thing missing is a page to see active users. Otherwise, this app is great and deserves way more users.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.4.25",
+                "at": "2023-07-17 20:16:27",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "3646d824-4898-4547-a317-9c23689dc458",
+                "userName": "federal account",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUQLAmtFY1lNPtUQ94Fcng0w6Fu1mc6jujH8rnMruPKQQ",
+                "content": "I can't even log into my account. I just get an infinite loading screen even tested on multiple devices. How pitiful that such a huge issue like this makes it through. Must have been some canyons letting this one slip through.",
+                "score": 1,
+                "thumbsUpCount": 7,
+                "reviewCreatedVersion": "1.4.25",
+                "at": "2022-07-01 06:39:09",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "07919d0d-20bf-4fab-859f-18aa8e12cf1f",
+                "userName": "Alex Ameen",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWvGeRHjUpqZCA_pF5gnS-t7Rxj8Ee9IVHWw9VjyX37PDeN",
+                "content": "Crashes constantly. Java strike again. Desktop app is great but I cannot recommend this... You know, cus it can't stay open for more than 20 seconds without running OOM.",
+                "score": 1,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.4.25",
+                "at": "2022-06-30 03:53:49",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "f207c0d0-0329-4b8d-891f-561ab2299e25",
+                "userName": "Alexis Burrows",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjX8UU0wxsAxRZ1G0ovA9bf4lhbNTKth3HxFx0NS3KS-BqM",
+                "content": "Works on my ghettro phone 👍",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.4.25",
+                "at": "2022-06-29 23:55:52",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "vector-im-_-element-android.json",
+        "published_at": "2022-06-13T12:54:40Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "210783e5-52ed-4456-a064-5fdce0ef5007",
+                "userName": "Matthew Stobbs",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXmmX86X8bFBTXL_4YxGh-yyoCwZTFjrZCCDOn91NY_k0w",
+                "content": "Only 3rd party messenger I use now.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.4.20",
+                "at": "2022-07-17 20:55:34",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "ddf95099-b323-474b-bfbc-d88f293b9bcf",
+                "userName": "Brandon Mullins (Zazenora)",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUDcCjYYCLXlhgtcJaFRfuSKITi9BgGNdm7qhrVCJNBuA",
+                "content": "💥Love the freedom that this messenger comes with while naturally prioritizing Security and Privacy with it's powerful Encryption services.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.4.20",
+                "at": "2022-07-13 08:49:08",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "5b3d494a-f13e-4ddb-b365-403d27051225",
+                "userName": "Ezio revoltez",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjU8TkaOMb7tkfLOEMXa7iwMFr4z9DZJKRBF98Xeitw09SE",
+                "content": "Great app, however when i paste youtube links thumbnails dont appear which is annoying because i cant remember what i pasted.",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.4.20",
+                "at": "2022-06-29 14:22:37",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "8463726d-47ee-41cf-9a9d-41921926f1e1",
+                "userName": "Jonathan Lefebvre",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVOhRl0n6mSOSm8g7z9uOBafUMEQSUcPZv6-Yns121kamSe",
+                "content": "Good secure opensource discord clone",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.4.20",
+                "at": "2022-06-29 09:19:00",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "7eaff1cb-01ef-4113-9ea8-88ab0eec31bf",
+                "userName": "randomNPCno3 “randomNPCno3”",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUQQ5u13PGYyxgdOUFDeUOmiTWt-KGTYrmzd-wXlwdxGiCr",
+                "content": "New review, still crash cycling and doesn't stay open long enough for me to even sign out let alone send a bug report",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.4.20",
+                "at": "2022-06-28 22:42:44",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "7359a5f3-ad46-4c6a-9b32-f4dbeddc5770",
+                "userName": "Vinoth",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWDZDCE_W1NgWc6xJppBcDYrmNE6KAXubpuzvd0VWG6lg",
+                "content": "make a improvement in login screen its so much time to login loading... loading... loading...",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.4.20",
+                "at": "2022-06-27 12:31:23",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "7becba1b-417a-473c-8416-3895c1ae05fe",
+                "userName": "jan",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWIEB5pfKlo6zLDfJcMfa8kNPzCXi_14d7RF5w-KNsJlyA",
+                "content": "Horribly unpolished, confusing UI, weird bugs all the time. Great chat app for people who want to spend more time debugging weird issues than actually chatting with friends (about topics other than chat apps). Currently running into GitHub bugs #3318 (or something similar) and #1734 (or something similar). Previously had notifications not working.",
+                "score": 2,
+                "thumbsUpCount": 26,
+                "reviewCreatedVersion": "1.4.20",
+                "at": "2022-06-26 10:55:42",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "2db9f2ff-56e2-4986-be6e-acdca08374a6",
+                "userName": "Gabriel Nunes",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXXvT2Py3p-cmS92QOggGnS6_6ovVgOcgiK8EBw8XutKM-d",
+                "content": "The best privacy-oriented messaging app.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.4.20",
+                "at": "2022-06-17 21:09:57",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "vector-im-_-element-android.json",
+        "published_at": "2022-05-17T19:37:52Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "9d4ead4c-6f8e-40f8-b895-2285d86675c4",
+                "userName": "Marshall",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLRzUS2crAROAJCwvMtPjIq6iP3lhyGalHp16UUSU1T=mo",
+                "content": "Update: notifications doesn't work properly. Keyboard disappears. Emoji Keyboard and device keyboard appears at the same time. Sometimes I get notification but the message simply doesn't appear sometimes. (Everything on device is configured correctly and the connection was reliable.)",
+                "score": 1,
+                "thumbsUpCount": 15,
+                "reviewCreatedVersion": "1.4.16",
+                "at": "2022-06-15 02:27:56",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "9ac0ba63-5315-4c36-a4d8-dcb09fa9a398",
+                "userName": "Abhijeet Socials",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJhvd3vysgEFcd2XLPwHsOAoBww3zl6kSn8rD6S2q3V4Q=mo",
+                "content": "Dark mode not working in android 5.0, I turn it on and I can't see a single message text. Please fix this.",
+                "score": 2,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.4.16",
+                "at": "2022-06-05 15:33:25",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "9db0f41c-1da9-4676-be38-7e447e1094cf",
+                "userName": "Austin Butler",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWjRapo4LoS8OTfVEkr7E9-YEtZ21JYQrnUtg3veL77QYjW",
+                "content": "I'm rooting for Element, but unfortunately the Android app is completely unusable for me with encryption. Constantly getting \"Waiting for this message, this may take a while.\"",
+                "score": 1,
+                "thumbsUpCount": 6,
+                "reviewCreatedVersion": "1.4.16",
+                "at": "2022-05-29 01:22:30",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "vector-im-_-element-android.json",
+        "published_at": "2022-05-05T10:29:46Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "15d3e5b9-2fb0-43b0-8539-519760c61475",
+                "userName": "Rene Mehler",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocI387CLzTqS9kVDXudP0ZxYWSjG3wM_oy7ntoQ0mxcI=mo",
+                "content": "The best matrix client but with some issues.",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.4.14",
+                "at": "2022-05-28 15:59:15",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "12fde0b3-926a-4911-819c-3d0ae525ce2e",
+                "userName": "Grégoire Miret",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXq54zZ6Q_Uyl3aiT7fzL9PDAR4mkkuJ4mczr1ohRLRg1E",
+                "content": "Not sure if it's a Matrix or Element issue but there is some reliability issues... Also I would love to have the options of 1 to 1 direct message and rooms in the same tab. But other than that, it's a very sleek and well done app ! Also of course I support the principle of decentralised chat. So Kudo guys!",
+                "score": 4,
+                "thumbsUpCount": 44,
+                "reviewCreatedVersion": "1.4.14",
+                "at": "2022-05-23 18:43:55",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "vector-im-_-element-android.json",
+        "published_at": "2022-04-26T09:57:22Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "d0cc0de8-3cdc-4dbd-887e-655da4361cad",
+                "userName": "Oleksii Dobroshtan",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjW1ll7VWNcsTdrRZV_VB815RipVVHkE7PzvVMvgvm5lAgc",
+                "content": "How to update the app to version 1.4.14?",
+                "score": 4,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.4.13",
+                "at": "2022-05-06 09:09:55",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "62629c2c-d6e3-412f-a163-e18a96cf4d86",
+                "userName": "Caleb Fenton",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVT_7k0f0LZN-XB-zdgXxy8Y-unLOnAqum3wfo5OI1IzIGb",
+                "content": "Can't login with existing account on server with registration disabled.",
+                "score": 1,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.4.13",
+                "at": "2022-05-03 17:16:41",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "78c7fa28-a362-4df3-bcc7-22b684e5e6f8",
+                "userName": "Joseph Wallis",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKZXXatFWvH0lxTPNvEAqux4ar-YG89ov2a32EjSXov=mo",
+                "content": "Critical bug prevents you from connecting to an existing server with an existing account. Can't even use right now.",
+                "score": 2,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "1.4.13",
+                "at": "2022-05-03 12:35:09",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "ab8c0f75-544b-4ef4-bbc2-13274837286d",
+                "userName": "Jennifer Baccanello",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIbB95wOE_iOO6AUlin-vg3KBv2-m6hIgFJoD8M11YK=mo",
+                "content": "Keeps crash8ng, no help",
+                "score": 1,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.4.13",
+                "at": "2022-05-01 17:03:28",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "261449e2-30ab-4de4-84d0-3105ddd5206a",
+                "userName": "Sam Sung",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIxEpHhqoHt-y7iKX35vH_NvSAEVryZdXA0zpP-Nbi_=mo",
+                "content": "Pretty good with private server.",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.4.13",
+                "at": "2022-04-29 11:06:43",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "vector-im-_-element-android.json",
+        "published_at": "2022-04-07T16:04:07Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "602edebf-2cc0-4c66-b669-4bf9c43ca357",
+                "userName": "database error",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocI6MnFbh2zAL06hcmSETL3XAxtOD7zCxFbZ9_aQT-EL=mo",
+                "content": "open source software the only way and place. ftw! best oss messenger",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.4.11",
+                "at": "2022-04-26 20:46:31",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "4d42b4e7-ec9b-44f0-98a7-eaa32ad8b614",
+                "userName": "Jooseppi Perssuo",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJIeuhuXibC3k71EFCbVuDLD-oUJ9uLmx5MnfI9Feua=mo",
+                "content": "- message delivery is unreliable. Seems to be so especially in voice messages -Hard to use and lacks basic functionality. -Hard to read text and no settings for typography\\accessibility. -No way to clear chat history or multiselect messages or set autodelete for a room..!!!??!?!?!? -Sharing matrix contact link pages doesnt work on mobile at least, and how to search users within the app with the users matrix address?",
+                "score": 2,
+                "thumbsUpCount": 27,
+                "reviewCreatedVersion": "1.4.11",
+                "at": "2022-04-23 06:20:09",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "659e86b7-8c0d-40e3-a33d-3b6439196f7d",
+                "userName": "David Guzak",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVzOASYYV0atU68DMLToZAPYH_ARq19Jr28gqBMU2J9iQ",
+                "content": "Better than irc. Everything you need to roll your own. Nothing you don't.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.4.11",
+                "at": "2022-04-15 03:35:03",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "e0399c29-1171-4b18-b2a0-17b8c3bd41d7",
+                "userName": "Mitchell R",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKDoxNAElQjO40E9_4kR_8eGroIckGN2v4OPdvTDNUI828=mo",
+                "content": "As of 24 hours ago it's crashing upon load",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.4.11",
+                "at": "2022-04-14 15:08:06",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "0e41d440-ce78-483f-a1d2-0eb25281eeb2",
+                "userName": "Arian Lazic",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLhjZkS3QjfzNGho6HVDf97WuRYi6w0BrCifN9kxqbO=mo",
+                "content": "Probably the most secure messaging app.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.4.11",
+                "at": "2022-04-13 00:40:30",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "0b411020-2e29-4a4b-9835-7e8f32b13cf9",
+                "userName": "Marcus Butta",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUIGMwqFHVDz-fgHPgUNyK_7ZiBcFxSmnRPNBgbGiHS5KI",
+                "content": "I used to have a lot of problems with this platform but this recent update has really improved the experience for me. I think I might start considering this as a main system of communication.",
+                "score": 5,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "1.4.11",
+                "at": "2022-04-11 21:37:16",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "vector-im-_-element-android.json",
+        "published_at": "2022-03-28T12:18:45Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "867a049a-5aea-4680-8823-b116a57789de",
+                "userName": "Markus Grütter",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocK5u6cgYYUILII8D0UJ2w50EftbT7v7u8Tz4oAlul6N=mo",
+                "content": "Good app. Needs more polishing & bug fixes.",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.4.8",
+                "at": "2022-04-09 09:22:07",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "vector-im-_-element-android.json",
+        "published_at": "2022-03-09T20:14:14Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "9439be72-02db-4b9d-9f86-c3cd933db0da",
+                "userName": "Luka tv",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjV_I6o3aszYXKl1AVqPs9qvwPqoaUlXdqhFFRkzKaZ1HVU",
+                "content": "Great for dealing drugs 🔥🔥",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.4.4",
+                "at": "2022-09-25 19:56:40",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "7a81495e-3ff2-478e-99fe-5024e5f39996",
+                "userName": "Pat Lyons",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUUuihLOOv0wht4MbKgl76SZ_kUIE5Fhg60yym9-I1fW4Q",
+                "content": "awesome, but no setting to autoplay gifs 😭... will add one star as soon as feature is added!",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.4.4",
+                "at": "2022-04-08 08:05:22",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "49e9a446-609f-4394-8106-0bf4f1db9c47",
+                "userName": "Dennis Ezekiel",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJE4QG2e2uwbAKEiIpsB0BWtAWMeKvwNWlMdBIto4V7=mo",
+                "content": "Connection to the internet is too slow.",
+                "score": 2,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.4.4",
+                "at": "2022-04-03 06:25:37",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "81056abb-cf86-4074-8908-344888e49ecc",
+                "userName": "Eternal Eternus",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocK9OBM34OAY9VIKQVmbDNNBxUftn8p_7cGhxD9I6ofn=mo",
+                "content": "The only beastiality chat app I trust.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.4.4",
+                "at": "2022-04-02 11:00:59",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "69aed2ec-24b5-475b-9175-116aa1a3d268",
+                "userName": "David Mitchell",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjV3IBRXuktfkDxvpx_2Dx5OymPGoA9-7Gt26Hu2oTKCIfkA",
+                "content": "Can't join more than one server",
+                "score": 2,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.4.4",
+                "at": "2022-03-31 21:02:02",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "74e129da-e749-413b-834c-369f578747c2",
+                "userName": "Pepik Novak",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJsLdkAP-YqNzp1vWzXim4MiekmT3vLp7mvl8IvsJ61=mo",
+                "content": "My favorite messenger, I can trust the encryption, it doesn't require access to contacts and notifications work reliably",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.4.4",
+                "at": "2022-03-27 22:12:05",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "5d556244-142d-4fbe-98da-aff8c3bb8047",
+                "userName": "Denys Čumak",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWCLFfu-ANzKH9M81lyuaisjcGYdad85PDfWRR9Vgf3AVY",
+                "content": "Unusable. Login process is unintuitive. Logging in with same credentials on a different device is impossible. Has login via email address, phone number, Google sign-in, Apple sign-in, Facebook sign-in, basically can gather as much personal data as possible, still false advertising as privacy-focused for some reason. Rumours saying it was made by state-actor-affiliated team. Not recommend. Use XMPP instead.",
+                "score": 1,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "1.4.4",
+                "at": "2022-03-26 08:42:04",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "e43b6205-bb18-4c25-8d0e-642922be5271",
+                "userName": "Ukpai Bishop",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXbUylnxRQKIo4sqZAnYGyh2G-jjJDkEZXr3s3S_fpylg",
+                "content": "Can't sign up Showing rate limited when I try to verify with email",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.4.4",
+                "at": "2022-03-26 01:54:28",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "858fadb5-4e35-41ff-a1e2-bf012db56598",
+                "userName": "Jason McCoy",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUz89E3btJ0Tz_8_KybWGrAt0GHw6wrfJ9RQwPCjecl_HA",
+                "content": "I can not verify my account. The option doesn't even exist, yet the Skip option does.",
+                "score": 1,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.4.4",
+                "at": "2022-03-18 05:33:05",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "vector-im-_-element-android.json",
+        "published_at": "2022-02-22T20:40:35Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "c4408d9d-608e-49be-8183-b4ec34f7cb87",
+                "userName": "L",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocK_CD8Xq2JSJvFVSKGfP4MjIH94FsNh4rMLZ7aAd0QK=mo",
+                "content": "Pretty good app but could use some work",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.4.2",
+                "at": "2022-04-03 20:52:33",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "e8126247-a818-41f6-8753-6f11eb20b147",
+                "userName": "Steven L.",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUMMs3gnqU2yBF8tvwFxUkbgsi-q3TH_KG2E1dF8TZh3ad6",
+                "content": "Functional and full featured, just not a great experience yet. Changes have been pretty continuous though, and it shows promise.",
+                "score": 4,
+                "thumbsUpCount": 12,
+                "reviewCreatedVersion": "1.4.2",
+                "at": "2022-03-18 03:12:30",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "980c13eb-5371-4a49-88ed-f8ef86de5300",
+                "userName": "Jennifer Krüger",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIrS_Q313vM3Et7hEPeT1IQv85Uos78KGxAcqkMOc5K=mo",
+                "content": "FuiyxWhkc FetavjicayolphEize",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.4.2",
+                "at": "2022-03-16 00:24:01",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "dcdca4cf-9d42-4751-adb7-bd55920a42f8",
+                "userName": "Chandra Jeet Singh",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUkBpGUUsYAygyhuwub6zOAEF2VD5W8OfBFteRIQHgGXnk",
+                "content": "The best decentralized messaging app",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.4.2",
+                "at": "2022-03-15 14:27:42",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "693ef026-d294-4966-a6d2-c2986a2eaa94",
+                "userName": "Tm Sngr",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJobRc8pD_gDCMISga0IICs5dyQo2_wzHpQ1qr-JpEJ=mo",
+                "content": "Works fine, but why it is >170MB large?",
+                "score": 3,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.4.2",
+                "at": "2022-03-15 06:25:00",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "a6e2ee79-8cce-49f0-968b-914ccd9ef2e1",
+                "userName": "rugbyperson15",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIavlhDQfwdKGxScFrYm28Xmi1BWwKBq2Qr4FRdVoM=mo",
+                "content": "Amazing app so far. Keep up the good work!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.4.2",
+                "at": "2022-03-11 22:07:36",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "c9d234ba-c72f-41ac-9cad-46a79557700f",
+                "userName": "Alexander Borsik",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocK-e-HuAXrblJIjdXr9Xvvq-knQ_M-pdKEBru63iggy=mo",
+                "content": "Exceptional with Synapse Matrix server, really great.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.4.2",
+                "at": "2022-03-11 01:33:21",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "26905ff5-0bf2-4ba0-9671-769db7b98f7c",
+                "userName": "Leonard Maler",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXjqtpaoIwq_WED88FlLvlo-FJl2oQZ7lCrrfaTjA5XNg",
+                "content": "Great experience!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.4.2",
+                "at": "2022-03-05 14:26:30",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "vector-im-_-element-android.json",
+        "published_at": "2022-02-09T13:47:19Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "87db368c-edc1-4ec9-b884-f6b6d4298820",
+                "userName": "Luca Pepel",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVkaDNjzWjB35rRTGtrzsbCmornZ4vLtvNAdQ7GviHp2CI",
+                "content": "Excellent UI and graphics. It's easy to use and as far as I can tell safer than telegram or other apps.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.4.0",
+                "at": "2022-08-05 06:33:46",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "083155d5-bdf1-4263-b14b-ef628adb584c",
+                "userName": "winerdz",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXHY_tWvduMaq53viflG4dv1n-H9Sei0lxoAlLXBIom3LE",
+                "content": "Matrix made simple",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.4.0",
+                "at": "2022-07-29 16:24:37",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "a1aaabb0-9803-4a9a-979d-67f0ca4a9aad",
+                "userName": "0xMax zEniTH",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVODE38gfz8fgorpXaZmiTm6R0MnFmJE_yU0jq_1stPPlv8",
+                "content": "Good",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.4.0",
+                "at": "2022-02-21 21:31:07",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "vector-im-_-element-android.json",
+        "published_at": "2022-02-03T17:32:28Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "f144aa80-8efb-4c6e-b7a9-2c818b131a00",
+                "userName": "Alex Brandt",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVMtcmMJ1ncT-G0J-xiJFOzfSbODB2_6mO6N95OZ9QM5_bm",
+                "content": "Dies on startup on Pixel 6 Pro.",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.3.18",
+                "at": "2022-02-15 21:20:27",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "11993f8b-6afe-4196-be09-37f320cd09ff",
+                "userName": "A Clockwork Hellcat",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUapQL4CBQ-ZgqSodg6vkz2S5eoU4FVtI5Ta82QT_kQxYc",
+                "content": "Hot garbage! Clearly not a single person working on this awful waste of bytes has any idea how to design UI. The verification process is broken and will arbitrarily fail to start for half the accounts you attempt to use it on; subsequent attempts will result in the dialog notifying of a verification request being blocked entirely because the person is being sent to isn't verified. What kind of coprophagic Ouroborous served as these developers' muse? Privacy doesn't matter if the app is unusable!",
+                "score": 1,
+                "thumbsUpCount": 20,
+                "reviewCreatedVersion": "1.3.18",
+                "at": "2022-02-08 03:04:39",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "bf1eafb7-476e-454d-8cb4-f8c1fe79f4ea",
+                "userName": "Android Shepherd",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLXIg_BVTsY7D6jhSzryne3n6nqaiNYdYBDERzuLqkH=mo",
+                "content": "It works and I like it, but has some critical security flaws right now. Android element can drop out of e2e communications and start sending unencrypted messages with no notification to the user. Can't untrust device. I'm tracking related GH bugs and hope the security will be treated as a first-class citizen later on - cause this app and matrix ecosystem is useful and important.",
+                "score": 4,
+                "thumbsUpCount": 39,
+                "reviewCreatedVersion": "1.3.18",
+                "at": "2022-02-07 12:56:17",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "vector-im-_-element-android.json",
+        "published_at": "2022-01-18T15:40:47Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "5fd449a9-66f9-40f0-bb5f-df5817844ead",
+                "userName": "Aaryan",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXrUNquZ-aE7qrTjNtO3oo9r71ACclq88pAWlthHxW3gQ",
+                "content": "Message Pinning Not Supported I Need!!",
+                "score": 4,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.3.15",
+                "at": "2022-05-24 05:42:29",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "94b3d4ff-af65-4403-ba49-1829d5899881",
+                "userName": "Arman Hoseinzadeh",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUd0BoQrTNU21rs56pa7GSDLE_SUuyd6oPDtCo8KHxsJaA",
+                "content": "Please add sound effects for calls connection and end calls.",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.3.15",
+                "at": "2022-02-08 18:50:38",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "4121e86b-fa43-4985-a910-866338f80939",
+                "userName": "Bracken Dawson",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXX_N2RXh4hwJM5eSUpIPf_YH9UtN3RG6FMgunr4GL8wxw",
+                "content": "Kudos for being in the app store, but sadly that's where the usability ends. This app does show you exactly how complicated Matrix is.",
+                "score": 3,
+                "thumbsUpCount": 5,
+                "reviewCreatedVersion": "1.3.15",
+                "at": "2022-02-06 17:45:43",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "cfa52f6d-5157-4105-889b-2ffa952e9129",
+                "userName": "G B",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVzmgAvTqzvWRPq2M9y7thJglIQnTBbpS1eBtlxPArUWOkL",
+                "content": "No problems what so ever",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.3.15",
+                "at": "2022-02-06 15:31:20",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "d946d4dc-8fca-45ea-b6d5-6a404853573a",
+                "userName": "David Parrish",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjX-5x3I9_yDZET7EE_Fh2Tv4_fZwyEcaJ4GB4Oo2-f-9Yg",
+                "content": "When multiple accounts support?",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.3.15",
+                "at": "2022-02-05 10:15:22",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "22b93228-ffff-4aac-9a60-719d0296c223",
+                "userName": "Razia Ali",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIDLyE1jmAZ-Je4K5d-zLMDYVk11YP45z7KKledgYNH=mo",
+                "content": "It works perfectly well keep up the good work",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.3.15",
+                "at": "2022-01-31 15:23:37",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "1c469c76-2c1b-44bf-9fb9-dea33a1e1f27",
+                "userName": "Mathias Meczele",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUF3-Bozn5dkfFBAgEdJqX7xdwlWgvmi1WIoXa4pb9Iu6M",
+                "content": "By far the best chat app. Whatsapp and co can go home :)",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.3.15",
+                "at": "2022-01-27 19:31:53",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "c4015fa4-cb39-4332-9b7a-6ed8ba9fb228",
+                "userName": "M K",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKD1BRrrNTeR77YqOOlIxTkdWoZnHQyt0HCu_VNyv8X=mo",
+                "content": "Absolutely horrible UI.",
+                "score": 3,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.3.15",
+                "at": "2022-01-21 10:19:11",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "31c4e254-1d66-4047-94b4-d2a630f46e90",
+                "userName": "Mehdi BM",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLwUEJWJSSJwiUW38xnc_-Bt3FqY0nP1Hb2K2P4FcG_lQ=mo",
+                "content": "It's my favorite IM, but the UI needs to be improve to see messages on the left and right bubbles, which make more comfortable using the app. The current UI is prone to miss messages due to showing all the messages on left sides of UI.",
+                "score": 4,
+                "thumbsUpCount": 5,
+                "reviewCreatedVersion": "1.3.15",
+                "at": "2022-01-21 03:46:47",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "vector-im-_-element-android.json",
+        "published_at": "2021-12-20T16:33:10Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "ecd52df9-6b50-4bb1-93a6-81b99d9a7e0c",
+                "userName": "Tyler Durden",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIhIZQI6ZcCh8O4L61MshM7ULROcfV1ZJUkCtmsmRhj=mo",
+                "content": "I had high hopes for this app. Unfortunately, they were misplaced. Just tried to send a video (three times!) and it wouldn't go through. Every time it failed. Just sent the same video through Signal, and, no problems. I'm aware of the security differences and would prefer to use Element, but, if it can't even send a video, what is it good for?",
+                "score": 1,
+                "thumbsUpCount": 22,
+                "reviewCreatedVersion": "1.3.12",
+                "at": "2022-01-22 12:57:33",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "8d2b46fe-7ece-44f7-bcfa-efc4f8bcce9d",
+                "userName": "Yani M.",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjX_851n0EHaj__OFjN0ni0CFtwwLkf2j01EFX-vgqLDeZRl",
+                "content": "Great app. As today (2022) I think this is one of the best IM apps and clients for DESCENTRALIZED communicatio. In addition to that, this app allows communicate with direct messages and rooms. The emojis and messages are awesome. This app also allows you to add reaction over each message. Definitely I am trying to stop using WA or any other centralized platform as Telegram, etc.",
+                "score": 5,
+                "thumbsUpCount": 5,
+                "reviewCreatedVersion": "1.3.12",
+                "at": "2022-01-16 06:10:05",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "c07ba21a-d00c-4578-b620-6a0291065f96",
+                "userName": "Arctic Sheep",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWalY_Nj6K9LhjNI_l-LvulqtblSIHn-Xt7RAfvVEzwpQ",
+                "content": "would be great if this app has search function on the chats",
+                "score": 4,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.3.12",
+                "at": "2022-01-04 05:46:25",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "f7de6591-2cae-4416-901c-13b7ed08d44c",
+                "userName": "Randall Snyder, Jr.",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjU6Z2loyt506GJDG5EgZFsI4Xzd6nE6zmG_KG86sCq_o92r",
+                "content": "I've learned that MATRIX (as of this review) is rated #1 followed by Telegram for all the reasons you'd want to have a secure no Big Brother watching conversation. I've gotten family and friends and a new business enterprise using Element. I like that no phone number is needed. This app thumbs it's nose at centralized apps like Signal/What'sApp & Telegram. In this age of censorship this is a nice resource to have. The UI is pretty well thought out.",
+                "score": 5,
+                "thumbsUpCount": 18,
+                "reviewCreatedVersion": "1.3.12",
+                "at": "2021-12-31 00:06:47",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "0e4bb1dd-13ca-45de-8efe-3ee142d965c5",
+                "userName": "Salomon Turgman Cohen",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXl8CqD5Qx3TvVL04RrqyM0N91LHG1qdmlPVYFGWO0a1qo",
+                "content": "Recently, the app takes forever to search for and join channels.",
+                "score": 3,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.3.12",
+                "at": "2021-12-30 20:54:03",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "0b42496d-a32b-4f5b-9c25-2c17e15a1fe7",
+                "userName": "Blake Cserhati",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocInidKgdGW8-J1ceRawRJOW7wJa-6njDzcIUAR59eI_=mo",
+                "content": "The best app 👌 🙌 👏",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.3.12",
+                "at": "2021-12-29 21:09:53",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "bfbd3d10-c8ba-4e60-90b2-2a4761a22c5b",
+                "userName": "Frank Castle",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVL8BF5Y3YXHUgPAY6adahH_u1ncxd0JqD-hEMLh6HY6OM",
+                "content": "A really good app, but can be dificoult to set up and add friends. Especially if you have friends or family who is not good with stuff like this. I love the app though and higly recomend it.",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.3.12",
+                "at": "2021-12-28 15:32:21",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "09910570-56b9-4f5e-b684-da3407f7987b",
+                "userName": "harsh marthak",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUlcova50_nBZWwxwFDTr3no2kcRo4uLyt92ATnHY5sao4",
+                "content": "Glitchy and slow interface. moreover some messages are not visible saying there was an error in end to end keys.",
+                "score": 2,
+                "thumbsUpCount": 11,
+                "reviewCreatedVersion": "1.3.12",
+                "at": "2021-12-28 05:58:29",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "ab393e61-59cc-4048-bc60-36e35080adbb",
+                "userName": "Chris Howie",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXWKFHMVpNCuuEJnM1Mzapa7Zg0JhtHqyzkFg6yYjr8JZw",
+                "content": "Good client overall, with some bugs. Everything works well in general. Verifying others' sessions sometimes appears to succeed but doesn't record that verification happened.",
+                "score": 4,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.3.12",
+                "at": "2021-12-22 05:40:20",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    }
+]

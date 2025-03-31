@@ -1,0 +1,254 @@
+[
+    {
+        "filename": "Exodus-Privacy-_-exodus-android-app.json",
+        "published_at": "2023-01-09T20:59:27Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "10e015e0-9958-4bae-871f-7f0f22c8d0b2",
+                "userName": "Duck duck",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLoRPhACH3YD52_Bs9YXX-qZVDVjf7vuibFJ7GkKCYCXQ=mo",
+                "content": "It doesn't work",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.0.1",
+                "at": "2023-05-26 18:55:51",
+                "replyContent": "Please retry with latest version",
+                "repliedAt": "2023-05-31 16:26:15"
+            },
+            {
+                "reviewId": "c0900caa-3e92-4ff4-8270-3e3dea2bcf3e",
+                "userName": "MWJ",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJX2Im-JCencp0c7uQXIthvewH4oMukekEM7JHHpihyUg=mo",
+                "content": "Does not keep information up-to-date. I deleted several apps and a month later they're still showing in Exodus. If it doesn't constantly scan and keep things updated it's useless. And can the rest of the information it is presenting be trusted?",
+                "score": 2,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "3.0.1",
+                "at": "2023-05-18 02:35:35",
+                "replyContent": "With latest version, uninstalled apps are removed",
+                "repliedAt": "2023-10-29 09:21:25"
+            },
+            {
+                "reviewId": "0f4cdccf-360f-48fc-836e-5d488ffdc8e1",
+                "userName": "Adder",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLFwubP_acLA-rsRSjzBkPKd75G16IqH8zB-hPEj8uF=mo",
+                "content": "All it does is shows website names and color count dot's and doesn't explain anything. So if you want a useless app this one is perfect for you",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.0.1",
+                "at": "2023-05-09 21:05:48",
+                "replyContent": "We try to make a better app and most understandable, if you want more information check our website :) https://reports.exodus-privacy.eu.org/en/info/understand/",
+                "repliedAt": "2023-05-12 17:45:23"
+            },
+            {
+                "reviewId": "f5c0e117-4a71-4952-8d1f-6273b70124b1",
+                "userName": "BokChoyBoy",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWC10_RpFb7J_tiGs4YyrRsEHe1p2caVtSO9s1C4AN3Wng",
+                "content": "Pretty useful app to see what other apps on your phone are tracking, and what permissions they use. If Exodus won't reload, clear the cache and storage, then it will work again.",
+                "score": 4,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "3.0.1",
+                "at": "2023-03-27 16:59:55",
+                "replyContent": "On latest version, you have a button to refresh reports :)",
+                "repliedAt": "2023-10-29 09:24:31"
+            },
+            {
+                "reviewId": "18e5fb62-7616-4396-8987-f3f6f5a4d219",
+                "userName": "Samuel Rogers",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjX6Ey85MSNbQFgSr0NEtWYb3-ofyAKUeN4dmKpwBEvN5OI",
+                "content": "This is an excellent and necessary app for any mobile app user that wants to prevent their personal information from being tacked, profiled, analyzed, and sold to advertising agencies and organizations that build profiles holding your personal identity, habits, and accounts data. Shows the trackers for each app along with any permissions that could be used to track you, gather information about you, and send your information through the internet. A MUST-HAVE!",
+                "score": 5,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "3.0.1",
+                "at": "2023-02-27 22:46:02",
+                "replyContent": "Thanks for your commentary :)",
+                "repliedAt": "2023-10-29 09:25:32"
+            },
+            {
+                "reviewId": "c1f26af6-45b6-43ec-9be0-9b4840eff9ac",
+                "userName": "Fakher Haddaoui",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKWDtId3NxxmufTAfN3k1OSaQAdOOEDfN1tmo2NImfAsg=mo",
+                "content": "Very useful",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.0.1",
+                "at": "2023-02-10 20:07:27",
+                "replyContent": "Thanks for your note",
+                "repliedAt": "2023-10-29 09:25:49"
+            },
+            {
+                "reviewId": "3c89e3f1-3505-48a0-bd43-41bbb4d6605e",
+                "userName": "Obtuse Acute",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVIUU4NS3RNXNgUTjirXDg-i3cp68zvhwJ1DzOr3_-1tA",
+                "content": "I'm an idiot and I didn't let the app load. It takes a while but it works. Thank you.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.0.1",
+                "at": "2023-02-03 09:51:32",
+                "replyContent": "Thanks for feedback, we try to fix make quickly as possible",
+                "repliedAt": "2023-01-31 18:13:00"
+            },
+            {
+                "reviewId": "d34460a4-1c40-4491-a2c9-1b9fd2c2383c",
+                "userName": "Vidmantas Lapšinskas",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVhSejk3EWWqfSZik4D9io68UmXgOKYdZdhROjCabAtsd7s",
+                "content": "Always crashes on startup",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.0.1",
+                "at": "2023-01-12 15:16:37",
+                "replyContent": "Thanks for feedback, we try to fix make quickly as possible",
+                "repliedAt": "2023-01-31 17:58:15"
+            },
+            {
+                "reviewId": "3f42a45b-44b9-41f6-997e-1831559ac3fb",
+                "userName": "José Raphael",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjX1pesJJiLSMUuu2PiVTCY9PqygYp20GcwJce33YRJQFGwc",
+                "content": "A pretty useful app, slow to load trackers when you have hundreds of apps, no way to scan OEM apps (Samsung or Asus native apps for example) but do the basic job to tell you about risky trackers and permissions in apps",
+                "score": 4,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "3.0.1",
+                "at": "2023-01-11 12:13:38",
+                "replyContent": "OEM apps cannot be analyze by Exodus because developers add restriction to install their apps only on there phones",
+                "repliedAt": "2023-01-31 17:59:55"
+            },
+            {
+                "reviewId": "8495ef2a-13b1-4463-b218-a216aaca153a",
+                "userName": "Christopher Robin",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocL4pzSk2T7_nKDUXWiB5KVpeZK6BVhlcVFJeyTGhneH=mo",
+                "content": "Useful information. Doesn't update the list of apps it shows for your device, continues to show apps that have been deleted. Have to delete app data in Android settings to correct.",
+                "score": 4,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "3.0.1",
+                "at": "2023-01-11 05:19:14",
+                "replyContent": "We know, uninstalled apps are always show in app, it's planned to fix this :)",
+                "repliedAt": "2023-01-31 18:00:52"
+            }
+        ]
+    },
+    {
+        "filename": "Exodus-Privacy-_-exodus-android-app.json",
+        "published_at": "2022-09-02T16:05:34Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "3c07e645-ebc8-4a45-873f-6f91d480091a",
+                "userName": "Sher Armstrong",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKoCbKJ8kAJiX0bZhGbddi8MObm7ntknke2697BUPv_=mo",
+                "content": "I JUST DOWNLOADED THIS APP IN HOPES OF MORE SECURITY. I WILL REPOST IN A FEW DAYS I HAVE USED DATAGUARD AND BLOKK, THEY BOTH SHOW TRACKERS ETC, BUT BLOKK ACTUALLY BLOCKED THEM, BUT NOW KEEPS SHUTTING OFF. I NEED MORE VPN SPACES?",
+                "score": 2,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.0.0",
+                "at": "2023-01-05 20:53:23",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "7cd317af-86f8-40c7-b364-9d52fcfab19e",
+                "userName": "C",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIG3etxmcn6qhJSjDA3mxunjuoERHE0HlGkvlqZ9MHg=mo",
+                "content": "File version check is buggy. Take for example \" Simple file manager\" app on play store. Exodus app says app matches version report but when comparing the app version and exodus report version it is different.",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.0.0",
+                "at": "2023-01-05 09:53:23",
+                "replyContent": "It's not a bug, version is different but number version is same",
+                "repliedAt": "2023-01-31 18:03:42"
+            },
+            {
+                "reviewId": "72fd722c-cfd8-425e-8d5f-ce4987111ada",
+                "userName": "GoodOldRebel",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVg2JULNBgWnpSlab5Dw3Nie3jJRzFFG6Pp8KCh91a0wA8",
+                "content": "Nope not sending all my data to vague company blocked internet to the app completely now it doesn't want to start. Watch privacy people giving up total privacy to company that sometime in the futere Wil be hacked like they all do is a bad idea to start with.",
+                "score": 1,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "3.0.0",
+                "at": "2022-12-24 15:48:40",
+                "replyContent": "We are not an enterprise but a french association to raise awareness about privacy.\nYou can find more information about our privacy policy here: https://exodus-privacy.eu.org/en/page/privacy-policy/",
+                "repliedAt": "2023-10-29 09:28:26"
+            },
+            {
+                "reviewId": "6cbb5bac-813c-40a5-8fd4-cc55d5378273",
+                "userName": "Valerii Cicinadze",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVz5DTf-klrJ7japwKIx22_XaKdsJoli3QkMGgEek3JXtI",
+                "content": "After the last update and a small redesign the app seems to have broken, it began to work much slower, displays apps uninstalled from the device, does not display trackers but only application permissions, scans applications for trackers randomly, database updates do not help the only way out is to uninstall the app and a new installation only then the correct and relevant information is displayed",
+                "score": 3,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "3.0.0",
+                "at": "2022-12-14 19:06:51",
+                "replyContent": "Thanks for feedback, if you want update reports, swipe at the bottom to start update",
+                "repliedAt": "2023-01-31 18:08:25"
+            },
+            {
+                "reviewId": "8f91334e-4466-4c2d-8fed-87075133e1a7",
+                "userName": "Mehrdad Motamed",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWWDsCGs7wBtlx8cR8WOmNqdWPvD7-L-ENw3nHPdnRF1mI",
+                "content": "It is really practical. It would be great if only it had the ability to search for apps. It's not a pity and you have to scroll a lot to find an app.",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.0.0",
+                "at": "2022-12-14 03:28:58",
+                "replyContent": "Thanks for feedback, it's planned to re-implement this feature",
+                "repliedAt": "2023-01-31 18:08:52"
+            },
+            {
+                "reviewId": "bd7e7fd6-d384-4281-9fc0-35129853f57e",
+                "userName": "Saeed H",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLguRiYbPRvPB_H6e2Ua1K85Ql7T4CWhvW4Igk--EGA=mo",
+                "content": "Please add sort option so we can find apps with most trackers.",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.0.0",
+                "at": "2022-12-02 17:31:31",
+                "replyContent": "It's planned to implement this feature",
+                "repliedAt": "2023-01-31 18:10:04"
+            },
+            {
+                "reviewId": "b8d8cabf-9363-402c-828a-eb0e657aabb5",
+                "userName": "Nikhil Kadiyan",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjX_wmaXvxq4Vk2HT9Uy9bsWxa3FFnqf0JgGREpr3SK38w",
+                "content": "Works",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.0.0",
+                "at": "2022-11-27 07:23:15",
+                "replyContent": "Thanks for note :)",
+                "repliedAt": "2023-10-29 09:29:05"
+            },
+            {
+                "reviewId": "48e3d6fa-7e01-422b-a1af-ca98351926a2",
+                "userName": "دونا",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJK5yZBa-XhXfaFpGKgQ9mzkpj4R68FUw5RbuDu2YK9=mo",
+                "content": "Am a bug Hunter and Viruses ect please do more apps",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.0.0",
+                "at": "2022-09-25 22:04:04",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "768df7a5-b82e-4432-894f-3d503832bf35",
+                "userName": "W A",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJTG6RTqysnaQZPK-swVlSfrFqPaiUqPLDm4haEuLgw=mo",
+                "content": "I'm giving 1 star so the developer can see this, otherwise a definite 5 stars. I have been using your amazing app and I like it very much. But I miss having the search function. Can you bring that up in the next update. Thanks",
+                "score": 1,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "3.0.0",
+                "at": "2022-09-24 20:01:09",
+                "replyContent": "It's planned to implement search :)",
+                "repliedAt": "2023-01-31 18:18:52"
+            },
+            {
+                "reviewId": "3050cc5c-9fb4-44d8-8449-6f8bc1e91184",
+                "userName": "MCB",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLVkJp_KuxP-Uhow732kL5gc8TOwxkU8KIWXYGU3RBl=mo",
+                "content": "Great",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.0.0",
+                "at": "2022-09-16 22:33:18",
+                "replyContent": "Thanks",
+                "repliedAt": "2023-01-31 18:19:34"
+            }
+        ]
+    }
+]

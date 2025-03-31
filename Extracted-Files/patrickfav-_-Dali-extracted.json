@@ -1,0 +1,25 @@
+[
+    {
+        "filename": "patrickfav-_-Dali.json",
+        "published_at": "2017-01-31T13:02:38Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "f4a28fe7-051a-4b68-a7cb-cebcdc42279a",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Good work",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "0.3.4",
+                "at": "2017-08-01 07:47:40",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "patrickfav-_-Dali.json",
+        "published_at": "2016-08-09T21:11:25Z",
+        "google_play_reviews": []
+    }
+]

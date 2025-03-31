@@ -1,0 +1,37 @@
+[
+    {
+        "filename": "alexzhirkevich-_-student-bsu-by.json",
+        "published_at": "2022-09-29T14:28:49Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "alexzhirkevich-_-student-bsu-by.json",
+        "published_at": "2022-09-17T21:24:28Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "655b834c-f159-44e2-84b9-c6c90faaed91",
+                "userName": "Pavel Sushko",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocI_5VWRXjoud5kkl--Lb4wtufRXH92fcPP3m9EL_Wta=mo",
+                "content": "видно, что приложение делали выпускники фпми",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.0.0-beta2",
+                "at": "2022-09-01 07:47:34",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "7d5cd02a-4d05-420f-b848-90d0da3b59ec",
+                "userName": "Dzmitry Hramyka",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWvDw0HmbS0gFgixdjO0R4NOnSua2ymvmMfo0zzL-c3CT5w",
+                "content": "5/5 Pretty interface and quiet work",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "v1.0.0-beta1",
+                "at": "2022-02-20 20:44:34",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    }
+]

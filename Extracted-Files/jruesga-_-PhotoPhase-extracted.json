@@ -1,0 +1,800 @@
+[
+    {
+        "filename": "jruesga-_-PhotoPhase.json",
+        "published_at": "2017-12-03T16:42:13Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "9471378f-e17f-4c6f-b66d-c70b18b42f99",
+                "userName": "VEMULA JAYAPRAKASH",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWPDSwUEhIA6eXX1XMTDeDFGd3fMkNf4SwVjHANo5oaEuE",
+                "content": "I want to add more Images but after updated to android 11 images are not showing please fix it",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.7.0",
+                "at": "2021-07-23 13:58:45",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "753ddbca-0f27-4b63-bd6a-0916a4541a3f",
+                "userName": "Carlos Silva",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLAVGY3b3YW1Tc3yBYi8HkjMl_oFhtnOfjCr6OeNkuvMA=mo",
+                "content": "This worked grest until Android 11 and now no longer supported.",
+                "score": 3,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.7.0",
+                "at": "2021-04-06 21:58:41",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "a2440032-b4a2-480b-b457-e56ac7050f1c",
+                "userName": "Christopher Pennington",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKceNiii-3lqPt3LyEuTGiLFaMncTWKlGOCqejPxzk=mo",
+                "content": "Excellent.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.7.0",
+                "at": "2021-02-23 12:29:52",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "e508f0a9-8bb0-40b7-a401-53fb63ffa4a7",
+                "userName": "Apoorv Bhandari",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXnTmdJQMx6ryi4yVsvE7HHW5nn9DDj7758Ja-_vlzlTQc",
+                "content": "Stupid app . Too complex",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.7.0",
+                "at": "2020-10-27 15:56:02",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "1c165feb-dacb-4f41-9ff0-96876400b9ab",
+                "userName": "Amit Singh",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocL0T4mOc2Y-w5oPVHC79dNa9qUb98nW4KUEWL3S3R5u=mo",
+                "content": "good",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.7.0",
+                "at": "2020-05-31 09:56:16",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "34388c8d-773b-4b91-bdd5-d52e3e2a29a1",
+                "userName": "legend killer",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWwraaMQNlUccu0XKbppyJY08QvBCvms3BBXW9JGA6ApQ4",
+                "content": "The transition only occurring when i touch a photo.. It automatically not changing the photos.. I need the solution can any one help me? ?",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.7.0",
+                "at": "2020-05-05 08:50:37",
+                "replyContent": "Please, double check in PhotoPhase settings (General/Transitions) that interval is not off and set it to the amount of time you want images to rotate.",
+                "repliedAt": "2020-05-08 20:42:30"
+            },
+            {
+                "reviewId": "4f87d9ea-277a-4fdd-bda6-866423b00763",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Great app. I set my personal goals as pics and use them as live wallpaper.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.7.0",
+                "at": "2020-04-15 18:10:18",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "6e8e6995-6817-4078-a80d-96b18c0d02c4",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "It doesnt work on my Samsung Galaxy Note 10+ ,after I restart the phone doesnt load the selected images from folders.I got Android 10.",
+                "score": 3,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.7.0",
+                "at": "2020-04-07 16:00:10",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "dfc35fd4-8cdd-43e3-9a98-4686f394dda2",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "It works well for my home screen but I can't figure out how to get it on my lock screen. Is that a feature?",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.7.0",
+                "at": "2019-07-10 18:14:57",
+                "replyContent": "It doesn't depends on the app, but in the os. Not sure, but i think Xiaomi doesn't support live wallpapers in lock screens http://en.miui.com/thread-123104-1-1.html. Maybe there is a kind of workaround out there i'm not aware of. Anyway is related to Xiaomi and not PhotoPhase.",
+                "repliedAt": "2019-07-10 18:22:58"
+            },
+            {
+                "reviewId": "5d9ce1f5-7a0c-4fce-925e-77b36bcda0d8",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "the best photo gallery live wallpaper period!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.7.0",
+                "at": "2019-06-06 20:42:38",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "eabafa94-5cca-4be4-8e8d-723721c6cfc4",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "I just love this app! I see pics i haven't seen in a long time, often it mixes it up perfect and i really appreciate it! I love that i can tap on a pic and it opens and i can share to whatever app i want💓",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.7.0",
+                "at": "2019-05-21 03:17:38",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "19a52676-50a8-4caa-b0ac-0540d2918a16",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Cool app",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.7.0",
+                "at": "2019-03-08 09:11:57",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "956a513e-2d24-41d7-a110-0a7a62e8df63",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Yeah",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.7.0",
+                "at": "2018-10-28 23:07:12",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "cd44f718-4171-46eb-8cb9-fe90a12784b7",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Good",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.7.0",
+                "at": "2018-07-18 15:10:34",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "7271fb75-7103-4476-b90b-5ade3c474088",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Bad",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.7.0",
+                "at": "2018-06-15 19:59:21",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "e165eadb-e6da-4b74-8247-fbb30a18f8ff",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Super app.just that!thanks my friends.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.7.0",
+                "at": "2018-05-27 22:39:45",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "4cc0ba04-ebbc-430d-b0c8-6f13986728ae",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "I really enjoyed this app. I got to have plenty of pictures switch over on my screen and picking the transitions was pretty cool too. I recommend this app if you're looking a live wallpaper of your personal made albums.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.7.0",
+                "at": "2018-03-12 02:53:07",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "abbf7d8c-490d-4280-a92a-0a00b1ea17a5",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "I initially installed this app on my telephone but I found it could not work. I then installed it. On my tablet with the same result. I emailed the author who was very quick in responding which meant that I can now use it on both my devices and it works flawlessly. And this is the ideal app. With recommending!",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.7.0",
+                "at": "2018-01-15 09:34:07",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "jruesga-_-PhotoPhase.json",
+        "published_at": "2017-08-19T20:50:10Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "19a697da-cc9e-4da1-b917-244b3ff353d1",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "I can we also have a random timing for picture refresh, and also no layout refresh? It can be programmed relative to screen usage, times pictures opened etc. Also take to source folder when picture is opened.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.6.1",
+                "at": "2017-08-21 16:56:17",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "jruesga-_-PhotoPhase.json",
+        "published_at": "2017-05-15T08:31:09Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "3b93545b-89a3-4ca4-bd3a-29568c8cc9b1",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "The tap to open picture either by single tap or double tap doesn't work on android O. Either internal or external works.",
+                "score": 4,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "2.5.1",
+                "at": "2017-08-15 11:15:04",
+                "replyContent": "Vaibhav, thank you for the bug report. I will fix it and publish a new version of the app in a few days.",
+                "repliedAt": "2016-08-14 20:52:06"
+            },
+            {
+                "reviewId": "3301f69c-f8fc-4281-a02c-cc9e77f76b8c",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "I've recently upgraded my phone to a Samsung s8 and I can't get photo phase to work. Any ideas?",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.5.1",
+                "at": "2017-06-28 13:42:53",
+                "replyContent": "Please, write to the support email, so I can get a more detailed description of your problem. Thx",
+                "repliedAt": "2017-06-28 23:00:54"
+            }
+        ]
+    },
+    {
+        "filename": "jruesga-_-PhotoPhase.json",
+        "published_at": "2017-03-26T20:24:27Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "de39deed-638a-4798-b845-65273ad9ac94",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "This app is good, bus some time app not load a photo & totally blank the screen.   Kindly solve this problem, otherwise everything is good.",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.5.0",
+                "at": "2017-05-09 06:36:08",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "jruesga-_-PhotoPhase.json",
+        "published_at": "2017-03-11T23:53:30Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "jruesga-_-PhotoPhase.json",
+        "published_at": "2016-12-24T16:46:01Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "af33819b-377f-41df-97fd-a6bd35e757fe",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Great",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.4.2",
+                "at": "2017-04-17 09:41:55",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "f4eb24e8-f77f-4df2-9d97-761b4276a177",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "displaying pictures randomly. even after i unchecked that box. i selected some images. but it will select all images (with some i don't wanna use as wallpaper). please fix. this is an awesome app.",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.4.2",
+                "at": "2017-02-24 17:20:12",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "701f1026-6739-46a8-8bf9-50f3f7fdefd6",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Works just like I want it to.",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.4.2",
+                "at": "2017-01-28 21:43:02",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "c5ffa285-a577-42e6-8f3f-0c6245c08272",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "I specially download this,it's awesome",
+                "score": 5,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "2.4.2",
+                "at": "2017-01-01 07:27:21",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "jruesga-_-PhotoPhase.json",
+        "published_at": "2016-10-23T20:44:05Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "9c50fef5-f1e8-4370-879e-9699fbff9852",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "The only Wallpaper app i liked ever...",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.4.1",
+                "at": "2016-12-23 11:18:44",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "96f1d94b-8ae4-4c74-a734-61313c876b7f",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "The app does everything I want it to but the only thing I would like to see in the next update is a new border option that has a black bar along the notification bar at the top of the screen on android phones. When a white or light color background picture is shown the clock, battery percentage, etc. Blend in with the background image and aren't visible.",
+                "score": 4,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "2.4.1",
+                "at": "2016-11-11 17:55:35",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "a21d826a-cfc6-48f3-ab15-78e414565beb",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "The only thing to make this even better is an option to choose which pictures go into which square.  This picture looks cool here, but I think it would look better in that square.   It would be perfect to add that option AND an option to choose which albums go into which square as well.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.4.1",
+                "at": "2016-10-28 18:36:43",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "jruesga-_-PhotoPhase.json",
+        "published_at": "2016-09-17T20:57:16Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "e8cfdca8-9a32-424a-8f0d-d55b1f49e568",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Update:The wallpaper now pans across all launcher pages and that is a feature added in no time 👏👏. So it's more 👌.(Works easy, no problems this far. Just can't get the wallpapers to scroll along with the home screen.They lie there still. Any clue?)",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "2.3.0",
+                "at": "2016-09-17 22:06:37",
+                "replyContent": "Vishnu, the wallpaper was designed to not allow scrolls whilst scrolling between the launcher pages. It shows always all its content.",
+                "repliedAt": "2016-09-11 09:37:50"
+            }
+        ]
+    },
+    {
+        "filename": "jruesga-_-PhotoPhase.json",
+        "published_at": "2016-08-23T10:15:16Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "becfd1e4-0b6d-46e7-ac35-25d605eafcd5",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "I really like this app now that.its fixed!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.2.4",
+                "at": "2016-08-26 17:59:40",
+                "replyContent": "Hi Jesse, could you send me to the support email some of these photos that are incorrectly displayed? Thx",
+                "repliedAt": "2016-04-21 11:41:02"
+            }
+        ]
+    },
+    {
+        "filename": "jruesga-_-PhotoPhase.json",
+        "published_at": "2016-08-13T08:21:42Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "jruesga-_-PhotoPhase.json",
+        "published_at": "2016-08-05T16:31:10Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "57deebef-959b-4a9f-bde0-902b97eaf45f",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "OMG!!! It makes my cell beatiful.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.2.2",
+                "at": "2016-08-06 12:45:54",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "jruesga-_-PhotoPhase.json",
+        "published_at": "2016-07-31T10:12:41Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "188af178-880b-4824-b92b-1f7b47732f01",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Chromecast still not working even after updated, button not working.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.2.1",
+                "at": "2016-08-02 02:01:15",
+                "replyContent": "Deen, please, could you write an email to the support address explaining a bit more what is not working? Thank you.",
+                "repliedAt": "2016-08-02 05:55:01"
+            }
+        ]
+    },
+    {
+        "filename": "jruesga-_-PhotoPhase.json",
+        "published_at": "2016-07-29T23:44:26Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "jruesga-_-PhotoPhase.json",
+        "published_at": "2016-06-05T08:53:05Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "a9503774-5165-4efa-9de2-dc682502b413",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "I'm on miui 8 6.6.30",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.1.1",
+                "at": "2016-07-05 16:13:14",
+                "replyContent": "Hi, if you are able to take a logcat when that happens, that would helpful. In that case, could you send it to the email support?  Thx",
+                "repliedAt": "2016-07-06 08:03:48"
+            }
+        ]
+    },
+    {
+        "filename": "jruesga-_-PhotoPhase.json",
+        "published_at": "2016-05-22T15:45:02Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "jruesga-_-PhotoPhase.json",
+        "published_at": "2016-05-16T19:54:58Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "jruesga-_-PhotoPhase.json",
+        "published_at": "2016-05-11T23:11:53Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "jruesga-_-PhotoPhase.json",
+        "published_at": "2014-11-09T00:25:00Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "c3109981-6b53-47fc-90d6-5f8ca56739bf",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "It works really like a charm, better than any other out there.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.0.12",
+                "at": "2016-02-25 00:21:48",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "6461aff1-5bb3-4908-b161-7f38f70af055",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Loving the app. It has completely changed my boring default launcher to having a new collage of background images all the time. Better than paid apps that do the same thing. Thanks!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.0.12",
+                "at": "2015-12-17 19:36:57",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "e3e3bb16-ae93-42d2-a639-efe8c4af3d43",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Good",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.0.12",
+                "at": "2015-12-05 08:59:00",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "5781c709-37fc-4b37-94ad-3199bbb0153c",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "The wallpaper looks great but keeps stopping.",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.0.12",
+                "at": "2015-11-22 12:12:59",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "f645b1bc-25dc-4c3a-abf5-64a129bfe46e",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Still dis app continues to force close the live wallpaper....whenever i set it",
+                "score": 2,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.0.12",
+                "at": "2015-10-27 10:39:51",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "5c8d5ab2-541f-4c68-8a77-a1cc0a2afffd",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Is there a way to stop wallpaper transition(change) in app drawer?",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.0.12",
+                "at": "2015-09-07 08:04:12",
+                "replyContent": "Yes, goto the wallpaper setttings, General preferences, Transitions and adjust the transition interval to disabled.",
+                "repliedAt": "2015-09-07 17:49:52"
+            },
+            {
+                "reviewId": "63ebef22-eda3-4a57-ba46-c88a5c93dbf4",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Straightforward, does what it needs to do, no problems.",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.0.12",
+                "at": "2015-07-29 18:43:27",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "da978fa9-3b75-4fb7-9fdd-96a9cde822c3",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Low quality of single pictures!!",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.0.12",
+                "at": "2015-07-20 01:27:01",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "80ba83f3-d2d2-4c42-bab4-5e0351492c36",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Crashes a lot. Really need to fix it so it can run on lollipop and not crash so much.",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.0.12",
+                "at": "2015-07-19 17:28:33",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "164da11d-e8fc-43ab-a3e7-66a15cd351ad",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "At first, worked great. BUT, then it started to crash or \"stop working\". Once you reboot your phone, it'll work for all of 30 secs; it crashes before the phone reconnects to the wifi. It was a nice app, during the short time in which it was functional.",
+                "score": 1,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.0.12",
+                "at": "2015-06-21 13:14:24",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "f452231d-6153-47ca-88b2-80edb9db7cf7",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "It stops working for no reason. Have this happen 3 times so far & nothing changes.",
+                "score": 1,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.0.12",
+                "at": "2015-06-07 05:27:28",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "b5240950-e98d-4bfc-872d-cf42295d346c",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Nice app.....",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.0.12",
+                "at": "2015-05-21 20:33:52",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "0e8afe45-7091-4e1b-ad51-a6ee46dad30e",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Nailed it",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.0.12",
+                "at": "2015-04-15 01:14:14",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "d5bff2d2-ffce-446d-ad2d-d83a0eea5b47",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "How to get wallpaper to stay on screen  when phone dies and you turn back on phone and it says no photos. Where did it go.  Hate having to keep downloading the photos to wallpaper to get back. Love the look of the app want to keep.  Always push save wallpaper but you see what happens when phone shuts off and you turn back on.  I have a ZTE sonata phone.  Help please",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.0.12",
+                "at": "2015-04-12 23:15:20",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "b60f6122-ab1c-4f62-b2ef-9c95196f3255",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "It's nice and perfect. Thanks.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.0.12",
+                "at": "2015-04-09 15:11:00",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "b0262020-8398-4079-84dc-4d38c4d2f530",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Please fix. I love this app but it. doesnt work with my s5",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.0.12",
+                "at": "2015-04-04 19:08:39",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "50a62cbf-29b3-4b1a-9998-45dfcd2b086b",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Just the thing I need...!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.0.12",
+                "at": "2015-03-28 07:35:42",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "f39bb583-1e31-4be8-8e5b-626b370400b1",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "But it would be nice to see the app smart enough to tell the difference when I'm touching my wallpapers to open it, and when I'm touching an app folder.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.0.12",
+                "at": "2015-03-17 12:03:00",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "ec04019e-2be9-4d8d-af93-4f65896c1351",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Keeps crashing.....lolipop",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.0.12",
+                "at": "2015-02-17 11:57:39",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "02c9285c-a104-435d-ad9d-88ce97e0fc7a",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Great app.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.0.12",
+                "at": "2015-02-04 17:39:33",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "241e6cb2-fa3c-45ef-838f-320a6522854d",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Wrong aspect ratio pics on landscape orientatión, but still nice",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.0.12",
+                "at": "2015-01-16 18:48:32",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "0d1e4c0c-9b1f-4621-8afc-e28bc9e4260f",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "I changed layout to one picture in hope of finding a wallpaper that would change every now and then with the possibility of changing by tapping the background. However, in reality the app would scale down the quality to way lower resolution than the screen itself is...",
+                "score": 1,
+                "thumbsUpCount": 6,
+                "reviewCreatedVersion": "1.0.12",
+                "at": "2015-01-06 02:40:40",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "8eebf6b5-08cd-4790-988d-1e0f81f8351d",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Really its beautiful",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.0.12",
+                "at": "2014-12-20 10:13:02",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "1f7db6e9-eb89-4a19-892d-fb44986642d3",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Probably the best live Wallpaper I've ever had !",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.0.12",
+                "at": "2014-11-24 12:08:33",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    }
+]

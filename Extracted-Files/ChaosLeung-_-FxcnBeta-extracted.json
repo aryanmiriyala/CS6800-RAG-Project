@@ -1,0 +1,77 @@
+[
+    {
+        "filename": "ChaosLeung-_-FxcnBeta.json",
+        "published_at": "2018-06-17T03:50:15Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "6662f967-49ff-4e19-aa0b-20200e7024b9",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "用 Android 的标准 share 啊…",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.3",
+                "at": "2018-12-16 10:57:18",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "ea997cfa-7894-465b-b9ba-7a653bbc7cf3",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "夜间模式手机的 Navigation Bar 能自动更改为黑色就更好了",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "3.3",
+                "at": "2018-06-17 06:17:38",
+                "replyContent": "已列入 3.4 计划中，谢谢建议。就是存在一个问题，如果根据日出日落时间来自动调整主题，必须要拿经纬度，要拿经纬度得加 Location 权限，担心用户怀疑我干坏事，哈哈",
+                "repliedAt": "2018-06-20 02:20:05"
+            }
+        ]
+    },
+    {
+        "filename": "ChaosLeung-_-FxcnBeta.json",
+        "published_at": "2018-05-08T02:43:41Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "ChaosLeung-_-FxcnBeta.json",
+        "published_at": "2017-12-03T10:19:28Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "7f918415-5fa7-4be2-9b64-4bbeaf2db92e",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "其实左右刮应该要做成上一个或下一个文章，进入评论就用上刮或下划比较合理。 整体应用很顺滑，很有potential！",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.1",
+                "at": "2018-10-09 05:59:34",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "0639f1c8-70d9-49b0-81e6-952a9578dc6a",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Source so many fake news/ads, had been uninstalled",
+                "score": 2,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.1",
+                "at": "2018-07-20 15:04:33",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "ChaosLeung-_-FxcnBeta.json",
+        "published_at": "2017-05-06T11:35:48Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "ChaosLeung-_-FxcnBeta.json",
+        "published_at": "2017-04-16T11:03:01Z",
+        "google_play_reviews": []
+    }
+]

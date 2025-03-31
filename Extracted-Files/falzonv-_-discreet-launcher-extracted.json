@@ -1,0 +1,343 @@
+[
+    {
+        "filename": "falzonv-_-discreet-launcher.json",
+        "published_at": "2023-02-17T18:43:34Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "2000cad8-792f-4d38-9250-aaf7cfa5d9cc",
+                "userName": "polli jasim",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVBrXZ1eqFB-Csl3hb_QN8IMZyw2_r62NpgRgXe_-_1SQ",
+                "content": "use it,,,,",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "v7.2.0",
+                "at": "2023-05-03 19:12:44",
+                "replyContent": "I am glad you like Discreet Launcher!",
+                "repliedAt": "2023-05-13 13:11:48"
+            },
+            {
+                "reviewId": "c7969997-7158-4b9e-a722-c60e3bfd287f",
+                "userName": "Azlan Aiditt",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjV6eWrtAiTWJvR03YT0zLcYVJKM5lGLRwzy8q6fHUh97A",
+                "content": "Other than the lack of ability to add widget, everything is just all i wanted in a launcher",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "v7.2.0",
+                "at": "2023-05-02 08:56:36",
+                "replyContent": "Thank you for your review, I am glad you like Discreet Launcher! Indeed, widgets support is not planned as it requires additional permissions and moves away from the idea of having a distraction-free home screen.",
+                "repliedAt": "2023-05-13 13:55:02"
+            },
+            {
+                "reviewId": "ac3deaeb-5751-436c-9c77-7224f89087d6",
+                "userName": "Elvis Creer",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLsvShD7sbbONVZOxIXNoLDEugOBDKUj2Vjm6Skny4p=mo",
+                "content": "I experience? The missing of this launcher are application at the home screen, Phone call, Contact app Drawer.message Browser.. this must display to the lowered portion of Android Screen.. any way this only suggestion.. to be good..",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "v7.2.0",
+                "at": "2023-04-28 01:13:47",
+                "replyContent": "Thank you for your suggestions. As stated in the description, the purpose of this launcher is to have an empty home screen (but you can add frequently used apps to the favorite panel). Handling phone calls, contacts and messages are the purpose of other apps that my launcher doesn't aim to replace.",
+                "repliedAt": "2023-05-13 14:00:54"
+            },
+            {
+                "reviewId": "fdfb9ed6-9fcc-4a45-b263-3fa4c74bf25c",
+                "userName": "M",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVU45RYiX4TWtEhOdEUeAeyzN2QgOflx1k45eZ45t47KAY",
+                "content": "Well this app lacks basic functionality that I need in a launcher. For example I spent 5 minutes trying to put an icon on my home screen. I finally just gave up and tried to uninstall it and the uninstall button is greyed out, so I'm gonna have to use adb cmds to get rid of it. What a hassle? Maybe the playstore will let me uninstall it there, gonna see. Yeah the playstore let me uninstall it.",
+                "score": 1,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "v7.2.0",
+                "at": "2023-04-21 17:17:28",
+                "replyContent": "Hello, when a launcher is the default launcher, its uninstall button is grayed by the Android system. To uninstall, you can select another default launcher or use the Play Store as bypass (like you did). As stated in the description, the purpose of this launcher is to have an empty home screen (with a favorite panel for frequently used apps).",
+                "repliedAt": "2023-05-13 12:58:30"
+            }
+        ]
+    },
+    {
+        "filename": "falzonv-_-discreet-launcher.json",
+        "published_at": "2023-01-09T17:12:57Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "ab148c80-2cdb-4169-a67e-d579525ef13d",
+                "userName": "Danish Khan",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjU4PMee5w149i9DfnrEa4rwY4K7VTiaABwaUPwfqgizDYk",
+                "content": "It is the best launcher in the world but add Google slides bar on the left",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "v7.1.0",
+                "at": "2023-02-18 01:13:01",
+                "replyContent": "Thank you for your review! However I don't plan to add the Google feed as removing it (and the Google search bar) was one of the reasons which led me to create this launcher in the first place.",
+                "repliedAt": "2023-05-13 13:26:38"
+            },
+            {
+                "reviewId": "cc560004-c77f-4c55-86ef-ccb53eb5353a",
+                "userName": "Gaming Station",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKCaW7KrEDDFwDHHVD3NkB8uITHhFI_RZvAROg7DCba=mo",
+                "content": "Pretty great,clean and minimal",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "v7.1.0",
+                "at": "2023-02-12 01:16:53",
+                "replyContent": "Thank you for your review!",
+                "repliedAt": "2023-02-17 18:59:16"
+            },
+            {
+                "reviewId": "12513015-0019-42be-afaa-edc22d6ac3be",
+                "userName": "Chris Friends",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVPMXS7L69YU-cjGDmSUF6DIbpmdK8FZD6REOJXIMyS2w",
+                "content": "No way to use a clock widget.",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "v7.1.0",
+                "at": "2023-02-06 19:30:12",
+                "replyContent": "Indeed, widgets are not supported. However there is an embedded clock with various customization settings (see the \"Clock\" section in \"Appearance\" settings).",
+                "repliedAt": "2023-02-11 13:22:13"
+            },
+            {
+                "reviewId": "bb16b8bd-5f22-46fa-a91a-36a7540182a3",
+                "userName": "Hope Emma",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXS5IaiOxkezqsUNlH8gF2MxkFxSACg_v8a-KDfFInnrQ",
+                "content": "This is really one of the best simple and minimal launcher I've ever seen. You could create folders for your apps and easily access your favourite apps....great features It's four stars out of five cos it doesn't have its own wallpapers? If it does, I couldn't find them...",
+                "score": 4,
+                "thumbsUpCount": 5,
+                "reviewCreatedVersion": "v7.1.0",
+                "at": "2023-01-24 02:19:12",
+                "replyContent": "Thank you for your review, I am glad you like Discreet Launcher! Changing the wallpaper is indeed not included because it would require the read storage permission, and most gallery apps already provide this feature in a more convenient way (option \"Set as\" when viewing a picture).",
+                "repliedAt": "2023-02-11 13:27:46"
+            },
+            {
+                "reviewId": "f76d332c-c210-43d2-9f56-21131d28654f",
+                "userName": "kingshuk biswas",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLJ8xenAUweC7sMediKJ3_z92JPYpBK27xe863J-ERb=mo",
+                "content": "It's similar but better than hg launcher.but your hidden app features is not password protected.so anyone can acess hidden app.hg launcher also has this fault.plz correct this in next update.",
+                "score": 4,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "v7.1.0",
+                "at": "2023-01-23 14:49:24",
+                "replyContent": "Hello, thank you for your review! The Hidden apps feature is intended to hide bloatware apps that cannot be disabled, not to protect apps (a launcher cannot really protect apps anyway, as someone could always use the default launcher to access any app).",
+                "repliedAt": "2023-02-11 13:20:46"
+            }
+        ]
+    },
+    {
+        "filename": "falzonv-_-discreet-launcher.json",
+        "published_at": "2022-12-19T17:49:23Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "8149f66e-9937-4c54-9f6d-0decca0c8396",
+                "userName": "Hugo Adona",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUZK2TzBjq3jdoDNyesh7otfb3S6tuI3TP8kJ2DpuR4XRo",
+                "content": "I like it!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "v7.0.1",
+                "at": "2023-01-05 06:06:16",
+                "replyContent": "Thank you!",
+                "repliedAt": "2023-01-09 17:28:40"
+            },
+            {
+                "reviewId": "28a7a65f-95d1-4ae0-afba-82acb106b105",
+                "userName": "Sidharth Siddu",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJ4-ijYBtzBpx9_Xc20IWSHF09p8cle-7z27wNMsJut=mo",
+                "content": "How to hide apps",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "v7.0.1",
+                "at": "2023-01-01 06:51:47",
+                "replyContent": "Thank you very much for your review! You can hide apps by opening the main menu (engine key or Discreet Launcher icon) going to the entry \"Hidden apps\" and selecting the ones you want to hide. Same process to un-hide (the hidden apps will appear on top of the list). Best regards",
+                "repliedAt": "2023-01-09 17:28:27"
+            }
+        ]
+    },
+    {
+        "filename": "falzonv-_-discreet-launcher.json",
+        "published_at": "2022-10-27T16:32:31Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "ccd12529-ed7d-4df5-a0b5-fe0e8c99a02a",
+                "userName": "Crafting World",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUv-qhYatwUY0I-4neXK7HrA8loST_KZqEW68fNkfOmJeI",
+                "content": "Unique, lightweight and cleanest launcher , I have ever seen for Android.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "v6.6.1",
+                "at": "2022-12-15 04:06:03",
+                "replyContent": "Thank you very much for your review, I am glad you like Discreet Launcher!",
+                "repliedAt": "2022-12-19 18:53:26"
+            },
+            {
+                "reviewId": "42727284-1325-433b-ab5c-3dc29c5c658e",
+                "userName": "Victor Durai",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLChylWR-VAiwRXPxGZt-ONsQN7mzCx1KFufOmi33i9=mo",
+                "content": "App is Excellent, wonderful, Thank you Sir",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "v6.6.1",
+                "at": "2022-12-04 04:46:31",
+                "replyContent": "Thank you very much for your review, I am glad you like Discreet Launcher!",
+                "repliedAt": "2022-12-19 18:53:13"
+            },
+            {
+                "reviewId": "0532358f-0f83-4783-9be1-070553b18cb2",
+                "userName": "Dibyendu Dutta",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUBhcIqtZ03HCVezay6i6j5GszU160A8SrrL3uNkwO75E4",
+                "content": "Good",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "v6.6.1",
+                "at": "2022-11-30 10:22:17",
+                "replyContent": "Thank you for your review!",
+                "repliedAt": "2022-12-19 18:04:52"
+            },
+            {
+                "reviewId": "168a9cb5-065c-4c2f-9f46-6f4e3c0e0cb7",
+                "userName": "Simba kapeta",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVXgX4PnrrS4SRPuOslu8zD0JlTKkuweyvTXNdXZ-hpc_A",
+                "content": "Great launcher to show off your wallpaper. Great work by the Devs. Would love to see an option for double tap to turn screen off & a weather widget.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "v6.6.1",
+                "at": "2022-11-17 21:27:38",
+                "replyContent": "Thank you very much for your review! Turning the screen off needs an admin permission that I don't want the launcher to request. But you can set double-tap to launch any app, so if you find an app that can turn off the screen it may work. Widgets support is not planned and, as the launcher is offline, an internal widget could not be updated, sorry.",
+                "repliedAt": "2022-12-19 18:49:38"
+            },
+            {
+                "reviewId": "1f7de6c7-8420-41f9-8bac-e7906436e6de",
+                "userName": "Player L3x1Cx",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWE5b8nCvXEo-e-hRSPBfgrbkjIrFY8-9LRpg8gZHA3Eg",
+                "content": "Could use some animation.",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "v6.6.1",
+                "at": "2022-11-09 04:22:08",
+                "replyContent": "Thank you for your review! I decided to not use animations to make the navigation in the launcher faster.",
+                "repliedAt": "2022-12-19 18:07:35"
+            }
+        ]
+    },
+    {
+        "filename": "falzonv-_-discreet-launcher.json",
+        "published_at": "2022-10-24T16:22:37Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "falzonv-_-discreet-launcher.json",
+        "published_at": "2022-09-19T18:20:13Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "e5af331e-1975-4a4f-be6e-069ba2cbaebc",
+                "userName": "nageshwar rao adhikarala",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVJIR2PP4-E9IYTrFRwk8g1Rc0QgnJavpcdVQVUTRmv5K8",
+                "content": "Launcher consuming less memory but draining battery is too high almost 50% within 8hrs. Sometimes it does not respond.19th Oct 2022 I regret for my earlier comments on battery consumption. It was my wrong observation. Sorry. Nice app.",
+                "score": 5,
+                "thumbsUpCount": 5,
+                "reviewCreatedVersion": "v6.5.0",
+                "at": "2022-10-19 08:04:20",
+                "replyContent": "Thank you for the report, however it seems very unlikely that my app consumes so much battery. On all the phones were I tested it the battery usage was below 1%. Are you sure this doesn't come from something else? (most of the time I observed battery drain on my phone it was related to mobile network, this can be checked in battery stats)",
+                "repliedAt": "2022-10-15 14:38:06"
+            },
+            {
+                "reviewId": "e501418e-4e90-421a-a445-626f401943ca",
+                "userName": "Eric Gagnon",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVKqEbGfQZBexHRHYiFmmGn3IUf6ITVKcyzyzunqnPsb5s",
+                "content": "Works verry good, easy, fast, biutyful! I recommend it guys.",
+                "score": 5,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "v6.5.0",
+                "at": "2022-10-19 01:36:50",
+                "replyContent": "Thank you very much for your review, I am glad you like Discreet Launcher!",
+                "repliedAt": "2022-10-24 16:50:58"
+            },
+            {
+                "reviewId": "1d2c1b1e-80f1-498a-a56f-4fe3a430c93e",
+                "userName": "xoxpo poxpex",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWIegAzEuKjEOKgCYDoci4gmpjszjOr6uEIKFFcaRAy2R0",
+                "content": "I give 5 star cause the launcher is unbelievable easy , useful and soft , that is remarkable.... İf you guys like a basic stuff that is way more than perfect... Need 10 stars....",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "v6.5.0",
+                "at": "2022-10-07 11:33:45",
+                "replyContent": "Thank you very much for your review, I am glad you like Discreet Launcher!",
+                "repliedAt": "2022-10-15 14:57:16"
+            },
+            {
+                "reviewId": "35b79e1c-ed23-4616-bedd-f8ce1c9f5f13",
+                "userName": "Dragan Sukovic",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocK8tg6T2Qoo30rYi2xNU9aV4hGfPkckJnaeUf6ybXnB=mo",
+                "content": "This is awesome!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "v6.5.0",
+                "at": "2022-09-27 20:10:05",
+                "replyContent": "Thank you very much for your review!",
+                "repliedAt": "2022-10-15 14:51:08"
+            },
+            {
+                "reviewId": "72c595ec-f156-430b-a60d-5929edf4ac8f",
+                "userName": "Ehsan Hashemi",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIo1v5_uZD9ypBkoXas9lffsgq-8XIQnIHVVOTMmph7=mo",
+                "content": "Good simple and easy",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "v6.5.0",
+                "at": "2022-09-26 15:55:17",
+                "replyContent": "Thank you for your review",
+                "repliedAt": "2022-10-15 14:40:38"
+            }
+        ]
+    },
+    {
+        "filename": "falzonv-_-discreet-launcher.json",
+        "published_at": "2022-07-26T15:17:40Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "15b5a51b-49fe-4fdf-afb1-61bd7c75dece",
+                "userName": "Owen Opperman",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUHf1DU7oc-9HkraUSbdUDenFNir0gMuZ4BDpnX4SOrpN4",
+                "content": "My style minimaal and very simple less data usage.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "v6.4.0",
+                "at": "2022-09-09 01:32:56",
+                "replyContent": "Thank you very much for your review!",
+                "repliedAt": "2022-09-19 15:49:00"
+            },
+            {
+                "reviewId": "5d8edcf4-a9b3-4e60-8cc7-e2891db91aea",
+                "userName": "John Bond",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXJUVx_Xcr3snpkTf-79uvkcpn3ywzILe3ZLX_hIdYJyhpx",
+                "content": "Once you learn how to set it up, this app seems more user friendly to customization within it's intent. Very easy on the battery and very nice organizational capabilities. For the minimalist, this is probably the best launcher ro use! I am satisfied!",
+                "score": 5,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "v6.4.0",
+                "at": "2022-08-23 12:19:32",
+                "replyContent": "Thank you very much for your detailed review, I am glad you like Discreet Launcher!",
+                "repliedAt": "2022-09-03 09:16:21"
+            },
+            {
+                "reviewId": "81da9ed4-f519-418e-918a-da51d86e1570",
+                "userName": "Jewel Miraflor",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXaodjGk2ZxCjL5u0YjR8VWKWCZAKXhzhn4avV9VulkKZE",
+                "content": "Like it... very nice launcher..so far its so fast an simplicitys awesome... Tnx guys",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "v6.4.0",
+                "at": "2022-08-23 06:15:44",
+                "replyContent": "Thank you very much for your review, I am glad you like Discreet Launcher!",
+                "repliedAt": "2022-09-03 09:17:01"
+            },
+            {
+                "reviewId": "1fbabed2-b7d9-4201-bc1f-0b5f4acf9774",
+                "userName": "Guaracy Marques da Silva",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocK9Xk4igpS38gjwX5niW8KSFKMaZuUA-ttcmJHpoqs0=mo",
+                "content": "MUITO BOM MUITO MANEIRO",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "v6.4.0",
+                "at": "2022-08-08 16:08:30",
+                "replyContent": "Thank you very much for your review!",
+                "repliedAt": "2022-08-12 20:15:01"
+            }
+        ]
+    }
+]

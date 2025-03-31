@@ -1,0 +1,420 @@
+[
+    {
+        "filename": "SpartanJ-_-ImgurViewer.json",
+        "published_at": "2023-01-07T20:42:45Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "e8759d23-e868-4c46-a22d-d3d2df116ed5",
+                "userName": "Donald Mollohan",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXbFmM7LtZxvh1LcbG-IEcpVIi6QVaq9bYwyjd3QEuadQ",
+                "content": "I just want to say this app is wonderful, and you can tell this app was made with love. All it does is what it does. Someone loves this app and takes care of it. Very well done.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.3.6",
+                "at": "2023-09-25 18:16:21",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "cc3bb47c-ccb9-4e94-9f7a-9d15afcd4c3b",
+                "userName": "David Gruenberg",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVo0yi8TcEcYWGOfTEF82pRWmjQzWJ8xizcYtSWIFkmVhc",
+                "content": "It does work to view imgur from RIF but the download doesn't work. They are no storage permissions (I think with the Android 13 how downloads perms work was changed)",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.3.6",
+                "at": "2023-08-25 22:40:44",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "42ad16ce-6d5a-4862-a122-4942dc27d748",
+                "userName": "an android user",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVCL6j90v6CV_fFbiiF51V01_4IRMt4wJpwd5YuVvpbFg",
+                "content": "app is showed for viewing image files but when you select it doesn't do anything.",
+                "score": 4,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.3.6",
+                "at": "2023-06-09 14:53:01",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "740d3dbc-5225-44d8-9e34-0a2e62105830",
+                "userName": "MD. ASHRAFUL ISLAM",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKVJek8KFDrNI6b2ihTFFSoed_GnanpV1gGkxOD7U2S=mo",
+                "content": "Awesome this app",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.3.6",
+                "at": "2023-04-25 20:07:00",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "7f06edc5-6a08-4886-a06d-3e94e1d27230",
+                "userName": "King Kambrook",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJ-SpwvS1rr2OJwo-FNKMyPqu8qbdQ2BYeupT6womZR=mo",
+                "content": "A fantastic app that fills an extremely specific niche with zero bloat just very useful features. Perfect for when I'm browsing SA and want to send a picture to someone on fb/discord in just a couple of taps. Unfortunately the \"share as media\" feature hasn't been working for me for the last couple of days but I'm rating this five stars anyway because this app deserves it and I have high hopes that the issue will be fixed soon due to the attentive and active dev.",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "2.3.6",
+                "at": "2023-03-04 01:59:22",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "SpartanJ-_-ImgurViewer.json",
+        "published_at": "2022-06-25T23:26:55Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "3f9820ce-44f0-463f-8478-b66fbb7a6c81",
+                "userName": "Eric Attle",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXkB3JfjXBSAipsNiQb855yaCeUEnlTLh0GrCYb48PIy0w",
+                "content": "Changed my review because gyfcat is working fine. Great app, highly recommend it works flawlessly on so many sites. Updated frequently as well.",
+                "score": 5,
+                "thumbsUpCount": 9,
+                "reviewCreatedVersion": "2.3.2",
+                "at": "2022-09-11 19:51:55",
+                "replyContent": "Hi Eric. Redgifs has been fixed in the latest version. gfycat is working for me, can you share please a link that it's working for you? Thanks",
+                "repliedAt": "2022-09-10 05:56:52"
+            },
+            {
+                "reviewId": "71ba8280-aab5-41e8-9a6b-aa58b2bec9c7",
+                "userName": "Neil Sparks",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUGrh2OoRZ7bWfYsVqGMj13mEV1Z1ea2CRypNUHs9giYA",
+                "content": "Very useful app but tapping on the seek bar re-mutes an unmuted video. Very annoying. Edit - Very responsive developer A+ :-)",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.3.2",
+                "at": "2022-09-06 03:37:18",
+                "replyContent": "I just sent a new release with the fix. Thanks for reporting it.",
+                "repliedAt": "2022-09-06 03:35:47"
+            },
+            {
+                "reviewId": "ef30e37a-32b4-44b3-a8d0-555a50ff742c",
+                "userName": "Megan Lee Webb",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVePotJaeCxgezX4Q9DpajWg5uzhXgQ9ieDonSQNGwgHUA",
+                "content": "Faultless and very fast! Love it when opening albums.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.3.2",
+                "at": "2022-06-26 08:13:22",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "SpartanJ-_-ImgurViewer.json",
+        "published_at": "2022-06-05T19:26:50Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "SpartanJ-_-ImgurViewer.json",
+        "published_at": "2022-02-06T04:32:18Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "SpartanJ-_-ImgurViewer.json",
+        "published_at": "2021-09-26T05:17:59Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "94373b1f-ba86-4060-a678-ae8066795755",
+                "userName": "The Jucktion",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXhKgAf5h7Y1O8VecSzInXHlBlW3KCJtBzM6i3Xnm1ZKA",
+                "content": "When the media (say imgur image) is shared, it seems to download the pictures to the Pictures folder. It would be nice if it used a temporary cache folder for it without storing it permanently.",
+                "score": 5,
+                "thumbsUpCount": 5,
+                "reviewCreatedVersion": "2.2.2",
+                "at": "2021-11-30 06:42:52",
+                "replyContent": "Can you please send me an email with an example? I haven't had any problem, I use it quite a lot, my guess is that you are opening the reddit videos with an app that behaves differently than the ones I usually use. Thanks.",
+                "repliedAt": "2019-10-21 04:57:59"
+            },
+            {
+                "reviewId": "30d02344-9468-4944-9dcc-f4481d2a36b6",
+                "userName": "Tom Anderson",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVGzvrMaJEhXoYdVluMzAa-xB7AcIiPjlnZFYHV71dGr329",
+                "content": "Edit: The developer fixed the issue, so glad to be able to use this app for twitch clips again! I like the app but miss twitch clip support, has been broken for a few months now.",
+                "score": 5,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "2.2.2",
+                "at": "2021-09-28 14:48:31",
+                "replyContent": "Hi Tom! The issue should be fixed in the latest release. Check it out, please!",
+                "repliedAt": "2021-09-28 13:33:24"
+            },
+            {
+                "reviewId": "aa151138-76c2-4068-a938-4f34c6b62bf6",
+                "userName": "D Money (Dmoney)",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVM06zOqeCIMFljQTlxeYNCHNl9_U6_RzLLki45vCJ7KeM",
+                "content": "👍🏼",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.2.2",
+                "at": "2021-09-27 06:14:20",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "SpartanJ-_-ImgurViewer.json",
+        "published_at": "2020-09-27T17:59:41Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "3f252c1e-ff30-4743-a549-3e10f1600c51",
+                "userName": "Briggs",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXmiALvkatajI9son_TU67AM5lUiISa2y7RmFvaQjKwNyg",
+                "content": "Exceptional. The imgur app, and website are all but unusable as a mobile user currently. This app solves it elgantly and is the least bloted app I have ever used.",
+                "score": 5,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "2.2.1",
+                "at": "2021-07-18 17:44:21",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "7efd288c-ed6a-4c08-acd1-a7ffa4be7796",
+                "userName": "M.Anvith Bidadi",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUo1rTPS0CX0BZrE1gnrygVfL6ohDBIMQu0sPCXhf4SXdc",
+                "content": "Great app. But it is giving \"could not resolve video URL\" ERROR. PLEASE FIX THIS",
+                "score": 4,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "2.2.1",
+                "at": "2021-05-02 11:24:56",
+                "replyContent": "Sorry, it was accidental. I uploaded a new version: 1.9.9. Please let me know if the issue is fixed for you.",
+                "repliedAt": "2018-12-15 23:29:27"
+            },
+            {
+                "reviewId": "ac0d92be-303c-452f-a245-be7374ef6334",
+                "userName": "adrian ntd",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjV8O5qXM5htDYmgwFLT6KxW6W44eOIHVzY745UoVGUoEyk",
+                "content": "I keep getting \"couldnt resolve video url\" lately. I use it together with sync for reddit for redgifs and it just suddenly stop and gives me that error. Not sure what happened. Other than that it does what it needs to.",
+                "score": 4,
+                "thumbsUpCount": 19,
+                "reviewCreatedVersion": "2.2.1",
+                "at": "2021-04-18 08:43:06",
+                "replyContent": "Hi Adrian! There's a new version that fixes those issues! If there's any problem just let me know. Regards",
+                "repliedAt": "2021-09-28 13:44:03"
+            },
+            {
+                "reviewId": "6a35500a-5ea2-40f4-bc33-c85c55f52d58",
+                "userName": "Ult Light",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUCstqXvte8WPnl5gWIZvUSmsHGe0I_3R8P6y3zdO7AB3E",
+                "content": "I think it's great but for whatever reason, it doesn't show up as an option to open with.",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.2.1",
+                "at": "2021-04-15 17:39:18",
+                "replyContent": "Can you describe your setup? From which application are you trying to open the links? Can you share some of the links that you are expecting to open with ImgurViewer but it doesn't? Thanks!",
+                "repliedAt": "2021-09-28 13:45:27"
+            },
+            {
+                "reviewId": "414e163b-adfe-49ec-adf2-76ac27c91f6b",
+                "userName": "Jeremy MN",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUMbTAP4UuMlHkEJcIj3AibXOD4ecgB9otKaugxOLOYxMaz",
+                "content": "Needs support for streamye, streamvi & streamwo. Otherwise solid.",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.2.1",
+                "at": "2021-03-20 17:11:51",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "c1ed0972-cda4-4382-b71b-c69151fad1dc",
+                "userName": "dpicks24",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUHkdPb0qmqQ_0faO23UQUX24oz70RDtakt-4w4unMInJQ",
+                "content": "Legitimately the most underrated and simplest app!",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.2.1",
+                "at": "2021-03-19 20:49:54",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "d624d36f-dc1a-47e9-b337-467b32f0cdf3",
+                "userName": "Pen Of inspiration",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXlUNdc6bvtKNy-TXAACRG159rrUWUYqPS9AG-K5wbeYo2S",
+                "content": "Useless doesn't do what its meant to do",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.2.1",
+                "at": "2021-02-07 08:07:34",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "4b6f70d0-ecf6-4f74-a84d-b11a384ad291",
+                "userName": "Nathan Gill",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWuOQTVZl5CvHK6QYAm7Ym8c5CRkPKI0ij88yDAvruunj0",
+                "content": "Fantastic app to load video content not just from Imgur, but many other websites natively instead of in your browser.",
+                "score": 5,
+                "thumbsUpCount": 6,
+                "reviewCreatedVersion": "2.2.1",
+                "at": "2020-11-02 16:05:35",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "acc4cf5e-030b-494e-be65-964216cb69a4",
+                "userName": "Aaron Belcher",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWq3U9OKe5freNDoiufpdrKcM-ORHPKl3zHXqUJ0zTSupDH",
+                "content": "Great app. The gesture make it fast and fluid to use with any other app.",
+                "score": 5,
+                "thumbsUpCount": 6,
+                "reviewCreatedVersion": "2.2.1",
+                "at": "2020-10-26 22:40:57",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "fbd3eed3-7a8c-4522-b5a8-0bde66208a20",
+                "userName": "Al Neuman",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUc1U1F81cFwR3oAuiJSKs59thD3lXGEAilEppuo9VHwA8",
+                "content": "No buffering now when I watch videos. Also allows me to view Instagram.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.2.1",
+                "at": "2020-10-09 23:24:14",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "1c9dfd70-63b9-4a3f-8f22-8608b44044f7",
+                "userName": "Mohit G",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVBdL1w5LZkjspR4Zl6uZqZKIq9oxVd-kTyLDNcwBe-OMlu",
+                "content": "Nice app. Old review: Nice app. But add the option to choose URLs of which sites this app responds to. I am unable to view instagram profile of people because of this app.",
+                "score": 5,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "2.2.1",
+                "at": "2020-09-27 18:56:36",
+                "replyContent": "Removed Instagram profile view support in the latest version, since it wasn't working and I'm not interested in mantaining that, though image and video links are still supported. Thanks.",
+                "repliedAt": "2020-09-27 18:04:38"
+            }
+        ]
+    },
+    {
+        "filename": "SpartanJ-_-ImgurViewer.json",
+        "published_at": "2020-08-21T02:30:40Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "b762147a-7859-452b-b120-6cc9b989272a",
+                "userName": "Gabe W",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVNnqdr0ea7cRvpIwB4YF5iBcU-KjoSd7NnXnd3ly8dMw",
+                "content": "Works great one issue is that when I save let's say 5 images, when it is done downloading it just stays stuck on downloading. Galaxy s10+",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.2.0",
+                "at": "2020-08-24 01:38:43",
+                "replyContent": "Hi Gabe, I cannot reproduce this issue, may be you can send me an email (support[at]ensoft.dev) with a gallery link that gives you this issue. Thanks!",
+                "repliedAt": "2020-09-27 18:10:25"
+            },
+            {
+                "reviewId": "01491a82-87db-4696-8559-bf76d36f951f",
+                "userName": "Brian",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUdbfX85d4rkc_ymG9X0g1HhcKjozSDZK4TYK4on6fnpu0",
+                "content": "Fetches Imgur content and displays the media in a minimal viewer.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.2.0",
+                "at": "2020-08-21 17:48:59",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "SpartanJ-_-ImgurViewer.json",
+        "published_at": "2020-07-12T03:30:33Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "1ed8b59d-691c-4479-9fd8-fa8c7bb94325",
+                "userName": "Noxious Ophidian",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWwSCN07zHwLsRRiR1NvqTbAxVqwPNEWz3zbz4WHk_PFIsu",
+                "content": "Functional.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.1.9",
+                "at": "2020-08-02 04:32:42",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "a0cf0354-7c76-41dd-9f15-fc0cc9dcb434",
+                "userName": "Mike Yamry",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWG10Bl-k44-Mgzz_1KtjuT6DtQzSIwhyJYZK00TqDKlWg",
+                "content": "Media opens really fast compared to opening in browser!",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.1.9",
+                "at": "2020-08-01 16:46:13",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "53ea6eef-af0e-4af2-9646-fa0159a21db9",
+                "userName": "Curtis Shimamoto",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXyklJi1UIaPLfOA8P51pYmZoVaDiZEmJNJmEXO7BKNx-4c",
+                "content": "This is so well done that I often forget that it is a third party app opening image links for me. It seems to work great with Relay for Reddit, and it works with a surprising number of various image services... and some video services too! Installed it on a whim, and couldn't be happier with the outcome of said whim. Keep up the excellent work Mr ImgurViewer Dev!",
+                "score": 5,
+                "thumbsUpCount": 9,
+                "reviewCreatedVersion": "2.1.9",
+                "at": "2020-07-14 10:27:43",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "SpartanJ-_-ImgurViewer.json",
+        "published_at": "2020-06-22T18:52:19Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "0681fbae-fdf5-4bad-ac0c-7dfd6e128084",
+                "userName": "Paul G",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJOe0GK3AsZaUWlTCwArQ6xtrDXRHZmrAlPqgcj0NqP=mo",
+                "content": "Awesome app that for my usage wants to do too much. I already have default viewers that work great for everything except imgur galleries, and due to android limitations I can't specify this viewer to work for imgur galleries from clicks within various clients without this viewer opening EVERYTHING. Please consider offering an app that is only compatible with imgur without also wanting to display gfycat, redgifs, ****hub, and the kitchen sink, since android won't let me pick and choose. Thanks.",
+                "score": 4,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "2.1.8",
+                "at": "2020-09-05 05:46:19",
+                "replyContent": "Thanks. You can fine-grain to open only imgur links, but you have to be very careful not to select to auto open links from other sites the first the you open something with ImgurViewer. Try reseting the defaults again. Anyway, you are right, Android is really bad managing the default applications, and I can't do much about it. Regards.",
+                "repliedAt": "2020-09-27 18:07:59"
+            }
+        ]
+    },
+    {
+        "filename": "SpartanJ-_-ImgurViewer.json",
+        "published_at": "2020-06-10T05:05:31Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "82b3dda8-4274-49f8-b221-28c4a69f426f",
+                "userName": "GonePh1shing",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjV0xhgWYTwJOmq3R8mLxw2GlGaGqgSjq4hBFkCSRWAhPA4",
+                "content": "Works great. Does what it says on the Tin and then some. Only minor gripe is I can't modify the \"supported links\". This is more of an Android limitation than anything else, but I'd love to be able to blacklist some domains so they don't open in this automatically. My only other option is to have android ask me every time I open something, which wouldn't be a great user experience.",
+                "score": 4,
+                "thumbsUpCount": 15,
+                "reviewCreatedVersion": "2.1.7",
+                "at": "2020-06-21 07:24:56",
+                "replyContent": "I agree 100%, but as you already said... that's am Android issue, I can't fix. The rules are being applied most of the times per-domain basis, so you can more or less have control over what to open with the app, but it isn't perfect.",
+                "repliedAt": "2020-06-21 17:14:44"
+            },
+            {
+                "reviewId": "d580fc18-fe3a-4d48-b59f-2c95f3be11f9",
+                "userName": "Mark Susey",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXejlzU6riP1l77b5MmKyVhF3vudBAqeeiMBb9L494Y3T0P",
+                "content": "Great functionality and unmatched aesthetics. To the best of my knowledge, no other app does, within itself, what this viewer does so capably. If you're frustrated with what you're using, now, then what are you waiting for?",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "2.1.7",
+                "at": "2020-06-16 03:21:29",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    }
+]

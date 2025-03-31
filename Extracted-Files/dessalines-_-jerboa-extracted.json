@@ -1,0 +1,55 @@
+[
+    {
+        "filename": "dessalines-_-jerboa.json",
+        "published_at": "2023-03-02T02:31:25Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "dessalines-_-jerboa.json",
+        "published_at": "2023-02-06T16:38:42Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "dessalines-_-jerboa.json",
+        "published_at": "2023-02-03T03:56:22Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "dessalines-_-jerboa.json",
+        "published_at": "2022-12-30T02:29:39Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "0fde9084-c080-4cc1-92c5-188ab2f1cc09",
+                "userName": "Jack Eberle",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjW66PtCjAivlfHSUutLvPP89K9szQVkxjqCEYsFKXV6GM8",
+                "content": "Lemmy is a great social network for finding news and important discussions. Jerboa is quick and works exactly as expected.",
+                "score": 5,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "0.0.23",
+                "at": "2023-02-03 04:01:38",
+                "replyContent": "Thanks! Glad someone finds it useful.",
+                "repliedAt": "2023-02-03 04:01:11"
+            }
+        ]
+    },
+    {
+        "filename": "dessalines-_-jerboa.json",
+        "published_at": "2022-12-22T16:34:25Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "dessalines-_-jerboa.json",
+        "published_at": "2022-10-10T16:03:37Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "dessalines-_-jerboa.json",
+        "published_at": "2022-07-20T14:18:47Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "dessalines-_-jerboa.json",
+        "published_at": "2022-04-19T18:05:58Z",
+        "google_play_reviews": []
+    }
+]

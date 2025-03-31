@@ -1,0 +1,337 @@
+[
+    {
+        "filename": "Lauszus-_-FaceRecognitionApp.json",
+        "published_at": "2018-12-17T00:49:52Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "ce17d106-f471-4059-abb2-6bdc1669b49d",
+                "userName": "Elbert “Giffinator .” Giffin",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUXtzmFwEWEYFBtnbC5OAjf4xKDyNVvehKGTocTaTe_SOs",
+                "content": "All it does is take pic. I can do that with my camera.",
+                "score": 1,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.2.3",
+                "at": "2021-09-11 00:54:31",
+                "replyContent": "I do not understand how you can take the time to write a review, but not actually read the app description? This app is for developers and is not meant for end-users. The purpose of the app is to showcase how to calculate Eigenfaces and Fisherfaces. You can read more about it here: https://github.com/Lauszus/FaceRecognitionApp",
+                "repliedAt": "2021-09-11 23:52:17"
+            },
+            {
+                "reviewId": "0fd89073-4fa0-459a-9f96-0e8d667ba2a6",
+                "userName": "Omara Oscar",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjX55WB7IzK4ol_yLh6ueIhA3WdTYiEMSy0q7iKkUOcEBQ",
+                "content": "Nonsense it has no important work to do. Rubbish you wasted my time only camera working but also do not take pictures. Stupid",
+                "score": 1,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "1.2.3",
+                "at": "2021-06-18 12:00:28",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "a866eba0-651e-425c-8b3d-ceec483fe217",
+                "userName": "Debri Pramiarta",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWND48uSdMntp9wU-cC5u7RoAfz7Jdrc7w7ASHbAZV3YA",
+                "content": "thank you 😊",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.2.3",
+                "at": "2020-12-29 08:19:58",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "a60c9045-9d8a-43a2-a0a3-4a51003416bb",
+                "userName": "Jay axel C.Balatucan",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKiRQrafAzHONWkB7XULerP3AK65SJVQhiZy0G3dxSn=mo",
+                "content": "its ugly",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.2.3",
+                "at": "2020-10-25 13:11:26",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "4b04e944-6bef-4fee-baae-3c7596790f04",
+                "userName": "Levi Armida Morales Alarcon",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVwL93AwI9jOT_qDCMUL3m1k6lPbOhQrP5_Re9q8-_0Kw",
+                "content": "🤝",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.2.3",
+                "at": "2020-06-20 19:33:13",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "f2578229-5aa4-4067-9e77-99d8be665e89",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Wastage of time... Not recognised any person.",
+                "score": 1,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.2.3",
+                "at": "2020-03-23 02:29:01",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "80e0a511-6112-437c-9af5-0b2a31496fbf",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "I did not understand the working of application. It just take pictures and nothing else.",
+                "score": 1,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "1.2.3",
+                "at": "2020-03-14 09:06:38",
+                "replyContent": "Please read the description. This is a demo app for developers. If you are not a software developer, then this app is of no use to you.",
+                "repliedAt": "2020-03-14 09:19:23"
+            },
+            {
+                "reviewId": "3776b8a7-f168-44be-9905-9defb0f40e2a",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Good job",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.2.3",
+                "at": "2020-02-11 04:16:00",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "2c2db699-f696-47c5-9a2a-5d8fbff004c4",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Annoying",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.2.3",
+                "at": "2020-01-11 16:11:16",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "03836b34-6434-4a3d-bdfc-5e3c21c94e4b",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Crashes at the start.",
+                "score": 1,
+                "thumbsUpCount": 11,
+                "reviewCreatedVersion": "1.2.3",
+                "at": "2019-08-17 09:04:57",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "47a44241-da44-4fdb-823d-4157a8b909f9",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "I thought it reveals the person name after you have made the photo lol. Am not creepy but I have pictures of old friends in the school who I want to connect but I forgot their names so I need a app that does that.",
+                "score": 1,
+                "thumbsUpCount": 15,
+                "reviewCreatedVersion": "1.2.3",
+                "at": "2019-07-14 09:41:26",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "b9a475e9-bcdb-4dae-be8c-3a8c4ba08a3f",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "I'm giving three stars now because the app only shows the same result from previous test. Doesn't accurately identify the human face",
+                "score": 3,
+                "thumbsUpCount": 30,
+                "reviewCreatedVersion": "1.2.3",
+                "at": "2019-04-20 21:13:58",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "f079bf53-c996-4422-a83b-0895bc2bbc56",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Its working fine when recognizing already registered person. But it doesnot work for unknown person who is not in database. For every new or unknown person it show the name located lastly in database.",
+                "score": 4,
+                "thumbsUpCount": 55,
+                "reviewCreatedVersion": "1.2.3",
+                "at": "2019-03-18 11:59:41",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "2f877152-3d57-4ec8-9fdd-015bd2cb915f",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Cant believe there are some people who knows nothing about the purpose of this app but yet leave horrible review. Read the description, it's for testing/learning purposes for devs",
+                "score": 5,
+                "thumbsUpCount": 38,
+                "reviewCreatedVersion": "1.2.3",
+                "at": "2019-02-25 22:28:30",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "ad5a8ba4-b3be-47a5-8089-717cf059d919",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "crashing",
+                "score": 1,
+                "thumbsUpCount": 12,
+                "reviewCreatedVersion": "1.2.3",
+                "at": "2018-12-31 10:49:24",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "Lauszus-_-FaceRecognitionApp.json",
+        "published_at": "2018-06-06T19:08:21Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "77474981-d72a-459d-9479-4b18fa54cde9",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "worst apps",
+                "score": 1,
+                "thumbsUpCount": 13,
+                "reviewCreatedVersion": "1.2.2",
+                "at": "2018-07-05 18:13:48",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "Lauszus-_-FaceRecognitionApp.json",
+        "published_at": "2017-05-29T13:42:13Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "906bc119-c1a7-4f42-95c5-0facca6c6b87",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "No settings to do facial recognition scan and check against databases is \njunk",
+                "score": 1,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "1.2",
+                "at": "2018-05-30 19:23:10",
+                "replyContent": "This app is meant for developers that want to use face recognition in their own applications and is not meant for consumer use.",
+                "repliedAt": "2018-06-06 13:50:04"
+            },
+            {
+                "reviewId": "ab5e6c18-ecbd-4466-a150-3c834bf040dd",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "This app is ideal for developers and with the source aids the user in \nbuilding face recognition systems. It is not designed for people to just \nadd to there collection. Many thanks for posting this and your development \nteam.",
+                "score": 5,
+                "thumbsUpCount": 16,
+                "reviewCreatedVersion": "1.2",
+                "at": "2018-05-10 22:10:08",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "5be38d5b-85f4-4c2e-b067-75c4d4041b24",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Great that the source code is provided. Very useful for learning how to perform face recognition. Much appreciated; keep up the good work !",
+                "score": 5,
+                "thumbsUpCount": 10,
+                "reviewCreatedVersion": "1.2",
+                "at": "2018-01-18 13:32:45",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "26793e5a-2495-4a2a-b46a-c7a85169b68e",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Wow thank you.",
+                "score": 4,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.2",
+                "at": "2017-12-27 11:29:59",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "650b66d2-3732-4452-b22e-ba38dd09bd42",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Ok. So How can u View the pic you took. What is the point. I thought that once u save the faces, u can scan the face and tell u the name! All u do is snap pics, and name them, WHAT A RIPOFF!!!",
+                "score": 2,
+                "thumbsUpCount": 19,
+                "reviewCreatedVersion": "1.2",
+                "at": "2017-11-27 22:01:21",
+                "replyContent": "It should be able to recognize faces after a little training. Have you tried training multiple faces? Note when you select a label you are actually improving the algorithm, as it will get more pictures of the same face. Note this app is mainly meant for developers and not mainstream uses.\n\nFinally how is this a ripoff, when you get it for free? :)",
+                "repliedAt": "2017-12-05 09:58:30"
+            },
+            {
+                "reviewId": "5e513538-1aa0-464d-b085-9fbcb94129c4",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Terrible",
+                "score": 1,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.2",
+                "at": "2017-09-13 10:09:33",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "fe6eb097-c99e-40aa-a52d-96082271eaea",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Nice",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.2",
+                "at": "2017-08-11 14:21:13",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "06f8f7e4-b562-4fee-9cd2-093cd41467f0",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Awesome!",
+                "score": 5,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "1.2",
+                "at": "2017-06-28 20:38:28",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "c5c8928e-3a1e-400b-a5f3-411654ebeb4d",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "The source code is not found in the github. Can you upload it again.",
+                "score": 3,
+                "thumbsUpCount": 18,
+                "reviewCreatedVersion": "1.2",
+                "at": "2017-06-02 15:04:31",
+                "replyContent": "It is available on Github at the following link: https://github.com/Lauszus/FaceRecognitionApp.",
+                "repliedAt": "2017-06-06 21:49:10"
+            },
+            {
+                "reviewId": "a060bc6e-57d0-412e-a832-366441141b72",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Great app, extremely fast",
+                "score": 5,
+                "thumbsUpCount": 23,
+                "reviewCreatedVersion": "1.2",
+                "at": "2017-05-29 20:40:42",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "Lauszus-_-FaceRecognitionApp.json",
+        "published_at": "2017-03-11T10:45:36Z",
+        "google_play_reviews": []
+    }
+]

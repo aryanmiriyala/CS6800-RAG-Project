@@ -1,0 +1,367 @@
+[
+    {
+        "filename": "labexp-_-osmtracker-android.json",
+        "published_at": "2021-03-11T17:26:01Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "ec670759-ff86-444b-ab80-fa82ba0332ea",
+                "userName": "Tim Rainey",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWEnBmb_hHzCMbtR8MpnVxNvaXT73ZK2C2jqzsc7rV9hew",
+                "content": "A fantastically simple app that does what it advertises with good features and no junk.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.0.1",
+                "at": "2023-06-04 23:43:35",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "a2d012dc-2d00-416c-b57f-2853a6430fad",
+                "userName": "Joe Kazimierczyk",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXvUcCoCLxJDR1G7eitVlrbkfEyfZcRA1e4kiPD_TeVbUI",
+                "content": "The controls are not very easy to figure out. I have a hard time figuring out how to stop a recording in progress. I don't know what most of the controls on the main screen are for. It's not intuitive how to save your GPX recording somewhere. I tracks well, but doesn't show anything like distance covered, elevation, etc. I guess this app is meant for uploading data to OSM, but it's not great for a general purpose GPS tracker for hiking or cycling.",
+                "score": 2,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.0.1",
+                "at": "2023-03-21 22:08:15",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "a4962f2f-eb48-4f34-9506-aa1415043cad",
+                "userName": "Dan Roitner",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUX6beypsnwhFEUCD_6P3At3BJCR9WJOLXLh-sfvVxLT6U",
+                "content": "A simple straight forward GPS tracking app. I use it for MTB riding and Nordic skiing for years. Fairly accurate and locks onto the GPS signal better than other apps I have used. Does not drain my battery too fast. You can mark waypoints, and take photos at those spots for reference. Others use it for plotting maps on OSM. I have no time for that but the tools are there.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.0.1",
+                "at": "2023-02-28 22:23:31",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "5ebb665a-b30d-4336-817f-c3547479ee56",
+                "userName": "Cashmeriana Contenderia",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKtT1vv6i82iV5coHcVR30WKqNZiU85idmNZiGJmUtM=mo",
+                "content": "How do we use/extract voice/images from gpx tracks in this app?",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.0.1",
+                "at": "2023-01-01 10:06:17",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "e6dc831a-2039-4e94-af6a-884ea197a12c",
+                "userName": "Ezekiel Sunday",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJvHrKSXCUFSZBh87Tz5Q8zP7q4cIWpGQ2lI69czSwy=mo",
+                "content": "Best app for picking WaysPoint, but would have been better if the waypoint can be edited...",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.0.1",
+                "at": "2022-09-02 01:16:21",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "b655f18f-149b-496e-86af-d67a0d3b5bf9",
+                "userName": "Kenneth Gillen",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLy3E2iJ1epvwA-oFk-ZPTQyHt5jytfIVfol73se41oJCw=mo",
+                "content": "This is awesome. After losing Viewranger I've been looking for a track logging replacement. This fits the bill!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.0.1",
+                "at": "2022-03-23 19:36:28",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "5903e8cd-1021-4e1a-9400-8ba17958c4ad",
+                "userName": "Leonard Joseph",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJAPIGLmJM-WhUPdEaOiMAkDJsEAow4ZaoIGwNLcSIm=mo",
+                "content": "Good",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.0.1",
+                "at": "2022-01-09 15:10:18",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "e379a036-e9ba-4471-b3e8-590958625804",
+                "userName": "ABJ photography & video",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVuqjaDBXeevNZ9mdLfrXPlrcrS25yINmGWs48V3NI6jSc",
+                "content": "First impressions are good. Lot of options.",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.0.1",
+                "at": "2021-12-06 03:48:10",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "6121cb2c-e2dc-472b-b83a-d1d150fb2c89",
+                "userName": "James Leighton",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKrthRxBQDAz65Nol9O1d8n_98R4wGdJzdzsuSh_WRH=mo",
+                "content": "Excellent way to log walks, seems to be efficient, battery lasts a full day.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.0.1",
+                "at": "2021-10-27 07:31:45",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "65ca4ce0-daaa-4954-b618-57cfccbdf0c5",
+                "userName": "Otis P.d.Q.",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWOGkfNIdtlrBibGsJZgi5qv8SyskgXcTIG6oKVWVjQrkA",
+                "content": "Solid GPS logging app. I've been using it for years. Highly recommended. Thanks for the great work, dev. Please keep it up",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.0.1",
+                "at": "2021-07-25 09:21:39",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "labexp-_-osmtracker-android.json",
+        "published_at": "2021-03-02T05:20:25Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "9b574884-bc98-4933-9fce-5353a720eda1",
+                "userName": "Edwin Smith",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJrw5zyh5w6PaEJcqFUiLG0OspNHwQpGidxKB0X_ySo=mo",
+                "content": "New version crashes on OSM upload. Feedback during track is limited. Upload seems to be fixed by manually allowing Storage access in settings but installation and error messages need improvement.",
+                "score": 2,
+                "thumbsUpCount": 5,
+                "reviewCreatedVersion": "1.0.0",
+                "at": "2021-03-10 15:41:38",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "labexp-_-osmtracker-android.json",
+        "published_at": "2019-10-07T15:35:31Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "1eaca989-24b9-4c48-9e42-e864f7b8e096",
+                "userName": "David Metcalfe",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVRG1vuAhLxoCsZb1n1ifOjJoTpKtCgQJXOoTqLssQUsYdU",
+                "content": "With some work on the user interface, this could be a solid contender for recording GPS tracks, but the app hasn't been updated for over a year. Development seems to be dead and I can't in good faith recommend the app at this point.",
+                "score": 3,
+                "thumbsUpCount": 14,
+                "reviewCreatedVersion": "0.7.2-beta3",
+                "at": "2021-01-02 16:51:48",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "00d5eecb-a3a4-4333-a97f-fbdd7f84b9b4",
+                "userName": "Mahiich",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXTuttgtMRwnOR43My9fye6qceZkgp_la4pjm4VcoNDmmk",
+                "content": "Cant find gpx fix. I spent hours fixing it but nothing happened :(",
+                "score": 1,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "0.7.2-beta3",
+                "at": "2020-08-12 13:25:25",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "dd68a4d8-6325-4fd8-b3f5-efbca373057c",
+                "userName": "Basbas Mounir",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLEI8hbXRTr80LfgArc8rJwZNWM3sJayaNY6rnQHk2F=mo",
+                "content": "Doesn't allow to add calming traffic or to customize the main GUI tags You are stack with the default button tags",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "0.7.2-beta3",
+                "at": "2020-07-03 08:51:23",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "ea07fa50-6903-4869-a1e2-f3c0bbb4c8d0",
+                "userName": "james hancock",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKMiBBc4l7uJ6W0RYt6-Z10_J8wzMQg_LCixNisrk-c=mo",
+                "content": "Tracks location and uploads to OSM but no instructions for how to review the photos and sound recordings, which are handy for on-the-fly recording. Is there software that does this ?",
+                "score": 4,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "0.7.2-beta3",
+                "at": "2020-06-10 04:28:06",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "971b1a65-9631-49c7-8878-51e11fcbd1bb",
+                "userName": "Harrison Kilpatrick",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUoT2bSqVo4F0rfxeAZjKM7z7dZLXQjIHgqyIWTCETdZ6s",
+                "content": "My fav gps tracking app . . Good for taking nites in the field. To many preset types though.",
+                "score": 5,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "0.7.2-beta3",
+                "at": "2020-05-18 22:36:12",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "ad0dd169-5d1b-4b0c-9331-56ed6fb77712",
+                "userName": "Ana E Cruz nazario",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVAfprTlCNymL6fKG6V1gM2Cp-pgEgHLdGn906UEvfVeQ",
+                "content": "Wow this walking to you nice this training and everything great",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "0.7.2-beta3",
+                "at": "2020-04-29 23:58:20",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "520b505e-ad81-4728-87d6-d30bcb8ef757",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Very good, please fix the uploading crash",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "0.7.2-beta3",
+                "at": "2020-03-18 12:00:35",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "240f07e4-bf3c-4b27-bdf8-e28156a786af",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Good App for GPX record",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "0.7.2-beta3",
+                "at": "2020-01-24 13:58:15",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "3ac60a2e-a405-40e2-b79b-d87bf99c5d81",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Allows me to track trips, etc perfectly fine but always crashes when trying to upload to OpenStreetMaps",
+                "score": 2,
+                "thumbsUpCount": 5,
+                "reviewCreatedVersion": "0.7.2-beta3",
+                "at": "2019-12-16 19:49:10",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "4f361d14-4861-471b-8115-58e69e9c64bd",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Excellent app for recording one's tracks for use in OpenStreetMap or any other application/project that uses GPX files.",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "0.7.2-beta3",
+                "at": "2019-12-04 06:31:49",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "c86d2c38-644a-49a1-93c5-e04e40672208",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Useful to record GPS tracks, including compass direction. Can either export to GPX files or upload to OpenStreetMap. I also use the tracks to convert videos into geotagged photos for uploading to Mapillary. Sometimes gets stuck at \"Waiting for GPS fix to enable buttons\", but I can work around that. The facility to show a background map is useful.",
+                "score": 4,
+                "thumbsUpCount": 23,
+                "reviewCreatedVersion": "0.7.2-beta3",
+                "at": "2019-10-02 07:02:12",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "labexp-_-osmtracker-android.json",
+        "published_at": "2019-02-18T20:50:10Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "5f51614d-b15b-40ba-9d86-359463c8e603",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "buttons are very useful, full data of stored track can easily be transferred to computer.",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "0.7.1",
+                "at": "2019-08-11 16:03:05",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "2a6888e3-8f93-41fd-8680-6078bd8e0efa",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Отличное приложение. Работает безотказно. Один совет разработчику: после установки советуйте пользователю отключить контроль потребления электроэнергии для этого приложения, иначе Android будет его останавливать.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "0.7.1",
+                "at": "2019-06-29 01:50:15",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "1e2d34c8-68a1-454e-bb2b-112208d000f7",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Actually the background map is not displayed anymore. And in general would be nice when downloaded osm Maps could be selected as source. If first is fixed rating would be much higher.",
+                "score": 2,
+                "thumbsUpCount": 6,
+                "reviewCreatedVersion": "0.7.1",
+                "at": "2019-04-25 19:30:23",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "6f1a1edf-6136-4c07-a820-10c4c52bf56d",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "open street map is not showing under traces when clicked display. though it is checked in setting.",
+                "score": 3,
+                "thumbsUpCount": 7,
+                "reviewCreatedVersion": "0.7.1",
+                "at": "2019-03-07 08:40:07",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "ab0dd76c-4b54-4707-a237-4c99e6374c6e",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Quite efficient and easy to export gpx file!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "0.7.1",
+                "at": "2019-02-24 11:19:42",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "cd7aa835-5d50-406e-8453-3a390b52b030",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Simple and effective! This app can seamlessly record GPS tracks in the background without killing my phone's battery.",
+                "score": 5,
+                "thumbsUpCount": 8,
+                "reviewCreatedVersion": "0.7.1",
+                "at": "2019-02-20 06:41:44",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "labexp-_-osmtracker-android.json",
+        "published_at": "2018-06-29T22:22:00Z",
+        "google_play_reviews": []
+    }
+]

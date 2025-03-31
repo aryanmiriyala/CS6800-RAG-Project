@@ -1,0 +1,94 @@
+[
+    {
+        "filename": "MarcusWolschon-_-osmeditor4android.json",
+        "published_at": "2023-01-04T16:33:43Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "MarcusWolschon-_-osmeditor4android.json",
+        "published_at": "2022-06-07T13:37:21Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "7ad0c7ab-179d-4563-a34b-86b88f0cdd54",
+                "userName": "Maxim R",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUGJjpM36SVnwfKBtGP0AKeHVrYVeCbPc7IBMym010NoA",
+                "content": "Comprehensive, but thus is a little hard to use on a mobile device. I am often met with a \"not responding\" message, but everything seems to be working well. Edit: Will open up an issue if persists",
+                "score": 4,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "17.1.1.0",
+                "at": "2022-06-24 19:56:27",
+                "replyContent": "Thanks.\n\nIf the \"not responding\" messages are frequent could you open an issue here https://github.com/MarcusWolschon/osmeditor4android/issues so that we can investigate.",
+                "repliedAt": "2022-06-24 18:17:15"
+            }
+        ]
+    },
+    {
+        "filename": "MarcusWolschon-_-osmeditor4android.json",
+        "published_at": "2022-02-18T16:18:01Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "a4d44359-7695-41eb-8b3e-0cf605c4c30a",
+                "userName": "Kelson Vibber",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWW28MQzCmybM0bFqV9Tyz9oI5sKPdugJjQ6Yxh5Tc8nNhd",
+                "content": "If you want to seriously edit OpenStreetMap while you're out and about, Vespucci is the way to go. You can add, remove, and modify just about any paths or structures on the map, trace paths using your phone’s GPS and either add them through the app or upload them to use another tool. It uses a lock/unlock system so you don’t make changes accidentally, and you can place geolocated photos on the map to help you position features. That said, there is a steep learning curve when you start out!",
+                "score": 4,
+                "thumbsUpCount": 10,
+                "reviewCreatedVersion": "17.0.3.0",
+                "at": "2022-03-09 23:32:13",
+                "replyContent": "Thanks!",
+                "repliedAt": "2022-03-10 08:28:42"
+            }
+        ]
+    },
+    {
+        "filename": "MarcusWolschon-_-osmeditor4android.json",
+        "published_at": "2022-01-31T14:33:21Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "MarcusWolschon-_-osmeditor4android.json",
+        "published_at": "2021-11-17T10:07:58Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "MarcusWolschon-_-osmeditor4android.json",
+        "published_at": "2021-11-05T13:25:29Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "7a3f6b0c-11c1-436a-a1c4-54ce80ad8f16",
+                "userName": "Ahmad Baluchi",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIWPEb7wyAQu9uuWVpIwnB9H3Ssc_wsNufY3duGhd1c-Q=mo",
+                "content": "Good",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "16.1.0.0",
+                "at": "2021-11-07 03:55:22",
+                "replyContent": "Thank you!",
+                "repliedAt": "2022-01-08 14:58:06"
+            }
+        ]
+    },
+    {
+        "filename": "MarcusWolschon-_-osmeditor4android.json",
+        "published_at": "2021-09-23T06:50:32Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "d8933b14-bb4b-4098-9c68-1e8a7b46ec81",
+                "userName": "Abdullah Abdullrhman",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLzSCruzsOPvpnjGNtztpbBynisH83wQOS3xKU2QUAK=mo",
+                "content": "تطبيق رائع جدا",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "16.0.0.0",
+                "at": "2021-09-27 19:54:21",
+                "replyContent": "Thank you!",
+                "repliedAt": "2022-01-08 15:00:22"
+            }
+        ]
+    },
+    {
+        "filename": "MarcusWolschon-_-osmeditor4android.json",
+        "published_at": "2021-03-27T17:00:39Z",
+        "google_play_reviews": []
+    }
+]

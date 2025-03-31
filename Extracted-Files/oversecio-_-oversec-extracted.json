@@ -1,0 +1,88 @@
+[
+    {
+        "filename": "oversecio-_-oversec.json",
+        "published_at": "2019-03-02T04:00:26Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "oversecio-_-oversec.json",
+        "published_at": "2019-02-16T04:45:32Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "oversecio-_-oversec.json",
+        "published_at": "2019-02-09T03:48:04Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "oversecio-_-oversec.json",
+        "published_at": "2019-02-03T17:46:27Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "oversecio-_-oversec.json",
+        "published_at": "2019-01-20T04:44:04Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "875ac952-6e27-45b1-996b-de0c1f13bca1",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "tested it with discord, messenger and MIUI sms app, only in sms app it was able to decrypt text, so \"privacy in all apps\" is kinda false advertising.",
+                "score": 3,
+                "thumbsUpCount": 8,
+                "reviewCreatedVersion": "1.5.8",
+                "at": "2019-01-23 10:43:34",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "oversecio-_-oversec.json",
+        "published_at": "2019-01-12T05:14:54Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "5f5b6ac1-76f1-4519-9c34-7a1bae15742f",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Very sweet app. F-Droid version told me to upgrade when attempting to decrypt images, deleted the F-Droid version. I downloaded the Play Store version and upgraded. It still tells me to upgrade and only gives me previews, not full image decryptions. The other upgrade features work. Message overlays do not seem to be working in Facebook Messenger for me, disabled chat heads and overlays for that app, Oversec has overlays enabled. I do not regret upgrading, keep up the good work, devs!",
+                "score": 4,
+                "thumbsUpCount": 47,
+                "reviewCreatedVersion": "1.5.7",
+                "at": "2019-01-18 07:44:48",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "oversecio-_-oversec.json",
+        "published_at": "2019-01-09T14:46:06Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "70785acc-7489-4aeb-a792-1f2e1d03a9b3",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Great app but after an update (or transition to Android 9),I can't import my PGP key, only create a new one, which kinda defeats the purpose.",
+                "score": 4,
+                "thumbsUpCount": 5,
+                "reviewCreatedVersion": "1.5.6",
+                "at": "2019-01-10 01:22:32",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "6a415a0a-2ed7-4142-9566-a692a2040885",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "I wrote CrypticSMS ages ago with a similar intent. I love how you taken this to a whole new level!",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.5.6",
+                "at": "2019-01-09 17:59:33",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    }
+]

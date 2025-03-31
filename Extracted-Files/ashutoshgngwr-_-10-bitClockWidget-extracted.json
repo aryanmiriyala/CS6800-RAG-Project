@@ -1,0 +1,153 @@
+[
+    {
+        "filename": "ashutoshgngwr-_-10-bitClockWidget.json",
+        "published_at": "2022-12-11T15:23:26Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "34e34336-8867-4d5f-b9b3-bd9490f019b5",
+                "userName": "Eric Liebowitz",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjW73SpIao1044m4K5O4SXbC8hYkPaM_slb_Rlf4hCfmHIw",
+                "content": "Works perfectly. Exactly as described. Looks great. I wish it could be the clock on my lock screen!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.1-4",
+                "at": "2023-03-26 19:54:52",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "ashutoshgngwr-_-10-bitClockWidget.json",
+        "published_at": "2022-10-26T12:43:19Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "52e0f3da-c06d-4b67-bae4-d174a158b25e",
+                "userName": "Jay Bherwani",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjW3nZeN7_JJ0vQrDdEgKPhm5maYxqREY7__nUQj_HKDok0O",
+                "content": "Great app, just a problem I faced that is the clocks gets updated after 10 sec of the actual time changed e.g. time got changed from 10:10 to 10:11 but clock is still showing 10:10 now after 10-12 sec gap it will change to 10:11 All else dope thanks for the clock 🤜🏽🤛🏽",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.1-3",
+                "at": "2022-11-26 04:37:45",
+                "replyContent": "Fixed.",
+                "repliedAt": "2022-12-13 09:50:24"
+            },
+            {
+                "reviewId": "1957b7df-8973-408e-b00c-8501a61028c0",
+                "userName": "Joseph Franco",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjU0BeyTfPuIhUYH2Q4KLtsQJnlfZaQSTu9BujGJ88vT2Co",
+                "content": "Can you have a description on how to read the clock. I cant seem to figure it out. Different from the binary im used to.",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.1-3",
+                "at": "2022-11-09 16:57:45",
+                "replyContent": "HSB: Top Left, LSB: Bottom right. First three columns from the right are minutes, the remaining are hours.",
+                "repliedAt": "2022-11-09 17:05:21"
+            }
+        ]
+    },
+    {
+        "filename": "ashutoshgngwr-_-10-bitClockWidget.json",
+        "published_at": "2022-10-05T14:22:52Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "ashutoshgngwr-_-10-bitClockWidget.json",
+        "published_at": "2021-11-27T10:00:50Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "ashutoshgngwr-_-10-bitClockWidget.json",
+        "published_at": "2021-06-27T14:10:59Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "ashutoshgngwr-_-10-bitClockWidget.json",
+        "published_at": "2021-05-25T14:23:50Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "745df60a-8565-46f7-83a4-2cc6b669ca6c",
+                "userName": "NachoMist",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUNwNK321vLV23CBF6VXnmVe3fQ4Jj4hfI6PwYiljK0XSA",
+                "content": "Hands down the most attractive binary clock app I can find. Admittedly it took me a minute to figure out how the bits are arranged (I'm more used to BCD, and have only seen true binary arranged as two separate horizontal lines) but once I figured out which dot corresponded to which bit I actually found it quite a bit easier to read than any other true binary clock I've tried. The one and only gripe I've got with this widget is that the bits that are turned off - the difference in color between them and the bits that are turned on seem to be in a spot where maybe every 1 in 20 times I look at the clock I'll misread it thinking a bit that's turned on is actually off or vice versa. This is basically a roundabout way of saying I think in a future update it might be nice to be able to customize the color and/or transparency of bits that are turned off. It's a minor thing, I was going to only take a half a star off but it turns out Google doesn't let you use half stars so the 4.5 gets rounded up to a 5.",
+                "score": 5,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "1.9",
+                "at": "2021-06-22 03:58:16",
+                "replyContent": "Wait for a few days. I'll add an option to specify a color for the off bits.\n\nUpdate: I have pushed the new release. It should be available for download shortly.",
+                "repliedAt": "2021-06-22 05:40:11"
+            }
+        ]
+    },
+    {
+        "filename": "ashutoshgngwr-_-10-bitClockWidget.json",
+        "published_at": "2020-12-14T14:48:32Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "30b85410-1ef9-429a-a239-7c1b85621222",
+                "userName": "Mathijs Pittoors",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUoQeVdDlWGlHvvLdEQv0Ho1PDXFVgQMvkQTdo_CaDiNnJs",
+                "content": "I would really like to use the app and it looks very very good but I cannot place the widget. When I try to place it I get into a menu to customize but every way I tried to leave the menu the widget disappeared. I pressed the home button, back button, power button, open apps button. But nothing worked. Is their something else I could try? Edit: I found it! Disable gesture navigation and press the back button to save the widget",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.8",
+                "at": "2021-05-16 13:58:02",
+                "replyContent": "Shouldn't be a problem with v1.9. I disabled it altogether.",
+                "repliedAt": "2021-06-10 06:47:50"
+            },
+            {
+                "reviewId": "44959b0c-8c03-47b4-96df-bb516ab6e4e4",
+                "userName": "Garden of Eden",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXVIwoMMIHeK6k53upHgS7Ao2Cv4g4ABCnX5prJvVIOBw0",
+                "content": "It looks like it would be great, but it won't let me set it as a widget. I'm using a galaxy s10e, and whenever I press add, it sends me back to the app with no explanation. I'm not able to allow any permissions. I'd love if the app worked, but unfortunately it currently doesn't.",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.8",
+                "at": "2021-04-23 11:05:11",
+                "replyContent": "Shouldn't open anything now (v1.9) on adding the widget to homescreen.",
+                "repliedAt": "2021-06-10 06:48:28"
+            },
+            {
+                "reviewId": "82a296b3-8d97-44b2-a1b8-8e9cd31f141d",
+                "userName": "Ayah Jung",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWOaCRwz6Q7BST0srbJdJYUe5uYALCehjByxyqhc3kSrg",
+                "content": "I love it. Aesthetically, it's perfect for me. Simple and minimalist. Took me some time to understand how to read it tho, was close to keeping it just cos it looks pretty 😅 It works well too. It would be nice to have it in Always On Display mode, and to be able to choose a timezone. (and maybe interface improvement on the app but nonetheless i love it)",
+                "score": 4,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.8",
+                "at": "2021-01-13 20:39:40",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "ashutoshgngwr-_-10-bitClockWidget.json",
+        "published_at": "2020-10-23T09:52:25Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "2057b257-52b4-4269-9662-595503da3620",
+                "userName": "DD",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXs59O-kjf0XuvpOQVfHx3ffxXmMNNkZY-FWXuXRhfavUfi",
+                "content": "Version 1.6-3 works well",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.6-3",
+                "at": "2020-10-23 14:45:43",
+                "replyContent": "Thanks for the confirmation!",
+                "repliedAt": "2020-10-24 06:51:12"
+            }
+        ]
+    },
+    {
+        "filename": "ashutoshgngwr-_-10-bitClockWidget.json",
+        "published_at": "2019-06-08T07:52:54Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "ashutoshgngwr-_-10-bitClockWidget.json",
+        "published_at": "2017-10-22T18:21:47Z",
+        "google_play_reviews": []
+    }
+]

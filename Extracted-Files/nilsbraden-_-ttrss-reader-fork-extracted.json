@@ -1,0 +1,254 @@
+[
+    {
+        "filename": "nilsbraden-_-ttrss-reader-fork.json",
+        "published_at": "2020-06-17T13:18:45Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "nilsbraden-_-ttrss-reader-fork.json",
+        "published_at": "2020-06-03T11:00:51Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "nilsbraden-_-ttrss-reader-fork.json",
+        "published_at": "2020-05-28T13:22:31Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "nilsbraden-_-ttrss-reader-fork.json",
+        "published_at": "2020-05-19T07:46:57Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "nilsbraden-_-ttrss-reader-fork.json",
+        "published_at": "2019-10-02T09:02:30Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "46fae087-e768-4e1f-9c55-2eb5eca1762b",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "latest version is 100% broken on galaxy tab s5e, nothing respond, had to manually downgrade and it was such pain and a waste of time.",
+                "score": 1,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.94.6",
+                "at": "2019-10-15 22:15:28",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "3b55ad0c-7587-4de8-a887-d0c7e251fe95",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "I like how I can label feeds and generate a new RSS feed for each label. Perfect for sharing interesting posts with friends.",
+                "score": 5,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "1.94.6",
+                "at": "2019-10-12 09:04:41",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "95a88090-360a-44f8-aa8f-80069c8829ab",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Just works great, perfect compliment to your ttrss server",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.94.6",
+                "at": "2019-10-02 11:07:52",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "nilsbraden-_-ttrss-reader-fork.json",
+        "published_at": "2018-04-04T20:49:56Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "019b1893-221e-4803-a45e-587246e4d6d9",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Oreo support is back. Thanks!",
+                "score": 5,
+                "thumbsUpCount": 5,
+                "reviewCreatedVersion": "1.93.3",
+                "at": "2018-04-07 15:02:18",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "nilsbraden-_-ttrss-reader-fork.json",
+        "published_at": "2018-03-18T16:57:51Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "76f0861d-767c-4965-a3c5-745bafe2d7fd",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "It's great.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.93.1",
+                "at": "2018-04-06 14:45:53",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "nilsbraden-_-ttrss-reader-fork.json",
+        "published_at": "2017-04-17T17:46:04Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "6786e79c-cc5e-433a-acb7-25cbd3a7295a",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Navigation within feeds organised into folders structure should be improved: going back from feed preview screen is teleporting you into top of tree, and not to the subfolder as expected. Another point which I'm missing: short preview of feed directly in the list with new feeds. Beside of both points the app ist very good.",
+                "score": 4,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.92.0",
+                "at": "2017-12-30 17:05:18",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "cb120ec0-8228-4dc4-8c4e-a099278659ea",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Why is it so hard to swipe to the next article? I have used other ttrss apps and i don't have to swipe across the entire screen just to advance? Love the ui, just hard to use without effort.",
+                "score": 3,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "1.92.0",
+                "at": "2017-04-22 01:54:28",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "nilsbraden-_-ttrss-reader-fork.json",
+        "published_at": "2016-09-03T14:46:12Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "7147ff99-a84d-4f09-8927-a10b861aff7f",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "It works, but scrolling in larger stories is very choppy",
+                "score": 3,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.90.1",
+                "at": "2016-10-23 15:01:04",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "nilsbraden-_-ttrss-reader-fork.json",
+        "published_at": "2016-08-12T11:50:00Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "5dd77263-b682-4155-8d5c-1740ec14a7c6",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "It's free, no ads and works well. Not the prettiest app, but the one I use as it needs the least amount of taps to actually look at a news article.",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.90.0",
+                "at": "2016-08-12 13:30:19",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "nilsbraden-_-ttrss-reader-fork.json",
+        "published_at": "2016-04-10T20:36:27Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "2996fca0-8a31-4e49-aa12-c3b4302f9c41",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Looks like it won't work again. I hope Nils can fix the issue with getting fresh feeds.",
+                "score": 3,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.89.0",
+                "at": "2016-07-22 21:54:24",
+                "replyContent": "It should work again with the latest update.",
+                "repliedAt": "2013-12-23 11:37:41"
+            },
+            {
+                "reviewId": "9d8bb225-562b-4dbf-ace4-ec05a7aea0ce",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Endless errors using alternate CA.",
+                "score": 1,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.89.0",
+                "at": "2016-05-27 11:02:33",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "aaa08178-dae5-4732-b5e1-7c26e5173978",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "No problem using it with my server, with HTTP auth over TLS. Great app",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.89.0",
+                "at": "2016-04-16 22:12:31",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "nilsbraden-_-ttrss-reader-fork.json",
+        "published_at": "2015-10-25T16:26:09Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "9dcc5b38-d7c3-451e-a08e-c703b3e0574d",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "This is a great app!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.87.0",
+                "at": "2016-01-06 15:44:01",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "nilsbraden-_-ttrss-reader-fork.json",
+        "published_at": "2015-09-16T19:55:59Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "230ad804-e264-4672-a418-11300df0b700",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Does its job very well, responsive, fast and has a bunch of options. Maybe navigation could be slightly improved.",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.86.1",
+                "at": "2015-09-17 09:19:12",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "nilsbraden-_-ttrss-reader-fork.json",
+        "published_at": "2015-09-03T21:12:42Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "nilsbraden-_-ttrss-reader-fork.json",
+        "published_at": "2015-06-17T20:57:20Z",
+        "google_play_reviews": []
+    }
+]

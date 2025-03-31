@@ -1,0 +1,222 @@
+[
+    {
+        "filename": "mustafa01ali-_-Dev-Tiles.json",
+        "published_at": "2017-11-04T23:52:03Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "62a9f558-cb07-41a5-a4ae-7eaee79f79a0",
+                "userName": "Zohaib Jondas",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXE45BZmKTErMhn9SoP8r1l1P1Hk9kN2I02rLmtp_D8Lss",
+                "content": "I want to grow to my account",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.1.0",
+                "at": "2022-04-10 19:40:28",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "d084cc79-eabb-49fe-b37c-8a52f2152289",
+                "userName": "Mohammad Eidi",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLo3tsSi9C_IYKuvzI9v9Kz7YitWBiACRlBmCece3H0=mo",
+                "content": "Bad",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.1.0",
+                "at": "2021-05-23 07:59:23",
+                "replyContent": "Hi, what problem did you run into?",
+                "repliedAt": "2021-06-10 01:51:19"
+            },
+            {
+                "reviewId": "0d8d9a1f-649b-4448-b24b-c4732f4e5e9b",
+                "userName": "Caleb Sandersier",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVDMEmUaLg7WSEZ1zT0rQiLxgY8HLTqdcz_-xjhLX1vERM",
+                "content": "Seems cool, but after granting permissions, I don't see any enabled menu or options. Not sure why... Running rooted Android 9 Topway TS9 Headunit...",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.1.0",
+                "at": "2021-03-04 17:29:04",
+                "replyContent": "Are you seeing any exceptions in Logcat?",
+                "repliedAt": "2021-03-09 16:53:02"
+            },
+            {
+                "reviewId": "e6decf8a-b0bf-466d-9bdd-d0c2b593437d",
+                "userName": "Paul",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKjv2nAVsnw1B5mByuVTyrT8a9EHYmXgRlFIiocw3hz=mo",
+                "content": "This app adds useful shortcuts for settings I tend to toggle occasionally. I have one request: could the tile for toggling USB Debugging require unlocking the phone?",
+                "score": 5,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "1.1.0",
+                "at": "2020-05-25 20:01:08",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "3440e4bc-49ae-43ae-9323-c14a7f9b6349",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Cool app. But would be the best if it had force dark mode :p.",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.1.0",
+                "at": "2020-03-12 18:09:06",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "ecf350f3-3202-4d35-b9f8-3d52525589ee",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Must have for developers. My Phone without root, and have no native tile to toggle debuging. Also tcp for wifi debug is also enabled. So I need this app to toggle entire debug feature as fast as possible.",
+                "score": 5,
+                "thumbsUpCount": 5,
+                "reviewCreatedVersion": "1.1.0",
+                "at": "2019-09-29 12:59:39",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "1ca87c4d-d2d7-497b-87da-908934fdbf7e",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "it does what it says on the tin. good for quickly turning some dev settings on and off.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.1.0",
+                "at": "2019-06-08 17:41:05",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "7ce27dfc-d207-4b01-86fd-5b6bf33e3d6d",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "\"Keep screen on\" & \"Demo mode\" tiles have saved me hours! Thanks.",
+                "score": 5,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "1.1.0",
+                "at": "2019-05-08 16:51:19",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "fae04b06-c9de-4986-9987-d707932dca8d",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "good",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.1.0",
+                "at": "2019-04-19 07:34:08",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "b11b1a4a-e60a-4d61-bf8a-8e107c43ea1c",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Usefull app! One feature I would really wish was here is if it had a tile which would disconnect and detect usb again so i could switch apps instead of toggling debugging which is what i use for now.",
+                "score": 4,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.1.0",
+                "at": "2019-03-14 02:45:30",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "066f51a6-1235-4cfd-acc1-805b71f6dc14",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Super handy!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.1.0",
+                "at": "2019-01-08 15:29:21",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "8a00dd58-dff7-4126-b133-bb037ab0a0e3",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "This app would be perfect if it had a button to try to execute the command as root.",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.1.0",
+                "at": "2018-11-28 06:48:19",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "0511608a-71ba-4c2b-bf7a-03aea6dd6cdf",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Love it 🤩 would it be possible to include an option for Kill all \nactivities?",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.1.0",
+                "at": "2018-08-17 19:27:58",
+                "replyContent": "Thanks! I looked into adding that option, but the way it is done in AOSP is extremely convoluted so cannot be easily done with a non-system app. If you have any ideas, I'd be happy accept code contributions :)",
+                "repliedAt": "2018-10-07 18:22:07"
+            },
+            {
+                "reviewId": "a44f8157-fff0-449b-a594-3199cc2454d3",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Solves the problem perfectly, and without complications. I would pay for \nthis.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.1.0",
+                "at": "2018-05-12 18:43:25",
+                "replyContent": "I'm glad you are finding this app useful, Oren! This is something I work on in my free time and have no intentions to make money from. However, if it's not too much trouble, consider donating whatever you'd pay for this app to UNICEF so that it goes to someone who deserves it way more than me :)",
+                "repliedAt": "2018-05-12 23:31:07"
+            },
+            {
+                "reviewId": "4ec85956-1d57-4567-961c-ff2a7bd5aabf",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Love this! I use it to toggle USB debugging off when I want to watch my spectrum TV app. Thanks!!",
+                "score": 5,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "1.1.0",
+                "at": "2018-01-06 15:52:01",
+                "replyContent": "Glad you liked it! Please tell your friends about it :)",
+                "repliedAt": "2018-03-04 16:55:13"
+            },
+            {
+                "reviewId": "fac03289-7a7f-408b-8881-79d5e89cc763",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "It's very useful. One thing I should mention as drawback is when you have root the app could detect that and do everything by itself. Now you have to download terminal and copy and paste the commands one by one. Other than that its great!",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.1.0",
+                "at": "2017-11-19 22:14:53",
+                "replyContent": "Thanks for the feedback! I'll look into adding that ability in the app.",
+                "repliedAt": "2017-11-19 22:46:41"
+            },
+            {
+                "reviewId": "f9eb18fe-84b1-4fbc-91e3-a71f6b7c8e94",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Great app will recommend it to everyone",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.1.0",
+                "at": "2017-11-05 20:41:01",
+                "replyContent": "Thanks for reporting, I'll investigate. (Edit) No problem, I'm glad you figured it out!",
+                "repliedAt": "2017-11-05 19:15:51"
+            }
+        ]
+    },
+    {
+        "filename": "mustafa01ali-_-Dev-Tiles.json",
+        "published_at": "2017-09-19T00:54:27Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "mustafa01ali-_-Dev-Tiles.json",
+        "published_at": "2017-06-22T20:39:35Z",
+        "google_play_reviews": []
+    }
+]

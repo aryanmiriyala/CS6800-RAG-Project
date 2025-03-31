@@ -1,0 +1,1400 @@
+[
+    {
+        "filename": "JMRI-_-EngineDriver.json",
+        "published_at": "2023-02-27T18:01:20Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "5c22787e-729e-480a-a669-fc166201dd98",
+                "userName": "John Burt",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVklrV7PFiksHdWVPscdFgOX_VtCU7Q5eMWnn9jmOFDYQ",
+                "content": "Excellent app for model railways",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.34.163",
+                "at": "2023-08-22 12:11:57",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "f5dee2e5-a73d-4bd9-96ed-fd82ddc1e9c9",
+                "userName": "John",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUtpi1-h0WAOAb8jEhqFgnOp1WcrpgEv96JG7tI_FxH_KL7",
+                "content": "I'm new to DCC-EX waiting on my WiFi shield but I decided to download Engine Driver to prep for when my WiFi shield shows up. To tell you the truth I wasn't expecting much but I'm pleasantly surprised with the options for this throttle. Thank you for letting me become untethered from my layout and move around. I hope I can offer some meaningful enhancements to Engine Driver. Keep up the great work that you're doing.",
+                "score": 4,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "2.34.163",
+                "at": "2023-07-22 13:29:24",
+                "replyContent": "Thanks for the nice review, but why only 4 stars? That pulls down our average. If you have issues, please contact me via email.",
+                "repliedAt": "2023-07-22 20:47:46"
+            },
+            {
+                "reviewId": "5db81d50-1225-41c1-8894-89a4acc72461",
+                "userName": "Jamez _",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUTLOLhtZMcljs5wX-tTqipLTXgKYENb0ruysRrevlpYZ8",
+                "content": "Wow this works great! I wanted to tinker around with the wiThrottle that JMRI offers for my DCC++ system, and this worked flawlessly! Thanks guys!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.34.163",
+                "at": "2023-07-07 16:31:48",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "e7cbd62b-808f-4a0e-a005-4781d78a3997",
+                "userName": "Edward Audet",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocI2GJNJv-a1Ooe3hVmN_TK5MzRvQrVxJp9SDWOz_WQx=mo",
+                "content": "Excellent app use on DCC++EX and Dcc equipment runs great",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.34.163",
+                "at": "2023-06-14 12:49:02",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "30c0cc49-072d-4e4f-8152-86291f36c33f",
+                "userName": "Robert King",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKmrgxuCd0Lek8Mf9Jsh1CnOIcyc78QUwBvixXkC-vG=mo",
+                "content": "Brilliant App.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.34.163",
+                "at": "2023-06-04 14:19:53",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "4032c0dc-ab15-4cd9-a148-fda01a858b2b",
+                "userName": "Ian Marshall",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLsNE0UVAGiKiBmo8S6X4mzyJmaDf5Fvlg30d7KAzBX=mo",
+                "content": "Easy to use",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.34.163",
+                "at": "2023-06-02 14:33:18",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "14222a28-dd60-44c4-8d58-33ce5d231761",
+                "userName": "Edward Gates",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjX9j6OpjIPBQp2-jcTQHV3xvnNwevDrS50rBUF4ZlNVKmpW",
+                "content": "This is a great app that almost everyone in my club uses now",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.34.163",
+                "at": "2023-05-20 15:56:00",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "a1c2f36b-0beb-47a3-8fb6-ef9fe647fb32",
+                "userName": "Jeremy Johnston",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXD2HRRTlWDmojHaMx0rMDPnL7WVKk1-7wf0V4aXVAfcAc",
+                "content": "Works well.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.34.163",
+                "at": "2023-05-17 23:26:50",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "5a3d9b86-9ae6-4bd5-8e01-c8281d305a43",
+                "userName": "MK Lentz",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXilvSMp2Bgc-7rA9_WsB5OVoJOzOOVKy8q7o-sKQZwrPE",
+                "content": "By far the best throttle for DCC",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.34.163",
+                "at": "2023-05-04 11:52:47",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "5836c4f0-d645-49e3-ac9b-0af0920dbde1",
+                "userName": "stanley deviney",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJ8lt01vd1QerXMopA3001InX9SeNpHLQ4H4KL1b-QZ=mo",
+                "content": "A great throttle",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.34.163",
+                "at": "2023-04-13 18:03:26",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "JMRI-_-EngineDriver.json",
+        "published_at": "2022-08-19T01:49:38Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "130e98ff-716f-4fce-bf86-4f170e614cd2",
+                "userName": "Doug Sync",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJwEXT-Hk8tssmNtoDrzzFYzxbM9nt3KcOynA-Dnci3=mo",
+                "content": "Excellent app! I use several cheap older phones to run trains so everyone gets a throttle, no hazard to my main phone.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.33.155",
+                "at": "2023-03-04 20:00:09",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "86e2d036-bb84-438d-88b9-f29b280f2142",
+                "userName": "Dave Walsh",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXUP5tIkL85lFIWjfGpw9RKCGVmVV1i4upUt1ry-Tfwkaqt",
+                "content": "Works great with my dcc ex++ setup.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.33.155",
+                "at": "2023-02-11 00:08:45",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "daef84e2-8a3c-4082-9c9f-7119f340ce23",
+                "userName": "deepak nambiar",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocI4Kyn87Ax0dmAnMHIofKCWx9-8AqnwsDMyktU0cIM6=mo",
+                "content": "Very nice 👌",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.33.155",
+                "at": "2023-01-22 10:32:00",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "JMRI-_-EngineDriver.json",
+        "published_at": "2022-06-08T20:05:50Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "636d9fa4-603b-45ba-a7f2-f20c5ef802e8",
+                "userName": "Stu M",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLUBs7qGsoaY8dxHTclnEh1oFpfDK7UACdR4AKg2zIz=mo",
+                "content": "Works great",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.32.151",
+                "at": "2022-11-26 21:13:39",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "e1dcf182-8193-4750-8185-4cc5978536ec",
+                "userName": "Staff RMEO",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJbIR-m6m1q-Zo9KCj1mWI4_PZPDWze5AvLHT2hcDQ2=mo",
+                "content": "Well designed app with an exellent interface. This app can turn a surplus phone into a wireless throttle. Or add a throttle to something you are carrying anyway! It is the primary controller on the museum layout",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.32.151",
+                "at": "2022-10-26 13:13:16",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "d651d15a-9881-425e-85bf-de3336f707d6",
+                "userName": "Jonathan Laniel",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKedmtd-ABj3QZNqEL3AsQSEgOUQe6juXN5Ujz7VWWQ=mo",
+                "content": "Works great, use it with dccex++. The only thing that would be really nice it to have a screen layout that also has point buttons, or being able to swipe up or down to your points screen. Edit: Turns out there is a function to switch between the throttle screen and the points screen. Tap anywhere on the screen with two fingers and it will switch between the two.",
+                "score": 5,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "2.32.151",
+                "at": "2022-10-09 03:11:34",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "abe46273-b184-46dc-83b0-7053c23417a4",
+                "userName": "Niffler#1",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVtYlfC0qAb_kihRHarJs3Nq-PYDnjw90YCTcWx81nDDfI",
+                "content": "Actually a great system",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.32.151",
+                "at": "2022-09-26 04:18:04",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "cc9d6ca7-16f5-4e21-8dd1-0138ae40db6a",
+                "userName": "John Monk",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocK0A42Ifb76IbudJxsWaUa0z9SxxS3ipHN1QYADY1Jh=mo",
+                "content": "All good",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.32.151",
+                "at": "2022-09-03 06:15:53",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "fb98119a-411d-4f99-8cc8-40704631a5b5",
+                "userName": "Greg Garbacz",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVdZvtAhzDdmMyfgQXUzljDngXjb74zlwNh3VEQeAen6Y0",
+                "content": "Easy to use. Fun!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.32.151",
+                "at": "2022-08-11 22:17:01",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "6d32dada-65e2-409c-b67c-962bd7323736",
+                "userName": "Shriker",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUZcf2dgiqgHKRbDGOCNGdXIs54Ytl6ZwIsIlA6Mehd1Ec",
+                "content": "It's Great! Use it every time I operate my layout! Though I have a small glitch or setting that won't exactly work which is the recent loco option won't show up when I previously used a loco, which is odd, but won't subtract my five stars. I'm hoping it gets solved soon as this happened since I think the most recent update Edit: it got fixed, I don't even know what happened but I'm happy now!!!!",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.32.151",
+                "at": "2022-07-17 22:22:01",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "JMRI-_-EngineDriver.json",
+        "published_at": "2022-02-18T17:02:28Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "7a85f4b1-5da9-431d-bfc5-00da0c77176d",
+                "userName": "Don Van Akker",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIsE7Wk2VCHcy7zBelmSezVvg_Pr8uxqMZ79ymtppP2=mo",
+                "content": "This app was obviously developed just for the joy of doing a really cool thing. It adds levels of functionality far beyond commercial hardware based throttles. I use it with a DCC++EX command station. I have all my function keys on screen at once, usable without a shift key. I can control multiple locomotives from the same screen and I have a power button at the top that cuts power to the track and stops everything dead. Everything is configurable with many options. Thankyou Steve Todd!",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "2.31.139",
+                "at": "2022-06-22 14:59:06",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "0ec9a34a-af43-49a4-b880-f79e9b205d5f",
+                "userName": "Nathaniel Kempson-burns",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXDYNXZLIHPtMKGLBSq6xRFX2i06wqfEwtTmR2mUiCK1Q",
+                "content": "When it works this app is great, but the odd random disconnecting gets old real fast.",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.31.139",
+                "at": "2022-04-28 11:08:09",
+                "replyContent": "Most disconnects are wifi network related. Contact the developer (me) via email for support. Include details of your server and your wifi network.",
+                "repliedAt": "2022-05-18 13:59:04"
+            },
+            {
+                "reviewId": "3da1a497-d796-4a86-98a6-6b8c39dddb7f",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Running a layout using a Raspberry Pi (optional), DCC-EX and a bunch of old phones running Engine Driver. By far the least expensive way to have wireless DCC control. Love the option for sounds. How can I install more?!?",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.31.139",
+                "at": "2022-03-22 22:05:00",
+                "replyContent": "Contact me via the website or email and we'll help you with that option.",
+                "repliedAt": "2022-06-20 17:23:20"
+            }
+        ]
+    },
+    {
+        "filename": "JMRI-_-EngineDriver.json",
+        "published_at": "2021-10-30T00:17:31Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "152a4241-6d14-47c5-963d-ced706f3bb0d",
+                "userName": "Jason Brown",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKrIBtqa6qsCre1OW9EjyiJZeUnJ5o7nRF-oXj65BuQ=mo",
+                "content": "A fantastic app with incredible functionality, customisation and frequent updates adding even more features. It allows me to run my trains in the complex way which I desire while also allowing simple running for when I want to take it easy. It far exceeds it's (not free) Apple competition to the extent that I have recommended people purchase an Android device just to get access to this app.",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "2.30.133",
+                "at": "2022-03-19 01:39:56",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "c11f36bb-1f39-434c-8487-a0d106222411",
+                "userName": "H Nick Kulp",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKPRTl3BFEuAC-sfc10XwEQMYcDaIvYXLLXmJpV0Efy=mo",
+                "content": "When manufacturers stop repairing throttles, having a free replacement works wonders. Thanks.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.30.133",
+                "at": "2022-01-25 19:06:57",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "2bb9ba09-15c9-40f7-89eb-77c783dcb74a",
+                "userName": "steve magarino",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXFRbMoy_Gn4GVW_cDaC0G3JhIm9Cl9Wywg6vW1khS1ayc",
+                "content": "Doesn't work,,won't connect,,,please help Using Galaxy Note 10 5g,,and Tab S3,,the app appears on the wifi list,,then if it connects at all it says no Internet,,,and then drops off list completely,,,tried everything and looked at Utube for other help,,,no good and frustrating",
+                "score": 1,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.30.133",
+                "at": "2022-01-25 15:23:06",
+                "replyContent": "Please contact me via email and we'll figure out what's wrong. mstevetodd@gmail.com",
+                "repliedAt": "2022-01-26 01:21:46"
+            },
+            {
+                "reviewId": "4183e606-d34f-44bf-bb1c-dab16c129398",
+                "userName": "Patricia Byers",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLGsTRemN74JUyc2rZpGRYUDup0o82_puvoWL0Wxu6_=mo",
+                "content": "Best app for running your trains by far, always good updates",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.30.133",
+                "at": "2022-01-04 15:52:49",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "c1aafb60-2c6f-4bd5-8d9f-682bc1330213",
+                "userName": "Mike Spray",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLheOWHnQw4z-yEbvSZSIOjUK3Cna5zIPqTkdP2RxgufQ=mo",
+                "content": "Brilliant app and free as well.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.30.133",
+                "at": "2021-12-16 16:30:16",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "JMRI-_-EngineDriver.json",
+        "published_at": "2021-03-20T19:38:52Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "0d9783ce-c844-4f3e-b5f8-2ba35f720a57",
+                "userName": "Josh Swales",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUCe5x1KwDIMfgvafh0KJ03ptb9pKjr9OESJJOXsZ0Ghfc",
+                "content": "Brilliant, works great with JMRI running on a Raspberry Pi. I use this on an old Samsung S3 and it runs fine- sometimes slow on opening but that's the phone not the app. The only feedback I'd give is if there is someway of assigning vibration feedback to function buttons, so you can feel when youve turned a function on or off of not looking at the device",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "2.29.127",
+                "at": "2022-01-22 18:34:40",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "23394890-5d36-4df9-b0ac-dba614dcfb5b",
+                "userName": "Andy Zimmerman -Senior Chief",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUiVpLMHyNkJF9Xho6kwLGM10jdtAXVbMYGfdGg9ylengo",
+                "content": "Outstanding program works well.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.29.127",
+                "at": "2021-11-10 18:02:51",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "39e90e90-9d27-466e-b826-ce6e0a4e5847",
+                "userName": "Vince V",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJad17OgS9xazSiZbz5jh7Sj7yWZqtBzC7uvok2C6HO=mo",
+                "content": "I've been using this app for a long time and overall is really good except recently when selecting my loco all my functions and etc are still dark or not there and when reselcting it says the loco is already selected. I don't know if it's the app, the club layouts or my phone.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.29.127",
+                "at": "2021-10-03 01:50:03",
+                "replyContent": "Hi Vince, what WiThrottle server are you using? EngineDriver waits for a response from the server before displaying the loco. Contact me via email if you'd like to debug further.",
+                "repliedAt": "2021-11-02 16:03:38"
+            },
+            {
+                "reviewId": "1bfd61c2-60df-4217-acba-00081ce7e688",
+                "userName": "Salvador Lorite",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXBn8cqY4fF4pOsHsFfMXTiqX20_YlykkT9_gSEethNB9o",
+                "content": "Awesome app. Only issue I experienced is that I can not change the buttons latching behaviour. I change the state to latching for a operaring sounds button, but it wont latch, I have to keep the bitton pushed so I can hear the loco operative sounds. Pkease guide me do this correctly or update ao it gets solved, then O will give 5 stars to the App.",
+                "score": 3,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.29.127",
+                "at": "2021-08-14 22:24:06",
+                "replyContent": "Hi Salvador, the latching is handled by the WiThrottle Server, not the app. The app just sends the down/up presses. What server are you using?",
+                "repliedAt": "2021-08-19 15:29:56"
+            },
+            {
+                "reviewId": "a0bd70a6-d372-40fa-8b99-202647dbffb8",
+                "userName": "David Miecznikowski",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocILIyNc_e-ggtmEnp-5Yq7sRlCDRJM5tF_-Q_gX5p3l=mo",
+                "content": "I've had this app for a while now, but didn't get to try it out until I got my Digitrax LnWi. Took it to the local N scale club layout at the Munster Train Depot. Had the LnWi hooked up in a minute and the app working in another two. I had previously installed it so I was already familiar with it. The only set-up issue I had was that the Engine Driver would not see the LnWi. I had to go to the WiFi settings on my Android phone and it found the LnWi and connected immediately. I started of using the single, right side, switching throttle. (There are many to select from in the app.) Selecting locos is as simple as typing their address. Worked perfect, right off the bat. I especially like the way the throttle releases locos. Just click release. No more multi-button presses like on a regular throttle. The only thing I didn't like is that with the switching throttle, you have one vertical slider for speed, with forward from the center, up and reverse from the center, down. The center off position is a bit vague, and you sometimes get the wrong direction for the first couple of speed steps. Might just be my big fingers. So far, I like it more that any of my other throttles. I will continue to experiment with selecting other styles of throttles in the app. OH yea. As I was running last night, a new young fellow, about 11 or 12 years old came into the train store with his Mom and joined the club. (The Northwest Indiana N Scalers) I was able to download the app onto her phone, set it up and he was running in 10 minutes. A really great app.",
+                "score": 5,
+                "thumbsUpCount": 9,
+                "reviewCreatedVersion": "2.29.127",
+                "at": "2021-07-31 14:34:36",
+                "replyContent": "Thanks, David.\nThe Beta has an additional horizontal switching slider that I prefer for my usage. Join the Beta and give it a try!\n--SteveT",
+                "repliedAt": "2021-08-19 15:31:27"
+            },
+            {
+                "reviewId": "c16c7432-9ede-40a0-a1fe-398d1090e186",
+                "userName": "Wayne Smith",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWI3850qOx7w8_t_gEPZn-f9OvK58rPIBy4obe0Sp4iyAJZ",
+                "content": "This app transformed my DCC experience. Now I can easily run multiple trains and their sounds without selecting them individually on my Digitrax controller. Plus switches and routes. Fantastic!",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "2.29.127",
+                "at": "2021-07-22 19:22:06",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "3c93b693-d9e3-4d8e-b6a5-25612c0b7526",
+                "userName": "Chris Packham",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXMP1bj2xfZO_c_OXy34rs2SpLoBpDbpJDCro8ROY_rpPQ",
+                "content": "All good",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.29.127",
+                "at": "2021-06-10 05:04:55",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "93a661ac-d634-4d73-b1eb-7a8a6dc0f72c",
+                "userName": "Kavallo Pazzo",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLtrZC_MLJtUn46NCBfzioujnUGpy6IsMh96jWVOI8N=mo",
+                "content": "The best way to go for running a DCC layout. Runs great with all my trains.",
+                "score": 5,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "2.29.127",
+                "at": "2021-05-06 21:17:09",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "e879cf43-844e-4927-b535-975a16ca4549",
+                "userName": "Marcus Wong",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXPp65j1HQPj354puvuzl5QyfR-3NNOuQ9TkmxdodQmghk",
+                "content": "Simple and easy to use",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.29.127",
+                "at": "2021-04-29 00:36:15",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "ad3e745d-152d-4986-9b93-951abb2f1e01",
+                "userName": "Tyler C",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXJ0ntwUndvF1IUtbaX5Z-klQF5nXMvsTfp5UFdoS6_I7c",
+                "content": "Nice app for kato stuff",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.29.127",
+                "at": "2021-04-21 20:25:20",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "f0145726-f3df-4177-b274-a589585ecbd7",
+                "userName": "Jamie R",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjV6y7M6Fb94hYglzGt0KboZ03oi-tiJXNHHj_lrVYa7IQtI",
+                "content": "I have a prodigy advance due to the terrible ergonomics of the hand held controller i found running my layout no fun at all. Was even thinking of giving up on it I then noticed that jrmi was now compatible with gauge master so bought a computer interface cable to link the base unit with my laptop and then via WiFi to my phone with this app installed. What an improvement! its made it fun again so a big thank you to all the people who developed this app you saved my hobby.",
+                "score": 5,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "2.29.127",
+                "at": "2021-04-07 05:23:24",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "JMRI-_-EngineDriver.json",
+        "published_at": "2021-02-05T14:15:55Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "36488bc7-c7b8-410e-814d-b1c25222c714",
+                "userName": "Shawn Teller",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVzunv-OhoMOPPIj0Rmb6bpIWfyl2Za9yF91tGu6yk9aOmk",
+                "content": "Love this App! Don't need a complex throttle. My only issue, when consisting, on the short horn works for lead engine. The long horn and bells work on all engines. This is why I gave 4 over 5 stars.",
+                "score": 4,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.28.123",
+                "at": "2021-04-01 02:28:08",
+                "replyContent": "Thanks, Shawn.\nThere is quite a bit of configuration available for the consist functions. Contact me via email and I expect we can correct your issue with the short horn.",
+                "repliedAt": "2021-04-05 18:37:17"
+            },
+            {
+                "reviewId": "d67a8a1f-1a3c-439d-8532-733afdcf4f34",
+                "userName": "Zahid Butt",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWjczf-0_86xN3OnGkxqhhOM4G6Vpc8YZThIVSnmnpGEPw",
+                "content": "Good app. But some time it took multiple tries to connect to DCC++ex. With massage \"could not connect to 192.168.4.1 port 2560 with 192.168.4.2 . And I have to switch off the CS multiple times to resolve this issue.",
+                "score": 4,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "2.28.123",
+                "at": "2021-02-23 05:47:24",
+                "replyContent": "Hi Zahid,\nI've not seen any issues connecting to my DCC-EX access point. Please contact me via email so we can diagnose the issue.\n--SteveT",
+                "repliedAt": "2021-03-09 20:38:48"
+            }
+        ]
+    },
+    {
+        "filename": "JMRI-_-EngineDriver.json",
+        "published_at": "2021-01-19T01:13:48Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "JMRI-_-EngineDriver.json",
+        "published_at": "2020-10-23T15:52:17Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "8ab7cabc-a6ff-4fb4-b437-a1953f001448",
+                "userName": "pierre rochman",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJtXPlkMhgzKdpod1EJNG7RTqQopcKZP_UbHCTsmTbM=mo",
+                "content": "I have been using Engine Driver for several years. Fantastic with JMRI. Fantastic. A recent issue was resolved by clearing cache and data storage which does a better job of resetting the app than deleting and reinstalling. Love this app.",
+                "score": 5,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "2.26.115",
+                "at": "2021-01-21 05:27:01",
+                "replyContent": "Hi Pierre,\nThanks for the update, and thanks for using EngineDriver!\n--SteveT",
+                "repliedAt": "2021-01-21 13:03:01"
+            },
+            {
+                "reviewId": "ef909fd6-2257-456f-90c2-4510dadc0b10",
+                "userName": "Bryce Healey",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXHMUR5cSw_syhDmPJSo7pigL0NZjMh6bn_CnYm4Jnzyw",
+                "content": "Will we get the abillity to have 32 function buttons as in esu decoders added to this app please. Wii throttle but have got wifi trax as well thanks",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.26.115",
+                "at": "2021-01-19 01:32:31",
+                "replyContent": "Hi Bryce,\nThat will depend on the WiThrottle Server side. I'm not aware of any of the servers which currently support 32 functions. EngineDriver can be easily updated to display more buttons when that happens.\nYou'll need to contact JMRI for changes to the WiThrottle Server, and WifiTrax for changes to their device.\n--SteveT",
+                "repliedAt": "2021-01-19 15:15:11"
+            },
+            {
+                "reviewId": "ef9c486a-cc1c-4ccb-89da-b68899956c1c",
+                "userName": "Craig Magee",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocICj2PuKMtB-gdhShzXb_Or2TgwIePaW4sQyVh_U-o1=mo",
+                "content": "Excellent best programme out there",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.26.115",
+                "at": "2020-12-17 09:01:33",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "8f69971a-863e-4af4-99b7-4e7cf7ec4c04",
+                "userName": "d j",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjX__woZkWHg3kOVazNrGZBctgmqfzDEaiBwpjPzez7EJJE",
+                "content": "great!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.26.115",
+                "at": "2020-12-07 23:03:01",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "d2e02f0d-0e63-4ad0-8563-e67c5bf694dd",
+                "userName": "Gordon W Pruitt Jr",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVBU2IvW9sp9EuZFTaAebFjGdKk9Q_phP5B40znyY_QM14",
+                "content": "Excellent way to control DCC locomotives. I use with Digitrax command station and JMRI and it works seamlessly.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.26.115",
+                "at": "2020-12-06 15:06:21",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "2dc2bff8-68bb-437b-991a-34ebdaa6e100",
+                "userName": "Steve Ballreich",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXJayUlQZLbi3jdP9Z_r7p0deu-p_UhzmQIoUVLHu_vCt4",
+                "content": "Love this app... though the last update is buggy. Running on android Samsung tablet and phone. Will crash as soon as an engine is selected requiring a restart and then it's fine. Will occasionally drive two engines on one road number, requiring to release the engine and reacquire it. Random program crashes with immediate restart but causing potential loss of control of engines during restart. Please fix the new bugs! Program was bullet proof prior to this last update.",
+                "score": 4,
+                "thumbsUpCount": 13,
+                "reviewCreatedVersion": "2.26.115",
+                "at": "2020-12-06 02:07:24",
+                "replyContent": "Hi Steve, \nPlease contact me via email so we can debug the issue you're seeing. No one else has reported anything similar",
+                "repliedAt": "2020-12-06 03:05:04"
+            },
+            {
+                "reviewId": "170ce866-5305-4697-b988-b28e777a1468",
+                "userName": "Cindy or Don Pitcher",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVJqp36cXouKd-OZBXQ9NtHz7mY_U0cdU_4qc156dXHO8M",
+                "content": "Simple and easy to use. I run DCC using an Arduino and Raspberry Pi with this app on my phone. It works great. Thank you!!!",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "2.26.115",
+                "at": "2020-11-29 21:37:53",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "90b58961-6be8-4911-95f1-ea8ad251e590",
+                "userName": "Ian Pearson",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJDZ0LfpT5tMhcUzWC7LA4_h-TaJYSpqIxfx_PjvoE=mo",
+                "content": "Superb app. I was introduced to it by the owner of a large layout, so I could drive one of his trains without hunting for a Lenz controller. My layout is rather more modest, but this, JMRI and a PiSprog is working superbly to operate it.",
+                "score": 5,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "2.26.115",
+                "at": "2020-11-14 20:16:03",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "469de6e6-632c-4e61-b6cd-037bd0b18edb",
+                "userName": "Sam Hull",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXcRzwnJE4SPpNasoYyptaBVWmkkrSbatFF1fu2zhXCbQ",
+                "content": "So far been spot on",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.26.115",
+                "at": "2020-11-02 13:12:10",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "JMRI-_-EngineDriver.json",
+        "published_at": "2020-05-30T00:49:16Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "63a2f280-928d-4682-b890-eb57633910f6",
+                "userName": "Shelton D'Cruz",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXu7MGn5f2epKuiQcZPenpA5WaHIMWVjP9xx2a9rzG2QCda",
+                "content": "Fantastic throttle i use it on my dcc plus plus layout",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.25.107",
+                "at": "2021-02-14 05:09:15",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "9c6adc9c-5197-4b90-ba86-1c78ae9b14c3",
+                "userName": "Paul Smalser",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJ88_Atyl1tcnKdlJNEGSDY4nJ7rNeYqECInzTPCb7Z=mo",
+                "content": "Works as described with minimal issues.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.25.107",
+                "at": "2020-10-23 23:31:43",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "1dfb2305-f51a-4530-a341-f967fa0d7b0d",
+                "userName": "Jeff McClain",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKlKt7PjXPwohnsNC_9795sGuz9W1txNIVlfPdTVVly=mo",
+                "content": "Fantastic",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.25.107",
+                "at": "2020-10-23 20:06:10",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "feda13d5-3c33-4a53-b35f-3fdf5b3a30c1",
+                "userName": "JD Overman",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocL4Ax0bDins3owe8m_Ds-uNm1wMvgVtkE-gjGsUlmTB=mo",
+                "content": "Cool app I haven't played with my model trains in a long time I'm glad that you guys made this app can you send me what I'm suppose to do I don't know what to do",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.25.107",
+                "at": "2020-10-09 20:48:22",
+                "replyContent": "Thanks. You need a WiThrottle-compatible server. See https://enginedriver.mstevetodd.com/prerequisites and https://enginedriver.mstevetodd.com/operation for details.",
+                "repliedAt": "2020-10-23 20:30:45"
+            },
+            {
+                "reviewId": "506dfb20-51ae-4502-9e16-0a93060bd188",
+                "userName": "george h",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjW7yltngIVNsPlMPUojLUh5hNtwv9zTkv-Okuy1kh_N7oI",
+                "content": "Well done! In the past I thought I wanted nothing to do with a smart phone throttle. Too clumsy I thought. Too complicated. Shows you how wrong you can be. This app makes me put the PowerCab on the shelf. The best part of it is the ability to label all the function buttons as defined in JMRI. It has layers of sophistication.",
+                "score": 5,
+                "thumbsUpCount": 12,
+                "reviewCreatedVersion": "2.25.107",
+                "at": "2020-09-15 02:53:38",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "85b5861f-5ea5-4788-8c22-5b116e5fbbe0",
+                "userName": "Jon Ruehle",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIhddVL7yKeNQo4lUlYn8WyBPDtCRN2BpVdVjBe8hrv=mo",
+                "content": "Great App!! Works well!",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.25.107",
+                "at": "2020-09-03 17:50:05",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "f38536c7-afd7-4d1d-9803-e6bbc9b91416",
+                "userName": "Ricky Perez",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjV0cZywZLA9XRHCEdgRMz2kzCN_QQ7jVP1lnLE6134BggNr",
+                "content": "Awsome",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.25.107",
+                "at": "2020-08-12 18:54:58",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "b256e23c-3094-4727-b91d-c6e1e0998c1d",
+                "userName": "Tom Wimmer",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJr6dXS7v-Qms6d1i90Qnrvx7-MzQFGShjmRtj7uobR=mo",
+                "content": "Good throttle",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.25.107",
+                "at": "2020-07-25 13:52:46",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "3e0dc266-0ece-402f-a148-0062013e3c7e",
+                "userName": "David Lewis",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKt2nVU2qMz3puGEfA1GPXzHIGvPeHl5GBGT8BGtnsg=mo",
+                "content": "Absolutely brilliant, running on an unlocked Amazon Fire (£30 on offer) with a Sprog and JMRI. Works like a dream. Don't hesitate, just download and be impressed.",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "2.25.107",
+                "at": "2020-07-19 11:16:28",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "5a28c11c-8e86-45d4-b3ca-3fcfcaf2018d",
+                "userName": "G M",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocITjxUTWXiaRi44_ZoomDbF7AgtoYZ9O4C8bqQjwIxAREY=mo",
+                "content": "it works very well and its free.",
+                "score": 5,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "2.25.107",
+                "at": "2020-06-15 19:41:05",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "3c0b771b-34e7-4ede-a92d-3d83bd2f09a0",
+                "userName": "Joshua Bihary",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXrjzqAE7wll68nW37SqWtb3R0s9j0UC5e9TsdTajFQCWw",
+                "content": "I originally gave this app 2 stars because it kept dropping my locos and getting hung up. I was using the Digitrax LNWI. However, the developer reached out to me and I worked with him to help troubleshoot the problem. Since the June 6th update it has been much more stable. I am using a special version of the Digitrax Zephyr (the DSC50K) sold in Japan by Kato so that might have been part of my problem. If you have any issues with the app don't hesitate to reach out to the developer. He was very helpful!",
+                "score": 5,
+                "thumbsUpCount": 11,
+                "reviewCreatedVersion": "2.25.107",
+                "at": "2020-06-09 07:33:03",
+                "replyContent": "Hi Joshua,\n2 Stars?? Sounds like your command station or the LnWi are getting \"stuck\", not the app. Please contact me for support if you'd like to diagnose the issue.",
+                "repliedAt": "2020-03-26 15:12:03"
+            }
+        ]
+    },
+    {
+        "filename": "JMRI-_-EngineDriver.json",
+        "published_at": "2019-07-01T18:38:01Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "84fd926e-4322-44c8-8ad8-88409744f95f",
+                "userName": "Bob Summers",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocILqWcN0Wm9Mq12CrIeV3E_uWTB9ydJ9fgMMC7U5Z8Y=mo",
+                "content": "Will this run on an IPhone? If not do you think in the future it will be ?",
+                "score": 1,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.24.93",
+                "at": "2020-07-25 20:27:46",
+                "replyContent": "No, there is a similar app for iPhone called WiThrottle.\nWhy the 1 star review?",
+                "repliedAt": "2020-07-25 20:34:31"
+            },
+            {
+                "reviewId": "9f6bf247-2b18-41fb-b870-5a0c8a807020",
+                "userName": "Daniel Graves",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVET6PePorNkzDJDPWyevRseiWSKFoVSAuJGRqtshFcwmo",
+                "content": "Great app so far, talking to my small layout through JMRI and DCC++ base station. I love the easy consisting. Interface looks OK but would likely be better on a larger screen. Still playing with all the functions and would love to try it with a sound enabled decoder. Biggest issue so far is that I have to consist by DCC ID, can't seem to do it with the JMRI named inventory, which would be super useful. But hey for the price I'm not complaining!",
+                "score": 5,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "2.24.93",
+                "at": "2020-05-10 15:12:43",
+                "replyContent": "Daniel, not sure what the issue is, but if you'll contact me via email, we can work it out.",
+                "repliedAt": "2020-05-27 02:51:01"
+            },
+            {
+                "reviewId": "522622ca-0979-4aca-84ce-844b5b8a19ff",
+                "userName": "StevoN Train62",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIzPPPHAet7TgqmDvAqQD5UYRCBYYNGZK1jI5-oRYF7=mo",
+                "content": "Excellent",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.24.93",
+                "at": "2020-05-01 01:58:58",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "0abe1572-b282-4550-8147-212622824624",
+                "userName": "Lloyd Chatfield",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjU5mBur6DagZOj9b6MsV-E0SqsUYzwH8hGtZ-v_yRQqTQk",
+                "content": "Awesome",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.24.93",
+                "at": "2020-04-28 11:06:47",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "ea84719e-8365-4742-9507-911a024b583a",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "So far so good! However I can't see how to get the list of turnouts like you have in the screen shots? I am connected to a digitrax DCS52 via lnwi. Does that ability only work when connected to a jmri server?",
+                "score": 4,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "2.24.93",
+                "at": "2020-04-20 19:17:44",
+                "replyContent": "Hi Dan, yes the turnout list is sent from the server. The LnWi does not support creating that list.\nThe Beta version of EngineDriver includes a feature to \"remember\" turnouts you've used before, so that may be a good workaround for LnWi users.",
+                "repliedAt": "2020-05-04 20:07:57"
+            },
+            {
+                "reviewId": "c4b54227-2111-41c6-997e-1713cd311c7b",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Best app I have used I am using WiFi prodigy and an android tablet works great",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.24.93",
+                "at": "2020-04-16 02:45:50",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "85ad8a57-1a11-41a6-a6a1-9c36f7324e58",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Downloaded this to use with my GM Prodigy 2 with the wifi module. Wish i had done it sooner! The Prodigy has good functionality but I have struggled with it's rotating knob throttle. The Engine Driver slider throttle is much better to use and locos seem to run smoother. I have one quirk to investigate. If I 'aquire' a long address loco using its dcc address, the loco doesn't respond. Add the address to the roster and 'aquire' it from the roster list, the loco responds.",
+                "score": 5,
+                "thumbsUpCount": 8,
+                "reviewCreatedVersion": "2.24.93",
+                "at": "2020-03-22 13:04:58",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "cdcc037f-4abc-4a55-9008-83e5e88d09d4",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Excellent",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.24.93",
+                "at": "2020-02-27 14:18:33",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "6d3b56af-ecb2-491e-b845-2bf3aa1d09a7",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "I'm having a lot of difficulty scrolling thru my FUNCTIONS MENU on the throttle screen without (inadvertently) activating various functions while trying to scroll. Is there a \"secret\" to doing this? It's like it's too \"sensitive\"...?",
+                "score": 4,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "2.24.93",
+                "at": "2020-02-17 20:16:03",
+                "replyContent": "Which \"Throttle Screen Type\" are you using? Each has a different layout, so some provide more \"empty\" space for scrolling and flinging than others. Give them all a try and see if that helps.\nThe new Beta has improved \"swipe\" areas. Give it a try.",
+                "repliedAt": "2020-03-26 15:12:50"
+            },
+            {
+                "reviewId": "38a79d4b-a8c7-4671-8fe0-e5d2c0938a7b",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Great app to run your trains.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.24.93",
+                "at": "2020-01-20 20:22:21",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "b6c22ddc-ac07-4899-9dc9-26a54e164a36",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Generally good but not easy to startfirsggime",
+                "score": 4,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.24.93",
+                "at": "2019-12-26 19:59:36",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "29411a30-42e3-4c44-8850-db258a04c5f1",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Have not used it just yet but. I am getting a new Locomotive for Xmas with DCC and sound for my 4X8 Layout in HO scale",
+                "score": 4,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.24.93",
+                "at": "2019-12-21 15:34:56",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "f7a707bb-a775-4b75-91c3-95d29995cfef",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "I recently have 2cell phones using this App love it I need 2 so I can run 5 trains I have been trying for 2 days to download this app on my notepad is there a limit on downloads for one address should I remove one cell phone .Will it download then And is there a limit of throttles based on the device",
+                "score": 4,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.24.93",
+                "at": "2019-12-16 21:28:28",
+                "replyContent": "No, there is no limit on devices. Perhaps your Android version is no longer supported by the latest version of the app. What version of Android are you running? You can download any previous version from the web site.\nThe app can be configured to have as many as 6 throttles, each of which can have any number of locos consisted.",
+                "repliedAt": "2020-01-16 13:27:47"
+            },
+            {
+                "reviewId": "078aa084-954b-45a8-8c8c-b16d598d9027",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Works incredibly well and smooth interface. Clean operations and handy loco list.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.24.93",
+                "at": "2019-12-03 21:39:16",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "c866091e-c4fd-4d0f-8442-17e5f640d74a",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Inexpensive way to add throttles for club and works very well",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.24.93",
+                "at": "2019-12-03 17:34:09",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "2df896dc-f9b2-44ce-a1ad-fd9aac7f6092",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Read through the set up after downloading to my Android Phone. I guess I should have noticed that it doesn't support NCE DCC Systems. Im sure it would work well however I won't find out since I run a NCE System",
+                "score": 2,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.24.93",
+                "at": "2019-08-26 02:43:49",
+                "replyContent": "Hi Jeffrey, There are many people using EngineDriver successfully with NCE systems. As stated here: https://enginedriver.mstevetodd.com/prerequisites, you need to be running JMRI to provide the server side of the connection. Contact me via email if you need further help with getting that set up. --SteveT",
+                "repliedAt": "2020-03-26 15:13:34"
+            },
+            {
+                "reviewId": "d070efbe-5dd6-441e-a3e8-c84fb542e378",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "this is awesome.",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "2.24.93",
+                "at": "2019-08-13 01:20:38",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "52ba3c62-2d86-4f78-8df0-8535fdfcf070",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Love this app!! Very user friendly and easy to navigate! My son and I have been using this app almost 2 years not with ZERO issues! Would love to be able to see/change the numbers on the button selection and label what functions they are but, not a huge issue.",
+                "score": 5,
+                "thumbsUpCount": 7,
+                "reviewCreatedVersion": "2.24.93",
+                "at": "2019-08-11 13:51:29",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "c04b0c9a-cfed-45ad-be74-0abbe1b4f4c2",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Just cannot get the version on my laptop to work. Thoroughly confusing. no hope of getting this app to work if setup on laptop wont do a thing. Very confusing instructions. And yes I have been working with computers for many years. A quick start guide would be helpful. For now though I will have to rely on DCC controllers. Maybe in future I will give it one more try. Shame as it looks like it could be useful.but just wont work for me",
+                "score": 1,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "2.24.93",
+                "at": "2019-07-28 20:34:07",
+                "replyContent": "Hi Robin,\nThis app is for Android devices, not sure what you're trying to run on your laptop. Please contact me via email and we can figure out the issue.\n--SteveT",
+                "repliedAt": "2019-09-30 18:27:19"
+            },
+            {
+                "reviewId": "ad9c3cfb-9f8e-4609-964b-31a717eed8ec",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Love it!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.24.93",
+                "at": "2019-07-07 14:16:52",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "JMRI-_-EngineDriver.json",
+        "published_at": "2019-06-17T17:53:32Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "JMRI-_-EngineDriver.json",
+        "published_at": "2019-04-08T20:02:14Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "8981c1fe-c432-4bf9-84c2-88b3689dde69",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "l meet you.",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "2.23.83",
+                "at": "2019-06-03 01:49:44",
+                "replyContent": "Hi Dennis, what improvements would you suggest to reach 5 star status with you?",
+                "repliedAt": "2019-06-01 21:15:51"
+            },
+            {
+                "reviewId": "711d9194-002f-4fc3-9d32-4484c60538f5",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Uping my review to 5 stars as it just gets better and better. Thank you Steve and all the rest who work on Engine Driver!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.23.83",
+                "at": "2019-06-01 18:27:42",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "9c97750b-8077-429b-9383-3a7123dfcb1a",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "I use the app for control of everything on my layout through JMRI including tablet control panels, cell phone throttles and ESU Mobile Control. Can't imagine digital model railroading without it! Keeps getting better and better.",
+                "score": 5,
+                "thumbsUpCount": 9,
+                "reviewCreatedVersion": "2.23.83",
+                "at": "2019-06-01 12:00:45",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "e77ced98-26cd-4223-b492-205e9024123b",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "a great app for interfacing with digitrax",
+                "score": 5,
+                "thumbsUpCount": 8,
+                "reviewCreatedVersion": "2.23.83",
+                "at": "2019-05-26 17:35:26",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "7bb2ae29-5c5f-4803-bfff-cafd708de7db",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "my only problem is it wont let me steal a locomotive. it will ask me if I want to but then it will not do it. kind of sucks because I'm unable to run my big boy but I was able to do the last week so I don't know. maybe you guys can help me with that? otherwise is a great app.",
+                "score": 5,
+                "thumbsUpCount": 6,
+                "reviewCreatedVersion": "2.23.83",
+                "at": "2019-05-26 06:01:25",
+                "replyContent": "Hi Russell, what command station and connection are you using? Feel free to contact me via email to work on this issue.",
+                "repliedAt": "2019-07-02 13:43:02"
+            }
+        ]
+    },
+    {
+        "filename": "JMRI-_-EngineDriver.json",
+        "published_at": "2018-09-27T19:18:24Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "d99768c8-0e3d-4c57-97e1-fd1419133e6f",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "great app",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.22.69",
+                "at": "2019-08-28 08:53:51",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "df67332b-0548-4a9e-bbff-dce1690fbb69",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Great app I love it. I just wish I could run four engines like it shows in the picture.",
+                "score": 5,
+                "thumbsUpCount": 5,
+                "reviewCreatedVersion": "2.22.69",
+                "at": "2019-04-20 00:27:43",
+                "replyContent": "Luke, set Preferences, Throttle Screen Type to \"Simple\" for more than three throttles.",
+                "repliedAt": "2019-04-20 16:29:48"
+            },
+            {
+                "reviewId": "58648f5e-89f3-4e68-9a5f-24435c25edb8",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Very easy to use application, a wonderfull tool allowing you to drive your train and your layout from your Android phone. Thanks Steve.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.22.69",
+                "at": "2019-04-04 16:07:46",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "e5681966-1bbf-471b-82ae-94844a98f38c",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "I get a connection to main pc I can control power but can't select a loco to control it's the same in the main program can you help",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.22.69",
+                "at": "2019-03-09 19:45:46",
+                "replyContent": "Hi Sy,\nPlease contact me via email (mstevetodd @ gmail.com) to troubleshoot this. Include your command station type, and what you mean by \"main program\".",
+                "repliedAt": "2019-03-18 15:20:58"
+            },
+            {
+                "reviewId": "74a98daf-ee25-44c4-b6d3-4e21cd8dfaae",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Simple, intuitive setup and it works great!",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.22.69",
+                "at": "2019-02-19 22:24:08",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "63166990-5860-4df8-b9b9-ff36ab6c3600",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "whenever i close the app i get a notification that it's still running and it won't go away",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "2.22.69",
+                "at": "2019-01-21 14:29:05",
+                "replyContent": "HI Jude, after pressing the Back button, are you getting the prompt \"Exit Engine Driver?\" and answering \"Yes\"?",
+                "repliedAt": "2019-01-25 19:20:57"
+            },
+            {
+                "reviewId": "821bc3d2-212e-410b-a9a9-1ab42576496d",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Great app. It works perfectly with JMRI.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.22.69",
+                "at": "2019-01-06 22:02:11",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "2f0e1c85-1081-4300-bc84-3a5dc3c86163",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Throttle slide is to close to left edge of screen",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.22.69",
+                "at": "2019-01-04 06:06:45",
+                "replyContent": "There is a Preference to adjust that.",
+                "repliedAt": "2017-06-27 21:49:41"
+            },
+            {
+                "reviewId": "14436eef-3b4f-4444-9737-14718b2e4d62",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Great App Steve & Team. Flashlight button not working for Droid BIONIC.",
+                "score": 5,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "2.22.69",
+                "at": "2018-12-22 20:18:04",
+                "replyContent": "Thomas, this has been fixed in the Beta and will be in next production release.",
+                "repliedAt": "2019-02-17 14:48:07"
+            },
+            {
+                "reviewId": "d4e1b8db-b1a0-47a4-945c-5ac3e85251a0",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "This application is highly recommended for use with any DCC system that has a WiFi connection",
+                "score": 5,
+                "thumbsUpCount": 12,
+                "reviewCreatedVersion": "2.22.69",
+                "at": "2018-10-31 21:26:55",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "JMRI-_-EngineDriver.json",
+        "published_at": "2018-08-09T14:08:01Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "f9ad0d4c-5ce5-4170-bc35-78c4afc9d962",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Great app. Loved it. I don't have this yet, but my railroad club does and \nit works great. The last couple of weeks we have been having problems, \nthough. We think it's the Wi-Fi router, we don't th8nk it is the app.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.21.65",
+                "at": "2018-08-12 23:37:33",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "JMRI-_-EngineDriver.json",
+        "published_at": "2018-07-21T21:02:38Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "JMRI-_-EngineDriver.json",
+        "published_at": "2018-06-11T15:42:21Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "JMRI-_-EngineDriver.json",
+        "published_at": "2018-02-21T16:27:30Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "6e299f32-7f48-457e-adf8-37b1c13a345e",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Brilliant controls both locomotives and points effortlessly.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.17",
+                "at": "2018-03-26 07:55:08",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "JMRI-_-EngineDriver.json",
+        "published_at": "2018-01-05T16:44:44Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "f9b12731-8ca5-42be-9bbb-f6d410fe5b6b",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "I've been using this for a couple years now with no problems but recently the function buttons are all showing BLI functions regardless of locomotive manufacturer.  This results in improper operations  I've tried to reset with no change.",
+                "score": 4,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.16",
+                "at": "2018-02-18 17:48:25",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "3d633940-d4f8-42ea-a922-a0994b6ac92c",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Amazing app. I haven't had any major problems with it and have been using it to run my trains for 2-3 years now. Highly recommend",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.16",
+                "at": "2018-02-16 18:58:46",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "94e84e40-fc58-44e0-affd-67ab356468d1",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "I like the way it works, still learning it's capabilities. Seems rock solid with digitrax wifi. Also I like the panel access you get with jmri, you get to take the control panel with you.",
+                "score": 5,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "2.16",
+                "at": "2018-01-06 08:42:08",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "JMRI-_-EngineDriver.json",
+        "published_at": "2017-08-15T12:51:35Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "b4fbf4c6-714f-4a00-a029-04dd5d86960f",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Works great",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.15",
+                "at": "2018-01-07 02:35:06",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "284c143f-dc7d-4be5-baec-7fa15e9b0f41",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "I hooked up everything as shown in digitrax video. Only twice could I get it to connect when I press on the \"discovered services\". When it connected the app was awesome. Otherwise I want to bloody scream because I can't get the server to connect. App is a pain in the rear to exit out of. Uninstalled/reinstalled the app 5 times and still refuses to connect.",
+                "score": 4,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.15",
+                "at": "2017-12-13 23:29:27",
+                "replyContent": "Hi Tyler, contact me via email at mstevetodd@gmail.com and I'll see if I can help you troubleshoot your connection issues.\n--SteveT",
+                "repliedAt": "2017-12-15 16:57:28"
+            },
+            {
+                "reviewId": "4c5ccb35-01f6-4dbb-af43-cfa818c203f4",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Beyond cool. Works perfectly with Digital Zephyr and LNWI.",
+                "score": 4,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "2.15",
+                "at": "2017-11-28 03:09:50",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "b755e4bb-3f4d-4067-98f4-66e3a178ab4b",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Works with JMRI and new Digitrax LNWI.",
+                "score": 4,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "2.15",
+                "at": "2017-11-25 00:31:59",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "42778518-7285-43ee-9315-4244723a5d8f",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "This is the best DCC Wi-Fi throttle for android.",
+                "score": 4,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "2.15",
+                "at": "2017-09-03 00:48:00",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "JMRI-_-EngineDriver.json",
+        "published_at": "2017-07-29T01:16:33Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "JMRI-_-EngineDriver.json",
+        "published_at": "2017-07-11T13:10:00Z",
+        "google_play_reviews": []
+    }
+]

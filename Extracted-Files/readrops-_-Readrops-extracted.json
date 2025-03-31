@@ -1,0 +1,176 @@
+[
+    {
+        "filename": "readrops-_-Readrops.json",
+        "published_at": "2021-10-10T17:54:18Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "0c9499f0-bb7b-4a2a-8eb0-b20f11df2e34",
+                "userName": "عبدالرحمن بن سلطان",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUeQJxpjJHhD23yumm7V1arR0ac3nSTBw45FLl_sXGnmbgK",
+                "content": "Why I can't navigate? i tried swiping between feed but cant , i have to hit back then choose the next feed it's so annoying",
+                "score": 2,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.3.1",
+                "at": "2023-06-14 19:41:43",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "1e10f710-491f-4fd6-aed2-f90b2fe5b449",
+                "userName": "Szymon L",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVu9bwOJu37zVOBEoB_63-yXFmcsEzFOZ3nBpO7Yt3y4eMx",
+                "content": "This is the best rss reader witch I came across, atleast for me. It works perfect with freshRSS server.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.3.1",
+                "at": "2023-04-27 08:14:12",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "894013e4-9f1e-4d9d-bcb2-700a9959e06c",
+                "userName": "Sam Starkenburg",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVF73vDVxe1j3VQskTP6noZ2PE9v_aAUuSObY1PFLCxtCN_",
+                "content": "Seems great upon first use. Feature suggestion: I'd like to be able to swipe to the next article from the current one.",
+                "score": 4,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.3.1",
+                "at": "2022-04-26 21:41:53",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "c953ea29-072b-4b51-bc26-3774096430af",
+                "userName": "Ernest Gillett",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKDTBdoG9Xe2uTHrj6lt9blGmvTaMGMgIdXjskDqfr5=mo",
+                "content": "Works great when using public certs. Will not work with certificate authority privately installed. Is there a way to pull from user installed certificate authority?",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.3.1",
+                "at": "2022-04-13 13:25:01",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "508fbab8-ed04-4830-87d5-a2ac479388ce",
+                "userName": "Inauris",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVKzj0PpWoFeqAohFmybnvCKBkK0yBAMFAnlCXPqFi8V0Q",
+                "content": "It's a cool app. open-source. There are all the necessary functions that the application should perform. There is nothing unnecessary, it is light and minimalistic",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.3.1",
+                "at": "2021-11-21 15:34:35",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "readrops-_-Readrops.json",
+        "published_at": "2021-07-19T11:54:38Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "6e748d57-5506-4925-b0d6-47bac4591b38",
+                "userName": "Zach Garner",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLM7p_VFcAcoKM-hXQYvd_90YQwAwN527Qh3Ftv3noN=mo",
+                "content": "Nice clean interface. Feels light and snappy. But as someone who tends to binge in short bursts I really miss being able to quickly left/right swipe up and down from within an article, and catagories or folders. But it's a pretty great looking app. I'll keep checking back.",
+                "score": 4,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.3.0",
+                "at": "2021-08-17 15:43:33",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "readrops-_-Readrops.json",
+        "published_at": "2020-11-22T17:47:36Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "9012fcbb-4c73-4b15-b05d-1ea9cf30b2cf",
+                "userName": "Guy Molinari",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXltfI5eZlKSLvBZizy3S1QRVBYfoxDVYKr6hXTRIhN5MQ",
+                "content": "Takes an eternity to import opml. There are no excuses. Lots of RSS apps import opml in an instant.",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.2.1",
+                "at": "2021-06-18 19:08:57",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "8e7624d6-89fd-483b-af35-f2556e0bb14f",
+                "userName": "Paul Fisher",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjW8gvS55FTgxEl0frGvc5qh9XmrH8f_vzerC8kUVy17I6E",
+                "content": "Works great with FreshRSS! One caveat is that on initial login only unread items are sync'd",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.2.1",
+                "at": "2020-12-30 08:57:54",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "5ff3a458-d1de-4ec2-84ac-8e46a1ff4deb",
+                "userName": "Brian Rogers",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVuNsYbJC-ihf565SgJ1f1pZHKmwRdxAy2qFIlhFJjM6NM",
+                "content": "Probably the best Nextcloud News app! Clean, functional, unobtrusive.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.2.1",
+                "at": "2020-12-18 08:25:27",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "cd452d81-89ad-4055-ac55-cb7eeea3ecdd",
+                "userName": "Trevor Waters",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVN4HE-GpW34DD0tBPLUyGY1k4gaI1CcH6jFLGcBJmy6K8",
+                "content": "I've been looking for an app that is similar to Press for several years and I've finally found it. The design isn't as good as Press, but with a little bit of polish it could be as good or better. The only thing holding me back from using it is the limited service support. If Inoreader or Feedly support was added I would switch in a heart beat. I may have to look into setting up a Nextcloud server for RSS, that's how much I want to use this app.",
+                "score": 4,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.2.1",
+                "at": "2020-11-25 06:19:07",
+                "replyContent": "Hello, thanks for being interested in Readrops! Adding support for Inoreader should be straightforward as its API is based on Google Reader one which is already implemented for FreshRSS. However, Feedly support will require much more work. If you have suggestions for the design, do not hesitate to open issues in the Github repository.",
+                "repliedAt": "2020-11-26 10:36:54"
+            }
+        ]
+    },
+    {
+        "filename": "readrops-_-Readrops.json",
+        "published_at": "2020-08-01T13:51:45Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "391a2b97-4f57-4ff2-9bc2-95723a223269",
+                "userName": "Dave Jarrett",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXFoHMfSLIhe7tRT9YpLczfXsZVca4vD6WW7Ax8dwWZwO0",
+                "content": "I tried to use it but the app never refreshes feeds. Moved on to NewsBlur.",
+                "score": 1,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.2.0",
+                "at": "2020-08-18 04:32:48",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "readrops-_-Readrops.json",
+        "published_at": "2020-04-12T20:00:36Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "07200924-8c10-4db5-a56b-6d5e2f087208",
+                "userName": "MANDAL GAMEING",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVjQNc1QPA6KWTaWbUETkXJVW3XcyyF8Sxn546x52I47g",
+                "content": "Apps is beautiful can you add some cool theme like Rolly RSS reader . Please developer please.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.1.4",
+                "at": "2020-08-03 15:23:25",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    }
+]

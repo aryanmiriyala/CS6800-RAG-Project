@@ -1,0 +1,68 @@
+[
+    {
+        "filename": "soundcrowd-_-soundcrowd.json",
+        "published_at": "2022-05-22T01:30:21Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "f567853d-f322-4ab1-ab84-9cc8edb76353",
+                "userName": "Yvetter",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJa2DGRkUMOe-18wr1espQiyMEnYXjAduoFYDs0PQJR=mo",
+                "content": "Dope app don't know why the rating so low let's goooooooo",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.4.0-release",
+                "at": "2023-03-31 22:26:19",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "soundcrowd-_-soundcrowd.json",
+        "published_at": "2021-06-11T21:59:50Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "810166e1-b1db-4198-8484-457bb3dbcba1",
+                "userName": "UGLY SCP TATO",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUNp76OaXLNxmA6ll8DTXMknAOUqPelrOz2flWPoTK31ns",
+                "content": "i wouldnt recommend it is asking for soundcloud password which is illegal and i cant even play any songs the searching is messed up DO NOT DOWNLOAD",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.2.0-release",
+                "at": "2021-08-14 01:31:25",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "soundcrowd-_-soundcrowd.json",
+        "published_at": "2020-11-09T01:49:05Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "ad8cedf9-68f3-495b-93da-d11b52ba174e",
+                "userName": "Jl Audio",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXkvUeq5aj9wHGSduKrVo8wAn_1xupGcbFIhLXnK7kRBQ",
+                "content": "Awful doesn't work",
+                "score": 2,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "3.1.0-release",
+                "at": "2020-12-13 22:08:12",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "913bee9f-99c0-40c7-8339-a428b6541b67",
+                "userName": "Vee Pearly",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLOJPfPRpzH0_QBRp7IfQeePvX-hMppci4mNp3xhDmd=mo",
+                "content": "This player is good and thankfully works correctly. the player also talks to SoundCloud web service....... and is therefore a very good jukebox. It's the smallest SoundCloud client I have found at about 7 megs installed. the player also stays alive when the device is in sleep...... and plays music Thanks very much for your free app",
+                "score": 5,
+                "thumbsUpCount": 16,
+                "reviewCreatedVersion": "3.1.0-release",
+                "at": "2020-12-04 13:08:48",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    }
+]

@@ -1,0 +1,979 @@
+[
+    {
+        "filename": "dozingcat-_-Vector-Pinball.json",
+        "published_at": "2023-01-16T23:59:45Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "b023f3f0-7353-4260-8bb9-9cc574a414bb",
+                "userName": "Richard Hazelwood",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUf1ALJepqflRp1RINCW2wdg_i0kFumplCDCKsuenGt8vSS",
+                "content": "Surprisingly fun to play.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.12.1",
+                "at": "2023-08-22 14:38:32",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "66ea4aa0-31f6-4c73-ba45-391ee817ff1d",
+                "userName": "S D",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjU650VAbKi4RU-GUIwJ1iOGKinKIr4ry1QhkFFhcferGPs",
+                "content": "Underrated, great.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.12.1",
+                "at": "2023-06-15 20:51:30",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "a4d387bf-adf5-4f75-90b0-c3d974080e6e",
+                "userName": "H W",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUrGpqaTFwxKM_FfqzVsCFFhiGEEhCSTqJOnt0_x50A_g8",
+                "content": "Very beautiful looking and sounding pinball game",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.12.1",
+                "at": "2023-06-07 12:54:17",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "53f437bb-0bd2-4580-9761-1bd85471686c",
+                "userName": "Johnny Sparkleface",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLtq8kP5c_5FAXYbRj7eQZJ5QPeyhf3P0tZb6XvIdhk=mo",
+                "content": "What's not to like? Very fun and no downsides that I can see.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.12.1",
+                "at": "2023-06-01 05:25:48",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "aced9acb-d228-44cf-9ab3-9895d4516462",
+                "userName": "Rowan V",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLnL9E68cXyDDg5nV7I1mebJKLT0H23rFrUEwP0vf0i=mo",
+                "content": "Absolutely BEAUTIFUL game with incredible graphics; simplistic but very fun, colorful, and it's easy on the eyes. Easy to understand rules and gameplay, too! It isn't too difficult, but still a nice challenge. And FINALLY, there's a pinball game WITHOUT ads! With everything being so ridden and plagued with ads these days, this is such a breath of fresh air. 5 stars from me for sure.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.12.1",
+                "at": "2023-05-11 19:28:26",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "f6b60126-9d40-4820-90fe-67a45bc9c67c",
+                "userName": "Adam Fleming",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXbuVrLWgZhlQK-GkoHB3Cpsn4sM4-wu3RRLRISwjJ-7zPT",
+                "content": "phenomenal, free, no ads. I play a lot of pinball and this does a good job replicating it as a mobile game. It's not pinball fx, but the graphics are crisp, rules clear, and you can control the ball just like a physical table. The ball doesn't roll up the inlanes like in the real world, but the modes are fun and table variety is great.",
+                "score": 5,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "1.12.1",
+                "at": "2023-03-27 21:27:28",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "6820ed9a-d10d-4a2a-be04-8e39715d8965",
+                "userName": "Jeffrey Delk",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUVTSr7qCvE9NCjWXr6mltWdD2w0LjAqIL3Q94Q-5CrsFA",
+                "content": "Literally just pinball! It delivers what is promised, without ads, and without unnecessary flair. It's pleasing to the eyes and ears, and more people need to know about this.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.12.1",
+                "at": "2023-02-28 02:54:17",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "2c813156-f06d-4807-9f04-ab5db2329675",
+                "userName": "John Schlesinger",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjU8TzjFl0sV-vvknhYosChRYcXefp6aIz2e4E10Rcpo2Kw",
+                "content": "This game is perfect. Fun to play, easy to see unlike most pinball games. Just beautiful.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.12.1",
+                "at": "2023-02-26 00:46:45",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "4be8af38-66b1-43c1-ae5a-ffb43f3574be",
+                "userName": "Steve Moutray",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIDtaQbZB1ZhhI5SyJVKwaNfRAGT_ITURipI8ipZkBL=mo",
+                "content": "Great physics.... For a ping pong ball! It bounces all over the damn place. It's a great looking game design, but the physics need work. The flippers are too weak and the ball physics are so jangly and random as to make any real ball control virtually impossible. Not a good representation of the silver ball.",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.12.1",
+                "at": "2023-02-14 00:38:32",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "b14e85fc-777a-4f39-8dc7-f4842af3ba1c",
+                "userName": "Matthew Humphreys",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXB_pdAv3hkRo6kT6mfH_S6ola3tala5lRSZvUYW-tsoA",
+                "content": "There is beauty in its simplicity.👍❤️ This is what pinball should be! There are only about 9 different tables but each one is a fun challenge of getting the highest score for a game with the option of unlimited balls without annoying adverts and earning coin to unlock levels. Everything you want and need from the futuristic hum of a space and planet themed set of tables, a real clean and ethereal quality to it. If only this was a full sized real-life pinball table.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.12.1",
+                "at": "2023-02-11 01:30:45",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "c2907b66-79ae-4f6c-b048-2820b3acbeeb",
+                "userName": "Dillan Rosale",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUrV_7P7zbihQo5mfdOI8Se75pKWXsIa3gmTemzZJzO62R9",
+                "content": "Oh my gosh. I think I use to play this back in middle school or somewhere around that time! For me the music, the simple yet high replayability of the tables & just the contrasting dark and colorfulness of everything makes me feel so happy and it just makes me remember my younger days when I used to played this game but completely forgot about those times. Anyway it has some really nice physics & looks gorgeous on an oled screen! It doesn't really need it but could u add some more tables to it?",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.12.1",
+                "at": "2023-02-09 06:24:27",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "28506acc-d0b2-4681-983e-afc1a2424aa4",
+                "userName": "Daniel Kirk",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLL7pPb4euaOtsp8kooxaxcgC1M9R59WQmuYWWkrrC_=mo",
+                "content": "Sorry. It has a charm with the nice sounds and vector graphics, but the tables get boring fast. No missions or anything, its basically bird brain pinball lol.",
+                "score": 2,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.12.1",
+                "at": "2023-01-24 13:50:11",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "c3b542a9-c1e2-41b5-aa73-96172c604544",
+                "userName": "Dave Etty",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXHoYo64JIlXDjnct4Jh8Nyy64Ef0W4O91G5KAJwWFG690",
+                "content": "Simplicity work's well no ads. Thanks",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.12.1",
+                "at": "2023-01-16 14:43:32",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "dozingcat-_-Vector-Pinball.json",
+        "published_at": "2022-11-05T21:22:26Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "817483d7-0cf7-4f3d-bbd2-6ba6cff45873",
+                "userName": "Raegen Smith",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXp61cDUlax20yX_MhcevctVj4RuEFl_NRwgDulOr40wl0",
+                "content": "It's fun for me cuz it less on the board so you can keep better eye where the ball is at all times.",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.12.0",
+                "at": "2022-12-27 10:54:57",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "6ca292d0-6261-4870-8a97-cd9510ac6a99",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "I like pinball games that are not crowded fernetic messes. These tabels are nice relaxcing diversions. Thank You",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.12.0",
+                "at": "2022-12-16 22:40:07",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "4cd394d7-59b2-43dd-88f7-ef9c64e4ee95",
+                "userName": "Stephen Somers (Steve)",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjV2AuTTDfMQIesG6SHJNJ0wdXUcOxTwlt9zEqqLQozhVhA",
+                "content": "A delight and an example of the merits of FREE public domain software. If you browse its GitHub base you can even have a go at designing your own pinball table!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.12.0",
+                "at": "2022-11-10 20:41:53",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "55bf7004-4c26-4e04-8a95-bd5a25b68b26",
+                "userName": "Miquel Martí",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUXfkH_DqHCcR-fH1KvLLP2tXkhQQWuJf_yZXGdsbPATvRP",
+                "content": "Best pinball, no unnecessary fancy graphics, no ads, works offline and it's open source",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.12.0",
+                "at": "2022-11-05 21:27:26",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "dozingcat-_-Vector-Pinball.json",
+        "published_at": "2022-10-10T21:45:57Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "7ba5a9db-4ef7-4eda-9d34-bee771ab16ea",
+                "userName": "Yasser Hritani",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocInq_N19rVfNUN_Q5HhB6oo-gmNtEedGu13CMhbf8X1=mo",
+                "content": "Very good",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.11.0",
+                "at": "2022-11-07 07:22:18",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "dozingcat-_-Vector-Pinball.json",
+        "published_at": "2022-04-06T04:22:23Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "02926bb2-3515-4fdd-a941-3bf6e8794671",
+                "userName": "Squirrel Never give you up",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVPppg3F2HfTntKFmySYHzR9xfxrYqCZ0ge27YRU8AuDSg",
+                "content": "Nice game it was easy to play, no ads with unlimited balls and lotsa of tables to choose from",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.10.0",
+                "at": "2022-09-18 14:27:49",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "2c3bf3ec-f20e-46d6-b519-42734eba8fe8",
+                "userName": "Gallery Antiques",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWml16bNgakOYsVrC5T5XUBlPKfH-KkgnFdML2lRiLZKKQ",
+                "content": "Totally ad free, has nice graphics, and sound effects. Has different tables to play, and I have been playing for a couple of months now and loving it.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.10.0",
+                "at": "2022-09-17 21:25:50",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "98db6e36-4945-4920-be16-96b835933be6",
+                "userName": "joseph underwood",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXMFaTxhY137ie89Q4RDbk7LTayl_86xWm8Cygy49QNkF0",
+                "content": "it's so beautiful. i love it.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.10.0",
+                "at": "2022-09-12 07:24:33",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "1cb2a5a6-a73c-4efc-8937-2955a8a55d35",
+                "userName": "World Traveler",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUJmPj9NlpQ3LB8pFz2V3MapiVRfMKh4IaW2nZN7q6Vjs0",
+                "content": "Exceptionally Entertaining!!! 🤠👍",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.10.0",
+                "at": "2022-09-11 14:26:34",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "b1e66572-b6ee-4b12-ae84-cef1b4f1933e",
+                "userName": "Mihir Kumar",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLHBdd_Q5bKljSA5FORog2yrZEkO5ZRYqHuazhKvBuu638=mo",
+                "content": "Wow. Its been a long time since i have been impressed with a simple game app development.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.10.0",
+                "at": "2022-08-22 13:45:47",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "b636a0d7-441a-4496-993b-e305dd118657",
+                "userName": "Brandon Lee",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjW--LxsekeRVyDUE3fIb5vyJXWU9a9hyWz1v_Ve-WApw0g",
+                "content": "My favorite phone game! Fun and relaxing! I give the Dev's an A+++++",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.10.0",
+                "at": "2022-07-28 21:05:30",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "e8e08ac6-ac7c-4379-8839-fed1f53304c5",
+                "userName": "Jeff Jeannette",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjX6f-WsavwSlGWQzT-nd0PwKCPnge5njY7R0pkrynZ-PiEV",
+                "content": "Good for a pinball fix! No ads ~ awesome! Very tired of all the BS adds everyone has loaded to their games. Sometimes you just want to play a game.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.10.0",
+                "at": "2022-07-10 14:51:55",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "76c4f161-8e50-4c54-a9af-10d0b33cd152",
+                "userName": "Shadez Vidz",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUwwRjvehOjMyfZI4RaaSM__rmHXTP1FQsBMFKKGZccwg",
+                "content": "Very fun pinball game",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.10.0",
+                "at": "2022-05-29 08:26:42",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "f78732bd-d203-4399-9b37-1396fe1fe4ec",
+                "userName": "Issa Beganović",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjW_0DsXNHCY4Vi-plnUN7LTh3G-rO996e7iifmS_LE4630",
+                "content": "What your see is what you get. It's as fun and simple as it looks. With the recent input improvements, it's especially suited for Android TVs. Give it a try...",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.10.0",
+                "at": "2022-05-19 09:10:43",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "2da46b26-527e-47c7-ad16-aed1be90c2ad",
+                "userName": "Jorge Isaac",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXPEum7ApF_6fS54codpJkl4wpzqeYyO47Tj9x_bRou0EW_",
+                "content": "Superb pinball game! After trying so many other pinball games, I found one without ads, undesired flashy graphics, or *story mode*; just smacking some balls around. The game play is simple and easily mastered, the tables are challenging, and there's an infinite balls option! I especially like the constellation table. I've never experienced a lag in game play. I also like the vector design. The minimalist look is easy on the eyes and battery, and I personally find it sleek. Also: NO ADS!",
+                "score": 5,
+                "thumbsUpCount": 13,
+                "reviewCreatedVersion": "1.10.0",
+                "at": "2022-05-19 03:40:53",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "8ce25eb2-dd2f-4ad8-bee4-4ebb6e22abd9",
+                "userName": "Chirag",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUUkIdc-FRTSbLOBGAEky4v2Fb2sL0Lq5jnlxXmXQdDB4E",
+                "content": "Super fun and simple pinball. Graphics are just the way I want it. No fancy textures, delayed inputs, fps drops or unexpected crashes. Most frequently played game on my phone. Love it.",
+                "score": 5,
+                "thumbsUpCount": 5,
+                "reviewCreatedVersion": "1.10.0",
+                "at": "2022-05-02 06:44:34",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "dozingcat-_-Vector-Pinball.json",
+        "published_at": "2021-03-14T19:15:43Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "3d73db32-3c55-454d-9611-8282c4bb6c41",
+                "userName": "Wicked Sencho (Sencho)",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVZJIGAmSEUNSxW-N1D3mTVIU4zlxDW6RW1YEaNOYY5CzQ",
+                "content": "Amazing little pinball game with great sound design and completely free!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.9.6",
+                "at": "2022-03-24 17:37:31",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "5be0c726-5b76-4d21-aea9-905382d90e9c",
+                "userName": "Jason A",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKgAwFXBlfEXzxcM0jwilEXp8YjYJI-CXRiwFXj50xu=mo",
+                "content": "A bonafide classic and it's free. Superb.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.9.6",
+                "at": "2022-03-15 06:58:14",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "1918c75a-6a2b-44f6-8af1-d33e0395458e",
+                "userName": "Rodentia Inc.",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWxADlRMCJVLZnvgHW365n8uQiUrW_Io0XfyYKoZ6v1YA",
+                "content": "Great game, good selection of tables, nice graphics, FUN!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.9.6",
+                "at": "2022-01-08 03:34:02",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "e92be274-1684-46b2-8b69-bfbdf99cb2b3",
+                "userName": "Mr Lute Ukulele",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWFNwBE7D5a5OvzsuKE9u5XCEi0Tp1IpCXcgVOSMvDyeMw",
+                "content": "Good fun, love the vector graphics and sounds",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.9.6",
+                "at": "2022-01-06 22:51:14",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "5e8135b0-9e2b-4f49-83cd-f6b1f35d0921",
+                "userName": "Roger 2020",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIVXe3vlIeA3kWA0TpbINcTVvXsMt_TTDJK6tChi62U=mo",
+                "content": "able to do flipper tricks that often only work on physical machines and a tiny 6MB memory footprint. I just wish could shake and nudge like a real machine ;-)",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.9.6",
+                "at": "2021-12-28 17:53:47",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "389443b2-601b-409d-abc8-f6e38591a9b1",
+                "userName": "Tal Segal",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjU0dIcEUpWxY4aHQnQsTikw0NqLMD731uGv_CB5Q881RsT8",
+                "content": "Wow, awesome, and open source?",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.9.6",
+                "at": "2021-12-24 22:05:09",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "1787f9ed-acb6-4dec-abdf-5381db4d26dc",
+                "userName": "MediaHero69",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVambWZrYQdICCS4ucZCN2XvNOXx1vjo9EoMRunVt97fhc",
+                "content": "This is really a fun game. I love vector graphics and the sound tracks for each table is really good! Totally ad free!! Thank you..",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.9.6",
+                "at": "2021-12-22 09:59:10",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "6969db23-c2f4-42d2-91ec-2f15fba044b0",
+                "userName": "Jerry Liddell",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjU7ZOwxnhkxXqBwB305jSCLIp5n0o-IRCDsA63aVotRZ_g",
+                "content": "Amazing🤘",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.9.6",
+                "at": "2021-12-12 01:36:26",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "3eb1fdaa-0c6a-4dd2-8f46-91fe13622a27",
+                "userName": "Funky",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWyUwFd3uCYwHV1-6KKM6KbiYUFzAEmXEXvQJX8L4m5AII",
+                "content": "What a nostalgic game, ad free like I always remembered. Only problem is sometimes when you launch the ball it doesn't fully launch and crashes the game.",
+                "score": 4,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.9.6",
+                "at": "2021-12-05 05:32:44",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "9b15b9d6-e484-4f24-a228-43f29ceae157",
+                "userName": "Robert Ramberg",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjW_ed93UpkMjpL0oAArddSyFEPgqZUvAJ-Fw2n0UyOkDzYu",
+                "content": "No ads, lotsa fun!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.9.6",
+                "at": "2021-12-03 14:49:44",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "37edc1b3-636a-4af9-8ae9-aadc9910d183",
+                "userName": "Eiljah R",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXE1zHDORiVHwzFsQUl28w6zehrvFHY27Vy3gouKO2mew",
+                "content": "Amazing!!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.9.6",
+                "at": "2021-10-26 22:14:40",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "c51e0dd0-a097-40a2-b2b3-bcc7ea42eead",
+                "userName": "be AR",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKGvP0fKBiCXv6IA-DSLebKpBfz7afFwd9ZG4SC3q0u=mo",
+                "content": "I put this game on everything android I have. No ads, free, simple, and fun.",
+                "score": 5,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "1.9.6",
+                "at": "2021-10-04 13:23:16",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "d77c3d4a-6e34-402a-bdf0-44ae9dd8a753",
+                "userName": "Yolo",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXF7DfXPdtbBiLr-3ELKPoWvUmZ4XJp9pHhknfOurbgCq8",
+                "content": "Great tables.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.9.6",
+                "at": "2021-09-29 02:28:51",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "07bacaa5-97e2-4096-af72-c172ae2180b4",
+                "userName": "darkpatches",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLac-txa6Y5Fj3DlaxTQGZ1oaPfYT1pMLch7XXL3UIm=mo",
+                "content": "One of my favorite pinball games, real or electronic.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.9.6",
+                "at": "2021-09-20 17:25:30",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "d9d149d5-4779-45c6-9ac6-d7a68d9d649f",
+                "userName": "Vincent Ernano",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjW7ujX6Uv9LrAosY7KY4jYKpbvNBKHdXmYRMvuj78oLyFgN",
+                "content": "Simply the best pinball game there is. It's the only reason why I stay with android.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.9.6",
+                "at": "2021-06-30 02:40:43",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "9f6797c2-afe5-48d2-a6b4-d3aa90c41707",
+                "userName": "Julie Brandon",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjX3D03eamtrL9nryIQBfczHGrkT287aVJyl2V703G4EX8I",
+                "content": "Beautiful, fun, pinball game with simple, attractive, minimalist vector line graphics and pure synthetic sounds to match. Multiple tables. Lots of options including unlimited balls for relaxed zoning out. Last but not least, genuinely free and open source too!",
+                "score": 5,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "1.9.6",
+                "at": "2021-06-29 17:43:17",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "ddb97040-2d46-4cdc-a526-2d0336aac4fa",
+                "userName": "terry lee",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIGigj7Hwte6iT2mgkHV9RnQmHjPvUBqkRxfMvlUjts=mo",
+                "content": "Very good!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.9.6",
+                "at": "2021-06-03 20:10:33",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "21dd17c4-e7e3-4c99-9c45-bcc823feab0f",
+                "userName": "J Himmell",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKNf8QvtXssLJEsNFN6rFTJYV9JboYODxypQ3sLF5kj=mo",
+                "content": "Does what it says. Fun game. Thanks to the developers for doing such a good job and making it free to everyone.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.9.6",
+                "at": "2021-05-27 19:10:40",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "83cc5e37-a3ca-46a9-bd82-7729dc66bfc2",
+                "userName": "Ryan Mauricio",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXwwZuV5c1z0udmYR6eSm_jTDxbbguGutj6V39SFVr7hAE",
+                "content": "Best pinball game out there with no ads, excellent response and cool vector graphics give it a modern yet retro feel to it.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.9.6",
+                "at": "2021-04-29 03:48:57",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "34c26a75-8a03-4604-b080-a99cb03365cd",
+                "userName": "Steve B",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocI_DvECJdqVMdjTHtmA_HO5-LBxcq_zXmHtEIuukqNa=mo",
+                "content": "A simple, excellent pinball app!!!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.9.6",
+                "at": "2021-04-11 02:55:23",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "64294e51-0409-4770-b696-e897b9713039",
+                "userName": "Ernie Longoria",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocK_35dResX99AnPEwyQlW2FMNzqtK0nmfEnLRs6XVxw=mo",
+                "content": "I am so Happy that this Game became available , I really like the clean simple Graphics design , the Sound is very clear too . . . It's Awesome ! ! - Great Job ! 😃",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.9.6",
+                "at": "2021-03-26 22:41:53",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "920382f9-62e4-4223-9e75-488a5c1863f5",
+                "userName": "Olmy Ap Sennon",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocL0fz1Z8DEMJupPOg9bEQOYPm52Q953S3sxF45jID1M=mo",
+                "content": "Very pleasant experience",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.9.6",
+                "at": "2021-03-22 17:28:40",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "e570650b-038a-407b-b2f8-06f05fe8f89b",
+                "userName": "euri pides",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUOXBmOKkbAjtGUIvvu-s_4jlPVNwG3-Kpf71lzPlmY10o",
+                "content": "Simple, fast, and fantastic! Thanks a bunch",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.9.6",
+                "at": "2021-03-19 00:55:39",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "dozingcat-_-Vector-Pinball.json",
+        "published_at": "2021-01-26T23:20:55Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "dozingcat-_-Vector-Pinball.json",
+        "published_at": "2020-08-26T04:24:54Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "c69ecbf8-7020-406d-8525-32c953ffae73",
+                "userName": "S B",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKUuk_FQCLcarPgOZgC-xajzYH0M30uZF34ASel8w03=mo",
+                "content": "Great game. One of the few I have downloaded. I use the f-droid version.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.9.1",
+                "at": "2020-11-11 21:46:58",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "e7b22331-d364-4ab3-891a-939f890721ef",
+                "userName": "Lev Asmanov",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjV8MYwC8fEz1QFABdeEjBMl_7pOv3pVIO-HIYcTmC5rwg",
+                "content": "For very small size it's very good pinball game",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.9.1",
+                "at": "2020-10-21 12:25:50",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "933c4822-12f6-42ac-84fe-7eb190d98e62",
+                "userName": "kaoD",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjV7e2oIHnlLwHlxTjgUxXPz2C4RtlJ5dXpuyZyPdT7tul0",
+                "content": "No ads. No IAP. Just great gameplay for a quick challenge. 100% recommended.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.9.1",
+                "at": "2020-09-30 10:41:22",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "39ab7c63-b58e-4f05-a202-4dfd8ca710ba",
+                "userName": "S. D.",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjV7tJzHbY8CYURU_RNheCwgMcAv-dAJjCZdQere1YF4ZB4",
+                "content": "Best pinball game for timepass and fun. Keep it up. 👍",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.9.1",
+                "at": "2020-09-14 13:30:08",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "4540e319-59bd-4c4c-89a6-640f4166a91f",
+                "userName": "Lazar Pancic",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWLZdNmQeMwL6VHyhE_mEaOuqmvbYGjkpYrpn3Y9ET9oQs",
+                "content": "The best pinball out there. Flippers feel a bit wimpy, apart from that the app is great.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.9.1",
+                "at": "2020-09-08 20:06:18",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "dozingcat-_-Vector-Pinball.json",
+        "published_at": "2020-05-20T15:41:06Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "dcfc0a55-6fe2-4023-9437-833a8d152f15",
+                "userName": "Paul",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUEpaE0897-P5neTvmaPXKjf7aCyPdcmEL_RMgt5VXwCLs",
+                "content": "Simple but elegant vector pinball, had this for years, love the new tables but I could play the original table for years to come, plus there are NO app permissions which is great! I like games that require no app permissions. Thank you for an awesome game.",
+                "score": 5,
+                "thumbsUpCount": 5,
+                "reviewCreatedVersion": "1.8.0",
+                "at": "2020-06-13 18:40:31",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "dozingcat-_-Vector-Pinball.json",
+        "published_at": "2020-02-13T15:11:26Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "4ec1f7b5-0fd2-4f5b-b897-e4c9de3686ce",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "too simple and too floaty, otherwise nice",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.7.1",
+                "at": "2020-04-06 05:19:30",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "fb0a7411-5e67-4ae8-89d7-244a7536a9cd",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "I just opened the Play Store to search for a simple, free pinball game, and look what I've come to find! This game is amazing and actually not a waste of space. You definitely should expand on this by adding more tables. I also agree with the reviewer who suggested that more color schemes should be added should you play in a dark environment.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.7.1",
+                "at": "2020-04-01 03:32:26",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "e8b16e9f-4b9b-453d-b9b1-38c78d3528cb",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "I've been using this for years ever since there was only one table available. Thanks to the dev(s) for all the incremental improvements and adding new tables whilst always keeping the app streamline and ad free! Much appreciated :-)",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.7.1",
+                "at": "2020-03-28 13:14:54",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "d618ef70-c674-46fe-87a0-d98e6752fd90",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Great game! Thanks. Only thing I miss is immersion mode, cause I am always hitting the home and back buttons…",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.7.1",
+                "at": "2020-03-25 09:00:16",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "35eb8e19-f54c-415b-b564-3f26195fead9",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Found it while browsing F-Droid. Can't belive I haven't seen this game before. Its a gem for sure. So simple and clean. Just perfect. Looked it up on Google play only to give this review!",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.7.1",
+                "at": "2020-03-07 04:54:42",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "dcf1ba9a-dba4-418b-8a96-9a91555fcda3",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Great. Love the new line width option and newest table.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.7.1",
+                "at": "2020-02-11 12:12:01",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "dozingcat-_-Vector-Pinball.json",
+        "published_at": "2020-01-25T02:01:26Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "155b69ae-d0fd-4de1-8e30-46070e10b8ad",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Sill THE best Updated graphics look fantastic, much better visibility (like when this first came out years ago on tiny screens) and I love the new table! I'd easily call dozing cat the best developer on the play store, for supporting a great free game for so long.",
+                "score": 5,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "1.7.0",
+                "at": "2020-01-25 16:10:10",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "dozingcat-_-Vector-Pinball.json",
+        "published_at": "2019-05-25T22:39:50Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "e677e17f-3cd7-4f2b-adda-f138060ffaee",
+                "userName": "Dean",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJPgM8zKxyFNo_aoXz5RXd3noCQswfpqzKPWBAm_SLq=mo",
+                "content": "Pretty decent pinball app",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.6.1",
+                "at": "2020-08-12 07:34:23",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "662757ef-b033-4faa-a828-f0f67d42236c",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "The best pinball for android!",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.6.1",
+                "at": "2020-01-26 21:46:44",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "56b84fbc-5d1c-42cc-bba4-d25805f9bf51",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Great game 👍🏼",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.6.1",
+                "at": "2019-12-22 01:50:59",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "234eaafe-31b7-48b1-bb53-10c999b0afd7",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Love it. More games like this!",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.6.1",
+                "at": "2019-11-12 20:46:42",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "3023005c-286b-4bb1-8c23-235eeefed6a0",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Love it!",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.6.1",
+                "at": "2019-10-11 05:05:09",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "7ce29e9c-8c99-4ebd-af2a-8df20dae2b1d",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Amazing minimalist ad free. Great sfx!",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.6.1",
+                "at": "2019-09-26 16:22:32",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "892ff0ef-3e4e-496e-9757-248b4258f08c",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Pure",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.6.1",
+                "at": "2019-08-23 04:23:53",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "e3a18b82-d1f2-4bc2-8979-b788c007e8cf",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "I like the simplicity of this game and that it is free of ads, but the color scheme is terrible, and there is no way to edit it. Dark blue lines against a black background are very hard to see except in a very dark room. I would rate higher if there were a way to change at least the background color.",
+                "score": 3,
+                "thumbsUpCount": 7,
+                "reviewCreatedVersion": "1.6.1",
+                "at": "2019-06-30 03:37:40",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "a3f2df60-b9ff-49bd-b102-780df18f8ed9",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "simple easy challenging and fun plus it isnt resource demanding and its under 10mb. honestly kinda reminds me of playing video pinball on atari 2600 for some reason. hope to see more tables soon. and listen to Erik E about level generation bc that would b brilliant. would honestly like more soothing relaxing type music like adrift in a sea of silver by dynatron and starforce.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.6.1",
+                "at": "2019-06-24 06:20:03",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "83569cad-8564-497f-8605-717ce2402351",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Requires zero permissions on your phone, light weight, endless fun. Every phone needs this!",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.6.1",
+                "at": "2019-05-27 01:00:12",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "2cf53de4-1a75-4c1b-910b-60c0b0be0472",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Easy to pick up, hard to put down. Very high quality, and a game I'll be keeping on my phone for a long time.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.6.1",
+                "at": "2019-05-25 22:18:32",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    }
+]

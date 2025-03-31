@@ -1,0 +1,99 @@
+[
+    {
+        "filename": "cloud-emoticon-_-cloudemoji.json",
+        "published_at": "2022-10-21T18:55:07Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "cloud-emoticon-_-cloudemoji.json",
+        "published_at": "2020-06-05T04:21:38Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "cloud-emoticon-_-cloudemoji.json",
+        "published_at": "2019-07-27T01:15:04Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "cloud-emoticon-_-cloudemoji.json",
+        "published_at": "2017-05-20T18:58:43Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "cloud-emoticon-_-cloudemoji.json",
+        "published_at": "2017-03-02T03:01:06Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "cloud-emoticon-_-cloudemoji.json",
+        "published_at": "2016-03-19T21:10:56Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "941dcc65-6727-4d1f-94bc-f77dbed549e7",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "owo，更新啦",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.0.0",
+                "at": "2017-03-02 07:56:36",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "cloud-emoticon-_-cloudemoji.json",
+        "published_at": "2015-06-01T15:56:14Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "62c7c1d1-b2c1-44a3-ba6e-6380958764ae",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "这个居然支持A岛颜文字…彻底告别某度输入法",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "0.6.8",
+                "at": "2015-12-12 03:31:05",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "5d4c37a6-da3a-436a-80ac-57197d5ecc1a",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "KT還我老婆",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "0.6.8",
+                "at": "2015-10-11 10:25:49",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "2ecd6c31-fff9-49bc-9122-248f1700897f",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "装了几个月之后发现并没有可以发颜文字的朋友，a sad story.",
+                "score": 5,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "0.6.8",
+                "at": "2015-09-14 17:25:05",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "3a2c58e7-eab8-4550-a538-f0396d273f38",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "well the shortcut suck babe! i could search for emoticon easily before, but now i have to fill the shortcut in order to search it. i have hundreds of emoticons, do u want me to go all manual again?",
+                "score": 1,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "0.6.8",
+                "at": "2015-07-18 00:09:10",
+                "replyContent": "Hi,\nLong wait but it has been fixed. Expect to see an update in 3 days.",
+                "repliedAt": "2016-03-20 04:22:05"
+            }
+        ]
+    }
+]

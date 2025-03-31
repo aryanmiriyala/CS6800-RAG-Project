@@ -1,0 +1,482 @@
+[
+    {
+        "filename": "allgood-_-OpenNoteScanner.json",
+        "published_at": "2019-08-04T14:46:37Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "5dd05ac1-4cd2-4cce-999d-d3e42cd5fd6b",
+                "userName": "Bianca Míriam",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVDYX0lzmrGrsF84iOkja8qHAppbnX-zMTsh5G0BL9zHSTU",
+                "content": "Came to make a new review after 2019. This app now sucks and it isn't worth your time anymore, don't use this trash. Better use a closed source app, it's the same tihs. It used to be perfect, now it's a OSS scam.",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.0.34-gplay",
+                "at": "2022-03-27 18:46:17",
+                "replyContent": "Sorry the app didn't attend to your expectations anymore. Currently its development is halted because I can't keep with it. If you think it is a scam because of the ads on the app, that was a try to keep the development ongoing, unfortunately didn't worked.\n\nHope you find what you need.",
+                "repliedAt": "2022-04-16 00:07:25"
+            },
+            {
+                "reviewId": "aa125dfe-b92b-4e86-b26b-fbf6fd70d06a",
+                "userName": "infocus Lab",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKG_Rl_o_stL1k5RDYA6Mgdp4Jry1RGgNsAS0mAoOaN=mo",
+                "content": "Not Usable Pl improve",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.0.34-gplay",
+                "at": "2020-07-18 16:34:44",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "c7345ec7-b333-4c33-8282-700ea557abba",
+                "userName": "Julian Vickers",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXJ3PBl2ovIrfzPh_WJHl8J72VKTG1lSub1m88Kn8IkMA",
+                "content": "I've been using this app since its day on F-Droid, and there are some pros and cons with this newer version. It seems to have improved it's \"document detection\" ability - it's able to pick up (for me) a page on a lower contrast background than it could previously. That's good as I'm having to scan documents on a light background much of the time. On the other hand, the image processor seems to have lost a little bit in this iteration. Documents that used to be crisp are now unreadable with the image processor enabled, and many times I have to scan a document with the processor disabled. All in all it's still a useful tool and you can't beat the \"no ads\" and simple interface, but I'd like to see the image processing brought back to the level it was in prior versions.",
+                "score": 3,
+                "thumbsUpCount": 22,
+                "reviewCreatedVersion": "1.0.34-gplay",
+                "at": "2020-07-16 14:27:14",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "177a9dda-c18d-470f-a6a4-e995bbc5c524",
+                "userName": "gurusingh brar",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWXOVKNNQIUp1NggaN2cjgGdwJxhx6-XGImdgyVdvb56UI",
+                "content": "best for open source.. only one thing is missing sent combined all imge to pdf format.",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.0.34-gplay",
+                "at": "2020-06-01 11:14:28",
+                "replyContent": "PDF export is included on latest release. Hope you enjoy!",
+                "repliedAt": "2020-07-24 15:06:09"
+            },
+            {
+                "reviewId": "5b150c7f-c1fa-4143-96bf-166817b28b06",
+                "userName": "Just Jimmy",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjV5rKah54MHgsiRLGqzMqeCqswTt7vdOp7Q4q5GYcYPCH8",
+                "content": "Gets the job done. Simple and fast.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.0.34-gplay",
+                "at": "2020-04-29 10:57:06",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "4a56c17d-fe20-4063-808b-5bc259d1c451",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "I have no idea how you work it. I tried every thing that I can try. Sometimes it takes photographs. Some times not, and nothing else.",
+                "score": 1,
+                "thumbsUpCount": 7,
+                "reviewCreatedVersion": "1.0.34-gplay",
+                "at": "2020-04-18 20:46:13",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "e9ed61d9-2dc7-42a9-8c45-39593571b12b",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Scans are near flawless. It doesn't cut out corners or distort the scanned image like other scanning apps do.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.0.34-gplay",
+                "at": "2019-12-19 03:33:09",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "1114dc03-fb60-4963-8613-0a870638e7cf",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Works on my Note9, but lacks a lot of features that would make it competitive (e.g. sharing to pdf, auto detection is not as good (I compared it to Notebloc, which auto-detected papers on my silver laptop surface))",
+                "score": 4,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "1.0.34-gplay",
+                "at": "2019-10-08 00:03:49",
+                "replyContent": "PDF export is included on latest release. Hope you enjoy!",
+                "repliedAt": "2020-07-24 15:06:53"
+            },
+            {
+                "reviewId": "4c2337fe-bac7-4677-9c90-679531c405be",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Has potential. Ability to crop image manually would be nice.",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.0.34-gplay",
+                "at": "2019-09-18 17:50:16",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "allgood-_-OpenNoteScanner.json",
+        "published_at": "2018-11-02T14:20:49Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "f6ff54fe-0815-4456-9efa-d8f8f85e5e18",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "When I search OpenCV Manager it says no items found.",
+                "score": 3,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "1.0.31",
+                "at": "2018-11-05 13:31:26",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "allgood-_-OpenNoteScanner.json",
+        "published_at": "2018-04-09T00:11:42Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "1be4c647-566b-4c46-b91e-4b0260da2536",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Great privacy oriented app, but crashes with my phone when sharing. But \nstill very useful as it saves docs locally and with small size.",
+                "score": 4,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "1.0.30",
+                "at": "2018-07-04 08:17:01",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "allgood-_-OpenNoteScanner.json",
+        "published_at": "2017-08-06T20:20:06Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "63cc2959-32d5-469f-8e1a-ba8bfdef8950",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "This app works great for every thing you might want to do with it",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.0.29",
+                "at": "2018-01-31 13:24:57",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "90a21797-6d6b-4819-b376-54da887417cb",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "App consistantly crashes when started. Using Samsung Galaxy Tab E, Android 6.0.1. Tried both version from Google Play Store and F-droid version. UPDATE- Tried app agsin sfter upgrading my Galaxy Tab E to Nougat, no change. App still crashes when opening. Very disappointed.",
+                "score": 1,
+                "thumbsUpCount": 6,
+                "reviewCreatedVersion": "1.0.29",
+                "at": "2017-11-19 19:23:23",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "7468f65f-d325-45a5-a2ef-0c61e4d87fcc",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Finally an offline (and open source) scanner app that works reasonably well (at least when used from a straight angle). thx!",
+                "score": 5,
+                "thumbsUpCount": 8,
+                "reviewCreatedVersion": "1.0.29",
+                "at": "2017-09-12 13:15:12",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "3a3f27b0-850e-4ef5-88f4-ed55554c7934",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Awesome",
+                "score": 4,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.0.29",
+                "at": "2017-08-19 17:41:23",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "allgood-_-OpenNoteScanner.json",
+        "published_at": "2017-02-01T23:59:19Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "ca09a94f-0c13-49dc-a96a-9ba3b9e0bbeb",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "First of all, thank you for writing an open source image scanner! The scan quality after auto-processing is not so good, though. It would be a great app if you could fine-tune the output quality!",
+                "score": 3,
+                "thumbsUpCount": 5,
+                "reviewCreatedVersion": "1.0.28",
+                "at": "2017-06-17 20:39:54",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "f450e3e6-234a-4295-9d61-7780d2109654",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Works great on lg g3. Managed to capture very old handwritten papers with clarity once i had got as much light as possible and a contrasting background.",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.0.28",
+                "at": "2017-06-13 09:51:26",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "5989916e-a3f8-42af-8755-9521d1814daa",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Edge detection is not working at all!! Not even prospective transformation!!",
+                "score": 1,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "1.0.28",
+                "at": "2017-03-04 10:58:07",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "allgood-_-OpenNoteScanner.json",
+        "published_at": "2016-09-07T13:34:52Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "7c7fb8a9-69f8-4595-8625-842176b7330e",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "I don't want you to help with my CV, I just want to \"scan\" my notebook. I shouldn't need to immediately install a second app to use the core functionality of this one, what kind of developer programmed this joke? How has this spam got a 4.2 rating? Very worrying.",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.0.27",
+                "at": "2017-01-24 00:00:48",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "d45595d0-17a6-4272-b3db-17b06465f57c",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Includes setting for phoning home and was using background data. Uninstalled.  Update: To send usage data? That's spyware, period. Being open source doesn't magically make this incapable of that. I'll stick to my other scanning app, thanks.",
+                "score": 1,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "1.0.27",
+                "at": "2017-01-20 03:46:16",
+                "replyContent": "Internet is used only to install the computer vision library used by the app and to send usage information, this last can be disabled through preferences settings. Project is open source, you can check the code and build it yourself.",
+                "repliedAt": "2016-12-11 13:33:13"
+            },
+            {
+                "reviewId": "08914555-a674-485e-ac82-3f424f40b9fb",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Can we get it to link to Google Drive?",
+                "score": 4,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.0.27",
+                "at": "2017-01-06 04:21:35",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "5b19bc66-577f-4088-93e7-2125eb12a918",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "This seemed so promising. I downloaded openCV and everything, uninstalled the F-Droid version and installed this version, put black paper behind my note to help it find it, nothing. Otherwise, it's regular features are just fine like manual mode, but it needs a crop feature.",
+                "score": 3,
+                "thumbsUpCount": 7,
+                "reviewCreatedVersion": "1.0.27",
+                "at": "2016-09-14 06:45:56",
+                "replyContent": "Can you please visit the github page of Open Note Scanner and fill an issue report including your phone model and android version? Thank you for your interest.",
+                "repliedAt": "2016-12-11 13:37:34"
+            }
+        ]
+    },
+    {
+        "filename": "allgood-_-OpenNoteScanner.json",
+        "published_at": "2016-05-15T20:57:07Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "5226e6c7-2883-4851-92cc-ec957ee4f4bc",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Forces you to download an app called open note cv. No idea for what. Couldn't even use it. CS scanner is better including free batch scanning",
+                "score": 1,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.0.25",
+                "at": "2016-06-04 09:47:11",
+                "replyContent": "OpenCV is the program that does the computer vision work for Open Note Scanner. Open Note Scanner is the first (and yet only) open source app of its kind, but it is an unfinished work yet. Thank you for your interest.",
+                "repliedAt": "2016-12-11 13:36:53"
+            }
+        ]
+    },
+    {
+        "filename": "allgood-_-OpenNoteScanner.json",
+        "published_at": "2016-05-04T15:37:31Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "cfc1a89b-cec7-4c23-ab2e-1e26e7efc446",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Works great. I scan many documents every day. I will see how it continues to perform.",
+                "score": 5,
+                "thumbsUpCount": 7,
+                "reviewCreatedVersion": "1.0.24",
+                "at": "2016-05-05 22:04:45",
+                "replyContent": "Thank you for enjoying the app. Please remember to report back any issue you have through the feedback links available on the Settings screen.",
+                "repliedAt": "2016-05-07 22:57:25"
+            }
+        ]
+    },
+    {
+        "filename": "allgood-_-OpenNoteScanner.json",
+        "published_at": "2016-05-02T00:07:04Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "allgood-_-OpenNoteScanner.json",
+        "published_at": "2016-04-25T15:17:34Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "11f8a46f-56dc-46e1-ad5a-043f65969d8e",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Great Job!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.0.22",
+                "at": "2016-04-29 17:04:26",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "770771fb-bd0d-49a6-862a-c1df3bd6b42d",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Awesome, WIll love to contribute.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.0.22",
+                "at": "2016-04-28 22:12:17",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "allgood-_-OpenNoteScanner.json",
+        "published_at": "2016-04-17T23:18:37Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "allgood-_-OpenNoteScanner.json",
+        "published_at": "2016-04-14T00:10:22Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "allgood-_-OpenNoteScanner.json",
+        "published_at": "2016-04-11T22:11:15Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "allgood-_-OpenNoteScanner.json",
+        "published_at": "2016-04-10T15:13:18Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "allgood-_-OpenNoteScanner.json",
+        "published_at": "2016-03-26T15:47:42Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "allgood-_-OpenNoteScanner.json",
+        "published_at": "2016-03-13T22:53:19Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "836b4eb8-00bf-4682-99ac-e527394492d6",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Very promising. Open source.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.0.15",
+                "at": "2016-03-16 08:00:47",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "allgood-_-OpenNoteScanner.json",
+        "published_at": "2016-03-08T06:13:40Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "allgood-_-OpenNoteScanner.json",
+        "published_at": "2016-03-06T15:51:03Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "allgood-_-OpenNoteScanner.json",
+        "published_at": "2016-02-28T20:54:15Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "allgood-_-OpenNoteScanner.json",
+        "published_at": "2016-02-27T21:14:38Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "allgood-_-OpenNoteScanner.json",
+        "published_at": "2016-02-23T23:30:34Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "allgood-_-OpenNoteScanner.json",
+        "published_at": "2016-02-23T05:22:33Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "998dfc45-99bb-4be0-9d42-6da4baaa451b",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Does what it should and its developer works hard to make it stable and bug-free. Deserved 5 stars.",
+                "score": 5,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "1.0.9",
+                "at": "2016-02-24 21:36:09",
+                "replyContent": "Thank you! Stay tuned for new developments!",
+                "repliedAt": "2016-02-21 15:24:54"
+            }
+        ]
+    },
+    {
+        "filename": "allgood-_-OpenNoteScanner.json",
+        "published_at": "2016-02-21T15:18:42Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "5296df07-3c32-46ae-b46d-c0333870caf8",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Never lost my bookarts again! Nice one !",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.0.8",
+                "at": "2016-02-22 22:54:59",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "allgood-_-OpenNoteScanner.json",
+        "published_at": "2016-02-19T21:39:10Z",
+        "google_play_reviews": []
+    }
+]

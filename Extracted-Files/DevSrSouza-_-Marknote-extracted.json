@@ -1,0 +1,44 @@
+[
+    {
+        "filename": "DevSrSouza-_-Marknote.json",
+        "published_at": "2019-07-04T00:26:02Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "ee11b698-d8c4-47e7-bbec-c96cfb4a4c63",
+                "userName": "leo carvalho",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJo1cHwPmJq4CXERR7G1h6hkzDF-JcZpb8KdbU4Ycua=mo",
+                "content": "You have a really nice app. Sad it doesn`t support syntax highlighting. I did not test everything yet but so far the experience been good. Hope it still gets updated. Kudos",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.1.0",
+                "at": "2020-08-17 16:42:17",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "b2c99fd1-2fb0-4983-9789-83e8508060f3",
+                "userName": "Robert Froeber",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKb2BkK8l1k8mlPOTFlzJ-814YN6SmeM0rT8LbcJHTg=mo",
+                "content": "This app contains defective code or is just a piece of trash - I'm not sure which it is - - it just doesn't work.",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.1.0",
+                "at": "2020-06-03 21:16:17",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "09eb3c58-1997-4860-9ae8-10870ae161b2",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Nunca mais me esqueço de nada! Simples, rápido e bonito!",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.1.0",
+                "at": "2019-07-04 16:02:29",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    }
+]

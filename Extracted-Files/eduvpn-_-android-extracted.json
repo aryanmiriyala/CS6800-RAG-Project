@@ -1,0 +1,224 @@
+[
+    {
+        "filename": "eduvpn-_-android.json",
+        "published_at": "2022-11-04T15:09:30Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "98da7db1-d681-4ccb-8537-d51617d57baf",
+                "userName": "Rouven Green",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocII8ZOg1RFfi_BisGasnuZISnVOl6DFY7S-CSGv965M=mo",
+                "content": "Slow",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.0.1",
+                "at": "2023-06-03 07:18:48",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "ecf2c890-5ac4-43d8-ade6-24e27ba9dc1b",
+                "userName": "Feng",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVSd8T_LXiJVFNbjEQR-pMdubiYtqHD5HPnr-QkDb2cbg",
+                "content": "Thx for saving my life",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.0.1",
+                "at": "2023-05-10 02:00:07",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "07e5c8b1-632a-4b22-aca7-125ac493fd68",
+                "userName": "Chiran Sooryakumara",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjU-Ti6PlI8MoC_x6L4ENKOakOyKg_9HjqXoAJKtJk5qYfk",
+                "content": "Can't login university of moratuwa server it's blocked please solve this quickly after I can recover my rate",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.0.1",
+                "at": "2023-02-23 06:00:53",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "b43dad8d-eedb-4e4d-93be-8fd6d5165791",
+                "userName": "Thisara Sanjaya",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWfOV25AXkRionjw6KKaqI13lX-D6AX3L21id_E5opEUP8",
+                "content": "VERY GOOD 🥰🥰🥰🥰🥰",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.0.1",
+                "at": "2022-12-24 03:33:48",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "23ea1a8c-859f-4e51-9214-6e57adcf8f59",
+                "userName": "Victor Othigo",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjU0ZM5OZWfbGS1DQdRqSwDiE75Df-o2jwJ76Gc0lCpqHEo",
+                "content": "Good",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.0.1",
+                "at": "2022-12-11 10:35:58",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "eduvpn-_-android.json",
+        "published_at": "2022-05-09T14:38:31Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "3d3d36de-f943-4836-865a-6671370956e0",
+                "userName": "Tonny Kiptanui",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVtNds8_foLpGZsrut51YefDIboTllLAZA4kxFv6UCq1UE",
+                "content": "My phone is not connecting",
+                "score": 5,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "3.0.0",
+                "at": "2022-06-25 17:05:10",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "eduvpn-_-android.json",
+        "published_at": "2020-11-06T13:05:52Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "8772eb35-7de6-4c4a-91a9-b4f2898bc5bf",
+                "userName": "Christian G.",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWycshsChktZOmRi1uqq8bFKa9nPI9_zGDqbhB78KNmzunK",
+                "content": "Perfect... but No OVPN imports. The iOS version allows you to import ovpn profiles and I find that very helpful. Kindly consider adding this feature to the Android version. Thanks!",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.0.2",
+                "at": "2022-05-07 08:33:32",
+                "replyContent": "Currently, the OVPN import is only available on macOS and iOS. Unfortunately, this is not yet on the roadmap for the other client (windows, linux, android). Our Android app uses \"ICS-openvpn\" and you can also use it as a separate APP to load OVPN configurations.",
+                "repliedAt": "2022-05-11 10:00:10"
+            },
+            {
+                "reviewId": "1ec51219-3f26-4749-b537-c705a61ebb33",
+                "userName": "MaHi",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVFkOCsY5K70h-5fNLgGuy7UqgUWys3WlOx96gqx6_rJPQ",
+                "content": "Awesome",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.0.2",
+                "at": "2022-04-02 01:48:02",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "983265d5-c5e6-4f0d-9c35-32fe1e146027",
+                "userName": "SHABAN SHEEBAH",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXDKBScqQvl4FfN26P8z94mii9mAPMX9dVlBMChGxZ33g",
+                "content": "If someone wants use this vpn, what can he do to use it",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.0.2",
+                "at": "2022-03-27 08:48:46",
+                "replyContent": "The APP is intended for organizations that have installed eduVPN server. Ask your own organization if they want to install eduVPN.",
+                "repliedAt": "2022-05-11 10:00:56"
+            },
+            {
+                "reviewId": "1f28e85c-d3d7-4622-8baf-0ab695b73521",
+                "userName": "Vanessa RT",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWKAl74pS9v6QNJU4yRNrVY6alcHo4xcAU35377rbEw2oE",
+                "content": "The application does not work in Microsoft",
+                "score": 1,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.0.2",
+                "at": "2021-09-15 20:43:22",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "92699ea9-a06b-4970-9cf3-bbd0ea8ba5cb",
+                "userName": "Glenn Wearen",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVmEnjrqVBVYejaK-1zyUAvBJyzbAPp5t7TUeZO6pMasJE7",
+                "content": "Rock solid",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.0.2",
+                "at": "2021-09-13 16:09:46",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "eduvpn-_-android.json",
+        "published_at": "2020-09-22T09:28:49Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "22b05db8-e0dc-4d16-aeb7-3eab5f501e67",
+                "userName": "Rifal purnama",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjX1HcUO_oo0VlFg4XenB6K0GpeHFal3cHFDJy7dzBIGs-s",
+                "content": "Why is my account disabled?",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.0.1",
+                "at": "2020-10-26 14:41:14",
+                "replyContent": "Please contact your educational institute when your account has been disabled",
+                "repliedAt": "2021-01-04 17:15:16"
+            }
+        ]
+    },
+    {
+        "filename": "eduvpn-_-android.json",
+        "published_at": "2020-02-18T09:38:36Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "777c7902-ad9a-4208-85f1-245350b5a1cb",
+                "userName": "George Kangongo",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJOUi2gpFrcn03JseolRhprdN7whcrZ_7YiRxWMALob=mo",
+                "content": "What's the use if you have to buy data for it to connect",
+                "score": 1,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.3.2",
+                "at": "2020-07-30 13:39:31",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "c8cfdcfa-565b-41fe-a771-1894db9da8bd",
+                "userName": "PASONATTY KENYA",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVseM8RKmWd6BAZO4v85nqvaPTrOC0_z_ENL82_gUD0Pbk",
+                "content": "It requires data for it to work so boring",
+                "score": 1,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "1.3.2",
+                "at": "2020-06-18 08:19:48",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "3a1834e7-c4f4-4c84-a193-cb037feb32cc",
+                "userName": "Hellen Kabuubi",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUhTgNYzGrpO7EyvWD5GoRLpRiPHdblNc7igr4qIkPP1qM",
+                "content": "Awesome",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.3.2",
+                "at": "2020-05-04 06:50:36",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "00d3996e-5e45-42a8-bcff-6111d9515274",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Works",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.3.2",
+                "at": "2020-02-21 13:35:09",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    }
+]

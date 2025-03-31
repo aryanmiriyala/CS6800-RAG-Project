@@ -1,0 +1,32 @@
+[
+    {
+        "filename": "it5prasoon-_-Auto-Reply-Android.json",
+        "published_at": "2021-11-19T09:43:12Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "4750b434-0f72-4599-9ed6-d7890978bf34",
+                "userName": "Adam",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVGsGDag_TcfA0KUlo3WH_P-rcsyDkt6Eqfjc5sErXqagI",
+                "content": "Does not reply to texts, only Whatsapp and FB Messenger.. Having to scroll through the description to find this info when your title mentions \"texts\" is misleading..",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.21.00",
+                "at": "2023-03-17 01:26:50",
+                "replyContent": "We understand how annoying that must be but currently we do not support reply to text feature. We will add this in our future goals. We hope you'll re-consider the rating once we fix the issue.",
+                "repliedAt": "2023-07-03 06:11:01"
+            },
+            {
+                "reviewId": "e24bb90c-5e64-455e-b0d0-f562c1129c92",
+                "userName": "Anuja Kukreti",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWoWUt81eTHVa_W-6LJqgHjiXPlYKIW-BjEXERvtEQC7cw",
+                "content": "Not working",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.21.00",
+                "at": "2022-03-15 07:03:16",
+                "replyContent": "Sorry for inconvenience. Can you please mail me your problem at prasoonk187@gmail.com.",
+                "repliedAt": "2022-03-15 17:03:01"
+            }
+        ]
+    }
+]

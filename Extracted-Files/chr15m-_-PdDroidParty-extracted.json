@@ -1,0 +1,20 @@
+[
+    {
+        "filename": "chr15m-_-PdDroidParty.json",
+        "published_at": "2020-11-27T14:24:50Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "ef32fff0-cb6f-427c-b332-9fe1b3589fcf",
+                "userName": "Tomas Rolin (nos)",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUrjLDKmU9BfKdxFgWy10iO6PXmVBm3dXwQsD2_zYCEXME",
+                "content": "I have no way to control what directory it looks at.",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "d6cc3711",
+                "at": "2021-03-15 16:12:53",
+                "replyContent": "Thank you for the feedback. I have added this feature to the TODO list. If you have further concerns, suggestions, or bug reports please feel free to email me: chris@mccormickit.com thank you!",
+                "repliedAt": "2021-03-16 01:31:04"
+            }
+        ]
+    }
+]

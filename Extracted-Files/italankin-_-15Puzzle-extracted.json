@@ -1,0 +1,1000 @@
+[
+    {
+        "filename": "italankin-_-15Puzzle.json",
+        "published_at": "2023-01-30T12:58:49Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "47a39f6c-d4d2-4b01-b07f-770f8e8deb1a",
+                "userName": "Maximilien Mertens",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLMKmV9Hb9XDAXTRXaqI8J2lcevLLwWee8kwonlhjHT=mo",
+                "content": "Perfect. Great job.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.14.5",
+                "at": "2023-09-19 15:59:46",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "daef6bc2-757f-466d-bd7e-2d76da3444eb",
+                "userName": "FG FG",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJyVhX76AQJXwyjSuTVNlhkPjHBBSotBMbQsFIzR8g=mo",
+                "content": "Works fun just got",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.14.5",
+                "at": "2023-09-17 18:01:15",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "1956b659-0b40-4a7e-88cd-e372dcfebdb6",
+                "userName": "Isaiah Sylve",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXbzsCs9nCdYbuhuhz8sgtg0fx_7VkTyOKM8XNMdg74gr0",
+                "content": "The game is fun but it will be awesome if there were some themes so it could be more exciting",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.14.5",
+                "at": "2023-09-15 02:43:53",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "8c9e3776-b361-40d7-be64-a4fc59612568",
+                "userName": "Bayu Ramdani",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjX8nM4NS6K7YmH3e7OJDzH7ItcsyUEplODXG_CIu-jlzxU",
+                "content": "The best on android so far. No ads and free. Well to be honest, why don't you put a price tag as long you keep the ads away. And asking no permission is another plus. Now, for the gaming experience, I'd like to give you some inputs 1. Could you please add a \"tick\" sound everytime you move the tile? Just to make it more realistic. 2. I've a large screen phone, probably you could give us options to resize the main box and move it to right-bottom corner of my screen so i can play it with 1 hand",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.14.5",
+                "at": "2023-07-10 02:03:26",
+                "replyContent": "Thank you for the review. My new app Fifteen has a feature to resize and move the game field. I will think about adding sounds too.",
+                "repliedAt": "2023-08-07 21:17:41"
+            },
+            {
+                "reviewId": "fa9fcbd8-c56e-4a53-9e33-6215510a9ca2",
+                "userName": "Chris Phillips",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUamUSSFB95S8mb3M-dAQan4xjDxsvQhjqiDYOQCE8HPOQ",
+                "content": "Great, what more can a person ask for. Thanks alot for this!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.14.5",
+                "at": "2023-06-23 20:06:59",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "d2b899d2-518a-451e-b229-c908bed4c3f2",
+                "userName": "Matt conrald Ausente",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIhgX_1j6ZrXyHMfvw6p83NSpWJYfi-yfmq3vVH-_tpfQ=mo",
+                "content": "Simple and excellent.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.14.5",
+                "at": "2023-06-15 13:10:28",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "5d2bb5fb-9ecc-4655-8413-1ae758352523",
+                "userName": "Crut B",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJ4BJz5Rz9XV9nqzCddMQlTlk8EDppqAyzntasLZD5L=mo",
+                "content": "It's a nice puzzle. I'm giving a 3-star rating because it is hard / frustrating for me to slide the tiles quickly. They seem sluggish and often don't detect or follow my touch. It causes me to make errors in movement and I have to try again. One factor may be that it doesn't have enough tolerance for finger movement that isn't precisely horizontal or vertical. I have another slide puzzle that doesn't have this issue. I hope the developer can fix this.",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.14.5",
+                "at": "2023-04-28 01:33:16",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "14319b41-9e71-405f-bf85-ab8902675ef3",
+                "userName": "Hector B",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVb1iX2EA9zKY8w0_Bbe-yYKAxAEhn7SqB5QEwpD5VmoGk",
+                "content": "epic",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.14.5",
+                "at": "2023-04-14 21:41:01",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "919ac535-8317-48f2-a788-96affdbf1b1a",
+                "userName": "Farhad Suleymanov",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJvY9kCARKpr9KxEFnGboF9ZJ2rGbIb0qgzXLcVO0WR=mo",
+                "content": "Bravo",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.14.5",
+                "at": "2023-04-01 03:47:48",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "3da791f5-4032-4ca8-ae79-15371f6feefb",
+                "userName": "Gebriel Roberson",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjU-L3KzbaNTA7WkGM43l6d_lAInmNPZzyNZzNMGvLi-xFw",
+                "content": "Could you guys add sound effects?",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.14.5",
+                "at": "2023-03-20 03:49:35",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "054007b1-f205-494f-8f09-347cda66b783",
+                "userName": "Wonk Adonk",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXXDc7QIURue1lPmxRSlG-UxggEopzW9IUj2ul8Wq-2Rxk",
+                "content": "Best app I've seen, been using it for a while. Love the minimal style, helps me focus.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.14.5",
+                "at": "2023-03-08 07:11:54",
+                "replyContent": "Thank you 💪\nFixed in 1.14.4",
+                "repliedAt": "2022-08-13 11:36:19"
+            },
+            {
+                "reviewId": "fca1eb77-5121-48a2-803a-b32e7f988336",
+                "userName": "Aaron Tucker",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJazh7mXujLZRUlNBIdUsYR9DhW-1jC5guuXxLAlgL1=mo",
+                "content": "No ads. It's very simple, but an awesome game. You can change the size of the game square. It keeps records of time or move counts. Honestly it's simple, but it's great.",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.14.5",
+                "at": "2023-02-07 04:09:55",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "italankin-_-15Puzzle.json",
+        "published_at": "2022-08-13T11:32:40Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "9762fd39-3e74-4920-a0cc-130ffea36665",
+                "userName": "Experimentronica",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJLygjGSlzaKrKyIQ0YDV_1ELMSFOikrQE2SqKk2dA8jVc=mo",
+                "content": "Me encanta que casi no pesa nada",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.14.4",
+                "at": "2023-01-05 23:24:24",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "cd3ec02c-12e5-4587-a3e9-74ff17c93b01",
+                "userName": "Jess Kady",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLwukcx90aV2q-gkc_JxbEGO08HmBYbqlP26AdFGhjO=mo",
+                "content": "Amazing app! Love all the options and stats. One suggestion for a future update: I wish the move counter counted taps instead of tiles moved. If you tap several tiles away from a black tile to move several at once, it ups the move counter by however many tiles moved. This also throws off TPS (turns per second) in my mind because I think of that more as clicks/taps per second, not purely tiles moved.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.14.4",
+                "at": "2022-11-07 16:39:44",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "0bb9cf29-71fd-4abf-9eaa-5da7801840a8",
+                "userName": "Amlan Saha Kundu",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjU8QUaBwm5VYKZuCS10G0vgr8r2mGqWi54CkR7jTc-0Dg",
+                "content": "So many features, Zero Ads, and the whole pack is under 100 KB !!... Dear dev, take my bow 🙇",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.14.4",
+                "at": "2022-10-14 04:22:32",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "35fccac3-5569-489f-bcdc-496ef717a0a8",
+                "userName": "J Madcookie",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWWXQDM6_mZaMlD_Zy9yQMWSfUPBqyDgorlHG6JVtDXP8Q",
+                "content": "Very reactive, fast, plenty of variability as it lets you go up to 10x10 patterns! My highscore on 10x10 is 16 minutes, you should try to beat it!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.14.4",
+                "at": "2022-10-10 03:00:54",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "b50f247b-c78f-4984-8700-2ec14bd8b324",
+                "userName": "Wyatt",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWzWAMM0JmmWsvGhQPzkBSPmexaK6yW-6y1___0uAZxTLo",
+                "content": "Best 15 puzzle app. No ads. Make sure to turn off animations. Feature rich, simplistic",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.14.4",
+                "at": "2022-08-28 07:01:57",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "adbc0208-6e82-4aca-b817-dafda282f0f1",
+                "userName": "Mikhail Ltd",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXOuGlieG1toZR776dcfU9g8xdBuatHvK56Ca0VdzJWxSo",
+                "content": "Best of 15!!!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.14.4",
+                "at": "2022-08-21 17:06:51",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "0e88d350-4287-40f3-ab00-2c8c494a4705",
+                "userName": "Lev Asmanov",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjV8MYwC8fEz1QFABdeEjBMl_7pOv3pVIO-HIYcTmC5rwg",
+                "content": "Damn, you're true programmer. 100kb, no ads. I'm very appreciative to your work.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.14.4",
+                "at": "2022-08-20 05:21:09",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "76cecd26-630f-4bc8-b48b-a4edad2bc3e3",
+                "userName": "Shoaib Khan",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocL3OUyqLGhmWz_M1Zbs7KsZumP7FlEzlc_UmXiuFsp_=mo",
+                "content": "Love the app. I've never played this game with these many different modes. Best part is it has NO Ads.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.14.4",
+                "at": "2022-08-13 20:46:20",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "italankin-_-15Puzzle.json",
+        "published_at": "2022-06-06T09:51:07Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "57f2f683-e249-4335-a210-76afec5f384a",
+                "userName": "Alexander Tveretinov",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjX04RM8DiaZetWyU47vmNRRE7827dRcWey6365mdx_pJ1Y",
+                "content": "Easy, small and nice!!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.14.3",
+                "at": "2022-07-05 00:58:02",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "5b880d81-7e47-41a9-9509-641e0a921e0e",
+                "userName": "Craig Bowman",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocL4S72j20fk8JAT1G2IY7cHRHMaiLB1y0mN8pD2YLod=mo",
+                "content": "What is even better for a game of 15 on a device? It works it's no intrusions tick tick",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.14.3",
+                "at": "2022-07-04 09:40:37",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "c95c0bf0-d6d7-4d34-9df0-caaa932f420e",
+                "userName": "Mike “Bjorn” Whiskey",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXaWPoGgJKXZifAbPCtg5g3P6dFW44FecOTV-q66QDKhFY",
+                "content": "This app is brilliant. No ads, clean, well designed UI with customisation options, tells you everything you need to know, and it runs great if you tweak one setting. My best time is 28 seconds :).",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.14.3",
+                "at": "2022-06-11 21:21:38",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "italankin-_-15Puzzle.json",
+        "published_at": "2022-05-31T06:26:11Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "italankin-_-15Puzzle.json",
+        "published_at": "2022-05-21T10:19:03Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "italankin-_-15Puzzle.json",
+        "published_at": "2022-05-15T03:16:32Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "italankin-_-15Puzzle.json",
+        "published_at": "2022-05-14T12:14:24Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "italankin-_-15Puzzle.json",
+        "published_at": "2022-03-08T13:42:02Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "367e6d71-308d-4b6d-b455-9262690c78c0",
+                "userName": "Espen Laub",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWj_BtkDw96at6x4ZCWFFQZIu8-XQ6ClCbKStnm0itriw",
+                "content": "👍",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.12.0",
+                "at": "2022-05-02 06:49:50",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "95c91104-43ab-4b44-adfa-8d4935f420b9",
+                "userName": "Albert Beykr",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVtEhVYhsIjPJFOQc9FxdS0pgsgGmFq3BzZNcxscnK1xQA",
+                "content": "👍 great",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.12.0",
+                "at": "2022-04-12 21:50:31",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "e30d1a78-69d3-4718-aa2b-d54a116ca3a8",
+                "userName": "John Strand",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVqH9IYWDKkT5lJKMnSBRSklS-2RKnZBWOe2jwedtWbZWc",
+                "content": "Just how I remember sitting in the back seat playing the old version of this game.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.12.0",
+                "at": "2022-03-22 19:45:06",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "italankin-_-15Puzzle.json",
+        "published_at": "2021-12-30T05:58:57Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "2dc88bb8-f4a6-4039-aa5e-025a4633bb82",
+                "userName": "Amir Rakhtiani",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVL9IScWuG5Jj4s86YNAExmvokNtCtHa8IOYTJDzaBeXg",
+                "content": "Good",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.11.2",
+                "at": "2022-03-09 18:32:30",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "95c5689a-c626-4718-9590-5e856409547e",
+                "userName": "Dan Hayes",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUIuO8ZXE5IoIft5XcySOIzvKtK05B4-Jp8emlYlZm_sr0",
+                "content": "This could be the perfect 15 Puzzle app. First, there's no ads, and no permissions required! Second, game play is perfect. You can move a single block or a line of blocks with a single tap. It keeps track of records by time and by moves. After playing a bit, I'm noticing what another review pointed out. It too frequently ignores taps. It makes it impossible to play competitively, if you're into that... so frustrating for an almost perfect fame.",
+                "score": 3,
+                "thumbsUpCount": 6,
+                "reviewCreatedVersion": "1.11.2",
+                "at": "2022-02-23 17:54:24",
+                "replyContent": "Hello, you can try hover method and disable the animations.\nBut, if you want to help, send me an email to devitalankin@gmail.com, I would appreciate assistance from competitors like you 🙂",
+                "repliedAt": "2022-05-23 18:54:07"
+            },
+            {
+                "reviewId": "861cbb19-f92a-4a52-abab-472d606e2859",
+                "userName": "Dana Dufield",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjX_VGalLEBecFC8JUChDEpOzMFgMYMuoy9BsL3iC2zarg",
+                "content": "Great version of the original plastic which I also have. Moving the tiles is a lot easier. Note that the \"snake\" can't be solved on the plastic. That's due to the mathematic principles. The card mount shows 6 versions which could be used. Having the ability to change the size was a terrific idea. Others don't do that.",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.11.2",
+                "at": "2022-02-10 20:56:41",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "fc8141d9-2b99-47eb-b940-279500fd6e24",
+                "userName": "Srujan Shenoy",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKNvp_2eMqcj8csWoqobVQgs-28d3DYYmSEwMYvCMzx=mo",
+                "content": "Best 15 puzzle app. I use this as my alternative to slidysim, 'cause it doesn't work on my pc 😂",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.11.2",
+                "at": "2022-02-06 13:11:45",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "italankin-_-15Puzzle.json",
+        "published_at": "2021-12-19T16:16:54Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "acb92e14-2185-4140-a393-629ba520db71",
+                "userName": "Roland",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUNWJDiGQCY-pJUG00tGp3s9tO9mZwhTQY-ezQeQ8otBg",
+                "content": "Great 👍",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.11.1",
+                "at": "2022-02-17 20:35:31",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "italankin-_-15Puzzle.json",
+        "published_at": "2021-12-02T07:02:23Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "529b5ac0-2aff-4210-b43d-d906691f4ee6",
+                "userName": "Vamshi Krishna Chivukula",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUOh7l4eV8wfeSOwtO8Izjd9yIEtpOkdDVSUP1a59TKRdM",
+                "content": "Best thing is that this app is super lite. Almost no space but great features. Even there are no ads and more options. I have seen many puzzle apps but this is really great. Thanks to the developer.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.11.0",
+                "at": "2021-12-11 01:26:12",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "italankin-_-15Puzzle.json",
+        "published_at": "2021-05-06T17:38:42Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "48f3fb0e-991e-4f90-b5ef-6ee8057d09aa",
+                "userName": "Capitalist_Cosmonaut",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjU230UdntdNHkpoF3nC2YUNIphy4dvfLzKQC7Tpls9WPQ",
+                "content": "No ads works fine",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.10.0",
+                "at": "2021-10-05 21:18:22",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "a6169036-cf3f-443f-87d4-a9b144600b5a",
+                "userName": "Sergiy Slobodyan",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjW4-_gJcKjWRoqOe2BsH9ahUnEg9k7Z1d9YXjJ0u_VrNvc",
+                "content": "The best 15 app with a simple UI",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.10.0",
+                "at": "2021-09-20 15:16:10",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "6800e751-c92d-4e49-81ff-7879c7888b36",
+                "userName": "David Lewis",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjX6fJ1VEbY14MF7rSCjkmtGnMJ9DiEcwwo1go12ETfRI8M",
+                "content": "Great 15 Puzzle app. Easy to use, clean design with customizablility options for those who want a different experiance, either with a different board size, solving experiance or app theme. Controls work great almost all the time, and usually it's my own fault when they don't work. An issue I've noticed is that tiles missalign by a little bit sometimes, though it has no impact on gameplay.",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.10.0",
+                "at": "2021-09-09 22:18:44",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "47fe8528-ae44-40b5-9074-7f4ffb4d725c",
+                "userName": "Rudronil Nath",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXMWnZxiTro7TuDkl5GqlmUWZV09_qH-HG5B7tdjpvPw3M",
+                "content": "Just wanted to say thanks 😊, god bless you",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.10.0",
+                "at": "2021-08-05 19:53:22",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "33617d7e-7bb0-447d-b8b0-3ed1f7c7422d",
+                "userName": "kajxqeirscl",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUhi2HOdueZ3MbUAcRnA4mGoN3NNHLUmbzw1-Fg2lpGdDU",
+                "content": "poggers",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.10.0",
+                "at": "2021-07-10 11:22:15",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "5af18508-1dd6-406f-902d-1bf17412b6e2",
+                "userName": "Username",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXfjdvd-rHgkEwe7pnjCKPC9HOSHJKO2GAAvRSA-Jrc-_w",
+                "content": "Noice",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.10.0",
+                "at": "2021-07-04 00:54:54",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "italankin-_-15Puzzle.json",
+        "published_at": "2020-09-24T16:27:59Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "1e36663d-4adf-4da3-8714-38b5e18bf781",
+                "userName": "Habibah Putri",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXVEstcB5m104AJkAq8UXLL6j8dvjwYAThsze4y7-rnjbg",
+                "content": "Easy to use👍",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.9.0",
+                "at": "2021-05-01 08:59:15",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "defc7b29-a1b3-4c9c-be5a-a1142eb9fff0",
+                "userName": "the default fella",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjU4K60ejV-XJBS-dUgvN-A3EgK3gQzgKzoVIQVNr074nFE",
+                "content": "Simple and delivers exactly what's expected from it",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.9.0",
+                "at": "2021-04-28 23:36:56",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "bdb85781-b103-4ffd-9625-826ebc391ee5",
+                "userName": "Esam Bustaty",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUPzxGntAZGEL2oMBGjs3-KK6U9mvJlxjUkmINRAna4cDM",
+                "content": "Not for fast players, you need to wait for animations when playing, and even if you disable animations some taps don't register because your finger slid a little while tapping, useful stats though.",
+                "score": 2,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.9.0",
+                "at": "2021-04-04 22:26:45",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "045c1fac-41ee-4b36-99bc-126e3ec1777e",
+                "userName": "Paawan",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLiWAQdWa48WutJXXBgKmedT8swehbRae8cNpR_dap8=mo",
+                "content": "Well made",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.9.0",
+                "at": "2021-03-20 06:27:13",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "975cf150-1369-4679-8be7-bdbec21dccb3",
+                "userName": "Anonymous",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXhUdXuEs_ccs-Ciqk5VT_TpdeD7IePWyYxGrkSRJLOfA",
+                "content": "The app just so well made its just perfect.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.9.0",
+                "at": "2021-03-19 08:44:56",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "5b723145-d6d6-4e39-8f28-98287193c593",
+                "userName": "Tggamer",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUxPe_2iLH6J1RWo2lvQXy0TlnFqH0EAPUVVth9hEktow",
+                "content": "You Wont Belive The Time, My Time Is 40.8 Seconds Im Not Lying My Hand Are Shaking 😁😁",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.9.0",
+                "at": "2021-03-07 07:33:38",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "907f484e-76a9-47df-a908-eb295c53f241",
+                "userName": "Abhishikt Jain",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWfbpNWHwzkBDqE9GA6Awsl-g8sPYVm4WZ4eyzgoTzTE1jl",
+                "content": "Really well-made app. No ads.",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.9.0",
+                "at": "2021-02-28 04:27:27",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "32b879ea-1c7a-4ba6-89c9-fd0c24e5ce31",
+                "userName": "C Mustata Ciprian",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjV0GVtNqyySTUqTLJz2mdnF7JlW3UQHImHO9ZWh5BKokTY",
+                "content": "Every time I get to the end its 123 456 87 so it's impossible",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.9.0",
+                "at": "2021-02-07 17:30:45",
+                "replyContent": "Hello! Please, make sure you are using the right game type. You're probably trying to solve a \"classic\", while game type is set to \"shake\"\nYou can change game type in the Settings.",
+                "repliedAt": "2021-02-07 17:41:40"
+            },
+            {
+                "reviewId": "6d13cdfd-c767-4e81-8acf-39634197adfb",
+                "userName": "Abhiram Rout",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLZWqa5LaMBAKUelvc0p2253c3BthDSXVeqBaGUnxvN=mo",
+                "content": "Ooo what a beautiful game it makes my day.😍😍😍😍😍🥰😘🤩. Thank u",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.9.0",
+                "at": "2020-12-16 13:56:25",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "1554a12f-f668-4aa0-844b-63140767c251",
+                "userName": "Sasa Tomic",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWQAJz54hwMzpuJ0yOPSeE8IJ-AFVHTFRugQWCWn_OZQxA",
+                "content": "This brings back my childhood memories, playing with a plastic puzzle just like this. Perfect game, well done!",
+                "score": 5,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "1.9.0",
+                "at": "2020-12-13 21:04:21",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "6de07e86-129a-4db1-9b7a-14609a60c271",
+                "userName": "Ian Adam",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVSgANP40qGXfc4oyiVv0bEFv9IebTSOjCqZLQdX6Pp6g",
+                "content": "Simple, no frills sliding block puzzle. No ads and lots of settings. Highly recommended.",
+                "score": 5,
+                "thumbsUpCount": 9,
+                "reviewCreatedVersion": "1.9.0",
+                "at": "2020-10-24 04:04:30",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "79fd1d41-3c49-4d26-a95e-5898deb8dab6",
+                "userName": "Pinaki Choudhuri",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjW1YNmcpTdf0hbr1rcA0OzXMYE1QspJB4QMe9ZwIHe0ePE",
+                "content": "Good",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.9.0",
+                "at": "2020-10-17 00:44:47",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "7c8cb5d2-e5a6-48ec-994c-92d460218cae",
+                "userName": "Tamaki TAKI",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLERCVurgCbwH_Ux_y2z2Kl-vfE9UeFZxskoi3GWjPW=mo",
+                "content": "Minimize size Straight Puzzle",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.9.0",
+                "at": "2020-10-16 11:52:40",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "07687fe5-a865-496b-ba9a-0d4a1f86a4a6",
+                "userName": "Nokia One",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLHJIa-IW1xCsmOnE_VZRALmbxRJyim2CD7iFkaICTN=mo",
+                "content": "Great! (Infuriating! 😱😁)",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.9.0",
+                "at": "2020-10-01 02:09:18",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "italankin-_-15Puzzle.json",
+        "published_at": "2020-05-28T19:13:09Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "43077d67-db5f-4d0a-af1c-b76f958e935d",
+                "userName": "Jake Russell",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJtFxHNPMP1DSPKcOQOnE8H89lz5Q0YDhu0u81HW79j=mo",
+                "content": "This is the best 15 puzzle app I have seen. There are a few things that are slightly annoying sometimes, which is that sometimes it won't register moves, but that might be my phone's problem. One thing I would suggest is showing the TPS all the time like with moves and time",
+                "score": 5,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "1.8.2",
+                "at": "2020-08-29 11:38:03",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "fe68c20a-a734-4f7d-8262-43f514f25b32",
+                "userName": "Terence Fortune",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKuHjgUXbtf8H-mrbDKUIkZYydYfO7QJZjnoagy86Aq=mo",
+                "content": "Experience",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.8.2",
+                "at": "2020-08-19 09:01:45",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "6bdf5319-85a6-47c4-b415-2778862d5424",
+                "userName": "Mujtaba Ali Panjwani",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIRx-h8WWJSR5hPP5iHvzR3F7W74pAK9gm2BU-u4nAG=mo",
+                "content": "Fantastic and amazing experience. Loving it, thanks.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.8.2",
+                "at": "2020-06-04 04:12:31",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "italankin-_-15Puzzle.json",
+        "published_at": "2020-05-17T16:41:55Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "italankin-_-15Puzzle.json",
+        "published_at": "2020-04-04T08:24:11Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "874d51a2-1e7c-422f-9574-99607fdcd3ba",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Amazing! Costs you almost no space Came here after watching the Numberphile video on the 15 puzzle",
+                "score": 5,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "1.6.2",
+                "at": "2020-04-25 15:11:38",
+                "replyContent": "Thank you, glad you liked it 😊",
+                "repliedAt": "2020-04-28 15:57:29"
+            },
+            {
+                "reviewId": "4d9eff2c-444c-45b0-aa09-6f3a8473646d",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Excellent, thanks much for your contribution of this ad free game!",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.6.2",
+                "at": "2020-04-08 23:00:25",
+                "replyContent": "Thank you!",
+                "repliedAt": "2020-05-31 16:21:28"
+            }
+        ]
+    },
+    {
+        "filename": "italankin-_-15Puzzle.json",
+        "published_at": "2020-03-07T08:07:51Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "6665cbbd-9071-43fb-af8d-957582b34936",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Realistic movement, no input lag + clean, simple design.",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.6.1",
+                "at": "2020-03-15 06:43:21",
+                "replyContent": "I glad you liked it 😊 Thank you!",
+                "repliedAt": "2020-04-04 14:47:30"
+            }
+        ]
+    },
+    {
+        "filename": "italankin-_-15Puzzle.json",
+        "published_at": "2020-02-18T17:36:50Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "b935a64a-28ad-46a1-b3d6-cd7d1e6c14a8",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "no ads good ui",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.4.1",
+                "at": "2020-02-21 03:15:19",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "italankin-_-15Puzzle.json",
+        "published_at": "2020-02-10T19:08:25Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "italankin-_-15Puzzle.json",
+        "published_at": "2019-06-23T17:17:58Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "c220b25b-8486-4fe1-b404-0e2c680addee",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "What a surprise! My favorite little puzzle game. The controls are simply *perfect*. Loads SUPER fast on my old Motorola phone.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.3.5",
+                "at": "2020-03-04 01:45:53",
+                "replyContent": "Thank you ☺️",
+                "repliedAt": "2020-04-04 14:48:53"
+            },
+            {
+                "reviewId": "b17e2997-a595-492b-b392-cafb5089c09d",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "This is the best iteration of the fifteen puzzle I've ever played on Android. Great work.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.3.5",
+                "at": "2020-02-15 15:38:56",
+                "replyContent": "Thank you!",
+                "repliedAt": "2020-02-20 11:50:23"
+            },
+            {
+                "reviewId": "3a84870e-f342-4981-a9a4-3fcd10230915",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "The app works relly well. Should there be an option to clear the record, the app is perfect.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.3.5",
+                "at": "2019-12-31 13:54:30",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "d8f06519-5b05-4a2e-b2b6-e440f3167a8f",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Best Fifteen game on Google Play ever: - Works great - High scores - Block and columns moving - No ads - No hidden purchases Only thing I would do to avoid my own mistakes is add a double or triple tap or a confirm dialog box when finishing a game, I keep missing to see what time score I've just made because I accidentally start another game when I finish one xD ## Absolutely recommended. ##",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.3.5",
+                "at": "2019-09-22 16:08:06",
+                "replyContent": "Thank you 😊\nI will think about adding a delay between games or something.",
+                "repliedAt": "2019-09-25 06:30:49"
+            },
+            {
+                "reviewId": "16ad2be8-1bfe-4a63-b767-fc952415615a",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "super fun and easy to use!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.3.5",
+                "at": "2019-08-02 13:59:32",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "italankin-_-15Puzzle.json",
+        "published_at": "2018-07-18T16:33:51Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "9983533e-a0a4-4121-a542-755f37b49701",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "can't get out of easy mode",
+                "score": 4,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.3.4",
+                "at": "2019-02-12 12:49:50",
+                "replyContent": "Thank you for the feedback!\nYou can change difficulty and mode in 'Settings'",
+                "repliedAt": "2019-02-13 11:16:38"
+            },
+            {
+                "reviewId": "357d8da8-56e6-4ab3-aeb7-7e08ec24ba07",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "A simple game.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.3.4",
+                "at": "2019-01-29 09:02:06",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "ff2844da-61b6-4fb0-989a-f7cd3411b946",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Simple, lightweight and goodlooking!",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.3.4",
+                "at": "2018-11-11 21:46:14",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "27585100-7f20-4bc8-aeef-0bc1010ca79b",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Very nice already, but there's always room for improvement. I would love to see a color picker for the theme or at least more colours. More modes would be nice, such as spiral and vertical and horizontal mirror modes for all patterns. Spiral: 01-02-03-04 12-13-14-05 11-00-15-06 10-09-08-07",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.3.4",
+                "at": "2018-09-05 00:08:28",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "italankin-_-15Puzzle.json",
+        "published_at": "2018-07-12T16:40:58Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "italankin-_-15Puzzle.json",
+        "published_at": "2018-01-10T10:25:36Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "italankin-_-15Puzzle.json",
+        "published_at": "2017-04-22T21:34:10Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "b7db837f-dfad-4587-b068-6b0ec5861a8d",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Great, and no  ads.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.3.0",
+                "at": "2017-12-03 19:32:46",
+                "replyContent": "Thank you for your review!",
+                "repliedAt": "2018-01-10 10:43:59"
+            },
+            {
+                "reviewId": "a4d76b18-06f2-48ae-b731-d62dbeb095e9",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "What's snake mode??",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.3.0",
+                "at": "2017-09-19 10:27:07",
+                "replyContent": "You can see an example of solved \"Snake mode\" game on the screenshot (titled \"Snake Mode\").\nFor 4x4, the goal is to arrange tiles in the following order:\n1-2-3-4\n8-7-6-5\n9-10-11-12\n_-15-14-13\nLeft to right, then right to left, then left to right and so on.",
+                "repliedAt": "2017-04-25 16:46:37"
+            },
+            {
+                "reviewId": "9de5cc4e-b9aa-4bb6-93cf-3d98900db595",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "I CAN'T PLAY TGIS GAME WITHOUT IT GOING TO THE OTHER MODE. HIDE THAT BUTTON AND EVERYTHING WILL BE BETTER.",
+                "score": 2,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "1.3.0",
+                "at": "2017-06-04 13:38:16",
+                "replyContent": "Thank you very much for your review! In a new version the issue was fixed!",
+                "repliedAt": "2018-01-10 10:46:55"
+            }
+        ]
+    },
+    {
+        "filename": "italankin-_-15Puzzle.json",
+        "published_at": "2016-07-09T11:58:26Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "italankin-_-15Puzzle.json",
+        "published_at": "2016-06-14T16:41:51Z",
+        "google_play_reviews": []
+    }
+]

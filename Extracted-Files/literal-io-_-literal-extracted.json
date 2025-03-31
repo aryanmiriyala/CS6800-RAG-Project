@@ -1,0 +1,73 @@
+[
+    {
+        "filename": "literal-io-_-literal.json",
+        "published_at": "2021-08-28T22:41:49Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "fedbaf5c-04c3-4d32-9b4d-3ab463386d9b",
+                "userName": "David Back",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKpPu3MoUzQIrkkLPcmo9aZY65nKx8wPmdPmefy_CBa=mo",
+                "content": "Doesn't launch. Just a black logo screen.",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.1.31",
+                "at": "2023-12-03 22:28:39",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "0b31718e-7bf0-4554-a5ed-8afc8d5b1e1d",
+                "userName": "Aram",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVp6rn7LwXDjYHrLFta4joDlwb_EQIVC64DXf2_AqotVgI9",
+                "content": "doesnt open,",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.1.31",
+                "at": "2023-06-10 16:17:22",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "4229c41e-6295-4a08-933a-81536a086237",
+                "userName": "Sino-Atrial Node",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXi2O_4PvI85oNAU3gi-qQyyMMnnj_xGgyHbHlGQjst3D0",
+                "content": "Beautiful concept",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.1.31",
+                "at": "2022-07-17 18:29:39",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "d20cd400-1a7d-4642-a937-79645fb5c9fa",
+                "userName": "Madhav Nadar",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJwpk-Ul-7Wu37Hl9x-8O5wK4XElOIxTZej-MAOV9Nr=mo",
+                "content": "Very intuitive",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.1.31",
+                "at": "2021-12-06 15:15:30",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "2b25ae00-39d7-4dcf-803e-42a60346d8bc",
+                "userName": "Aria DeLaForce",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJlhzSCsNug8UbOwGTrjW5MQvg92VaXi4HVWZ0brNM=mo",
+                "content": "This app is simple, ingenious, and gives me hope for usability on the web. It's made me less angry with my phone. It's in its infancy, so it's unstable, but I think the dev deserves recognition and encouragement to continue.",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.1.31",
+                "at": "2021-09-04 19:37:06",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "literal-io-_-literal.json",
+        "published_at": "2021-08-03T20:09:26Z",
+        "google_play_reviews": []
+    }
+]

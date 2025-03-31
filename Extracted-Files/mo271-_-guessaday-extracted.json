@@ -1,0 +1,20 @@
+[
+    {
+        "filename": "mo271-_-guessaday.json",
+        "published_at": "2018-06-15T19:53:04Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "a9c85383-607c-4ed9-9395-5fabce67ace0",
+                "userName": "Clark Schaefer",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWRwPX7tZuofCfvBmEmj0HYgkgjjYyp0EY4lGeMKBJdt9BF",
+                "content": "Excellent tool for learning Conway's algorithm.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.04",
+                "at": "2021-05-18 17:44:47",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    }
+]

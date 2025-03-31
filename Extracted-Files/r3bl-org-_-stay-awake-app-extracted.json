@@ -1,0 +1,47 @@
+[
+    {
+        "filename": "r3bl-org-_-stay-awake-app.json",
+        "published_at": "2020-08-04T21:48:30Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "r3bl-org-_-stay-awake-app.json",
+        "published_at": "2020-08-02T01:14:36Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "r3bl-org-_-stay-awake-app.json",
+        "published_at": "2020-06-29T02:49:36Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "0ad3fb0d-a64f-41dc-95cf-d505b07f2258",
+                "userName": "Mike Butler",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjW1DaNHN5hIYYpVyH4lRszJxnIsK31gP9Xk1DM9rxD4_Xgz",
+                "content": "Works OK when activated on my OnePlus 6T. However the \"auto activate when connected to USB\" doesn't work. You still have to press \"start\".",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.5",
+                "at": "2020-07-31 11:44:02",
+                "replyContent": "Sadly the \"auto start when charging\" feature doesn't work w/ all versions of Android. And it seems that it will not work in future versions of Android. We might remove that feature in the future.",
+                "repliedAt": "2020-08-01 04:09:31"
+            },
+            {
+                "reviewId": "c5728414-c31f-4a1f-9f33-99bc94c232f7",
+                "userName": "Tarequl Hasan",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXt3R22HEFsES6MmTWLa974_NAzMxwJr-oPdG4g-aMWFcNT",
+                "content": "Not working after upgrading to android 10 on samsumg a50. It was a nice app now totally useless.",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.5",
+                "at": "2020-07-07 02:18:44",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "r3bl-org-_-stay-awake-app.json",
+        "published_at": "2020-06-16T18:39:19Z",
+        "google_play_reviews": []
+    }
+]

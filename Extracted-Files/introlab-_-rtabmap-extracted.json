@@ -1,0 +1,68 @@
+[
+    {
+        "filename": "introlab-_-rtabmap.json",
+        "published_at": "2016-11-01T18:38:14Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "a5ac6c21-4da0-4cbb-b198-afca9e68e989",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Amazing App!  The capture process works good and switching to point cloud makes the model easier to render in realtime. Unfortunately I experienced many crashes on \"save\" and \"export\". Only very small maps resulted in a successful file saved. I'm on Lenovo Phab 2 pro with android 6.0.1, last version of tango core and RTAB-Map. I'm a caver and I'm very interested in natural cave mapping, I've made some tests (even in poor illuminated environment) which produced very nice captures but also very large maps and the software always crashed on save/export losing all the data.  I hope these problems will be fixed in future.  I am available to serve as tester to help when needed.  Can't wait to successfully save a map and upload it online to show it to my colleagues and friends. A few feat. requests for the future: - Remember previous session settings - Recognizable Icons to quick change rendering or capture settings - Show/hide backfaces - Completely shut down tango when viewing to save battery - Every kind of battery-saving improvement possible. - Ability to upload the file on sketchfab on the fly. (i know this is not a priority but would be great for non professional)",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "0.11.11",
+                "at": "2016-12-27 16:00:07",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "ee48a526-c9ff-4efd-a80c-6527d859c695",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "A truly fantastic app!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "0.11.11",
+                "at": "2016-12-16 03:01:55",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "9439134d-916b-4207-9d6d-f0f37c68d87f",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "When it works, it's pretty magical. I'm trying to use it for work (engineering co) and it is currently too unreliable to use in the field. When files get over 100mb or so it crashes. Can't wait for this platform to mature a bit and gain stability. In the meantime, this is a very impressive start.",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "0.11.11",
+                "at": "2016-12-13 16:18:51",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "449b6558-5cf7-42bd-b818-0c4b00cae865",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Absolutely fascinating with the Lenovo Phab. I quickly walked around the office creating a map and everyone I showed it to was amazed. Now part of it is the device but feedback loop the app gives is the best I've seen so far. I need to dig deeper on the outputs and how they can be used but it's almost magical.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "0.11.11",
+                "at": "2016-12-07 20:47:15",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "98b4e998-8a04-4196-a5b1-7baa6d78e3fd",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Last update corrected the axis/orientation issues. Able to fully capture, save and export now with good results! Does a great job of keeping everything aligned when scanned areas overlap. Love the ability to switch views/perspective while scanning/capturing. Very close to 5 stars with a little more performance and stability tweaking, solid 4.5 right now. Very cool!",
+                "score": 4,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "0.11.11",
+                "at": "2016-11-16 20:08:43",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "filename": "addismap-_-addismaptransit.json",
+        "published_at": "2023-10-08T15:00:00Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "addismap-_-addismaptransit.json",
+        "published_at": "2022-10-03T09:01:46Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "bad8dcb2-5595-43a5-b7f6-213eddf85e3d",
+                "userName": "TEAmir",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVZe9VeJ8f6uqfaUWeKQpuLgNivKpr_-JY8DipJWZyExw4",
+                "content": "The app nedds alot of work!! , the idea is great tho.",
+                "score": 2,
+                "thumbsUpCount": 9,
+                "reviewCreatedVersion": "0.3.0",
+                "at": "2023-07-25 08:10:54",
+                "replyContent": "Thank you for your honest, yet encouraging, review. If you have suggestions please also reach out to us at info@addismap.com , have a nice day",
+                "repliedAt": "2023-07-25 08:18:04"
+            }
+        ]
+    }
+]

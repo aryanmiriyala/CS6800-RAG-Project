@@ -1,0 +1,747 @@
+[
+    {
+        "filename": "owntracks-_-android.json",
+        "published_at": "2022-09-27T12:33:38Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "c35cd94d-b866-4fb9-870b-b2f543f23e8c",
+                "userName": "Serik Akim",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVxpNSeywFP9ks42RlwYY-1OFQ4UE4VHErkzyHfoUfNCCs",
+                "content": "i love this app, thanks a lot for the job.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.4.10",
+                "at": "2023-01-25 18:07:06",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "bbb3f00b-545e-49df-94f4-8d685d8a77c2",
+                "userName": "Philipp Skorobogatov",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWAGMJ9tZ5_ddzgd3gmnkxXVfZu--EJKZ29cV_04GX68dM",
+                "content": "As far as i understand, the new android killed this app",
+                "score": 2,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.4.10",
+                "at": "2022-12-12 05:50:09",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "102b5638-8469-4c98-b74f-a00cccfa8ec8",
+                "userName": "Ken Wagnitz",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWNuI5yYD-BW3rWU8Bp8po0RhPRhnOxsm49OTtjx-gxK24",
+                "content": "Location accuracy is awful on my SGS9. Sending to my own server where I put locns in a DB for display on a map. Accuracy values are really bad, while other apps, eg Locus Map, track well. Tried with phone mounted on motorbike handlebars instead of pocket. No better.",
+                "score": 1,
+                "thumbsUpCount": 9,
+                "reviewCreatedVersion": "2.4.10",
+                "at": "2022-12-04 11:43:17",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "86d0f651-9947-452d-b43c-dbcc93521ded",
+                "userName": "April Brandt",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLamHE_siKiVUG3-04JOzndh0qahB7SsBNBUET6awFNTNQ=mo",
+                "content": "Works great! Latest android changes killed background processing. SO FRUSTRATING! Makes it hard for developers to keep up. Anticipating a fix.",
+                "score": 5,
+                "thumbsUpCount": 11,
+                "reviewCreatedVersion": "2.4.10",
+                "at": "2022-11-21 18:26:55",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "2348e363-92f2-46b6-afe0-1e289dabc59e",
+                "userName": "Granville Westecott",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVSLrrGVSWOxq_Z2zDN5HxVq78YdxM1wLqecGKiHmvMamI",
+                "content": "Doesn't do anything other than track me. I keep getting an error about the host but no info on how to correct this issue.",
+                "score": 1,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "2.4.10",
+                "at": "2022-09-27 23:20:09",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "owntracks-_-android.json",
+        "published_at": "2022-06-07T15:44:25Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "24db9973-dad9-41c9-812a-f130d9cbccc2",
+                "userName": "John Wong",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWl3qVo6Q7KIv8Ibo8P6iDlAKfyf2NRtIIW6AnIssvdyj8",
+                "content": "Not reliable. Significant move broken.",
+                "score": 2,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.4.9",
+                "at": "2022-09-26 06:16:49",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "owntracks-_-android.json",
+        "published_at": "2022-05-26T15:13:29Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "owntracks-_-android.json",
+        "published_at": "2022-02-23T15:17:12Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "3f4244f8-75fd-4211-9036-3538de8dc75d",
+                "userName": "Dave Marcellis",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUTAIp8EtdZfAT-UG2BeWkF2R0_kOvd6r7Wb4a4Vo4CTNI4",
+                "content": "Can you make it so that it can use GPS only without Google location services? It defeats the point of having a service seperate from Google timeline if I still need to send them my location data anyway. Edit: Found the OSM version, thanks!",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.4.7",
+                "at": "2022-05-23 04:32:50",
+                "replyContent": "Hi! Please take a look at the ReadMe over at https://github.com/owntracks/android/ to learn more about the different builds of OwnTracks and how to get them.",
+                "repliedAt": "2022-05-22 07:40:44"
+            },
+            {
+                "reviewId": "af2376ac-dce5-45a8-9508-d40f65a0ddac",
+                "userName": "Michael Eberle",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjU-fqjrnFjcvtx2rarYtgu6Hy0t4s8kdDS3OXT5Q-T--A",
+                "content": "Does nothing but say \"configuration incomplete\" but there is nothing to configure.",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.4.7",
+                "at": "2022-05-07 23:24:07",
+                "replyContent": "Hi, please take a look at the documentation for details on how to use OwnTracks: https://owntracks.org/booklet/",
+                "repliedAt": "2022-05-08 06:24:14"
+            },
+            {
+                "reviewId": "0624854e-a305-4cb5-b093-e104a6c80f59",
+                "userName": "Mountain Bike Addict",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjW1IQI4rJ19UGOe-l_RS0TK9Re3iaGdD1Ta4aEJtbg9Y2U",
+                "content": "It doesn't give an actual TRACK of where your device was! Just a GPS ping. Not very helpful when you want to see where it was throughout the day. Guess I'll stick with PhoneTrack.",
+                "score": 1,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "2.4.7",
+                "at": "2022-03-06 14:34:52",
+                "replyContent": "Hi! The OwnTracks app is designed to be used with a server-side component (the OvnTracks Recorder), which is where locations are sent and tracks stored. See the booklet (https://owntracks.org) for more details.",
+                "repliedAt": "2022-03-06 15:15:05"
+            }
+        ]
+    },
+    {
+        "filename": "owntracks-_-android.json",
+        "published_at": "2021-12-17T16:53:58Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "5f5108c7-a5ec-45c4-8c37-d30fb1788c98",
+                "userName": "Michael Stoodley",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWnuY5hyId9Z7LE1kHvYhVE1iA0FHLZFmeMz3oewN8ToAY",
+                "content": "V.good",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.4.6",
+                "at": "2022-01-12 16:04:30",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "e5ee5f96-f177-43c7-94f1-3fdefcc01219",
+                "userName": "LeSe YouJian",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKx4fANIL0uyNGGdS3nEZwFwxzNthprxNc05Iu32sLv=mo",
+                "content": "No longer supports the use of beacons!",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.4.6",
+                "at": "2021-12-18 00:53:52",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "owntracks-_-android.json",
+        "published_at": "2021-12-02T16:58:54Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "owntracks-_-android.json",
+        "published_at": "2021-11-14T13:42:09Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "owntracks-_-android.json",
+        "published_at": "2021-09-30T09:19:48Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "fbc9db08-ea2c-4d0f-aece-7e7c69d6997f",
+                "userName": "Geooogle Fooogle",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUJpmgnwOK5_8oLBslPwno3gGELOibSt0IhvrqxfHKAwJE",
+                "content": "Brilliant!!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.4.2",
+                "at": "2021-11-14 15:53:43",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "0250d0b9-ac5d-4300-b834-3984c02924e2",
+                "userName": "Chantel Coetzee",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocK5of_gO5gu-eAicvBYqqp8ji2Ar0Etc-rT24xxZjnP=mo",
+                "content": "Just downloaded the App, how do you add friend? When I go to the friends tab it's blank, how do you add a friend. How do I send the link to my friend? I also don't know how to configure the app, this app doesn't run you through the steps",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.4.2",
+                "at": "2021-11-11 15:48:34",
+                "replyContent": "Hi - Please take a look at the getting started guide on the OwnTracks booklet: https://owntracks.org/booklet/. To use it, you need to set up your own OwnTracks recorder, and then any other users on the same recorder instance will become visible in the app.",
+                "repliedAt": "2021-11-12 17:44:19"
+            },
+            {
+                "reviewId": "2f668ae0-921e-4f75-ae02-b00b6b50746b",
+                "userName": "Paul Stross",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLWzJjI784KGUF71W28NtmFA9ckX-909Upc33OfKvri=mo",
+                "content": "I love the idea of this App even though I have nothing to hide. This installs and runs well with my Raspberry Pi4 as the MQTT broker. But I would love to take it to the next level with ot.recorder. I can't find instructions to run this on the RaspberryPi.",
+                "score": 5,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "2.4.2",
+                "at": "2021-10-25 11:58:49",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "owntracks-_-android.json",
+        "published_at": "2021-03-18T13:12:01Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "78744e59-19a2-486d-961d-6e47fa1084b1",
+                "userName": "Leah (hrmny)",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXWOVeMPQmkOux6yh2y_77gXHQcTQibOyh6Ivzs1ZKEeSo",
+                "content": "Very unreliable location reporting, seemingly only when I have the screen on Even saw it updating the notification text, but nothing arrived at the recorder (maybe buffer locations locally of you don't sent them immediately and also retry sending if it fails)",
+                "score": 1,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.3.0",
+                "at": "2021-08-24 01:40:06",
+                "replyContent": "Hi, sorry to hear it's not working that we'll on your device. The app absolutely should buffer location messages until they're successfully sent. If you could raise an issue over at github.com/owntracks/android/issues we should be able to look a little closer and figure out what's going on.",
+                "repliedAt": "2021-08-24 07:08:33"
+            },
+            {
+                "reviewId": "841eb855-1f93-4e5e-a91b-daa659ead69a",
+                "userName": "Kirk Rader",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVGzkWz4oX84veb66ntehNSlaZUfbrL0BVX0LHlGIQFGw",
+                "content": "PROS: Excellent location accuracy without undue battery impact. The MQTT based communication between family members' devices is a model for how apps should be designed and implemented, when it works. CONS: Fails to report location events reliably. The app user interface is missing some critical features and the JSON API is a bit cumbersome. Overall, this app would be awesome if as much effort were put into the Android version as appears to be given to iOS.",
+                "score": 2,
+                "thumbsUpCount": 39,
+                "reviewCreatedVersion": "2.3.0",
+                "at": "2021-06-06 13:38:19",
+                "replyContent": "Thanks for the feedback! If you have any specific issues or suggestions, please file an issue over at the GitHub issue tracker (https://github.com/owntracks/android/issues).",
+                "repliedAt": "2021-06-21 17:20:24"
+            },
+            {
+                "reviewId": "c0b992b7-c28d-4902-85dd-5b953d42c976",
+                "userName": "Neil Vermeulen",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXWzK_NiHzNwP4ybCjD2VH5WsbPkzUqMK4fQ8XPyu1nNwQ",
+                "content": "Fantastic app!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.3.0",
+                "at": "2021-03-29 00:04:35",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "owntracks-_-android.json",
+        "published_at": "2021-01-01T12:53:03Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "owntracks-_-android.json",
+        "published_at": "2020-12-20T18:41:24Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "1e945dcd-ab3c-4931-a71f-6e735eb94445",
+                "userName": "Stu B",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJ9rBJfLuX0BE0eXjP5SzK-vVf2TcMDt569H6zrviSQ=mo",
+                "content": "Unfortunately 2.2.1 TLS is broken. How do we roll back?",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "2.2.1",
+                "at": "2021-01-01 09:42:06",
+                "replyContent": "Hi! 2.2.1 had a breaking change in which server TLS certs with no subjectAlternateNames are not verified (as per the TLS standard). We added the details into the 2.2.2 release notes - please hop over to the GitHub issue tracker for more details or to discuss further.",
+                "repliedAt": "2021-01-02 12:15:26"
+            },
+            {
+                "reviewId": "843ca642-b1a0-4787-8d57-995bfb3c7100",
+                "userName": "A Z",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXtDpPqZjPni9QYBG-WVjv4233tkoQFm_1v7OAr0mbGfKk",
+                "content": "this is great. i'm using it since a year with an Openhab tracker binding, and never had a single problem.",
+                "score": 5,
+                "thumbsUpCount": 5,
+                "reviewCreatedVersion": "2.2.1",
+                "at": "2020-12-19 14:36:11",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "owntracks-_-android.json",
+        "published_at": "2020-09-29T13:31:43Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "9c7b3ba2-30e3-4492-9ecf-9a219fed29a5",
+                "userName": "Steve Schaeffer",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUBvIAWThKwuZoC21WHWvNYas16gipQkSjPkFDf_mC92A",
+                "content": "The jury is still out but I *think* I've found all the settings to make it function as I need.",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.2.0",
+                "at": "2020-12-05 23:46:04",
+                "replyContent": "Hi! Depending on your device, you might get a different experience with connectivity being maintained in the background. Some vendors customize Android to quite aggressively throttle and kill background network connections, which isn't helpful for MQTT. Please file an issue at https://github.com/owntracks/android/issues if you think there's a bug.",
+                "repliedAt": "2020-12-05 19:42:04"
+            },
+            {
+                "reviewId": "608b4ea3-f11a-4c5a-b891-494e1352ba92",
+                "userName": "Darrell Yip",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXMkSV9pTz84E_XngshnHPHtZlQM60jAQy3pc_5u_TjAVK0",
+                "content": "Battery usage good. MQTT perfect",
+                "score": 5,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "2.2.0",
+                "at": "2020-10-04 17:55:50",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "owntracks-_-android.json",
+        "published_at": "2019-03-05T15:26:25Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "c4341d30-f733-4886-8be4-0f5daf67ce2b",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Incredibly cool app! Once you get through the configuration (a bit complex but worth the effort and very customizable) it serves as a great, security-focussed alternative to other closed-source location sharing apps/systems from Google/Apple/etc. I highly recommend using Owntracks Recorder and Mosquitto MQTT broker as the backend for this app. If you don't need full MQTT, Recorder's HTTP endpoint works really well on Android. Happy tracking!",
+                "score": 5,
+                "thumbsUpCount": 5,
+                "reviewCreatedVersion": "2.1.3",
+                "at": "2020-04-25 22:30:33",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "77ee318f-1c02-4f63-a4f2-cdaf6abffef4",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Super easy to track your location with your own server and doesn't kill your battery.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.1.3",
+                "at": "2020-03-05 16:03:10",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "d7dc5f1a-9f7a-4e9b-bf09-4d5ac663a184",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Seems to be broken atm. Keeps getting a notification that just says \"Error\" on my home screen. The notification cannot be dismissed or removed with a swipe. Very annoying, also can't add region by current location, as the locate button is missing. Instead I can type in long/lat. Will update review as soon as the app is working again.",
+                "score": 1,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "2.1.3",
+                "at": "2019-12-19 12:11:44",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "b266ed13-204d-45dc-90e9-2e80c814f44a",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Fairly good. Keeps shutting down which defeats the purpose of it. I need to manually open it quite often.",
+                "score": 1,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "2.1.3",
+                "at": "2019-11-06 11:43:09",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "830491f7-cb7d-40cc-95d4-1879ccf23c02",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Not sending data wjen movement occurs even though app updates locatipn.only after restart sometimes updates",
+                "score": 2,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "2.1.3",
+                "at": "2019-10-19 15:08:20",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "ddf00a58-ecb1-4e91-842d-33c3da6f3e91",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "No issues, modes could be less obscure",
+                "score": 4,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.1.3",
+                "at": "2019-09-19 02:25:03",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "owntracks-_-android.json",
+        "published_at": "2018-12-12T16:27:28Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "ea76c29c-5e95-4949-b059-2bad1db774d3",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Great app! Thanks a lot.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.1.2",
+                "at": "2019-09-24 21:17:32",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "e4ddf41f-3581-4159-a6c9-b06166ab48e4",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Terribly difficult to setup (ever started an mqqt server?), but once up and running, it's perfect! Free, opensource, private.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.1.2",
+                "at": "2019-09-23 19:56:24",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "c27a6923-fc36-4e23-b3e4-fb1372ddf612",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Awesome! Love the new NextCloud map app!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.1.2",
+                "at": "2019-09-02 18:17:33",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "22ad5e74-fa28-4494-aa5e-27784a7c6839",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "How to completely stop the app? I would like to be tracked for some period and then stop the background service and the app. It seems that user cannot exit the app and stop tracking, or at least it is not obvious,...",
+                "score": 3,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "2.1.2",
+                "at": "2019-04-08 20:31:52",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "1e1f4e7e-48ee-4171-a468-138225652ba3",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "In significant movement mode there are no points generated where there is no callibrated wifi coverage e.g. in a forest. Is there a way to optionally enforce gps fix every n minutes?",
+                "score": 3,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "2.1.2",
+                "at": "2019-04-01 23:33:26",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "06eef7bb-cffd-450e-9ab4-d8253ca68f4d",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "I've been using this for my family for a while now. It works great. Devs are very helpful and responsive via github.  There are some nuances to how the reporting actually happens, and it's all clearly described in the documentation. Some reviewers complain that the location is wrong, but it's just how the Android significant changes API works. These people need to read the documentation!! It's all configurable, and you can push updates out to clients which is great.",
+                "score": 5,
+                "thumbsUpCount": 14,
+                "reviewCreatedVersion": "2.1.2",
+                "at": "2019-03-20 17:52:28",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "e44ce59f-e99b-4a10-a561-e05fd0869478",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "I understand the attraction of \"sparse\", but there is a fine line between that and \"absent\" when it comes to documentation. The app has for some hours now been reporting my location as being several hundred metres away from where I actually am, and does not seem inclined to refresh itself. There are some buttons at the top of the screen which look like \"play\", \"stop\" and \"fast forward\", but quite what they do is a mystery which the documention does not cast any light on (unless the information under the iOS section is intended to be relevant). The only way I've been able to get it to work is to place it in a mode which simultaneously drains my battery and consumes my finite stock of monthly webhook requests. Returning (reluctantly) to google.",
+                "score": 1,
+                "thumbsUpCount": 7,
+                "reviewCreatedVersion": "2.1.2",
+                "at": "2019-01-14 19:03:23",
+                "replyContent": "Feel free to submit your questions or issues on our issue tracker at https://github.com/owntracks/android/issues",
+                "repliedAt": "2019-03-05 15:39:59"
+            },
+            {
+                "reviewId": "ea9717e2-d5fc-4b8a-ade5-be33c4f294ad",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "awesome!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.1.2",
+                "at": "2019-01-08 21:43:33",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "owntracks-_-android.json",
+        "published_at": "2018-12-09T17:44:04Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "38901e49-788a-42c3-9f3f-a26ec1c94244",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Can't get past the setup screen using latest version available on the play store.",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.1.1",
+                "at": "2018-12-09 22:08:48",
+                "replyContent": "Please update to build 21102, thank you. The issue was already fixed before you left your feedback.",
+                "repliedAt": "2018-12-10 07:02:42"
+            },
+            {
+                "reviewId": "d9d5bdd7-c081-41f1-ac3f-d31d9b2ea44a",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "I can't seem to get past the setup. Gets stuck at the Restrictions-page and only the \"Learn more\" button is useable.",
+                "score": 1,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.1.1",
+                "at": "2018-12-09 20:51:50",
+                "replyContent": "A fix is already available. Please update to build 21102 and let me know if that fixes your issue. Sorry for the confusion, that bug slipped our tests.",
+                "repliedAt": "2018-12-09 21:12:48"
+            }
+        ]
+    },
+    {
+        "filename": "owntracks-_-android.json",
+        "published_at": "2018-12-07T18:00:52Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "c7348fcb-7e4d-41a6-a548-117511c2749c",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Please consider supporting https  It's working now- thank you!",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.1.0",
+                "at": "2018-12-10 21:36:25",
+                "replyContent": "Owntracks already supports HTTPS. Even if the mode is just called \"HTTP\", it supports encrypted connections. Just add a connection URL starting with \"https://...\" and configure your server certificates correctly. If you have any further questions, feel free to ask them at https://github.com/owntracks/android/issues.",
+                "repliedAt": "2018-12-09 07:21:32"
+            }
+        ]
+    },
+    {
+        "filename": "owntracks-_-android.json",
+        "published_at": "2017-07-05T07:52:40Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "14b101de-fd7e-4cb6-9292-7deea6a21537",
+                "userName": "Christopher Joyce",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXDwXQNHalmRUHOCBIMvfCSiaduU4EY6p7bGHTCi4ho77M",
+                "content": "Very nice. Private location tracking! Not perfectly stable though.",
+                "score": 4,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.2.7",
+                "at": "2020-08-20 11:09:18",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "9bf13371-2f82-47ed-95fa-2fe6610f4bfb",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "OwnTracks is awesome. I have it integrated with Home Assistant and run automations based on if I'm home or not.",
+                "score": 5,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "1.2.7",
+                "at": "2018-12-10 23:14:21",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "5a044c90-0633-41c5-adf1-e5509185964c",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "10/15/2018 Update. Latest version installed ---  On Galaxy S9 and Note 8, both phones are not updating automatically. Only updates when launching the app ??????? Its setup in the battery section to not monitor the app for sleeping state. So, not sure why its not updating.",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.2.7",
+                "at": "2018-10-15 14:01:45",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "45e8447b-5f3a-42eb-a7bb-869303041d92",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Fails to update location on a fresh boot. Public mqtt server is unreachable. Tried a fresh reinstall, then uninstalled.",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.2.7",
+                "at": "2018-08-28 03:04:17",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "f552497d-7e9e-4434-937c-d42ccfd98154",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Why do i need the gps on for it to report? I only need the battery \ninformation and not location of a stationery tablet.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.2.7",
+                "at": "2018-06-07 11:53:08",
+                "replyContent": "Because it’s a location reporting app that includes battery information and not a battery reporting app that includes location information.",
+                "repliedAt": "2018-06-08 17:07:08"
+            },
+            {
+                "reviewId": "1ab14c51-6c39-4714-98e1-6f4d1bee973a",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "A great location sharing app that minimizes battery use.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.2.7",
+                "at": "2018-05-21 11:14:31",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "92fe5bce-d842-4b55-9586-d93ee01b185a",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Love the app, use it extensively for tracking my location for Home Assistant. In addition to that, it supports a lot of remote configuration however I can't seem to be able to create a remote config dump. Other than that, perfect.",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.2.7",
+                "at": "2018-03-16 21:36:54",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "b94e8b63-2a92-46bd-ba20-85b5a0b0ea2d",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Worked really well in my setup. Unfortunately after this update has a battery drain issue.",
+                "score": 3,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "1.2.7",
+                "at": "2018-01-06 07:58:35",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "a0fba595-a5be-458d-bb27-53bab768ca0c",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Very simple in use .",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.2.7",
+                "at": "2017-11-18 07:52:22",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "f5560345-f4f8-4f19-9a95-5be87e248bf7",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Worked initially, now doesn't report at all and sits idle....",
+                "score": 2,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.2.7",
+                "at": "2017-10-23 16:45:42",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "ad4978f6-0abe-4fb3-8e04-6397c04aef70",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Great APP, simple User Interface. Unfortunately when switching between WiFi and mobile Data the App needs a very log time to reconnect. I'm missing the option to view additional Data (e.g. some JSON Parameters added to the MQTT Message)",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.2.7",
+                "at": "2017-10-11 15:13:30",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "dc7cc0af-414b-47eb-a056-3745bc1c902a",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Great app that we use with openhab. We love it.",
+                "score": 4,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.2.7",
+                "at": "2017-09-05 18:06:01",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "5230f911-6168-4ec5-98ea-134a6fad48f8",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "I've been using Owntracks for 8ish months and have loved it. Unfortunately this last update seems to have made battery consumption worse. I'm not sure why, or where to investigate, but it's night and day. Old version used around 3% battery, this one uses around 9%.",
+                "score": 3,
+                "thumbsUpCount": 7,
+                "reviewCreatedVersion": "1.2.7",
+                "at": "2017-07-28 21:58:59",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "d0499ddb-230f-46ee-bc35-0346b0584b3f",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Great platform. Using with local mqtt broker and home assistant. But has a bug on VF smart platinum where map is not loading and gps detection in regions does not work.",
+                "score": 5,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "1.2.7",
+                "at": "2017-07-11 07:35:31",
+                "replyContent": "Unfortunately the map cannot be displayed on certain Android 6 devices due to a bug in the Google Maps library. For the regions, did you set a radius?",
+                "repliedAt": "2017-07-13 13:52:49"
+            }
+        ]
+    },
+    {
+        "filename": "owntracks-_-android.json",
+        "published_at": "2017-07-01T11:49:25Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "owntracks-_-android.json",
+        "published_at": "2017-06-30T09:18:45Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "250be419-ea81-482f-b0a7-770a6ea77151",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Nice tracker with mqtt capabilities",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.2.3",
+                "at": "2017-06-05 21:24:48",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    }
+]

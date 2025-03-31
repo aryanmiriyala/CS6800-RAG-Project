@@ -1,0 +1,30 @@
+[
+    {
+        "filename": "RSG-Group-_-RSG-Chess-mobile.json",
+        "published_at": "2018-11-03T07:40:23Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "RSG-Group-_-RSG-Chess-mobile.json",
+        "published_at": "2018-06-30T20:16:31Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "RSG-Group-_-RSG-Chess-mobile.json",
+        "published_at": "2018-03-31T15:39:51Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "5cf22b5a-8399-4f37-821c-2b9de220e77b",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "The game is good, but when palying with the AI, you can add 2 seconds delay \nbefore moving the figure, because it happing too fast and you can miss the \nmove.",
+                "score": 4,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.1.0",
+                "at": "2018-06-28 21:40:36",
+                "replyContent": "Hi. Thanks for your review! I saw you're using older version of the game. Try updating to the latest version and I hope it will be better. I'll add better animations in the future versions as well!",
+                "repliedAt": "2018-07-04 11:56:04"
+            }
+        ]
+    }
+]

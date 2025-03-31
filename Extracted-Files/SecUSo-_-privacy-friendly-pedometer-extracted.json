@@ -1,0 +1,574 @@
+[
+    {
+        "filename": "SecUSo-_-privacy-friendly-pedometer.json",
+        "published_at": "2023-02-01T14:00:12Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "6f80abf7-c77c-429e-bac5-57854f2775ea",
+                "userName": "Unagi Sf",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIoGhVZumR7zwOpc9GJ_mzPHbmWJEdVnycewQLou1yJ=mo",
+                "content": "I really appreciate an app that doesn't spy on you. Still having some problems with mysterious halts in function though. --This app was really great till the spring update basically killed it. The latest is a bit better but more like less bad, basically useless. Big interface problem too, the play/pause button that does the opposite of what it should, and should be a setting instead. Sheesh! A private app was a big public service, who are the fools who were allowed to destroy it?",
+                "score": 4,
+                "thumbsUpCount": 5,
+                "reviewCreatedVersion": "3.0.1",
+                "at": "2023-09-09 04:26:41",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "SecUSo-_-privacy-friendly-pedometer.json",
+        "published_at": "2022-09-06T08:33:40Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "d48075b2-6f64-4cdb-85de-c86cc92f3b6f",
+                "userName": "Patrick Hunt",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjU8r27VmafJMDV4utI6lmxQbJv7tx-M5ca2TUJByvEfWE61",
+                "content": "Excellent 👍",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.0.0",
+                "at": "2022-11-07 11:43:09",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "SecUSo-_-privacy-friendly-pedometer.json",
+        "published_at": "2021-07-12T20:11:47Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "3faea06a-7a1b-4ef6-bf7d-3c24ef336f17",
+                "userName": "Dev",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLPR2n7MS1xfR42F88YDzdiz0eRsGrcLI-jrvrZbGVeLKM=mo",
+                "content": "Pretty good and simple app, but I wonder if battery use can be minimized more.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.4",
+                "at": "2022-08-15 20:59:35",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "c4e3571f-d19e-4e37-8c3b-d624115aa7b2",
+                "userName": "Steve White",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVkuoFkSJEnmIcCH54YBmIUhI8QFmv6Ju77ZtdKP3luqGE",
+                "content": "Nice and clean, no ads, no tricks. However, unless your phone has a hardware step counter, it doesn't really count steps. It tries to guess how far you walked, then divides by your guess of a step length. Too bad. It wouldn't have been hard to make it really work.",
+                "score": 2,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.4",
+                "at": "2022-07-16 22:11:46",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "1022b4c7-8a7f-4a47-ad80-473fc718a4f8",
+                "userName": "me 1",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLgt6gY9VBM4O3U0kI-tyC22tUwwXOJud7rfagy5wzY=mo",
+                "content": "Hardware sensors still don't work on sg21",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.4",
+                "at": "2022-06-19 18:15:46",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "bb0293c4-69bf-44ab-b286-2aae26415f49",
+                "userName": "Ian Miller",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVvUj4MBH6reyKZvx6B9-CDx1G6-lMKt9fINuQfYJv-vw",
+                "content": "I use this pedometer every day and like it. But I do have an issue with its distance measure....it seems to be very inaccurate. Today it showed a walk of 7.51 km while a tracking App showed 4.7 km. over the same walk. Can I adjust the walking step length? Or can it be linked to the GPS so it can accurately record the distant walked?",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.4",
+                "at": "2022-04-12 23:36:46",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "1eb73741-b5d2-4277-b12d-f9e5917cef64",
+                "userName": "Ben Hyde",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjULisgJVErW7L3CzMmfLG_Fab-p_sQH0z_aiq9Y5SpiekSB",
+                "content": "You need to manually grant it two permissions: Physical Activity and Location. Search for App Permissions in the phone's settings, and then find this app. Great app, Sad it took me so long to realize why it stopped working! I suspect there aren't any dev's working on this anymore; but if so maybe then can make this less obscure.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.4",
+                "at": "2022-03-04 01:42:01",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "849af4a4-5bb5-4590-b38f-4cbeddc35286",
+                "userName": "Paridhi Lohani",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUt-0NCpF-By2U5n8PfetQxFw6eh_vA7N_9SqOrPbfN8l8",
+                "content": "I appreciate the initiative to prioritise privacy but the readings are not dependable. At the end of the day the app just drastically cuts my step count. Please look into this.",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.4",
+                "at": "2022-02-20 15:47:55",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "0d2b6ccc-cc03-43fd-8124-0856c867b804",
+                "userName": "Craig Szwed",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWX_2DqYzc8GzOgfrRvXBzVc35EUSUCTVebsALWEWfJVag",
+                "content": "This app has ceased to work on my cell phone. I am removing it.",
+                "score": 1,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.4",
+                "at": "2022-01-07 19:51:57",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "51a7cb0b-ce38-4ba3-bd98-ba50211a500f",
+                "userName": "Schwartz Phone",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKEFhFKq-OvN0AX2cDVOxhTjoIkSxRab_e-lyzKr3W4=mo",
+                "content": "Does exactly as it says. Helps the user manage their walking without exploiting the data or device. Super easy to use!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.4",
+                "at": "2021-12-16 22:33:55",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "7da1c8fb-2a07-4941-936b-3f50e9fff420",
+                "userName": "ABJ photography & video",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVuqjaDBXeevNZ9mdLfrXPlrcrS25yINmGWs48V3NI6jSc",
+                "content": "It looks good, but that's all. 1200 steps instead of 4494. Complete useless",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.4",
+                "at": "2021-11-22 10:52:12",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "bcab5d7f-17ef-43fe-9ea5-2a10b311941e",
+                "userName": "Dainbow Rash",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVxeSzK_AOKzQfEqHnZs8pLPbmvGbUfHnfQrkzhBQPyXQ",
+                "content": "Counted 18 steps on a day i walked kilometers",
+                "score": 2,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.4",
+                "at": "2021-11-20 09:39:11",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "3ffca57a-0037-4d6e-92bb-12b24ed28c11",
+                "userName": "K Z",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJZmvJpajTDq5IlvtnT1F1ZN2D-lEWZ4QumhGUzdw7v=mo",
+                "content": "This app was great until the latest update - it stopped counting my steps at all. Please fix! Edit 2021-07-22: the latest update is a little better (it actually recognizes some steps) but it's still missing most steps I take.",
+                "score": 3,
+                "thumbsUpCount": 10,
+                "reviewCreatedVersion": "2.4",
+                "at": "2021-07-22 13:03:32",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "SecUSo-_-privacy-friendly-pedometer.json",
+        "published_at": "2021-07-09T11:56:55Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "e52428df-bc25-4621-a3e0-7391c0fc8d55",
+                "userName": "A4Audi4Fun",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLjFZXw1D3or8Um5Z5-bkPmNrCJz3AxQtm3rHUgW-sP=mo",
+                "content": "Anyone having issues with latest version not recording steps on a Pixel 3. Earlier versions worked great.",
+                "score": 3,
+                "thumbsUpCount": 10,
+                "reviewCreatedVersion": "2.3",
+                "at": "2021-07-10 02:08:55",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "SecUSo-_-privacy-friendly-pedometer.json",
+        "published_at": "2021-07-02T16:08:06Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "SecUSo-_-privacy-friendly-pedometer.json",
+        "published_at": "2017-03-07T20:53:25Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "cc153b06-8279-4274-81f9-0afb312a7024",
+                "userName": "Alfonso Caballano Gómez",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjW8dYhXZ8aLsGB2hZsmShbwmcsNqhVgSIV7QWwcLDlphu51",
+                "content": "Llevo varios años con ella, gracias.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.0.5",
+                "at": "2023-02-26 13:19:46",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "0a9f6235-210e-4552-91c9-dd061f1b5960",
+                "userName": "John Blumberg",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjX77vh6NAmotEYpk-flOBaULaUSvYFqPM-772KiMVFY-ek",
+                "content": "Worked well until it suddenly stopped working in December 2021. Fooled around with the settings. Worked sporadically. Help is rudumentary and inadequate. Checked info at Secuso website. Right now, I think this app may have been the victim of an app update or an operating system update. I like the idea of a private open source pedometer so much I'm going to reinstall it and try some more to get it to work dependably. Sadly, it's not yet suitable for the casual Android phone user.",
+                "score": 2,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.0.5",
+                "at": "2022-01-08 16:23:29",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "32f331c1-b19f-495c-9663-ae7bbbd852c0",
+                "userName": "Roy Biv",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLxfU-YcPY4Ec-YkdXKF3B4KJLX1ZCHtb1bouOyLZo=mo",
+                "content": "Please explain the 5 new permissions in the last update. I pretty much get it, but many others might not. (Most won't even notice, but that's another issue.)",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.0.5",
+                "at": "2021-07-16 08:00:33",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "bc8491aa-8003-4a70-be2f-1552cf58081a",
+                "userName": "Mick Mize",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWyw-qCynIzbTPRlDaQUhGKKCPBsmgasfsbu402FRp0HHng",
+                "content": "Incredibly useful and great. No battery drain, no issues with it being 'always on'. Just works. Has helped me get more active. 14 miles of walking last week! Edit: doesn't seem to work with my Pixel 3 any more. Worked great with my Moto G6. Still a great app!",
+                "score": 5,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "1.0.5",
+                "at": "2021-07-10 16:46:46",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "a330b282-73e7-40db-92e8-f7eb2d91d059",
+                "userName": "Dane Jensen",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJneEbPW1MbksdpHtRiCJakEsuaAMFTZeHz0l0z9cKD=mo",
+                "content": "Wonderful app, short and sweet, does what it says it does, and that's it.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.0.5",
+                "at": "2021-07-05 21:41:44",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "9b40e5e7-11b9-48f5-94eb-3a2c0c94ddbf",
+                "userName": "max g",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJEAhC0I8UwqHXqmmnXPwENPHQg4YsxOhwE3ORtPlBS=mo",
+                "content": "nice app with one bug, when I record some steps in the late evening they get moved to the next day after midnight... makes it hard to reliably hit my step goals",
+                "score": 4,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.0.5",
+                "at": "2021-06-06 09:34:48",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "be7e90a1-deeb-43e1-b0b6-55784d297db2",
+                "userName": "Bart Chojnacki",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKmPjSKsd2CR7P-t_WnmXmzkYA6nkqLVA6rRMea18loDA=mo",
+                "content": "Better than Samsung health with their \"improved overall experience\"",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.0.5",
+                "at": "2021-05-13 00:46:40",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "bfd99775-2ca3-430f-892c-555e6c256ebb",
+                "userName": "Kay M",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUGR9od0DVJVOJADZm5NZGhpzw1OOXtFOflSC6trJ7B",
+                "content": "This app is great! It does everything and maintains my data privacy. The only thing I would tweek is when I want to scroll backwards by weeks, days or months; if it was a dial function or something to make it easier to then scroll back to the present calendar. Ps. Do you make a calculator app? I swapped my broken phone for a replacement but the replacement was missing many of the usual apps ☹",
+                "score": 4,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "1.0.5",
+                "at": "2021-03-13 04:08:41",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "dac6ee82-c7be-4e35-bbf2-77c00617e2b8",
+                "userName": "Kea Klatt",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjU2t_KSqdtJuA5iKYDd-XW3_3x1J9HX5znur1spbK9mRDI",
+                "content": "Have used it all of 2020, worked just fine. Since January, it only works sporadically, most of the time it fails to count my steps. I'm disappointed bc I used to love this app.",
+                "score": 2,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "1.0.5",
+                "at": "2021-02-27 10:02:12",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "f19ee7cb-6544-42a7-bbc6-6828e26f5c66",
+                "userName": "Somrudee Tam",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKwtk0jQMdwkTVFj5NobX0EV1zazfdFNURO0mlmVkE9=mo",
+                "content": "Doesn't work (Xiaomi)",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.0.5",
+                "at": "2021-01-10 20:48:57",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "49848b97-4d8d-4220-820e-f178896da5b2",
+                "userName": "Mari Donkers",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWXNK0cdVL0xqsvGPLvWD3Miwrl5nWHHf9l95M5N5FWVQ",
+                "content": "This one actually works and has step sensitivity setting.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.0.5",
+                "at": "2020-12-24 10:56:20",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "0b7a3839-228e-4733-addb-806f92a8c6a6",
+                "userName": "Thabiso Dlamini",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVHBrLzPXcD-B304GVpgoP0Wev6jfone8ICqg2qZynSBqc",
+                "content": "Good - light on battery, no ads, small size, no sign up.... Bad - needs to be started manually, counts vehicle ride as \"walking\".",
+                "score": 2,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.0.5",
+                "at": "2020-08-13 14:31:45",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "0ef37dcd-fdf6-439c-8c4c-f3aa7afaa6ef",
+                "userName": "Ed",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIaoHxzcdPzNE66T6BvKfiO7k7ea4nWfBcLdTntkY_M=mo",
+                "content": "App is accurate, to calibrate it to your step length; you go to Settings - Walking Modes - then adjust the step length to match the distance you walked. If you don't have a measured mile somewhere, you can use your car to measure a mile or some shorter distance if you are not up to miles yet or possibly google maps and walk it. then adjust your steps to match the distance. Have a good time getting out.",
+                "score": 5,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "1.0.5",
+                "at": "2020-06-14 23:50:39",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "3efebe7e-f374-4735-a145-7f856420dd7d",
+                "userName": "Sheila Mize",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIfH8q8TftB1PJkRLRN_DSPu9ZpPFMwSgrluvhIgruq=mo",
+                "content": "Inaccurate and inconsistent operation. Like privacy, and clean display; also no ads. Has potential. But presently unreliable.",
+                "score": 1,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "1.0.5",
+                "at": "2020-05-03 02:31:19",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "eb940cea-4159-4637-8d36-3b54d8260e1e",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Used to work perfectly. Updated my OP6 to Android 10 a few days ago and since then it has stopped counting steps.",
+                "score": 3,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.0.5",
+                "at": "2019-10-24 20:56:49",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "ec952677-b189-4b78-be24-8ba1322b4fd2",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Would love a reset button",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.0.5",
+                "at": "2019-09-17 10:42:51",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "2ab15d9c-cb33-4a9e-91a7-50c191b6cf0e",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Best app for monitoring your steps. Which won't connect to internet nor access your GPS. Awesome",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.0.5",
+                "at": "2019-08-21 02:13:18",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "dc060e8d-1403-4eaf-8871-b88184ef8b15",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Uses far too much battery power.",
+                "score": 1,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.0.5",
+                "at": "2019-08-14 07:11:51",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "81ec096b-21f7-4236-9390-d88742315282",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Simle app that just works, even while the display is sleeping. Other apps I tried either stopped counting when sleeping, or drained my Pixel 3 battery very quickly. No noticable battery use. So glad I found this one.",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.0.5",
+                "at": "2019-06-17 19:02:39",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "882f7da1-f5d5-47a3-aeca-e4fc7339a378",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "How does a pedometer track my steps when I get up at night to put wood on the fire? The phone is on the charger on the nightstand. Also give me steps when I'm driving. Disabling, I forget to re-enable.",
+                "score": 3,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.0.5",
+                "at": "2018-12-25 07:06:28",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "86cd58df-3de4-468b-b2db-483837819be9",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Step counter is accurate. Distance is not. Walked 2km, this app measured it as 1.4km. Would not recommend this app to people who is trying to actively measure the amount of calories burned through walking.",
+                "score": 2,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "1.0.5",
+                "at": "2018-10-08 21:36:33",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "0f5b0ed9-4629-4c61-81a1-13d5648f9c80",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Super. Tut genau was es soll ohne Cloud-Zwang.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.0.5",
+                "at": "2018-09-23 14:04:07",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "e3aee382-7758-490a-9d1a-096ddc04764e",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "More accurate than samsung health app in my galaxy.",
+                "score": 5,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "1.0.5",
+                "at": "2018-09-16 12:00:13",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "07ec1bdf-b939-4b74-b770-677e721e1750",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Not counting right",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.0.5",
+                "at": "2018-09-06 07:29:47",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "84e885d3-d5be-444f-8c3d-aa6a2628af50",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "It only seems to actually save your steps count about once every billion hours or so. If you have to turn off your phone or it restarts or you run out of battery you can be out literally thousands of steps.  It would be quite good if not for this ridiculous flaw.",
+                "score": 2,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "1.0.5",
+                "at": "2018-02-06 02:08:03",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "849d26f3-dc6c-4bca-ad2b-f0fa9e4155cf",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Stopped working for no reason",
+                "score": 1,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.0.5",
+                "at": "2017-09-30 03:34:14",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "6265bb58-2132-4619-b958-e77a4ebccd1c",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "It not count steps when phone is in hand.and steps not count in ui.",
+                "score": 4,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.0.5",
+                "at": "2017-09-01 16:56:07",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "c8be5186-d789-42aa-bd0b-b27c7a2a11c7",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "With my Honor 6X I cannot find out how to keep it alive. I enabled every option I could find to prevent it from being closed but it still shuts down at some point. Also it doesn't count reliable, having the phone in my pocket does almost nothing while fiddling in my hand or typing stuff increments the counter. Already tried different sensitivities with the same results.",
+                "score": 2,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.0.5",
+                "at": "2017-04-14 08:37:47",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "SecUSo-_-privacy-friendly-pedometer.json",
+        "published_at": "2016-12-23T20:11:18Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "3bfbfe42-dec1-4ac4-b5df-b3e7002394e9",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Simple, useful. No unnecessary permissions.",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.0.4",
+                "at": "2016-12-25 07:31:21",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "SecUSo-_-privacy-friendly-pedometer.json",
+        "published_at": "2016-12-14T21:08:24Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "SecUSo-_-privacy-friendly-pedometer.json",
+        "published_at": "2016-11-17T17:50:44Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "SecUSo-_-privacy-friendly-pedometer.json",
+        "published_at": "2016-11-10T14:54:12Z",
+        "google_play_reviews": []
+    }
+]

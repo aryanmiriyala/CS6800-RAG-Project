@@ -1,0 +1,440 @@
+[
+    {
+        "filename": "rt-bishop-_-Look4Sat.json",
+        "published_at": "2022-10-23T13:30:17Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "5a0e4ab1-da95-4f0f-93e1-ff958d4adf7a",
+                "userName": "Willie",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIqBdP3Cd-HWC7T6R5ERQ3XJnvUJDLeOLDLyfbjkOph=mo",
+                "content": "YouTube",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.1.2",
+                "at": "2023-11-01 12:13:21",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "108132fe-1b08-4f34-876d-47eed880ab8e",
+                "userName": "蔡雲鵬",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVWZyUwyg5jGHXrvbc72HX_l4H0IEW0QXVV3sBKduJB7Hs",
+                "content": "If there is a notification, that would be perfect.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.1.2",
+                "at": "2023-04-15 13:28:33",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "6f50b7c8-4ece-469f-b86e-a796d820254f",
+                "userName": "Abhinav Krishnan",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVYTZbZPLad6iJPZqSeMeXKXYoEdbf7tKraci8sNwQeZQs",
+                "content": "Giving two stars for the effort but you have used the wrong map of India. Disputed territories of J&K are not part of the neighboring countries for your information, where your map shows otherwise. Please find a way to correct it.",
+                "score": 2,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.1.2",
+                "at": "2023-04-11 20:05:38",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "08de04d0-67a1-426e-b031-e8c16fb8c058",
+                "userName": "Mr Byamile",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUjlLPC0CSpLtKNB3Kuh8ZApkSVvSCk5aJb-yjHgSYayQ",
+                "content": "Can't really get the app to work properly. I made the mistake of checking \"all\" in satellite list now thats all I can see is every single can of soda floating around in space apparently because the map is so populated with names that I can't see the map anymore. Every attempt made to clear the map or only show amateur or cube sat reverts back to showing all. Will try a few more times and/or wait for response from admin suggesting a fix before deleting the app. Samsung S9 phone.",
+                "score": 1,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "3.1.2",
+                "at": "2023-01-13 16:20:12",
+                "replyContent": "Thanks for the feedback) If you choose the \"All\" type in the selection menu and then press the \"Clear All\" button, it will unselect all the satellites. Accept the change by pressing the tick in the center. It will work if you didn't add filters in the top right \"sat icon\" menu. Otherwise go there and unselect the filters and then repeat the steps.",
+                "repliedAt": "2023-01-13 16:33:24"
+            },
+            {
+                "reviewId": "3c0ea92b-bd82-4bb7-8a1b-31da76d15f1f",
+                "userName": "Aalap Pathak",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJsyjtf6FYOaMQrGzqqZgUuoSDcgEmddEB21Vys9gmL=mo",
+                "content": "Wonderfully made, great UI+UX!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.1.2",
+                "at": "2023-01-06 01:04:31",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "6e08a5aa-f35c-4635-b882-2ea57df2c307",
+                "userName": "Mike Chirkov",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVRfehWzdzm3ZxHeHiRaMAbrCbuTIMggF8U0v-HGgJFj0Dh",
+                "content": "Top notch for amateur radio. Highly recommended. KZ1R",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.1.2",
+                "at": "2023-01-03 05:13:47",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "78314191-6fcd-445c-95a7-4f70e8baef92",
+                "userName": "Wesley Earl Loveless / Wesley Earl Montanye",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjU19kwZYCmOgtQ1P46wTMW7PTuq8Et8u3DXS3wfa8QVm6TQ",
+                "content": "Thank you !!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.1.2",
+                "at": "2023-01-01 05:57:17",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "c4869c42-c142-481b-87ef-437ae838be03",
+                "userName": "Phil Ramil",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJGM3MqCLzpREj9VseMFCHy6R3DRe8TGfoGb1qWTeiu=mo",
+                "content": "Amazing free app. Wish the amateur satellite frequencies would include CTCSS tones but otherwise incredible app.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.1.2",
+                "at": "2022-12-10 22:50:08",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "2e149b60-e8c4-46b7-b528-a75476a01ace",
+                "userName": "Nimbe Konate",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjX8OwAvwfcIAd74KOO8KGUoGcBeS3GPuBI1qX9RgmBBGkA",
+                "content": "Bonne rescenscen",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.1.2",
+                "at": "2022-11-18 20:22:54",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "065b5b85-433f-40c8-a1e8-0461ee0e56be",
+                "userName": "joshua dale dela pena",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLKlkCJkNEChyuuorx7TpMTyW72th0K2ZhIlof0C6CQ=mo",
+                "content": "GOOD",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.1.2",
+                "at": "2022-10-25 21:37:21",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "rt-bishop-_-Look4Sat.json",
+        "published_at": "2022-08-07T12:41:10Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "fb10793c-76ac-4cc0-953d-93e6e556f012",
+                "userName": "Bob Carter",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVrKFiR66wKXcXogzhupAZ-hXUHdLl1DjuFON1kgAr6ko8",
+                "content": "Not sure if it is my device or not but the notify feature doesn't work. Would be nice to put amateur satellites in mode categories ..aka SSB or FM Satellites. Figured out the satellite mode categories. One thing that needs to be added/listed with the uplink and down link frequency is the PL tone access required to work the satellite that we are interested in working.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "3.1.1",
+                "at": "2022-10-13 22:34:50",
+                "replyContent": "Thanks for your review! The notification feature is disabled for now as it's not ready yet. Also, there is a satellite picture button left from the search on the sat selection list which lets you do exactly that - sort all the satellites by the transceiver mode. So you can sort by category first and after that sort the remaining by the mode type.",
+                "repliedAt": "2022-08-07 09:17:31"
+            },
+            {
+                "reviewId": "af8e3adf-ec35-4c47-bf00-e475cb5de58a",
+                "userName": "Aleksandre Sandro Melashvili",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWId0AEfB6z4-QdWMNCNAXfZFMYX4BiuSzKq68ZGxWanNU",
+                "content": "Been using this Nice app for months, great for tracking ham radio repeater satellites, showing orbit, pass time, azimuth/altitude and frequency. simple satellite search bar with selectivity option. Great App, well done. No Ads.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.1.1",
+                "at": "2022-10-07 09:41:10",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "ecc0eade-9c62-4942-8ea8-5614ae3a15c9",
+                "userName": "Rob Field",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKTNRq2rpbVvG9rd20y8q3BWdz_aE7JDnPYMmXej_Tj=mo",
+                "content": "Looks nice",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.1.1",
+                "at": "2022-09-17 17:57:55",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "8a4df67e-a881-4d83-ac3a-2ffde7da420f",
+                "userName": "Elijah Fry",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjURsonOgl0iKDDF6Md2JVkOaf6-jUCAolr0GHUqeTu16Os",
+                "content": "Hands down the best (free) satellite tracking app I've used so far. Very smooth and easy to use. The black and gold theme makes the app very nice aesthetically and the general functionality is awesome.",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "3.1.1",
+                "at": "2022-09-07 22:31:57",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "237c734c-aea2-4979-945c-3cddf7099a48",
+                "userName": "Derrick Daugherty",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWwgq5Nj2VMykg98Sz44hFbpbi6USyE67jwf8Nqv1EkCThS",
+                "content": "This app is exceptional, fantastic!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.1.1",
+                "at": "2022-09-01 09:41:46",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "4dd26f6b-c4ed-49a1-9770-fc82b454b993",
+                "userName": "Chuck Boren III",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjW0QOrao__5kd6B874fd2i_LXL7h_lZKHKtUfzi8ops-Q",
+                "content": "A really nice app to track satellites with",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.1.1",
+                "at": "2022-08-16 15:48:55",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "rt-bishop-_-Look4Sat.json",
+        "published_at": "2022-06-03T15:24:52Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "769dedbe-ce98-4d5d-ba9c-2ea4a7ea14bf",
+                "userName": "Homed Nehrir",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocI7QD4sgv1Z7kedBv6Fvl5DzhmifN-RezgufpRc0MJi=mo",
+                "content": "Positioning interface does not show correct satellite position in sky",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.1.0",
+                "at": "2022-08-02 06:58:01",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "4fa690c6-fd8e-4c1b-afce-1bd44bba1d4f",
+                "userName": "Juha-Matti Saari",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWfEWQa1yoWuLrWkPrOAt6KzpxwDBKfg_j6OREihLq4eWw_",
+                "content": "Finds so-50 easily.",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.1.0",
+                "at": "2022-07-11 14:27:34",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "345a3ca1-5a9d-42b1-8483-172f1dfe93c2",
+                "userName": "Ralph Beardmore",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVlH_euK2yQit-HXgt4FfH1-tLfkcSegHSxfPXZTeGFfHc",
+                "content": "Didn't find noaa 18 overhead",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.1.0",
+                "at": "2022-07-07 09:57:03",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "19ee4c1a-2d7e-4469-bb6c-4dc774f9bb54",
+                "userName": "Angel Menendez",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWPQsOfASZ4AUjl0E1u_Uoxz-7L4GBvU4XcW82qpqjOxw",
+                "content": "It won't let me input negative values for longitude, so I can only manually locate ground stations in half the planet lol No one has ever cared so much for me, five stars to your app, Sir.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "3.1.0",
+                "at": "2022-06-28 13:43:57",
+                "replyContent": "Thanks for reporting this Angel! Not sure why this hasn't been caught earlier as I have a negative longitude as well =) The text field accepts negative, it's just the minus symbol is not accepted on the virtual keyboard. Will issue a hotfix as soon as I can.",
+                "repliedAt": "2022-06-28 06:29:20"
+            },
+            {
+                "reviewId": "57505bbb-cd5e-4f7c-957f-86bb50d928d4",
+                "userName": "Anica K.",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjV6tVC4LidWHz7xli00CYXZiwVMKGZOGGOUZDNCgmCD8g",
+                "content": "Confuso",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.1.0",
+                "at": "2022-06-27 20:43:02",
+                "replyContent": "Agreed, the usecases for this app do not require it to be simple or self-explanatory.",
+                "repliedAt": "2022-06-28 06:31:58"
+            }
+        ]
+    },
+    {
+        "filename": "rt-bishop-_-Look4Sat.json",
+        "published_at": "2022-03-16T09:02:29Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "c5ca205a-31da-4a50-9251-3f3a4817502b",
+                "userName": "Olgierd Z",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXZ5y3Nr7nL_XnJxmzAXp5Hx24TIW_gOnD4NmmToDRLmu0",
+                "content": "Not sure why do you consider all proper variants of QTH locator I tried to enter invalid -- I tried IONN, IONNXX, IONNXXDD, IONNXXDDzz, and all were deemed invalid. (NN and DD are digits, XX capital letters, zz are small letters) At least give us a clue? Edit: Lowered the rating because its been 18 months since my review and the issue was not acknowledged or resolved. I consider it pretty major considering QTH is shown as one of the primary ways to provide location.",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.0.3",
+                "at": "2022-05-30 14:04:28",
+                "replyContent": "Olgierd, you can enter any valid locator that has 6 or more symbols. Locators normally are XXNNzz, if they are less than 6 symbols there is not enough data for geolocation with enough precision for satellite tracking. More than 6 is redundant, still accepted by the app but truncated internally. Also the letter case doesn't matter anymore. IO91vl",
+                "repliedAt": "2022-06-28 06:53:26"
+            },
+            {
+                "reviewId": "183f9a75-924a-4846-86a8-01f867dc9802",
+                "userName": "Ed Kempe",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocItcuBW7VZnplK1LpDNU7SvtR9ldywTEcFGfWRlt7IF2w=mo",
+                "content": "thanks. found the search filters.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.0.3",
+                "at": "2022-04-27 12:28:21",
+                "replyContent": "Thank you very much for the feedback! Would you be able to clarify what are the nicknames in regards to this app? Also, there is a button just next to the search bar on the satellite selection screen where you can filter satellites by the transmitter type which essentially is a frequency band.",
+                "repliedAt": "2022-04-27 12:22:29"
+            },
+            {
+                "reviewId": "b818382a-d690-4f36-9908-884832e1b34c",
+                "userName": "John Adrian Malunes",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXaid-HOPwz8DOJWcb7KQVHB5sIzoXy2PrlZ9WKF-QlUQ",
+                "content": "Very great appp",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.0.3",
+                "at": "2022-04-21 10:18:37",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "89e8c42c-d99b-4727-8b3a-bb77055357ff",
+                "userName": "Kunal Gagneja",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUqui8ZxNUQUkkGLwwEZ-0S3-q8n_ZbLe1FMP14vPhd3Ww",
+                "content": "Great",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.0.3",
+                "at": "2022-04-01 10:38:16",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "7a62bf89-e2ae-4dc5-971c-2f9f4b8341c8",
+                "userName": "FireSoldier16",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXBDiIAxc7AtYZo2vzKiho3xo8zJEBaCuuEcu7G00ouWHo",
+                "content": "I worked with this App for about a hour, couldn't get it to do anything. A tutorial for the novice is needed.",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.0.3",
+                "at": "2022-03-29 23:00:42",
+                "replyContent": "FireSoldier, thanks for the tip. I'll try to make it easier for new users. Basically, you go to settings, set the location and update the satellite data from network. Then, go back, press the satellite button and select some of them you try to track like ISS, Noaa, Starlink. After you select, press done and it'll show you the passes, radar and map.",
+                "repliedAt": "2022-03-30 18:51:29"
+            }
+        ]
+    },
+    {
+        "filename": "rt-bishop-_-Look4Sat.json",
+        "published_at": "2022-03-11T14:45:51Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "f1e976af-bca7-4832-bf92-5a5b1adc40a7",
+                "userName": "Michael Newman",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXvtW2xbsGYp2p7dBgmrS0-5DPNYdgy3rPVOs3ah5PMpQ",
+                "content": "updated phone and spp stopped working 🙁re install no effect. deleting till its fixed.",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.0.2",
+                "at": "2022-03-15 22:14:37",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "74010a00-7a00-4078-ae00-d70bc92cd341",
+                "userName": "Rick G",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIyp_iXWNxdZDfoIFVqUenSjC_moVoqSAyhu4xlZ4-6hA=mo",
+                "content": "Appears to be for engineers who helped make the app. No instructions on how to use this. Also looks like you have to be in south Africa for any information. Sadly I'm uninstalling because it just doesn't even for me. After reading feedback I was able to get some info on the satellites I was looking for. Still clunky, but now I know what to do.",
+                "score": 4,
+                "thumbsUpCount": 8,
+                "reviewCreatedVersion": "3.0.2",
+                "at": "2022-03-14 19:48:09",
+                "replyContent": "Hi Richard, thanks for the feedback! The basic workflow is - go to settings, set the location, update the satellite data online, go to satellite selection screen, tick the satellites you're interested in (from ~5000), press the done button and you'll see the passes overhead or sats plotted on the map. I'll think of a way to simplify this even more.",
+                "repliedAt": "2022-03-13 11:13:23"
+            }
+        ]
+    },
+    {
+        "filename": "rt-bishop-_-Look4Sat.json",
+        "published_at": "2022-03-02T15:19:05Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "cc5a7002-4535-42af-8ab4-334b7daf2302",
+                "userName": "Brian Collamer",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVof_SLJgkK6w74_IZc3KJRHS5kWiE-Ilt-ySFB_nULP-c",
+                "content": "Had to reinstall but works good now!",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.0.0",
+                "at": "2022-03-05 21:13:19",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "bfd0bf91-c0d1-4b58-8832-2bb69f614ef7",
+                "userName": "Greg White",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIpj2uZ12wuN03y3eldYrax6E908Kn5fhg9I-dOBpaU=mo",
+                "content": "Great app and very useful!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.0.0",
+                "at": "2022-03-05 16:42:06",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "rt-bishop-_-Look4Sat.json",
+        "published_at": "2022-01-09T17:52:07Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "947e7609-8c97-4627-a8b8-d77e19013a03",
+                "userName": "Jim Schings",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJbV-vaD6Cxgpgv4SJ8_UHX1zl4irInWp-iZKnv8z0l=mo",
+                "content": "Best of all Phone trackers. Better than most PC and on-line trackers.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.6.0",
+                "at": "2022-01-24 06:44:38",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "80d5e4f6-ed77-49d9-8bf5-2b4147dc5d70",
+                "userName": "Aaditya Raj Bhattarai",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVksfYT2wE9Ti7puTRm4KvS2fZH2lCqHtThBaKHrvW39y7k",
+                "content": "Please increase max elevation from 72 to 89. I want to see revisit time of landsat, but setting 72 doesnt mean it will click pic then. Please let me increase to 89. EDIT :Yes I understand, if I set the min value to 88 or 89, then only the landsat or sentinel satellite will be able to take picture of my location, so I want to have the min to 89. Hope you understand that I want it almost overhead.",
+                "score": 4,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "2.6.0",
+                "at": "2022-01-22 13:05:46",
+                "replyContent": "Yeah, no worries. I'll do this with the next update.",
+                "repliedAt": "2022-01-22 13:28:52"
+            },
+            {
+                "reviewId": "5952adb7-f6d9-4491-9713-0537a52cc452",
+                "userName": "Dziban Molniya",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUILXrLWpMEf-y98Wegs4p-H6cX3nwkiKyt8sjdb4u20m33",
+                "content": "The radar view was 90° off, showing that I was looking at the horizon when I was pointing to zenith. This is the only app I've ever used that's done this. I checked three other apps with sensor-based pointing (SkyMap, Stellarium+, Heavens-Above) and they're all correct.",
+                "score": 1,
+                "thumbsUpCount": 6,
+                "reviewCreatedVersion": "2.6.0",
+                "at": "2022-01-15 10:49:22",
+                "replyContent": "Thanks for reporting this Dziban. Do you mean the radar or the crosshair on the screen? The radar shows azimuth and the crosshair shows elevation. The 90° off is only possible on the tablets with  landscape orientation by default. What kind of device are you using and what is the Android version? I will look into this issue at some stage.",
+                "repliedAt": "2022-01-15 11:41:17"
+            }
+        ]
+    }
+]

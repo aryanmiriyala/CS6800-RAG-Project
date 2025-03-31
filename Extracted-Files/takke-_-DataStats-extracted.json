@@ -1,0 +1,37 @@
+[
+    {
+        "filename": "takke-_-DataStats.json",
+        "published_at": "2022-05-19T04:44:03Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "takke-_-DataStats.json",
+        "published_at": "2021-02-11T05:18:10Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "5ecf965a-6b97-473e-8d9e-5d139139309f",
+                "userName": "Anthony C",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIm_WdUmVED693_LcSiW398IKL6FkQ2uvj3Lp3WcZgs=mo",
+                "content": "I do like it, so far so good",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.8.0",
+                "at": "2021-11-27 06:14:57",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "7cd75d99-7695-42a3-9db4-3624cb170022",
+                "userName": "Deanosaur",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWWTBcc3TxZ82IG4C66XLBpXisT0wLMa3FECmYxZGg95A",
+                "content": "This app stops play protect settings from being changed when it runs in the background! I thought there was a virus on my phone 🤭 Google Play doesn't give a warning that an app is stopping from being changed 🙄 I learned the hard way and wasted 6 hours investigating the problem 😆",
+                "score": 4,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.8.0",
+                "at": "2021-04-18 09:13:59",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    }
+]

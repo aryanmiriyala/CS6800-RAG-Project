@@ -1,0 +1,479 @@
+[
+    {
+        "filename": "helloworld1-_-FreeOTPPlus.json",
+        "published_at": "2022-12-31T22:37:45Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "799bac90-a9d9-4460-989e-baf6e5b43d8c",
+                "userName": "Sandeep Kumar Tiwari",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUnIyYRWdPcGJT-MeiKf4V-S3A2LdLh1cTpT-Tn8wvWlnA",
+                "content": "Best app",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.0",
+                "at": "2023-11-17 09:26:10",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "a53ec2c2-73ed-4a52-acb4-605b26f49ac7",
+                "userName": "Tumwine Samson",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjV6JtopYiYnhhxgSZ8IHIwH8AEpB9zbmEp6ycBwnACtrng",
+                "content": "It's a good applicatio.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "3.0",
+                "at": "2023-08-24 08:16:01",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "e68b8140-adb1-4639-bbc7-0a1b828e3688",
+                "userName": "GELKM ELECTRONICS & COMMUNICATION CENTRE",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUrFVqFyCq9nRw-XOAILSTkX-5UUahEKv1f8WCh9VUK5Q",
+                "content": "Best app",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "3.0",
+                "at": "2023-03-09 18:39:43",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "d52f7e0c-95fd-4d66-b01c-6d7a948915bb",
+                "userName": "Oliver G.",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVKIygoaT8o8hXWwH-TkUqkXCLwwmXBJY74PKRp7MFo7w",
+                "content": "This app is great and I used since a couple of years. But today when I eoke up the app was gone, uninstalled itself it seems. Any idea why that happens? Pretty unlucky since I need to re-add every entry and that takes some time...",
+                "score": 3,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "3.0",
+                "at": "2023-01-08 11:55:21",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "d0c18388-d942-449d-ab5b-d1d7b22781c3",
+                "userName": "Hayley Watkins",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUpFNDDHxU42_dp2hU3yJovQ8_dHt3JeIRQVZXImvAEBg",
+                "content": "This app worked fine until today when it disappeared off my phone without warning. I'm now struggling to get access to accounts I use regularly.",
+                "score": 1,
+                "thumbsUpCount": 5,
+                "reviewCreatedVersion": "3.0",
+                "at": "2023-01-08 09:29:30",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "helloworld1-_-FreeOTPPlus.json",
+        "published_at": "2022-08-21T05:29:58Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "deb3433b-dd72-44c1-9172-c2a584b2cc2a",
+                "userName": "Andrew Tony",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUNHq4V6S2vkhntFCYHFrCkx9KexyZLp-mgfBzVHZAEWWQ",
+                "content": "The app works perfectly, does what it says.The only problem is the updates are delayed on GooglePlay, I own version 2.9 and I am waiting for the new version 3.0 which is from January 2023.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.9",
+                "at": "2023-11-03 16:05:31",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "2c04ecd7-3d44-4a34-bcef-83ce72b3dc71",
+                "userName": "G O O D M O O D",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWN4aGg_Z3z0jqnouegEkgWMMa5GRPByBLyHfLiOWQqug",
+                "content": "Someone tell me how to use this app",
+                "score": 2,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.9",
+                "at": "2023-07-17 11:22:34",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "f98d4a13-22b9-42c1-9a1e-07af288752e8",
+                "userName": "edan i",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWE8DY-8w6GXXYtLqViCeZAR5N0_TR5sEHwe4XbHNc0MxA",
+                "content": "Looks great but isn't compatible with larger font sizes (phone accessability). So if you're young at heart but need to set your phone to use bigger font, sadly, this app is useless.",
+                "score": 2,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.9",
+                "at": "2023-04-01 05:22:50",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "39026772-fb54-43b7-98e5-4a15505c8352",
+                "userName": "Skippy",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocK2HnMp41eddblNbwQCkAp17ZEdRpJV4F7psni1Syea=mo",
+                "content": "Fake rip off of the real FreeOTP. Doesn't work",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.9",
+                "at": "2023-03-24 23:37:21",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "1d6eeee7-5835-4b43-a17f-be3d27ad709a",
+                "userName": "George Doscher",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWdfQtaS9RZFvvbH7g0zNThxanHHFfSLti8RkXvZMcyx3Wp",
+                "content": "It works fine, I backed up my TOTP data using the backup feature to a USB drive and I also use authenticator from gitlab[dot]gnome[dot]org as an additional backup on my Linux Mint machine. I like the ease of saving a backup file and using it in another device.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.9",
+                "at": "2023-01-16 00:06:58",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "helloworld1-_-FreeOTPPlus.json",
+        "published_at": "2021-12-04T07:21:52Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "42544b4c-073c-4ff0-9f36-9e1a7a293a53",
+                "userName": "Kare Callihan",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocI8XYXvr-40eJYTts98ruKSmg9fWed-XG_dpxoIMPUU=mo",
+                "content": "Certified Soulja",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.7",
+                "at": "2022-04-03 02:18:45",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "5002e9bd-b513-47a1-be77-6c961c97f48f",
+                "userName": "Robert Barba",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWacP1NtQ_FlhslWStHGNnMYLf6c-R3ILRFnPDc77uL_w",
+                "content": "This is probably the best independent 2FA app I've used, and I've used a ton of from the original FreeOTP to Google's own authenticator. FreeOTP+ is fast, clean and allows for backups, which is a rarity for these. I also appreciate the extended time it takes to get the code, which is something that many of these others lack. In fact, the only thing that prevents it from getting five stars (and I hope they consider adding this) is that organization could use a bit more work; trying to alphabetize everything is a pain and a half. Other than that, highly recommended and well above many of the others!",
+                "score": 4,
+                "thumbsUpCount": 10,
+                "reviewCreatedVersion": "2.7",
+                "at": "2022-02-03 01:28:00",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "helloworld1-_-FreeOTPPlus.json",
+        "published_at": "2021-03-03T07:09:21Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "93354302-019d-4c9c-b8ea-f8de732701cd",
+                "userName": "Google Mail",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVNIG8dbc_PURGREu_2jvRSCJ2f0IYG03EmkybtLszIdA",
+                "content": "Seems great. Open source, no ads! Right now using Authy ... this is the best alternative.",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.3",
+                "at": "2022-03-29 13:47:21",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "899eeec7-177d-464b-807d-9fd89fb591f2",
+                "userName": "David Oliver",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjW1QCbU6Vk99aBmbhoVHUdT6bolcKoY10UgFjaIKm6XHg",
+                "content": "Does exactly what it needs and does it well.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.3",
+                "at": "2021-11-30 18:16:16",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "58b56e06-99e9-42a9-a863-16956c40cc30",
+                "userName": "Максим Акимов",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJ8LO9NlSe4r3d6tZmg52F6ZeIYeSWYqySc4zRn8q_G2w=mo",
+                "content": "well done, thank you",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.3",
+                "at": "2021-11-29 06:28:04",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "8f9724ef-f756-4097-945f-d3a2359ab7dc",
+                "userName": "Andry Fadrie Kuswandani (andrypein)",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUEfoq6mfwFkWtY81ttX8T4PiUq250ixUZGeOulGvn1c2h0",
+                "content": "POGCHAMP",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.3",
+                "at": "2021-11-09 09:40:59",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "9c4af059-a267-486b-9874-112288c999f0",
+                "userName": "Han Boetes",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIrbDE6co2Sf2rgcS4HB6q2LMSQzMV38TCl4uWOyJCNJw=mo",
+                "content": "better than the others",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.3",
+                "at": "2021-09-09 06:23:19",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "1286cbbb-e5d8-4015-9e45-31a790e09d97",
+                "userName": "ABBA",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUg5pYLeRSyqkKZNYqIyio19XjnlN_KgUnt-qEeLXJzrxI",
+                "content": "Good",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.3",
+                "at": "2021-08-03 01:03:48",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "265e22f3-7faa-407e-beb8-d6251c91cf3f",
+                "userName": "John Weissberg",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjW3fUfwpUUbv4uI7h-i2SPwxi687Df45L0bt9VMIaEV27g",
+                "content": "Great app. It would be nice if export files could be encrypted with a password so that these files are safe at rest.",
+                "score": 5,
+                "thumbsUpCount": 9,
+                "reviewCreatedVersion": "2.3",
+                "at": "2021-06-12 11:50:32",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "helloworld1-_-FreeOTPPlus.json",
+        "published_at": "2020-11-03T06:30:44Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "d4442752-4339-4c67-b375-f5ec7800a29f",
+                "userName": "Delta Sierra",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXJNm59NdP9e-1_xiBYC4gQYtYDHCt2rndTy7rhOootLvY",
+                "content": "Great! Excellent! No ads! Finally made the migration from FreeOTP to FreeOTP+. This app is capable of importing and exporting from/to JSON file. If you are running the old FreeOTP, and followed the tutorial for exporting your tokens.xml file -- that one can be easily (even manually) converted to a JSON file format for importing into FreeOTP+. Thanks to the developer, it does everything I need!",
+                "score": 5,
+                "thumbsUpCount": 21,
+                "reviewCreatedVersion": "2.2",
+                "at": "2021-03-04 02:13:03",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "76918f00-b972-408c-9131-2884be77e6aa",
+                "userName": "Alexander Zveruk",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVv5wHq3SRhxCWm4Dgpr_jhSmjn2kySO4XCypTPx_d_xNU",
+                "content": "That's great.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.2",
+                "at": "2021-02-28 20:43:28",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "31fa9446-0085-425c-af60-3104e8837ff2",
+                "userName": "James Edington Administrator",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWnzQgmnkF3eyxdpsmCKhG8OS6KpHIcNvalgauvuoINgDw",
+                "content": "IT GETS THE JOB DONE. Supports authentication-lock via fingerprint/PIN, has pretty logos OOTB for most websites, and even supports Steam's kooky alt-TOTP algorithm. The only reservation I have is that it didn't seem to work as a URI handler (e.g. when a QR code is scanned from the native Camera app) on my phone; but I could still scan them from *within* the app; and, seeing the developers' work on other issues it's had, I'm sure this will be fixed shortly. This is clearly *the* TOTP/HOTP app.",
+                "score": 5,
+                "thumbsUpCount": 22,
+                "reviewCreatedVersion": "2.2",
+                "at": "2021-02-23 01:59:52",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "helloworld1-_-FreeOTPPlus.json",
+        "published_at": "2020-09-01T19:43:19Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "helloworld1-_-FreeOTPPlus.json",
+        "published_at": "2020-07-01T22:39:50Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "15324aaf-262d-4d87-9d71-293abc700b22",
+                "userName": "ZCH",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKTrofr0x3jv9XcRnsVp9COPpR0_Z7zujk7SikeU2UH=mo",
+                "content": "Please add encrypted, export and import option for backup. Thanks.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.9",
+                "at": "2022-05-31 11:20:03",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "8697262e-45df-4209-b7b9-fe841bd90c5f",
+                "userName": "Malikul Akbar",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUXak5dsqlUlUUxeEgFMc2CP5xSCd88ac6DmFbTorna2A",
+                "content": "Stop working in my device xiaomi redmi note 5 , Android pie",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.9",
+                "at": "2020-08-02 16:16:46",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "helloworld1-_-FreeOTPPlus.json",
+        "published_at": "2020-02-17T02:02:08Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "d6f45077-4766-48e5-bc29-8a2861dffd80",
+                "userName": "Neo",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKeOuYaMa-TcRmidClv0iDESP-SOCHhpCgBXnLafrg6iRo=mo",
+                "content": "Does what it should! No complaints. Sime sort of sorting could be useful. Sometimes when I move away from the app and then fo back in it keeps in memory a part of the rime circle until I restart the timer",
+                "score": 5,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "1.8",
+                "at": "2020-06-10 18:31:40",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "a18454b0-7abc-47f0-81d4-987f11173cea",
+                "userName": "Christian Shelton",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXXjlj62ugDrK5-w2lhhZbkwpReOwGsEA9kdwLRo03g6hE",
+                "content": "One of the best authenticator apps out there, i would love to see a increase in security of this app by giving a pin/password lock option for app access and internal data/ secrets being encrypted using that same pin/password used for the unlocking of the app and for an option to export encrypted backups using AES... despite those small issues, it is a really decent app overall though, if you implement those few three features i shall boost your rating to 5 stars.... very well done however!!!",
+                "score": 4,
+                "thumbsUpCount": 11,
+                "reviewCreatedVersion": "1.8",
+                "at": "2020-05-22 02:58:41",
+                "replyContent": "Thanks for the feedback. The pin / biometric authentication will be added in the next version.",
+                "repliedAt": "2020-08-22 04:56:06"
+            },
+            {
+                "reviewId": "dce99865-4595-42fc-be78-492247745692",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Best MFA app out there. Scans QR codes on my Moto E4+ without hassle. The killer function is backup/restore to local storage, which eliminates lost/broken/stolen phone migration problems.",
+                "score": 5,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "1.8",
+                "at": "2020-04-11 15:22:34",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "4d25a0b4-c338-406e-a6bc-740345f3991a",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Please, add ability to use external QR code scanner, like ZXing. And please, implement import keys as URIs not only from file, but also from clipboard! Also needs lock/unlock functionality through fingerprint and/or code input for further security!",
+                "score": 4,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.8",
+                "at": "2020-03-21 23:02:21",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "helloworld1-_-FreeOTPPlus.json",
+        "published_at": "2019-11-28T05:02:27Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "helloworld1-_-FreeOTPPlus.json",
+        "published_at": "2019-11-08T22:48:14Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "helloworld1-_-FreeOTPPlus.json",
+        "published_at": "2019-09-30T05:14:59Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "bb62a6d2-f4cf-4a33-9fbd-9fcd63a1f255",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Sadly, while this worked with my old kitkat device, it no longer is able to *scan* the code in with my new pie device. While not a big deal, since there are alternative methods of input, it was a nice convenience. I never saw anything stand out in the logcat. I also have the app \"Barcode Scanner\" installed, and it had no problem scanning the code in. I also just installed andOTP, and so far it's working right. It looks to use the same scanning interface as the Barcode Scanner.",
+                "score": 3,
+                "thumbsUpCount": 30,
+                "reviewCreatedVersion": "1.5",
+                "at": "2019-10-07 01:28:24",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "cf39df9a-0f6b-4a7d-a095-8c99d1a29ea5",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "great replacement for lousy google authentificator",
+                "score": 5,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "1.5",
+                "at": "2019-09-30 18:16:28",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "helloworld1-_-FreeOTPPlus.json",
+        "published_at": "2019-05-30T21:57:38Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "ed8862d4-7c4c-4fde-800d-30a496a08358",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "simple , clean , powerfull",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.4",
+                "at": "2019-08-29 08:34:14",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "e1efb0d1-1d66-4c60-a341-e4a48ccb2219",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Found this when looking for open source 2FA with backup & restore capability. Export to and import from JSON works. 2 major bugs though: 1) QR scanner never scans (weird, since it works in FreeOTP). 2) Can't edit or delete entries: once created, an entry is immutable and permanent (weird, since FreeOTP can do this). Otherwise, this app is exactly what I'm seeking!",
+                "score": 3,
+                "thumbsUpCount": 10,
+                "reviewCreatedVersion": "1.4",
+                "at": "2019-08-29 00:56:32",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "e690dfa2-55a6-41e0-a852-d826221ce182",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "The app is cool and nice looking, but the icon is ugly AF to be honest. It would be great to see you changing it for something more appealing.",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.4",
+                "at": "2019-07-20 02:24:51",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "867dbc79-bd81-4c50-8c83-2a46c8f5d192",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "can export and import successfully",
+                "score": 5,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "1.4",
+                "at": "2019-06-13 05:48:11",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    }
+]

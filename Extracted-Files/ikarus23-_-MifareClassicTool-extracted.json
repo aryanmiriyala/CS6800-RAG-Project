@@ -1,0 +1,217 @@
+[
+    {
+        "filename": "ikarus23-_-MifareClassicTool.json",
+        "published_at": "2021-11-22T18:37:10Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "2914ea26-c1c0-4664-ace8-da58174e3ef0",
+                "userName": "Everest Beacom",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWzicOFeWxvJWKOIqDHUjZMwhI2pXp3lZlf9MPntDbwiw",
+                "content": "Hard to use for beginners",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "4.0.4",
+                "at": "2023-05-06 20:33:14",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "d4a960e4-4a0f-41e3-95b8-2dddc0dd5534",
+                "userName": "Ruslanas G",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUQv6ZarrPCbuTWNuQw8dnkE56zkQcqcyn0yTCJJ65rH-4",
+                "content": "Luvly, helps to identify tags and cards.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "4.0.4",
+                "at": "2023-04-23 12:30:51",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "2a580b7d-0dc5-46ee-b627-512be373d4c7",
+                "userName": "Lambda",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIKZGrIJu5XPhnHGyT-s4klTxSWJAXmL0a6dcoAgaVhyw=mo",
+                "content": "Marche parfaitement !",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "4.0.4",
+                "at": "2023-04-04 09:51:58",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "a1926de9-5727-4799-9145-2d2a36c966a3",
+                "userName": "Guilherme Siqueira",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjV8QoTrvCad-7rSzmxm8DmgsuuXGJGmzPADEjgScL02oFM",
+                "content": "Amazing App you just did, I love It",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "4.0.4",
+                "at": "2023-03-14 18:09:15",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "650f3322-27d8-4160-acf9-84f58dbe47f4",
+                "userName": "Javix64 H.M.",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUpKLrL7ybYu0pZqn7BRJI58Wuc75-WWZtN8bKPWNRNUTo",
+                "content": "awesome and useful app :)",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "4.0.4",
+                "at": "2023-03-08 14:10:26",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "1f45da39-8339-4d74-8ead-b469b6e2d72b",
+                "userName": "Zachary Trumpp",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKatDonx8k6yVzkeO3ZDYqEH-z-IE4F725glh_wmgmd=mo",
+                "content": "This tool works very well. I have tried many different apps to achieve being able to read and write mifare rfid cards none work except this one. Just make sure you have the right type of magic card to clone onto. Very easy to use and reliable.",
+                "score": 5,
+                "thumbsUpCount": 7,
+                "reviewCreatedVersion": "4.0.4",
+                "at": "2023-01-08 05:43:34",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "69fb4226-3954-4c59-9951-d70fd0207687",
+                "userName": "Oskar Öst",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWZIP8UsXRn2qMY9NeFnn2cuZdkd7GwGmUIAO9ztYp1lmYv",
+                "content": "Works great, thanks!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "4.0.4",
+                "at": "2022-11-03 14:27:45",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "9718b4a5-1a70-497a-9907-8a5479afb10a",
+                "userName": "Amir Parsafar",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXnMxqj1hi4Cp1WmnDbaTo7McPTkb8Jw8Zmn4CbmzGYGw",
+                "content": "عالیه",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "4.0.4",
+                "at": "2022-08-18 19:58:57",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "ecbca66d-6852-44ca-98d9-2fb1073c8986",
+                "userName": "Andrew Mittwer",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLb69J41NF25xupC1wdMzy-raBLWiqx6eTBjs9SdBn7=mo",
+                "content": "Iykyk",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "4.0.4",
+                "at": "2022-07-15 22:01:49",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "c5c191a6-17df-4f0a-859a-c9b477e8a3cf",
+                "userName": "otecanime",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKgblF0xS5SJS5798cxjdSbQz3Kv1NNwTg0Vh3-CJq_Fw=mo",
+                "content": "It worked perfectly but then suddenly \"no valid key found in chosen key file\" what could be wrong?",
+                "score": 3,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "4.0.4",
+                "at": "2022-03-28 20:03:57",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "dba78684-e6f4-47e0-b54e-8cefe5fc8789",
+                "userName": "Stefani Slater",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVBuFhcu_zoD1lV7QRTG5Euei50P32I-r5paj4w0yhLz8bB",
+                "content": "My apartment building is overpriced, they haven't fixed my heat for 3 years, my stove/oven electrocuted me and was unusable for an entire month but this app at least has made it so I haven't paid for laundry for 2 years. I'll go down and put \"money\" on all machines regularly so others don't have to pay either. Putting real money on laundry cards is a thing of the past, viva la laundry revolution 👍",
+                "score": 5,
+                "thumbsUpCount": 6,
+                "reviewCreatedVersion": "4.0.4",
+                "at": "2022-03-04 04:29:40",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "c3d4dc81-7993-4929-87c4-a80a8246a0ff",
+                "userName": "Dr Gaylan Sisco",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWaz0XFflUGqB2pqZpL8PS8aTJ-mezw_Es524XJZ7I6LNty",
+                "content": "This app gave me a painful erection",
+                "score": 3,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "4.0.4",
+                "at": "2022-03-02 05:50:43",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "c6a44052-7f89-4eb6-b905-7a7c86fd2c07",
+                "userName": "Owen Cau",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjV72T7_Ke-y01ZCfIHXsIKMcFrnK8tMmP_iqWYuXZfTmzk",
+                "content": "great apps",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "4.0.4",
+                "at": "2022-03-02 03:50:27",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "ee209c6c-0ad2-4c86-9b1f-037a8d4970d7",
+                "userName": "Nikita Kapoor",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLkqgQ_bFINMzzADrmHPpzWrP_NiRoh74MggZ4UkWfo=mo",
+                "content": "Excellent app indeed! The extended key set is extremely helpful. One glitch i faced when i tried to reimport the file generated by MCT sent myself through email. It imported successfully but couldnt open and gave error \"some block contains error data (not hex)\". Not sure how i can fix that. Works great on Nexus 7 Gen 1 with Android 4.4. Please add reader sniffing feature.",
+                "score": 4,
+                "thumbsUpCount": 20,
+                "reviewCreatedVersion": "4.0.4",
+                "at": "2022-02-18 00:51:40",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "60f07975-7252-4652-bdc7-fce66f2bee73",
+                "userName": "Chandra Salim",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjW23cHMGyog-Z5aaf8mlWwsySB3SAGmyIcVaWlzJvaOLDM",
+                "content": "Works very well",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "4.0.4",
+                "at": "2021-12-20 09:32:18",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "856f3e64-8032-4506-aae5-3e42b2ffdc27",
+                "userName": "Mixie Layucan",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVSkp7edHtpGC91OdclnVPeKTXEczQ0-wGc_-JZiscylg-N",
+                "content": "This app can backup access card???",
+                "score": 2,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "4.0.4",
+                "at": "2021-12-16 07:11:42",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "110553b0-d16a-418e-89ee-d004f6eeac64",
+                "userName": "Mattia Giambirtone (nocturn9x)",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjW0wWpmWt98nk02zxENhXZVURQDNjgXe0vC7ZlVA29-xNo",
+                "content": "Works like a charm every single time. Great work",
+                "score": 5,
+                "thumbsUpCount": 5,
+                "reviewCreatedVersion": "4.0.4",
+                "at": "2021-12-15 23:27:18",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "ikarus23-_-MifareClassicTool.json",
+        "published_at": "2021-11-20T18:44:23Z",
+        "google_play_reviews": []
+    }
+]

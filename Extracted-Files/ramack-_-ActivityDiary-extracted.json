@@ -1,0 +1,103 @@
+[
+    {
+        "filename": "ramack-_-ActivityDiary.json",
+        "published_at": "2021-10-24T20:31:37Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "cdeaa453-9f6e-4ba0-a17a-1966267e8c78",
+                "userName": "David Bertram",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXVXXP-s6IShzLxrrSUhaVDL6fqSl0oPGdqYjrIG3PMNA",
+                "content": "Overall a nice app, and was the exact kind of tool I was looking for. The only issue is that I can't find a way to remove activties, I can only change their time. Please add the ability to delete entries from the diary.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.4.1",
+                "at": "2023-02-04 16:46:42",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "ramack-_-ActivityDiary.json",
+        "published_at": "2019-01-04T00:21:51Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "0baec873-53cb-4328-94ea-b3d6e9bb96d4",
+                "userName": "Rahul Rayal",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLotF5y3_mIUG8inrjPNP_8ZAZVregKg0BIfpC9o7X_=mo",
+                "content": "Thanks a lot, I'm searching for many years to get a right app for tracking my time and to increase my productivity and somehow by God's grace I found this jewel...",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.4.0",
+                "at": "2021-01-04 14:57:45",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "5d250405-2b0c-4b4f-9e82-6aba4d29fe53",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Very good program!! (And thanks again for the advice about setting the notification curtain.)",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.4.0",
+                "at": "2019-07-29 18:41:02",
+                "replyContent": "Thanks for the feedback and even more for contributing on github. There is an option inside the app to completely disable the notification. If that is not what you want, you can also change the settings in generic notification settings in Android. Partly slide away the notification and choose the settings-gear.",
+                "repliedAt": "2019-07-29 17:45:31"
+            },
+            {
+                "reviewId": "a6783a28-7152-48af-9e05-db9357cc6a13",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "I discovered this App via F-Droid. I like the interface which is easy to understand. However, in statistics I wish the total activity time was displayed below the pie chart in large text instead of showing the totals on the graph which are too small to be legible.",
+                "score": 4,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.4.0",
+                "at": "2019-04-26 14:07:31",
+                "replyContent": "Thanks for the feedback. But I don't get your proposal about statistics. Do you want to submit an issue on guthub and put a small picture of what you propse there?",
+                "repliedAt": "2019-04-26 20:30:36"
+            }
+        ]
+    },
+    {
+        "filename": "ramack-_-ActivityDiary.json",
+        "published_at": "2018-09-15T19:48:16Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "753e26ac-c4f1-4c41-a122-b49c2a7678e2",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "The app is rather user friendly but you don't seem to be able to remove an activity from the diary once it has been added.",
+                "score": 3,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "1.3.1",
+                "at": "2018-10-04 21:11:01",
+                "replyContent": "Yes, that is a still pending feature request, planned for the next release.",
+                "repliedAt": "2018-10-04 21:55:11"
+            }
+        ]
+    },
+    {
+        "filename": "ramack-_-ActivityDiary.json",
+        "published_at": "2018-06-13T18:52:54Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "ramack-_-ActivityDiary.json",
+        "published_at": "2018-05-10T20:53:09Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "5bdd0bdd-d028-4fba-935b-d1a7406fde2e",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "It's a fine app, it helps me keep track of what I have done during the day, \nbut I cannot see how it would help plan activities and / or tasks in \nadvance, which would be a great asset.",
+                "score": 3,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.2.2",
+                "at": "2018-05-25 01:35:21",
+                "replyContent": "Thanks for the feedback. And yes you are right, the description is a bit misleading in this respect,, as I have written it at the beginning of the development and described what it finally shall do, but could not implement all features so far. Sorry for that.",
+                "repliedAt": "2018-05-25 04:43:45"
+            }
+        ]
+    }
+]

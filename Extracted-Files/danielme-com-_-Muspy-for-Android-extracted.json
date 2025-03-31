@@ -1,0 +1,98 @@
+[
+    {
+        "filename": "danielme-com-_-Muspy-for-Android.json",
+        "published_at": "2018-10-29T19:12:23Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "05b9734a-c539-49c3-8ea7-0b0f67608b0c",
+                "userName": "DesertPunk Tiger",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUXGI5RtFwaR5YUAs5jmByNJs5frW5bsxW6EkUD3pSvH1I",
+                "content": "Has been a rather great experienve using this, with being able to search for albums to setting notifications for upcoming ones.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.1.1",
+                "at": "2021-08-04 21:23:59",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "df7b4d83-8d47-4457-b995-c08d3c579077",
+                "userName": "Edward Zhitnitsky",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjU3tcC_DIhfmIgjyaPd4tPvzXCqf4LTVwu1NVaewm7YWefh",
+                "content": "An extremely useful and well made application! Thank you!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.1.1",
+                "at": "2021-02-09 13:09:40",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "ec5cbbac-de57-4c72-b726-191f403c144f",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Love it. If you enabled push notifications of new releases, that would make it perfect. Please consider it.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.1.1",
+                "at": "2019-12-17 07:43:42",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "247f510e-3308-4a18-bc0a-9ac2a214a8dd",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Really rely on this app now. Scobble music to Lastfm then this app will tell u when your Lastfm artists release music. Absolute time saver.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.1.1",
+                "at": "2019-09-19 22:07:09",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "32bab2a9-add0-4d99-ba33-82d68dc20bf8",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "the date system is in retard 'murican units. otherwise good app",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.1.1",
+                "at": "2019-08-19 09:23:25",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "0b3c6058-03ba-4ebc-862c-0e7bab6b2dba",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Such a great app until it stopped working. Just says internal error now.",
+                "score": 3,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.1.1",
+                "at": "2019-02-13 19:34:28",
+                "replyContent": "It works now.",
+                "repliedAt": "2019-02-14 18:14:05"
+            }
+        ]
+    },
+    {
+        "filename": "danielme-com-_-Muspy-for-Android.json",
+        "published_at": "2018-03-26T18:26:59Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "a94756f7-4454-41e3-9986-0adf5520ff9e",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Muspy has been restored to its former glory! The artwork is showing up, the search for artists is working, and the album contents are showing up wonderfully! No other app does a better job of keeping up with album releases from artists! Thanks for the update!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.1",
+                "at": "2018-03-26 20:37:03",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "filename": "programminghoch10-_-HangoverClock.json",
+        "published_at": "2022-09-24T13:51:41Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "5d79a61c-4a7b-4e73-8cb2-d8f95669996b",
+                "userName": "Farid",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIlr3t1jqnuCpVSC7MN2EjYNWMcrk92YwsyILhJSkES4Q=mo",
+                "content": "The only clock you'll ever need, 37/5 highly recommended.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "mikado",
+                "at": "2022-11-29 21:39:25",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "c70164d9-d8bf-4e8f-863c-45f949651faa",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "ehrenmann",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "dynamite",
+                "at": "2019-09-12 19:19:31",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    }
+]

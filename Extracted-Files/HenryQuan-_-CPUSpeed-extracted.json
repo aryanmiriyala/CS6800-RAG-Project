@@ -1,0 +1,72 @@
+[
+    {
+        "filename": "HenryQuan-_-CPUSpeed.json",
+        "published_at": "2020-06-16T05:25:13Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "cfe7a5d8-68f9-4769-bcb4-e5f8cecfd7de",
+                "userName": "Alvin Watson",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjU-7foKOD9LgzDHyFHhtL54ImgqbcrPHmgbODOEQYwmzg",
+                "content": "Hope works good",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.0.7",
+                "at": "2021-03-29 01:58:50",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "be418ab8-847b-47b7-b20c-bdf87b36f23e",
+                "userName": "Siddharth YT - Pheonix OS",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXdsD6fkSis6_sG3Od9u31bzEkEm0UuWWba2VT2yyjJG-o",
+                "content": "BEST AAP I HAVE EVER SEEN IN MY LIFE .IT IS NOT A FAKE AAP LIKE OTHERS ...ITS TRUE REAL .....LOVED IT",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.0.7",
+                "at": "2020-11-05 12:58:48",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "94213ff8-ddb9-4277-8bf5-8a03b5f1e874",
+                "userName": "Danny Veals",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUmFQUlQZlnt5kbfMUj7Ndmp3qPMeOrMmvAr0HwUI8BdQ",
+                "content": "Hello and good day! Good app, does what it says, and no unnecessary clutter. Will change to great app and 5 stars for function to select CPU speed options based on task requirements: surfing (75%?), gaming (100%?), music (50%?), sleeping (25%?), etc. Already have app to run tasks. Another potential option would be passing startup parameters in a batch file such as \"CPU Speed 75%\", CPU Speed 50%\", etc.; default is \"CPU Speed 100\" if no parameters provided. Thanks. Danny.",
+                "score": 4,
+                "thumbsUpCount": 24,
+                "reviewCreatedVersion": "1.0.7",
+                "at": "2020-10-24 02:03:18",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "HenryQuan-_-CPUSpeed.json",
+        "published_at": "2019-06-23T07:36:38Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "HenryQuan-_-CPUSpeed.json",
+        "published_at": "2019-06-21T13:25:52Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "HenryQuan-_-CPUSpeed.json",
+        "published_at": "2019-05-21T07:21:23Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "1cc79ac3-bec9-4930-b71a-cca771de8430",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "very good",
+                "score": 4,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.0.2",
+                "at": "2019-06-12 13:00:03",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    }
+]

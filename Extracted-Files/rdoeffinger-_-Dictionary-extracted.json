@@ -1,0 +1,880 @@
+[
+    {
+        "filename": "rdoeffinger-_-Dictionary.json",
+        "published_at": "2021-12-04T17:00:46Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "374fd0a9-2ebf-4079-8b63-2d4680905adb",
+                "userName": "Max Simonov",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLXa_hJ7iX1Db2-fuim5dimEUczIdzZ-JX1EhwpbI7Q=mo",
+                "content": "Constantly translating words into my native language. Offline, without advertising and other garbage!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "5.6.2",
+                "at": "2023-07-10 22:24:03",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "52665248-0806-4111-bddf-927d77f819fe",
+                "userName": "Dee Schaffer",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVIoPZcU64fKI8RRxmxhfepG9o_v1zXBMcLIgyblyTkTZo",
+                "content": "This used to be very good, but now I cannot find Italian-English. Where did it go?",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "5.6.2",
+                "at": "2023-06-10 15:58:35",
+                "replyContent": "It's called English-Italian now. Just select the Italian flag and it also translates from Italian to English. The new name is for consistency and because English wiktionary is the main data source, not the Italian one.",
+                "repliedAt": "2023-06-10 17:22:44"
+            },
+            {
+                "reviewId": "e418562d-9136-4cf6-8a1d-27dd36870cbd",
+                "userName": "Bassey Bassey",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocL9wz66gapSVjaPRNY6G18k_F7pPJ9mEngL64cMKbfy=mo",
+                "content": "Good one",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "5.6.2",
+                "at": "2023-03-31 18:50:34",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "dffcbeb2-58cd-46af-8d7b-93e6a17316ff",
+                "userName": "V",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVuzy1y6tuRcj3U8IVm4K6nIwKXJT5lSha_4WPIh2Ea6Yo",
+                "content": "Edit: Disregard previous review. Had to completely deactivate my firewall for downloads to work. App is flawless. Been using for years and will continue to do so. Best dictionary app. Everyone should be using QuickDic over any alternatives.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "5.6.2",
+                "at": "2023-02-12 18:08:42",
+                "replyContent": "Thanks for the update. Btw the lack of updates mostly means the app has been working without issues for me, though there are some small updates I should be doing soonish.",
+                "repliedAt": "2023-02-12 19:05:38"
+            },
+            {
+                "reviewId": "1340ea24-af31-46c6-b272-4e29f7c54941",
+                "userName": "kavoukis77",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJZSVqiZNnWedeBPtvA1jGHTUM-p1Ug8iSyrQ0oxPAr=mo",
+                "content": "love the ease of use and extensive vocabulary, including slang! perfect translator app! plus NO ADS for free! ...I woulda paid not to have ads AND for the app itself 👍🏻",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "5.6.2",
+                "at": "2022-12-15 16:45:19",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "73f43780-cf7e-4130-9871-066bf12feed3",
+                "userName": "Yahiko Tagahaki",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUPMP3DtSZsj5VPkWkWVxLUnfBETZEQ8-mRDzM_eqllRg",
+                "content": "Please can you add a download all button, i was really looking forward to not downloading each dictionary 1 by 1",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "5.6.2",
+                "at": "2022-08-11 11:27:54",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "fa4d9d33-0369-4b0c-af4c-050aaa5733a5",
+                "userName": "JESSE “JBKOOL” B",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXSTz3FN1DAN5gKV99MImLFrtL5yKqfcPrUNUrcaMNU1dU",
+                "content": "\"Unnecessarily Complicated\".... trying to figure out this APP is like filing a police complaint in Czechoslovakia, it's pointless!",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "5.6.2",
+                "at": "2022-06-29 00:25:28",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "1358f4c8-4f89-4793-8d2f-314692265014",
+                "userName": "Mr Huzaif (Mufti)",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWF-TvdesZ08-AE8JnOoSKt2Ve-5sE-QpXmH9KDdy9Gpg",
+                "content": "Nice",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "5.6.2",
+                "at": "2022-06-27 21:44:01",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "rdoeffinger-_-Dictionary.json",
+        "published_at": "2020-12-15T19:15:07Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "27ff6342-a87a-41e1-ae58-3b652713b999",
+                "userName": "Manuela Lyons",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWqwBYKh0bDwK6EHNDJsUdQCJ_8ukggSNf94iU74IG-aQ",
+                "content": "Great and easy, comprehensive",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "5.5.7",
+                "at": "2021-11-06 01:06:17",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "da51df93-5499-4920-8117-7923071bb183",
+                "userName": "foobar",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocK3Zz-eo5-ccampD2LkCZGez2vCkKDh_iV7voTtBJmy=mo",
+                "content": "I'm surprised of high rating for this app. Search and displaying function are sucks. You are much better to find dictionary data In stardict firmat and use ColorDict.",
+                "score": 1,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "5.5.7",
+                "at": "2021-10-25 07:33:25",
+                "replyContent": "It's meant to emulate behaviour of an old-style paper dictionary I'd say. But I am always happy to consider specific suggestions on how to improve it, if you'd like to offer some. Also the app is free and without advertisements, which some people might appreciate as well.",
+                "repliedAt": "2021-11-13 20:50:06"
+            },
+            {
+                "reviewId": "9bebbfc6-15d4-4a1d-9809-873dd78a2abb",
+                "userName": "Bugs",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWxuT4gmbYHIRz241k-uv4iiU78dNn0EpHHp9w7KVrfOMw",
+                "content": "Absolutely wonderful... A small thing though... I'm getting these words and phrases inside curly braces. It sort of interferes the reading process. Is there a fix for that? Eg: Here's the etymology section for the word \"aroma\": From {{der|en|LL.|arōmata|t=spices}}, from {{der|en|grc|ἄρωμα|t=seasoning, spicy and/or fragrant smell}}",
+                "score": 5,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "5.5.7",
+                "at": "2021-10-14 05:14:44",
+                "replyContent": "There's no fix for it currently, though there have been some discussions. It's essentially the format Wiktionary uses and would need some processing to convert to normal text - not so easy to do. There have been suggestions of just removing these parts, but that seems not ideal.",
+                "repliedAt": "2021-11-13 20:53:26"
+            },
+            {
+                "reviewId": "fceba7ec-2f68-4878-9de9-8f6c08f66e93",
+                "userName": "Md. Humayun kabir",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXexKu1XrkUoFvXPS_RmUKTPya_oRo-_l8CzPEjYoKo6fo",
+                "content": "One of the best dictionaries I have experienced",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "5.5.7",
+                "at": "2021-07-27 11:14:45",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "d9369845-87eb-473f-b3b3-fe88505f151d",
+                "userName": "Wyatt Wagenknecht",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKhnbtZdOGDlM5aRasLINlVynBKBMTJPP9-hWZjuQBd=mo",
+                "content": "downloaded just becuase the name of the app lol its a good app too",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "5.5.7",
+                "at": "2021-04-29 06:48:04",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "ba7f07e4-afc4-41b5-aaf1-ca386d2d320f",
+                "userName": "Viokehd",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJwQKPPdouMM9fY0eAUxVbVVM4U1XghkCQmqGkZieDF=mo",
+                "content": "Been using it since 2012. Very handy tool!",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "5.5.7",
+                "at": "2021-03-12 18:13:32",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "811f15cc-1050-4c92-b999-110fe1bfd340",
+                "userName": "Narayan",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVK-gDP1OL4-Xfkh3dvYPi9FfT1xfPi1aDdVUXBPEUat98",
+                "content": "Best dictionary app",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "5.5.7",
+                "at": "2021-02-22 06:11:26",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "rdoeffinger-_-Dictionary.json",
+        "published_at": "2020-12-04T11:44:33Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "4d2a2cda-0946-494d-a6d4-66c4789f1538",
+                "userName": "Najmuddin Nomani",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVSA_2nsGCeZg2yBpSGDreO6RH0vrAqK8aE-VHKCD7MQvF8",
+                "content": "All in one dictionary",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "5.5.6",
+                "at": "2020-11-20 13:54:00",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "3cbecfd5-3d69-45cb-86da-ebbace143ab8",
+                "userName": "Beidu Yussif",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJOn_SuHwHLsHBtsxdrJO8TvL1VaTWtRbG2j_AArPHh=mo",
+                "content": "Very incredible! But work on the navigation, as you know, it doesn't have a smooth, straight navigation. But it amazed me and I thought it might be fake, when I saw the over 900,000 entry. More detailed than I can imagine. I want a dictionary like this, not to glean some scanty and handful of words that we should download as a dictionary! Such a stuff bores me like hell. God bless you!",
+                "score": 5,
+                "thumbsUpCount": 10,
+                "reviewCreatedVersion": "5.5.6",
+                "at": "2020-07-09 02:25:28",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "6c1308c1-b443-41fb-9850-6635188603cc",
+                "userName": "Ali Amjadi",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVTvFLgPzjlc7PpFHFPvfo02mtfAXIzIMREahjY3wW-e0E",
+                "content": "It includes lots of stuff, and it is offline. That's awesome. However, common information can be arranged and lots of information can be pruned. For example, the pronunciation of flown can be added under the entry of fly.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "5.5.6",
+                "at": "2020-06-08 09:56:53",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "rdoeffinger-_-Dictionary.json",
+        "published_at": "2020-05-01T22:01:52Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "52e7f8b3-efe5-4893-93db-b626aaf34c56",
+                "userName": "Piano Yori",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVmj-F3VkAsbbGnjUKgmNjwmS6TpUKHYedyhGyPV-36VGQ",
+                "content": "Excellent.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "5.5.4",
+                "at": "2020-05-02 15:13:34",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "rdoeffinger-_-Dictionary.json",
+        "published_at": "2020-04-11T22:36:03Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "28691438-cff4-4310-92e6-07d06a8bd481",
+                "userName": "Doc Wauzi",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocL6dfHF-FW0HfqGaF76IqgfnFL9iXU7svs3oqlCTMe4=mo",
+                "content": "Great open offline dictionaries in a nice functional app.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "5.5.1",
+                "at": "2020-05-01 15:50:08",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "c57a33e4-c3c9-4a45-b4a9-bf8d0f8885a7",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Very good dictionary app. I especially like the fact that I'm allowed to store the often large dictionary data files on my external storage card. Only one issue for me: There is the option for a dark theme UI, which I prefer. This works well when using translation dictionaries. However, when using the single language dictionaries, in my case English (I tried with French and saw the same result), the content displayed when you look up the definition of a word is displayed as black text on white background. This is very blinding when used in dark lighting because of the sudden switch from dark theme to a blinding bright white light in your face. I would love a consistent theme throughout.",
+                "score": 4,
+                "thumbsUpCount": 11,
+                "reviewCreatedVersion": "5.5.1",
+                "at": "2020-04-17 23:18:03",
+                "replyContent": "That is fixed in the latest version for all offline content. If you follow links to online content it will display the same way as in a browser still, i.e. likely white background.",
+                "repliedAt": "2020-05-04 07:28:21"
+            }
+        ]
+    },
+    {
+        "filename": "rdoeffinger-_-Dictionary.json",
+        "published_at": "2018-06-13T21:55:09Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "c640f057-c55b-4212-999c-6276778288bb",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "I've tried several dictionary apps but liked this one the best. Don't know why they discontinued it but I'm so glad somebody picked it up again.",
+                "score": 5,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "5.4.7",
+                "at": "2019-02-05 10:56:59",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "rdoeffinger-_-Dictionary.json",
+        "published_at": "2017-12-14T17:56:21Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "rdoeffinger-_-Dictionary.json",
+        "published_at": "2017-11-16T20:36:15Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "829a4149-ce87-46e2-a5b5-1bc0060500b8",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Last time i used this apps for offline dictionary. i feel very easy to use  but now i cant download dictionary  if i click on download button it said \"download failed null\" why?",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "5.4.2",
+                "at": "2017-12-09 08:46:20",
+                "replyContent": "The Download Manager app on your phone is disabled or broken. You can manually download via browser via the \"Download in Browser\" entry in the menu.\nThat or you are still using the old QuickDic app (which no longer works) instead of this one.",
+                "repliedAt": "2017-12-10 12:08:35"
+            },
+            {
+                "reviewId": "6771a31e-4859-4642-8160-545cb097acc0",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Not very smooth, and needs better material design",
+                "score": 3,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "5.4.2",
+                "at": "2017-11-25 02:08:20",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "rdoeffinger-_-Dictionary.json",
+        "published_at": "2017-11-09T20:48:42Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "rdoeffinger-_-Dictionary.json",
+        "published_at": "2017-09-06T22:03:34Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "rdoeffinger-_-Dictionary.json",
+        "published_at": "2017-08-13T18:57:14Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "d908e528-76ae-42ba-b219-2ea9fdebe4f0",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "very good dic",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "5.3.8",
+                "at": "2017-09-16 11:57:53",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "0f5954f7-91e8-453c-8aa0-571b45e837e0",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "It is an excellent dictionary for foreign languages, congratulations to the developer and keep up the good work.",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "5.3.8",
+                "at": "2017-09-08 07:31:33",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "97540e1e-84c4-4b09-be60-8d184bc50003",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Superb. Can't find words",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "5.3.8",
+                "at": "2017-08-23 08:14:47",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "rdoeffinger-_-Dictionary.json",
+        "published_at": "2017-06-24T14:06:50Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "2c75d2a7-887f-45c6-adec-2c7927ac3759",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "free offline dictionary with no ads that just works",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "5.3.6",
+                "at": "2017-07-02 21:34:18",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "rdoeffinger-_-Dictionary.json",
+        "published_at": "2017-03-19T20:00:42Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "2d8a1182-df42-4cf9-bb18-1bf684b36aa2",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "This app has saved me when traveling internationally. I have not always access to WiFi or online dictionaries.",
+                "score": 4,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "5.3.4",
+                "at": "2017-04-15 13:07:16",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "a7005708-4998-429f-8640-93f324f2bbc4",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "would love to see this app on iOS",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "5.3.4",
+                "at": "2017-04-01 23:02:04",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "4fe624ac-1ae2-4cfb-b67f-b589a65705f6",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Unintuitive exit from dictionary manager. Strange app. :(",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "5.3.4",
+                "at": "2017-03-23 17:48:23",
+                "replyContent": "Which transition is the problem? From dictionary to the download selection (aka dictionary manager)? (the options are either via flag + button or via menu)\nI don't like that one, but it is the best I could come up with so far that does not waste space and makes it easy to leave the app again.\nOr is it something else?",
+                "repliedAt": "2017-03-19 20:23:13"
+            },
+            {
+                "reviewId": "55f31ad1-be8d-4680-8dd9-8cb7baabffe8",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Finally it came back.",
+                "score": 5,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "5.3.4",
+                "at": "2017-03-22 01:06:18",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "rdoeffinger-_-Dictionary.json",
+        "published_at": "2017-02-11T18:09:03Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "91c18cec-9c05-4665-92e3-7dda39986957",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Very good",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "5.3.3",
+                "at": "2017-04-21 04:07:14",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "01bb24d8-e9ab-4d80-afd8-7fed566307db",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Love it, have been using its ancestor for a long time and this Fenix version works just as well. This is the kind of free app I'd gladly pay for. Huge thank you to Reimar et al!",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "5.3.3",
+                "at": "2017-03-04 19:53:00",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "4048a57f-71a7-46a2-895f-d85158979c03",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "It is a great dictionary . I downloaded the dictionary file and It refuses to work with HTC 828",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "5.3.3",
+                "at": "2017-02-15 15:23:42",
+                "replyContent": "Could you please provide more details about the issue, e.g. via email or preferably github? Does it happen with one specific dictionary file or with multiples/any?",
+                "repliedAt": "2017-01-04 13:00:10"
+            }
+        ]
+    },
+    {
+        "filename": "rdoeffinger-_-Dictionary.json",
+        "published_at": "2016-12-17T15:50:34Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "f1523c87-15b9-4936-9030-bb8c55851610",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Recommended for everybody.",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "5.3.2",
+                "at": "2017-02-12 02:58:58",
+                "replyContent": "Should give more details now, but if it says \"Error 1000\" I can't do much.\nYou are not alone to report download issues, but I have not been able to reproduce it or find the cause.\nWorst case you can still manually download and unpack dictionaries from\nhttps://github.com/rdoeffinger/Dictionary/releases/tag/v0.2-dictionaries",
+                "repliedAt": "2015-12-18 17:18:10"
+            },
+            {
+                "reviewId": "5f768395-f88a-4f2c-b506-41bc37f0c6fd",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Wow !thank you for great app,😀,downloading is so quick and simple to use this dictionary,great work developers😃",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "5.3.2",
+                "at": "2017-01-23 18:54:14",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "e211f522-77ea-4586-9d93-e120568fe473",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "The best off-line dictionary app out there. So glad it's back!!",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "5.3.2",
+                "at": "2017-01-19 15:07:07",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "76384876-0c02-450f-bdc3-b36c0110d466",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "This version has much more convenient transitions between different dictionaries than the original did. Nicely done.",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "5.3.2",
+                "at": "2017-01-06 04:32:38",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "e7ac842d-109f-40ba-8f5f-98a18e287735",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Thanks so much for bringing back QuickDic! Love this dictionary.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "5.3.2",
+                "at": "2016-12-18 06:00:35",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "rdoeffinger-_-Dictionary.json",
+        "published_at": "2016-10-30T14:18:59Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "9a95aac0-6d98-467e-ad0d-a11f237196e2",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Its very good dictionary. Pronunciation should be there when we open the \nmeaning of words.",
+                "score": 4,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "5.3.0",
+                "at": "2018-08-10 06:03:46",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "8f5367c3-a269-4f7b-8daf-407040d61c03",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "I've been using this app for many years, and recently for English-Arabic translation in a refugee camp. The camp was in Slovenia and saw thousands of people passing through, many in need of medical help or just basic info about where they were going, or finding lost family members.  Volunteers came from all over need to communicate and this has helped, especially good that internet access is not necessary.",
+                "score": 5,
+                "thumbsUpCount": 6,
+                "reviewCreatedVersion": "5.3.0",
+                "at": "2016-10-31 12:17:17",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "rdoeffinger-_-Dictionary.json",
+        "published_at": "2016-10-29T15:56:06Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "48b0dc15-2946-45dd-83fb-39d029ef04f1",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "I ve been using QuickDic for two years. I find it very helful. Translating into french daily expression that I need. Morever, no need to have internet access. Congrats!",
+                "score": 4,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "5.2.11",
+                "at": "2016-11-04 14:09:24",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "rdoeffinger-_-Dictionary.json",
+        "published_at": "2016-10-05T21:01:34Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "e7aa9dd9-4d96-4f48-b317-f972dd6a3e2c",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Add some more hindi worlds and it's etymo",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "5.2.10",
+                "at": "2016-10-24 12:37:42",
+                "replyContent": "I am completely reliant on en.wiktionary.org for the translations, doing more than pulling the data from there is not doable for me.\nBut if there are Hindi translations on wiktionary that are missing from the dictionary please tell me (with specific examples please) and I will look into it.",
+                "repliedAt": "2016-10-27 05:37:12"
+            },
+            {
+                "reviewId": "df0aeaab-4c51-4f7c-b095-6b776f15ed70",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Use this (en_it) almost every day, literally. And developer is fast to respond to serious problems. Brilliant and incredibly useful app.",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "5.2.10",
+                "at": "2016-10-07 20:24:24",
+                "replyContent": "Fixed in update, though the dictionary still has a few issues with how it handles e.g. compounds.",
+                "repliedAt": "2016-10-05 21:54:01"
+            },
+            {
+                "reviewId": "e6003059-8a78-42f2-8e38-50ca69920b65",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Best offline Dic",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "5.2.10",
+                "at": "2016-10-05 23:06:18",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "rdoeffinger-_-Dictionary.json",
+        "published_at": "2016-06-10T20:12:45Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "8f919d46-8bd7-48d2-af26-c21a3675a5d1",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "It has all I look for in an offline dictionary. Excellent work! A big thank you!",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "5.2.9",
+                "at": "2016-11-27 09:24:05",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "87149b8e-a302-4cf8-8d52-c8f974f9d065",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "I can't extract the zip file..why?i downloaded the english-french one in the list..what should i do..even the main page is not visible!",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "5.2.9",
+                "at": "2016-10-05 15:52:26",
+                "replyContent": "Make sure there is enough space in the storage location selected in settings.\nIf that doesn't help, it's probably nothing simple and github is a better place to report it as reviews are very limited for communication.",
+                "repliedAt": "2016-10-05 21:10:13"
+            },
+            {
+                "reviewId": "5cb84ada-4464-4918-bc70-98f979198827",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Thank you",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "5.2.9",
+                "at": "2016-08-30 16:24:29",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "adef362c-882b-4288-9c37-2dab0643107c",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Needs a show history feature/ tab !",
+                "score": 4,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "5.2.9",
+                "at": "2016-08-24 01:04:35",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "aefc5ed0-c37a-4d3a-a5a5-a88eb54e2b66",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": ":)",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "5.2.9",
+                "at": "2016-08-22 16:58:12",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "e6ef24b9-447e-4a59-9129-929ee028ddcd",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "This one is the best. NO WONDER it would get removed. Too good for the App Store.",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "5.2.9",
+                "at": "2016-08-17 15:08:41",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "3b2356ed-a207-49d9-896b-a117784ffa42",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "It's great having a reference that works so well off line and on line.  QD is my go-to app for definitions and related information.  Seldom is it lacking an English word that I am seeking.  Thanks!",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "5.2.9",
+                "at": "2016-07-22 02:05:31",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "3be52aa1-1094-4657-b6aa-cf85ca92817d",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Always using it for its intended purpose, I highly recommend it.",
+                "score": 5,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "5.2.9",
+                "at": "2016-07-07 17:32:05",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "a7da465b-0416-438f-8ff5-992bb016eb1c",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "very less words are found in eng-hi dictionary ..some words like infestation , uptake , compensated ...are not found...please fix this bug",
+                "score": 3,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "5.2.9",
+                "at": "2016-06-26 06:22:53",
+                "replyContent": "There is no Hindi translation for these words in wiktionary, see e.g. https://en.wiktionary.org/wiki/infestation\nWhatever is in Wiktionary is the upper limit of what I can (easily) provide.\nIt would be possible to integrate other public, free dictionaries if you know any, but even for that I probably wouldn't have time.",
+                "repliedAt": "2016-06-27 19:46:16"
+            },
+            {
+                "reviewId": "a132dde6-be69-40da-8142-75e6ffc7ddec",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "please add option to update database per dic.",
+                "score": 4,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "5.2.9",
+                "at": "2016-06-06 11:20:58",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "012140a2-d2a9-44b3-a202-25beee10ebdc",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Please add share function",
+                "score": 4,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "5.2.9",
+                "at": "2016-06-06 08:23:39",
+                "replyContent": "You mean for entries/translations? Long-press on entry opens menu with \"share\" option.\nIt has some issues though, which are recorded on the github project page and hopefully I'll find time to improve it at some point.",
+                "repliedAt": "2016-06-30 20:09:28"
+            }
+        ]
+    },
+    {
+        "filename": "rdoeffinger-_-Dictionary.json",
+        "published_at": "2016-04-06T17:58:57Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "111b23a8-e1a9-486b-84ef-bb8d44990292",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "One tiny exception: The DE-EN dictionary uses wiktionary rather than Chemnitz as it's source. I find that it's missing a lot of basic stuff even though it has more words. I manually loaded the Chemnitz file  back on and am happy again. Also the scroll bar is a problem. If I  try to long click a word near the scrollbar, the screen jump pages away from where I was. Can you remove this or give us the option to disable it? I would much rather swipe to navigate than have a scrollbar anyway.",
+                "score": 4,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "5.2.8",
+                "at": "2016-07-07 07:33:52",
+                "replyContent": "I'm interested in examples of \"basic\" words missing, as they might be issues with parsing the wiktionary data I'd like to fix.\nWhile I should probably just find out how to deactivate it, the scroll bar should disappear after about 3 seconds after swiping, at which point you should be able to safely long-click anywhere.",
+                "repliedAt": "2016-07-10 10:33:27"
+            },
+            {
+                "reviewId": "e03c5edb-5f1a-4780-ad58-a9dfa0bbc703",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "The app should be redesigned following material design guidelines, but it's a must have anyway!",
+                "score": 4,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "5.2.8",
+                "at": "2016-06-06 08:45:53",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "c6d37554-d580-4b4b-a470-2ec6c8e2b143",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "The greatest dictionary app restored; thank you for rescuing it!",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "5.2.8",
+                "at": "2016-06-06 08:01:16",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "7a844c6b-6eba-4f77-ad0a-3fc284e52457",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "When the old version started to go wonky and then broke, I got sad. The alternatives for a cheap offline dictionary just paled by comparison. But now it's back!",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "5.2.8",
+                "at": "2016-05-27 01:51:57",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "cc6fef16-c4c5-423d-ac97-dedadb834ab4",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "FR-AR DICTIONARY PLEASE ?!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "5.2.8",
+                "at": "2016-04-15 07:46:36",
+                "replyContent": "Available for manual download and installation now at: https://github.com/rdoeffinger/Dictionary/releases/download/v0.2-dictionaries/FR-AR.quickdic.v007.zip\nWill be part of next release. Not quite sure the quality is good though, I have had some issues with generating the French dictionaries.",
+                "repliedAt": "2016-04-15 19:51:35"
+            },
+            {
+                "reviewId": "1f257316-e1c0-4c76-8131-43533729b617",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Excelent app and without ads!",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "5.2.8",
+                "at": "2016-04-10 20:21:32",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "rdoeffinger-_-Dictionary.json",
+        "published_at": "2016-03-30T19:19:10Z",
+        "google_play_reviews": []
+    }
+]

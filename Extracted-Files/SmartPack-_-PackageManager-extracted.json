@@ -1,0 +1,871 @@
+[
+    {
+        "filename": "SmartPack-_-PackageManager.json",
+        "published_at": "2023-02-20T19:24:55Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "5891dacd-54d2-4af5-8018-2a532f017c44",
+                "userName": "David Ariyan",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocI3_tnUy7Rh12sksQBmrl6T4Wti_s_QfAcM0u9zYmFlsA=mo",
+                "content": "Finally a proper apk back up and also apks. Would it be nice if we can set a specific folder for backups, rather than exporting everything to download folder. And I see other apks installer include the app icon and some files to it's exported .apks. Maybe it needs to be implement in here.",
+                "score": 5,
+                "thumbsUpCount": 6,
+                "reviewCreatedVersion": "v6.8",
+                "at": "2023-04-30 01:31:31",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "3ccdab95-62f0-4b3c-aa7e-efeb2c29ea6a",
+                "userName": "Shaun lurker Brady hawke cobrasquad (Scriptkitty)",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXyPOYVpHkigm6AKwYmqnC_QVphXNQsSsFNHIGWpWS_UuIu",
+                "content": "Mayinaise",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "v6.8",
+                "at": "2023-04-26 00:42:03",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "0792db7a-0fdf-4b49-84d4-8989dd84d0e2",
+                "userName": "LAIRD MICHAELIS",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWpX8YsNea2xCWL0P9GbSlZN-5C40c8QYLYUNk7zyENUFdc",
+                "content": "It works!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "v6.8",
+                "at": "2023-04-05 16:38:00",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "968a0ae9-08d6-4867-a10c-3a3050327446",
+                "userName": "Huzaifa Nahiyan",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXSPeTMAgQXup0TU3y94qRd0vJhUuCDohezUlgyLP8H",
+                "content": "Thanks for making this app. Underrated. Have every app listed with package names. Can even uninstall system apps, with Shizuku that is. The xapk installer was really helpful too. Thanks from the bottom of my heart.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "v6.8",
+                "at": "2023-04-01 08:43:44",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "d77b7ead-80b7-49a4-b5e6-fccb3c8340d5",
+                "userName": "Krabik Ran",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVRoZhf8ixXx-y67gRkNid9YFBeJjgJUzYal6iF2y89LYMs",
+                "content": "Thanks for app. Add please support Shizuku (for example enable/disable app). Now I see \"Failed to change the component state of ...\" because command not work. Need (Android 8.0, Samsung, no root)",
+                "score": 5,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "v6.8",
+                "at": "2023-03-25 20:27:20",
+                "replyContent": "Enable/disable apps (not activities) is already supported on Shizuku or Rooted phones. Please try again. Thanks\nEdit: Sadly, Shizuku method won't work on some phones.",
+                "repliedAt": "2023-03-25 20:38:06"
+            },
+            {
+                "reviewId": "4ea0783a-5797-4088-899a-80f7a03badfe",
+                "userName": "Devaughn Stallings",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLox1bmp2YEhdGFcr2YKaLN5O3Vm6dznvFDjigHo7JQ=mo",
+                "content": "It's great!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "v6.8",
+                "at": "2023-03-15 19:51:58",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "c0915985-1f69-4143-a8c6-c3cc76b1568a",
+                "userName": "Eduardo Costa",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWeYSfSN5cXa3fQBoQvDppKlp9fx-pUMLwZ89IwpefX6AJH",
+                "content": "small apk that does many useful things.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "v6.8",
+                "at": "2023-03-03 18:00:55",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "cfac77d4-93e2-498c-853b-1d8c8b2307c5",
+                "userName": "Samuel Rogers",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjX6Ey85MSNbQFgSr0NEtWYb3-ofyAKUeN4dmKpwBEvN5OI",
+                "content": "An excellent app that gives you more information APK data than most APK managers, and gives you the ability to explore the files includes in the APK as well.",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "v6.8",
+                "at": "2023-02-22 08:39:19",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "SmartPack-_-PackageManager.json",
+        "published_at": "2022-12-12T20:42:35Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "6f58bdc1-1a31-48bc-8603-e119b0f73104",
+                "userName": "AHSAN HABIB MUAZ",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXKyy5ig4FLp83O41BQkuIisoCZVUSFo1sJmfOIbRHmolka",
+                "content": "Love this app. Totally amazing. But whenever I try to open an app after installation, 'Package Manager' suddenly stopped working.",
+                "score": 4,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "v6.7",
+                "at": "2023-02-15 16:54:45",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "bd011974-b87b-45f4-8fcd-54f7db5597a5",
+                "userName": "Earth Angel",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJERQfLwChBAT_9OEpISgzxnA110KOO-DHK7uTIlVva=mo",
+                "content": "Whats the point, even with shizuku it doesnt support batch install like swift backup does with shizuku enabled. Uninstalled.",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "v6.7",
+                "at": "2023-02-07 20:44:46",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "75a3cd2b-5f62-4425-b7a4-1cb19e0cba3f",
+                "userName": "Shane Gossett",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWM5h-kgdMtEWQOJbSS14ixRXoHXtSkRW954ew-IaqXU98",
+                "content": "Amazing app,hats off to the developer..I don't know what the negative feedback on some of these posts is about.Im not rooted but I'm using shizuku and it does exactly what it says it would do.",
+                "score": 5,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "v6.7",
+                "at": "2023-01-22 18:07:45",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "6b1c7658-20fb-4b46-ae97-1a4215cd125d",
+                "userName": "ai ss",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJnwgsfl9kXWT-yxLTs9_581MkLvRhiY107auKiIp_X=mo",
+                "content": "BACKUP LOCATION. Hope to support WebDav",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "v6.7",
+                "at": "2023-01-16 07:17:36",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "2e0544d8-19b2-426c-b621-ffa8260dea04",
+                "userName": "K Leigh",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWPfekfF0w5no8d4SHiNS1fneanUegHpxYZ-nUxTjscE8XO",
+                "content": "Seems good enough but was hoping to edit apk to fix \"problem parsing the package\". Didn't allow.",
+                "score": 3,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "v6.7",
+                "at": "2022-12-20 15:53:10",
+                "replyContent": "I really don't understand the issue. Can you elaborate more, please? Thanks",
+                "repliedAt": "2022-12-20 15:54:42"
+            }
+        ]
+    },
+    {
+        "filename": "SmartPack-_-PackageManager.json",
+        "published_at": "2022-12-03T15:09:51Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "SmartPack-_-PackageManager.json",
+        "published_at": "2022-07-09T20:06:37Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "ff40e46e-12ce-4484-84fe-1e2dbfe4d522",
+                "userName": "Sheen Delute",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUPxKMuM2AJ-wz0i9c0ySx5SoTSPGZeM1nXPLnVoTXYlQ",
+                "content": "ever yes",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "v6.5",
+                "at": "2022-11-18 22:57:15",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "f1fa8e2e-4e46-4933-8fa5-76e6c4dab31f",
+                "userName": "Alex SoLo",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjW3sk_02x4WDMw31luIdp3IldOcyo7pG2Ja89n37EgPMPE",
+                "content": "Pet pet",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "v6.5",
+                "at": "2022-11-14 13:28:36",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "7dea3542-0390-4b11-9b1c-7e41807dcee4",
+                "userName": "DHRUVE MHATRE",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJM0yJbgY-JuUqwruTce3vFW-Pj-WdHVo4UamZkx_c1=mo",
+                "content": "Nice",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "v6.5",
+                "at": "2022-09-24 15:30:14",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "a7ce612f-6cad-4e19-b02e-bb6866837f59",
+                "userName": "Miracleword The Rapper",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWLoqDvxaEZlYivrergA83e7bCggBZ5GS7NDBbC1cMeK2oL",
+                "content": "Not working on Xiaomi phone",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "v6.5",
+                "at": "2022-09-15 06:30:39",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "794e5be0-1d4d-4bf6-b37c-1a454a7e599b",
+                "userName": "Joey Carranza",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjU0EAl1o1rNEcmdz_OUWTDoSX_xatl05dYEwfvHnEw_cQ",
+                "content": "Lightweight and provides essential package needs, even for non rooted",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "v6.5",
+                "at": "2022-08-09 02:13:32",
+                "replyContent": "Thank You",
+                "repliedAt": "2022-08-09 02:17:16"
+            },
+            {
+                "reviewId": "e7d21d3a-babb-4a7e-bc81-a5e0d90886d8",
+                "userName": "Chinay Boro",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVWWLvw9dtMD4_8l1ojmJCnGo4UbAF5HclEYxwciN4iXik",
+                "content": "You should re-upload this app as system apps uninstaller, no app in the entire playstore could help me in uninstalling system apps but this app did❣️Kudos to the developer",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "v6.5",
+                "at": "2022-07-24 09:25:35",
+                "replyContent": "Thanks",
+                "repliedAt": "2022-07-24 09:23:48"
+            },
+            {
+                "reviewId": "2cc699d7-1d16-4db9-9333-9799bbe3dad4",
+                "userName": "Manish Bakhada",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXI7L_J6C4DcuC0Iql5Fwp6cwmtuwsLBfT8g7VCmPE1urE",
+                "content": "MaxSecure Antivirus & Virustotal app says this app is Trojan.Trojan.Banker.AndroidOs.Asacub.snt.,so this is danger for users? Devloper explain about this.",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "v6.5",
+                "at": "2022-07-20 01:06:15",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "SmartPack-_-PackageManager.json",
+        "published_at": "2022-06-04T13:09:01Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "1116e6e8-4d25-4d8c-a41f-f8233533c9a4",
+                "userName": "Mira Dhar",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLt8QXG3TpI6Kgk7Q72TV5yJBZ9w2LA3-JDN7zYMrVN=mo",
+                "content": "Amazingly good app, can install .xapk and .apkm split packages too. Thanks a lot, dev for packing so much functionality in such a tiny footprint. Btw, please add the option to also access microSD & OTG storages (rooted device yet the file picker can't access anything other than internal storage), very necessary for larger apps especially games & similar.",
+                "score": 5,
+                "thumbsUpCount": 6,
+                "reviewCreatedVersion": "v6.4",
+                "at": "2022-07-05 00:27:06",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "SmartPack-_-PackageManager.json",
+        "published_at": "2022-05-03T19:58:06Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "SmartPack-_-PackageManager.json",
+        "published_at": "2022-05-01T08:06:52Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "76df0380-79af-4540-851f-2932661b8e06",
+                "userName": "isaac Emehi",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLlMbBuVQm1I-AoqxJ6toJqVC_u5fFhj3zoE7zlvsWG=mo",
+                "content": "Crashing when about export apps",
+                "score": 2,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "v6.2",
+                "at": "2022-05-03 07:35:13",
+                "replyContent": "Edit: You must be received (if not, you will soon relieve it) a new update (v6.3), with a fix to this issue. Thanks",
+                "repliedAt": "2022-05-04 09:13:53"
+            }
+        ]
+    },
+    {
+        "filename": "SmartPack-_-PackageManager.json",
+        "published_at": "2022-02-22T21:06:23Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "233a180a-c0d0-4630-8a29-ffcd15652449",
+                "userName": "Edward Forbes",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUUf-DYX8A-m2MdkGh0YsgujwH97WfxtTUG_bQnwdZSfSY",
+                "content": "Comes in handy",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "v6.1",
+                "at": "2022-04-22 16:01:14",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "515cf6a9-cce8-40a0-b48a-5110f3bc9589",
+                "userName": "Kartik Deshwal",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUr0CcYTyhCHo2sBP07jkaC83vCB6JjfXK_s0Z0Bqu5LsM",
+                "content": "Simple compact and easy to use",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "v6.1",
+                "at": "2022-03-31 13:13:11",
+                "replyContent": "Thank You",
+                "repliedAt": "2022-03-31 13:14:24"
+            },
+            {
+                "reviewId": "cbfd6cb1-f769-4302-9578-f92bb6143510",
+                "userName": "Dhennys Pestana",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUuXIADGw-SRbwRUUU_H9NlttVT9F3lnEbBB6PPJee0sUdL",
+                "content": "not working",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "v6.1",
+                "at": "2022-03-31 03:45:32",
+                "replyContent": "What is not working? Please specify. Thanks",
+                "repliedAt": "2022-03-31 13:14:58"
+            },
+            {
+                "reviewId": "57e93393-704c-43ad-aff5-f4a3d9004758",
+                "userName": "Ananthu Ajikumar (Rôgué)",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVemhksorPqgrtYNMHePee0z5X_UvDwdPlQ_XF8Ms9Vf8U",
+                "content": "legit one⚡",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "v6.1",
+                "at": "2022-03-30 19:55:59",
+                "replyContent": "Thanks",
+                "repliedAt": "2022-03-31 13:15:10"
+            },
+            {
+                "reviewId": "497d05dc-d8f9-41c4-b939-f63102a89721",
+                "userName": "T Turner",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXx8USBRZPiZBeJ_kRHQ22DmAnXf9obIorbXJTH9wAsrnE",
+                "content": "Amazing package manager, I did have the application freeze up while waiting for the root prompt but after that hiccup it works beautifully.",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "v6.1",
+                "at": "2022-03-19 04:16:15",
+                "replyContent": "Thanks 🙏",
+                "repliedAt": "2022-03-19 05:18:09"
+            },
+            {
+                "reviewId": "fa6069d5-73c0-4735-86be-2ee7a9faafc2",
+                "userName": "Hit Solanki",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXDrwwIQNT4ZNiTvtdhTXtN0SSzD6wHRfEaD-21EAY1eA",
+                "content": "Nice app",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "v6.1",
+                "at": "2022-03-07 11:30:03",
+                "replyContent": "Thanks",
+                "repliedAt": "2022-03-07 11:39:58"
+            }
+        ]
+    },
+    {
+        "filename": "SmartPack-_-PackageManager.json",
+        "published_at": "2021-12-18T20:47:41Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "5d725968-f9c8-4db4-98a8-b3bd5e120b55",
+                "userName": "white Dove",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIChHlWfOLIV2A4C2390nZ7UOkhhj9sBfDTh6bqfFeD=mo",
+                "content": "1 of the few such apps which aren't BLOCKED FROM WORKING ON the newest Android OS's & Samsung & Moto & LG phones!",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "v5.9",
+                "at": "2022-03-15 06:37:07",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "d6f5d32a-e68f-45d2-8a42-a75436a9a899",
+                "userName": "Rajesh Yadav",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWokE36o7IQEuoNXfMefSnowNuImGWow5k4T9zImXbOtw",
+                "content": "Not working",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "v5.9",
+                "at": "2022-02-18 04:08:28",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "9746b592-90cd-48ef-8894-4185e5a2b34f",
+                "userName": "kuna sithar",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKe5vtws6ljhxJbPjw8v5x7GfQxyeIK7g5QPOxjz6_f=mo",
+                "content": "Dear owner I have had a very bad experience it keeps on crashing whenever I try and download something can you fix this",
+                "score": 1,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "v5.9",
+                "at": "2022-01-23 13:12:33",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "d36d705a-a0ba-4612-b6bb-c2c84da21b3a",
+                "userName": "Corrupt",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXquwfILAvc04FWC7T2tRXhIgRTkcHw0o4VCAKsHJe5L0k",
+                "content": "very useful for root users / custom ROMs, I installed a rom that has some system apps I do not need so I used it to uninstall them",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "v5.9",
+                "at": "2022-01-17 19:50:24",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "e57ddda7-1edf-46de-8e22-12c8f4180fea",
+                "userName": "M Rafiz Uddin",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUCk6ERs6iNaLMDi2e-onpJuHlYbGU6kBiFj1BSdGjYUR4",
+                "content": "Nice and useful apk package manager",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "v5.9",
+                "at": "2022-01-09 12:39:25",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "c93aa9dc-065d-47d1-8c9a-62148c80adc5",
+                "userName": "Paul Koepke",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXUjM_dJBw6LF1Lq2gsT4AwqvTR_-ogfb40YGMIfU5EeEUt",
+                "content": "Works great, very easy to export APKs.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "v5.9",
+                "at": "2021-12-20 22:12:07",
+                "replyContent": "Thanks",
+                "repliedAt": "2021-12-20 21:58:36"
+            }
+        ]
+    },
+    {
+        "filename": "SmartPack-_-PackageManager.json",
+        "published_at": "2021-11-26T20:59:27Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "SmartPack-_-PackageManager.json",
+        "published_at": "2021-11-24T21:30:45Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "90b481e8-c52c-4512-bbfa-d9979fd725f9",
+                "userName": "a ngker",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIqUoW_UEHYaShL7_dXjQv0Ul8pEbpKKSZst5mqAAvI=mo",
+                "content": "Its good app and it's free maybe for nonrooted device I can chose and it's make the list pm uninstall for me like ✓mymomapp ✓this Then pm unins -- mymomapp Pm unins -- this if u just want to remove bloatware I think root is to much task for kernel and this that. Nice one",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "v5.7",
+                "at": "2021-11-25 07:53:38",
+                "replyContent": "Thanks a lot",
+                "repliedAt": "2021-11-25 08:00:18"
+            }
+        ]
+    },
+    {
+        "filename": "SmartPack-_-PackageManager.json",
+        "published_at": "2021-11-15T23:08:15Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "8907d61e-bbfa-42b9-b3c3-32895e4dd404",
+                "userName": "Kow Ski",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUK2XD5eTWck7LkwqD-aQeIMoGM2PSuY7mmDuHTIohJIg",
+                "content": "Great",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "v5.6",
+                "at": "2021-11-19 13:10:24",
+                "replyContent": "Thanks",
+                "repliedAt": "2021-11-19 13:18:07"
+            }
+        ]
+    },
+    {
+        "filename": "SmartPack-_-PackageManager.json",
+        "published_at": "2021-10-28T18:26:19Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "9afd3022-0130-4b6f-9351-4e9d5b232713",
+                "userName": "Kyle Ortiz",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocK1AdQOjC70kvWnOWy3WleVF7qnY2tTd-ispCaOVxha=mo",
+                "content": "to bad it can't install not compatible apps but in anyway this a good app",
+                "score": 3,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "v5.5",
+                "at": "2021-11-06 03:17:10",
+                "replyContent": "Thanks\n& I don't think there is some way to install not compatible apps.",
+                "repliedAt": "2021-11-06 06:27:27"
+            }
+        ]
+    },
+    {
+        "filename": "SmartPack-_-PackageManager.json",
+        "published_at": "2021-10-09T22:30:38Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "27bafd92-d4e4-4b0f-bf12-764c3680be24",
+                "userName": "Saad Benzzi",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjW-vOL6Tt0PYunmmC_0kNjWkKodOKM0r8BMmBtoSjXEYg",
+                "content": "its the best app ever😚😚😍😍😍😘😘😘😘😘😘😘😘😘😘😘😘",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "v5.4",
+                "at": "2021-10-19 20:25:22",
+                "replyContent": "Thank You ❤️",
+                "repliedAt": "2021-10-19 21:27:31"
+            },
+            {
+                "reviewId": "f8f75eae-55ef-4fb0-91b9-7fa3ddfeb9e4",
+                "userName": "Furkan Karaman",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXyJaqDn_ZJcIGviDUiJhTPjH7NeilipTo3bIrWoPKQwcQ",
+                "content": "I can disable/remove bloatware easily.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "v5.4",
+                "at": "2021-10-19 15:43:04",
+                "replyContent": "Thank You",
+                "repliedAt": "2021-10-19 16:21:31"
+            },
+            {
+                "reviewId": "9690f3b8-35a7-4df5-b204-ed909fe49286",
+                "userName": "Tanjiro",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJTNExcDB8tzMYsoUXeCC4slrLSxswtvZtxcKbUN920Bw=mo",
+                "content": "Thank You for response. It's unable to detect :- App name- Phone Manager, Package Name- com.coloros.phonemanager, System:- realmeUI 2.0(Android 11) But FooView app shows it. I hope you will fix it soon.❤️❤️❤️",
+                "score": 4,
+                "thumbsUpCount": 6,
+                "reviewCreatedVersion": "v5.4",
+                "at": "2021-10-15 16:13:45",
+                "replyContent": "Thanks for the comments. But, I need some details about the missing app (app name, package name etc) to investigate the issue. Can you?\nThank You: Let me try to solve it.",
+                "repliedAt": "2021-10-15 16:17:57"
+            }
+        ]
+    },
+    {
+        "filename": "SmartPack-_-PackageManager.json",
+        "published_at": "2021-09-15T18:57:54Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "860a6b5e-b8cc-4593-a289-de2d986dd3f2",
+                "userName": "Tech & Facts",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjV7XzPPgNmRidjNL6Iw0Apx6AI31cqY9pNDv_M5kBvP6ws",
+                "content": "Bakwas",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "v5.3",
+                "at": "2021-10-07 14:22:25",
+                "replyContent": "Go, make your own app, and distribute everyone for free. Good luck.",
+                "repliedAt": "2021-10-07 14:44:33"
+            }
+        ]
+    },
+    {
+        "filename": "SmartPack-_-PackageManager.json",
+        "published_at": "2021-09-09T23:47:44Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "SmartPack-_-PackageManager.json",
+        "published_at": "2021-08-29T21:03:43Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "SmartPack-_-PackageManager.json",
+        "published_at": "2021-08-29T16:50:45Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "SmartPack-_-PackageManager.json",
+        "published_at": "2021-07-20T20:01:28Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "5d11e0d6-422c-4896-9286-5d12bc2e0f08",
+                "userName": "Hussam Alkhatib",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocK12HQLO0zDHqhuyQdqNOc_YVJytaapo_ZY8bnwXUSS=mo",
+                "content": "Very useful applicatin to manage apps, I recommend it.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "v4.9",
+                "at": "2021-08-26 08:35:58",
+                "replyContent": "Thank You very much.",
+                "repliedAt": "2021-08-26 09:29:20"
+            },
+            {
+                "reviewId": "b36405ca-46a5-4c3a-98d9-a459f2f6d525",
+                "userName": "Andy Trader",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWFvLQ5Tmp8taiT76rBcIZznKLdN2Ds_UckbjMzGh6szbQ",
+                "content": "Help me for my app development build. It's quite neatly arrange UI is my favorite preference. Kind of boost up efficiency in searching for the file",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "v4.9",
+                "at": "2021-08-20 11:53:55",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "54a9e54a-22b9-45c6-bc66-4336d7fc5b80",
+                "userName": "MC Games88",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjX3YbVWfb2XAmUckjZokTYlkmqRYmIJBBc7pvFywEmI5go",
+                "content": "It's a useful and powerful App to manage your Apps. Even better, the App is free, and there are no Ads👍",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "v4.9",
+                "at": "2021-08-19 13:16:56",
+                "replyContent": "Thank You",
+                "repliedAt": "2021-08-19 14:03:34"
+            },
+            {
+                "reviewId": "90a08985-8c1a-4234-ba9b-8c0d8878e0eb",
+                "userName": "Aamer Shehzad",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVLizOt6j9O2oeV6TMjZrK2SuDUqifDmIFvyQqK0nxgww",
+                "content": "Such a fantastic and attractive.only recommendation for this app only.every body like this app",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "v4.9",
+                "at": "2021-08-12 11:08:27",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "be6f25e4-e11e-4814-9e65-3be1ae842b1b",
+                "userName": "Saii P",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocITDffz6L5NXNRp_62Qi_rI4oHk-PAxKPB7sc8TPRyr=mo",
+                "content": "Great app for managing apps, very useful and good interface, i like it .",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "v4.9",
+                "at": "2021-08-12 09:44:42",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "2d3e8474-eeca-46cd-8a0c-9df5a7fac46f",
+                "userName": "Xrbea Games",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLMmMM3PKFMO4wIMTrlwQVa91_7J7CpSwYKTblCtibi=mo",
+                "content": "Very nice application to manage app. Simple to use. Highly recommended.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "v4.9",
+                "at": "2021-08-03 07:48:09",
+                "replyContent": "Thanks a lot.",
+                "repliedAt": "2021-08-03 08:29:19"
+            },
+            {
+                "reviewId": "41904994-6a04-4f09-b58f-e79c4e98d11d",
+                "userName": "Heidy P",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUn32UUM_2lGYrDAJXF_RwpsO9tWYMNzhKD2b9qI7iV1Q",
+                "content": "Fantastic application to manage apps, both system and user. I recommend it.",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "v4.9",
+                "at": "2021-08-01 02:47:45",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "a271c8d6-5b50-4748-ad14-9035a06c7f42",
+                "userName": "Care Customer",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKLN48XBjW1L9eYrTj3AMTvJg_K3tAgA7spYNXTqMh0=mo",
+                "content": "Very helpful this packet manager and split apk app. Higly recommended this app.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "v4.9",
+                "at": "2021-07-28 21:13:12",
+                "replyContent": "Thank You",
+                "repliedAt": "2021-07-29 02:50:00"
+            },
+            {
+                "reviewId": "ba6810af-8162-4c90-9116-63cc1f81e0b8",
+                "userName": "Muhammad Gul Sher",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVcLYwnumOQ144FJk40MK_kUG2Iu_v9aiufYmt82CL7xH4",
+                "content": "Package Manager and split apk is the best app to manage your applications.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "v4.9",
+                "at": "2021-07-28 06:14:38",
+                "replyContent": "Thank You very much",
+                "repliedAt": "2021-07-28 06:28:52"
+            },
+            {
+                "reviewId": "e43a4b17-6478-44c5-9af9-860647a2e00a",
+                "userName": "Sharmin Jharna",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKw5gi-SlrEQvQ-gD_11skKzyaKvS9YXQ9lsRtTtepT=mo",
+                "content": "Perfect app management application. Very simple and understandable. Thanks for the awesome app",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "v4.9",
+                "at": "2021-07-25 05:27:40",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "SmartPack-_-PackageManager.json",
+        "published_at": "2021-07-10T08:55:27Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "253d4a1c-5f14-490f-a1d2-26b04c046d55",
+                "userName": "Widodo Budi",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocItgo7cM0xCr4JAWOY6_QPgXPJDqG06bmm2rKLZoVlz=mo",
+                "content": "Brilliant ideas combine with good skill create cool app, this app is fulfilling the needs of several communities around me. Nice work !",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "v4.8",
+                "at": "2021-07-18 00:13:32",
+                "replyContent": "Thank You very much.",
+                "repliedAt": "2021-07-18 02:38:54"
+            },
+            {
+                "reviewId": "9e422c6b-4b49-4ec2-8b51-57ea5560a920",
+                "userName": "Kasuri App",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKy2dXs44Gvez-hU0FYD9C-Xge8scfEvzEey3Zvyvc7=mo",
+                "content": "Package Manager is a very useful application to manage apps, both system and user, installed on an android device. I really like this app.",
+                "score": 5,
+                "thumbsUpCount": 5,
+                "reviewCreatedVersion": "v4.8",
+                "at": "2021-07-13 14:13:07",
+                "replyContent": "Thank You ❣️",
+                "repliedAt": "2021-07-13 14:17:51"
+            }
+        ]
+    },
+    {
+        "filename": "SmartPack-_-PackageManager.json",
+        "published_at": "2021-06-15T20:13:01Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "SmartPack-_-PackageManager.json",
+        "published_at": "2021-06-02T09:06:00Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "SmartPack-_-PackageManager.json",
+        "published_at": "2021-05-03T13:10:24Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "fabff35b-19dd-4bad-935d-6d16a0e376f4",
+                "userName": "ekamjotsingh kalra",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXSjnFV8PpBdTvo4aqAcaXaeVGuNcsDst3v6mtQsszIT6o",
+                "content": "Please intall the package app intall",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "v4.5",
+                "at": "2021-05-20 11:33:12",
+                "replyContent": "I really don't understand. Any chance to get more details about your issue/suggestion? Thank You.",
+                "repliedAt": "2021-05-20 16:14:14"
+            }
+        ]
+    },
+    {
+        "filename": "SmartPack-_-PackageManager.json",
+        "published_at": "2021-04-01T21:08:56Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "1e2d3886-b96f-466e-bafc-cfd2aaea9c81",
+                "userName": "shantybps krishnasamy",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjU8j0RpbGLM4SFGp5Sjqsd92LMcbV-ItCWXjLFU_v0UOw",
+                "content": "package manager ((apkBYapiFROMap))accessPOINT",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "v4.4",
+                "at": "2021-05-02 03:38:17",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "9806f5fb-9943-460d-a4a2-3a48782237e0",
+                "userName": "hmd qrbn",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjW_H0fnB6DRUpbJFmIui0CzZ4fUTmC_xQK3kN6zbGHahg",
+                "content": "great",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "v4.4",
+                "at": "2021-04-16 19:12:26",
+                "replyContent": "Thank You",
+                "repliedAt": "2021-04-16 20:05:58"
+            }
+        ]
+    },
+    {
+        "filename": "SmartPack-_-PackageManager.json",
+        "published_at": "2021-03-24T22:07:33Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "70444ebe-a5fe-4755-b651-58a54f7985a7",
+                "userName": "Ibaad Farooqui",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKCDTSGQRbQD7lzElMx0bd4NZqLCEJYejQis25S01IB=mo",
+                "content": "Love this app! Its easy to use, ads free, and i can easily uninstal system apps too UwU ❤️",
+                "score": 5,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "v4.3",
+                "at": "2021-03-25 07:01:26",
+                "replyContent": "Thank You & enjoy...",
+                "repliedAt": "2021-03-25 07:05:39"
+            }
+        ]
+    },
+    {
+        "filename": "SmartPack-_-PackageManager.json",
+        "published_at": "2021-03-17T21:47:54Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "133231d0-7e9f-4f5e-b460-cd55fb41128f",
+                "userName": "Akhil G",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXVHrMDADp3FUxiBSK_QUIqtu3930g3kbLFrx23gX2rKOQ",
+                "content": "Lite but powerful app to manage system and thirdparty packages. Quite useful. It can be used also without root!",
+                "score": 5,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "v4.2",
+                "at": "2021-03-18 13:24:59",
+                "replyContent": "നന്ദി 💖",
+                "repliedAt": "2021-03-18 13:26:48"
+            }
+        ]
+    },
+    {
+        "filename": "SmartPack-_-PackageManager.json",
+        "published_at": "2021-03-14T19:18:40Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "SmartPack-_-PackageManager.json",
+        "published_at": "2021-03-09T22:50:22Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "SmartPack-_-PackageManager.json",
+        "published_at": "2021-03-06T13:23:05Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "SmartPack-_-PackageManager.json",
+        "published_at": "2021-03-03T20:50:01Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "SmartPack-_-PackageManager.json",
+        "published_at": "2021-02-26T21:18:06Z",
+        "google_play_reviews": []
+    }
+]

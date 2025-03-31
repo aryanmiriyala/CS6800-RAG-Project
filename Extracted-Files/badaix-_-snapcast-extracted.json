@@ -1,0 +1,30 @@
+[
+    {
+        "filename": "badaix-_-snapcast.json",
+        "published_at": "2020-03-14T10:25:14Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "323afe6e-6cc7-4052-a62b-828f9936abd4",
+                "userName": "Nigel Kendrick",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIVJ9UJYAa4FAhCP9UpewaRw3IWsWQ_0htA_3L31anl=mo",
+                "content": "Great app and a very supportive developer who responded to a reported issue and fixed it in two days.",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "0.19.0",
+                "at": "2020-06-06 20:31:15",
+                "replyContent": "Seems that it lost two stars. The app is open source, without adds and free of charge. Please support the development and report bugs at https://github.com/badaix/snapdroid instead of giving bad ratings. I will remove the app from the store when it drops below 4.5 stars.",
+                "repliedAt": "2020-05-30 13:27:49"
+            }
+        ]
+    },
+    {
+        "filename": "badaix-_-snapcast.json",
+        "published_at": "2019-11-22T21:12:56Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "badaix-_-snapcast.json",
+        "published_at": "2019-11-20T23:44:37Z",
+        "google_play_reviews": []
+    }
+]

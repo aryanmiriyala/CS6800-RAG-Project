@@ -1,0 +1,49 @@
+[
+    {
+        "filename": "easytarget2000-_-micopi-android-matthew.json",
+        "published_at": "2019-10-16T11:58:42Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "32447b8b-83eb-4dde-8ccd-9e5a2bffc232",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "The update made the app completely useless.",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.1.9",
+                "at": "2019-10-26 08:12:22",
+                "replyContent": "Could you please share more information regarding what you did not like about the app?",
+                "repliedAt": "2019-10-28 11:23:19"
+            },
+            {
+                "reviewId": "60371727-2d28-440b-b307-991394ec3ddd",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Used to love this app. Not so much anymore. The assigned photos are of very low quality and with incorrect alphabets for random contacts.",
+                "score": 1,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "1.1.9",
+                "at": "2019-10-25 02:00:37",
+                "replyContent": "Sorry to hear you experienced a bug. It would be great if you would give it another try. The assignment issue has been fixed for most users in version 1.2.\n\nIf you are unhappy about the image quality, unfortunately the image compression is performed by Android and the contacts app themselves. This is outside of the scope of Micopi.",
+                "repliedAt": "2019-10-29 19:50:33"
+            },
+            {
+                "reviewId": "aae96346-d52f-4a51-8d84-8d6bbe8e1077",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "I have used the \"free\" version of this app for years.. Recently, the developer updated the free version to no longer work I have no problem with supporting the developer, however the premium version of the app lacks the basic functionality that used to exist. The new interface is terrible and even the \"premium\" version doesn't let you do the things the free version used to. Needless to say I am upset and will be issuing a refund. Please add functionality back - I'd be willing to pay!",
+                "score": 1,
+                "thumbsUpCount": 12,
+                "reviewCreatedVersion": "1.1.9",
+                "at": "2019-10-22 23:03:53",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "easytarget2000-_-micopi-android-matthew.json",
+        "published_at": "2019-10-08T17:51:32Z",
+        "google_play_reviews": []
+    }
+]

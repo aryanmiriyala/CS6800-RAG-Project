@@ -1,0 +1,20 @@
+[
+    {
+        "filename": "dc297-_-mqttclpro.json",
+        "published_at": "2017-11-22T11:07:57Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "dcbe1a91-a5bd-4c51-bb91-30ab814e616e",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Maybe working with Tasker, needs more tests",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "4.4.1",
+                "at": "2017-12-03 14:15:05",
+                "replyContent": "Hey, let's have a chat on github.",
+                "repliedAt": "2017-12-02 22:38:23"
+            }
+        ]
+    }
+]

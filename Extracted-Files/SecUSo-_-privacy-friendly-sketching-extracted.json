@@ -1,0 +1,86 @@
+[
+    {
+        "filename": "SecUSo-_-privacy-friendly-sketching.json",
+        "published_at": "2022-09-15T11:47:44Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "4e69a02e-673c-43c4-b81b-e77c2d6f0dd6",
+                "userName": "James Bam",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJEORSMziXlnbxW1HrbyXAO27wp_orMxBNig00DIN7s=mo",
+                "content": "This app needs the colour white. White can be used as a substitute for an eraser brush (there isn't one), and to add highlights. Without white, this is not really usable. The colour brown could be replaced by white (brown can still be created by blending other colours).",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.1.0",
+                "at": "2023-08-04 01:56:10",
+                "replyContent": "Thank you for your feedback - We created an issue on Github where you can track the progress: https://github.com/SecUSo/privacy-friendly-sketching/issues/3",
+                "repliedAt": "2023-08-22 12:27:31"
+            }
+        ]
+    },
+    {
+        "filename": "SecUSo-_-privacy-friendly-sketching.json",
+        "published_at": "2019-04-27T13:44:12Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "85061b3e-4ac3-4137-889a-be5fc3f84ea2",
+                "userName": "Brian Cary",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWsV11RSC_Rm6GV1Dq-8oxeev2Hb42N7j3LcEk0rZcHhCo",
+                "content": "I would give this 5 stars, but you can't erase! I love the privacy and it's otherwise exactly what I need. I just need to erase to make changes and fix mistakes.",
+                "score": 3,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.0",
+                "at": "2022-01-28 22:43:02",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "39ee0377-9487-4e92-99d7-3268a7ccf99f",
+                "userName": "d e",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLzMDLEG6nYMtnHv6vB7ND1YOTnDrwIHXjjBMESisA=mo",
+                "content": "Very nice app, fast & simple to use. Eraser option, more advanced color selection, and ability to copy sketch would be super nice additions",
+                "score": 4,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "1.0",
+                "at": "2021-10-22 03:35:41",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "4ac8c034-85ac-423f-a0a4-8e0617c70b8b",
+                "userName": "teknotone gmajor",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUgzYaPczcggKP7if0xPoDT4Xh0t76wMesGttpKV9paS5I",
+                "content": "Easy and quick. I love it. It exports a very convenient jpg format, I wonder how much extra effort it might take to export in svg instead to keep objects as objects and make it scaleable.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.0",
+                "at": "2021-03-12 19:29:03",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "ff094c25-50e4-431d-9d42-32f3c6a4fa84",
+                "userName": "Na Bu",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWpAvLJyNx6z2jEeper3LSSPiKE6jezwEO2PnaUfmsFGgvl",
+                "content": "Fun app. Can you guess what I drew as the first thing after installing it?",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.0",
+                "at": "2020-04-30 01:58:29",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "58cc58d7-d66a-4acf-8ab7-d022b70116d5",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Rudimentary color selection. No image editing capabilities that would justify the use of strong encryption.",
+                "score": 1,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.0",
+                "at": "2019-10-03 19:06:50",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    }
+]

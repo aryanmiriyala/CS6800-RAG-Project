@@ -1,0 +1,397 @@
+[
+    {
+        "filename": "localsend-_-localsend.json",
+        "published_at": "2023-03-05T12:37:24Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "1c0ff1a5-e95d-413d-b425-a57ac8e9c852",
+                "userName": "Pushy 786",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWt12gLM9xRDL_Ck9dOL1zJdpmsI5QA3ktmT2x-dCZpru4",
+                "content": "Pushpendra Singh",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.8.0",
+                "at": "2023-09-02 01:57:15",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "6d5ab10c-2104-4bf2-bb18-04d4faf6cd02",
+                "userName": "Mehedi Hasan",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWUrvbt0q6xeo91tX_s3I3m7Ud6wbsR6efxEpk0hszjG4fB",
+                "content": "So easy to share. But i must say it lacs speed.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.8.0",
+                "at": "2023-04-20 17:24:06",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "39e14194-e302-47b5-b1c8-d65095121757",
+                "userName": "Sumit Singh",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXvaEat7LT-8MBybZHVLoKE7CMnvfiCPBTROEtRqxJH8tw",
+                "content": "Best just add one option like send to ... In context menu in windows app other than tht android version is 5 star",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.8.0",
+                "at": "2023-04-19 15:03:19",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "ac5af314-ba14-4e2a-bb93-3735dc6b32c0",
+                "userName": "Minh Truong",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocISwv_rzEhohih-KYk55tI4ZEN0DQ97Z5V25QRCIo5U=mo",
+                "content": "best thing since sliced bread",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.8.0",
+                "at": "2023-04-18 15:18:40",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "f037cab7-5d16-41d5-b223-df78ab0ba5e4",
+                "userName": "Eric Adams",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVaz3OQwPZjEHKxGR7Y1fomBwVVNM_mluE4ggo2dSyQzaz8",
+                "content": "Simple, beautiful, functional, and FOSS. Dealing with files on multiple devices of varying types can be a serious pain. LocalSend makes it painless to share files between any of them. Many thanks to the creator and contributors for their hard work. Well done!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.8.0",
+                "at": "2023-04-17 16:22:47",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "3652dfa1-37a2-476c-af8f-918efb0d775e",
+                "userName": "KiraiEEE",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXfOXtybL4zcluK1pURRIgS6TyMrCfhPKTa7aaze0FKjAQ9",
+                "content": "best sharing app in term of design and also functionality performance and its so clean , o rlly love it <33",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.8.0",
+                "at": "2023-04-16 03:10:10",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "2b0f5131-08f3-4876-8d82-358c86009e11",
+                "userName": "Shawn Cheung",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjW_wTt-qJrIwceO4F7KEVwA3-1adLPWWoAHMATthrpZEvE",
+                "content": "Is it possible to share clipboard too?",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.8.0",
+                "at": "2023-04-13 22:53:44",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "c3574fdb-8f2c-48a5-8d58-7f85516d1fc7",
+                "userName": "Divas",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjW9I3uKc6RerIl54-H2PJ3npw416b8gUfSANdaf2GmzVSiY",
+                "content": "Works perfect.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.8.0",
+                "at": "2023-04-10 03:14:13",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "fddeeffb-5b91-4162-803b-2979af76782c",
+                "userName": "Chris Attard",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWBMfdQUtFvJhgoogeLeeYuGkG_Kf_7AxNG-fqZo7E1Vx0",
+                "content": "Useful tool that really works 👍.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.8.0",
+                "at": "2023-04-08 15:19:38",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "ce6ec960-f1ff-4471-8b96-1c90f20d7b61",
+                "userName": "linda main",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJTxThL8lE4aLdxcd7WvelN6oTLrQ8n6XVS6StAhQh5=mo",
+                "content": "Mostly very positive experience, much faster sending than others thanks to local network. If you allowed me to send full folders from my MacBook over, I'd definitely go to 5 stars, because sending individual files means restructuring the folders on the phone which is extra work I don't have to do on the slower ones, so kind of a trade off where eventually I lose the advantage of this app being faster. Apart from that, it's percect",
+                "score": 4,
+                "thumbsUpCount": 9,
+                "reviewCreatedVersion": "1.8.0",
+                "at": "2023-04-07 18:18:10",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "3c516818-0052-415e-b093-25e20c1aba16",
+                "userName": "Pravin",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVIwWdzhxAgbLsozuct1RC1Cna-slPKWXGJo2Op02h-SQJE",
+                "content": "Works in Android Phone & Android TV also in Iphone.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.8.0",
+                "at": "2023-04-05 08:08:33",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "a5931c37-f76a-4538-82a3-ca3544ff39d0",
+                "userName": "JW Hu",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUylgRiVypvKLdlfeCbsJWQUI00DsStt5-CjW0fzRD3xUk",
+                "content": "Unable to save, in secondary user on Android 13",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.8.0",
+                "at": "2023-03-29 12:36:44",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "7c8e8117-d617-418c-b434-853270d7b7db",
+                "userName": "Priyanshu Raj",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVMiuuvfKr14zaxgMkZb_SIevM-XVQX82o_cFgH2RP7QtI",
+                "content": "Amezing App it is very Useful I can't explain How much it is help full.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.8.0",
+                "at": "2023-03-27 05:21:19",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "65c1af11-8a5d-4f10-8726-15016a1f88de",
+                "userName": "Faeq",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWLma6uwK9xDHsLyT6eexQBbAVF7YAjAQIgQZWtpMvjsw",
+                "content": "works well and very fast as there are no external servers to depend on. UI is very easy to use and looks good. I would just like the app to work in the background of other apps and while the screen is off.",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.8.0",
+                "at": "2023-03-25 10:05:27",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "fd751691-97ac-4bbc-a3fa-aa337292d336",
+                "userName": "Amit Raj Singh",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWoq_KFOm98FTVxBnRVh-rbHwxglgJ2NiEv4XvCwOM_0Ds",
+                "content": "Create a web app. App link to MS Store doesn't work. Give instructions within the app.",
+                "score": 2,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.8.0",
+                "at": "2023-03-19 19:52:04",
+                "replyContent": "Use Snapdrop if you want Web app",
+                "repliedAt": "2023-03-19 20:55:24"
+            },
+            {
+                "reviewId": "205fa325-24d6-4047-986b-926d96cba527",
+                "userName": "Sheldon Reynolds",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWxgqn5fhgB17t3UZFI5RKXtTRfso3b45iS5qdsV1BgUqc",
+                "content": "Works fine. Windows Tip: make sure you give location access and firewall permission in & out. Need an option to send folders, add text to clipboard, open saved folder from the app itself.",
+                "score": 4,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.8.0",
+                "at": "2023-03-17 16:40:34",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "2e34ec34-f3c2-4eb0-bfa0-964cf9843e38",
+                "userName": "Vivek Kabra",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVuSXmQ-dYfqdnA45yUgd_7C8mFKgY1k5xTLN8I9tYDYwFf",
+                "content": "works perfectly on my phone and laptop for sending files and photos",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.8.0",
+                "at": "2023-03-15 00:19:20",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "8b2836fd-d087-4e06-a907-3ffb872ab993",
+                "userName": "Yasin Bahadori",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUFGSgbZ0fW4Yn84YpgPyy3E942AQGUYSIO8nfMLvBv4dc",
+                "content": "Believe me I am an app geek with OCD and I looked up the internet for tens of hours to find an app to replace the f-ing Zapya and get rid of it...untill one night that I dinally found this! It's unbelievably simple, fast and easy to install and work with. Use local send and refer it to your friends so one day we will finally break free from useless softwares.",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.8.0",
+                "at": "2023-03-14 18:19:59",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "af2a82cc-5494-47f9-954c-75b7e195ec95",
+                "userName": "upraj singh",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLxeWEqEAuDgPA1CSfnVxNPZxhV9Jb-HDmLHJL6imFA7TM=mo",
+                "content": "Awesome app, speeds are incredible. I am getting 30 Mbps transfer speeds. Interface is unique and simple. I do think some of the UI can be refined in terms of customization. I would like to see the ability to transfer entire folders as opposed to just files.",
+                "score": 5,
+                "thumbsUpCount": 6,
+                "reviewCreatedVersion": "1.8.0",
+                "at": "2023-03-11 03:05:28",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "03e303a2-51af-4cbf-9bb3-aa85f7216dc4",
+                "userName": "Steve",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjV957_H1EXRJBjqaGO9olFIYlv0uCLDwvAjtZYe2-lHnk4",
+                "content": "Perfect! Just what I needed for cross platform sharing!",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.8.0",
+                "at": "2023-03-10 14:33:40",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "1ce69345-42d5-4d60-bd57-81c4eefd87f7",
+                "userName": "Takkar Pulsar",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUIpk4J_eWypm28chyYi5bGFQtYv6I7VIcEoNYgy1Iku2E",
+                "content": "Hi. Android to PC works well. But Android to Android file sharing is very slow. Sometime doesn't work",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.8.0",
+                "at": "2023-03-07 06:13:50",
+                "replyContent": "The speed depends on your wifi. You can switch to 5 GHz to improve speed or position yourself near the wifi access point",
+                "repliedAt": "2023-03-07 09:39:34"
+            }
+        ]
+    },
+    {
+        "filename": "localsend-_-localsend.json",
+        "published_at": "2023-01-28T21:12:24Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "9d9c0d51-d451-47c5-b795-15fd67c61890",
+                "userName": "Wilson",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWR-X_Hf_wUCYXNIJbnn58IktuN2Ec59ngm0jbjPEyX",
+                "content": "It's a good app, useful and helpful, but it has an issue, when sending files or media to other devices, such as iPhone or PC, it can't discover the other devices, but if sending from PC or iPhone, there's no problem. And it can easily receive the files. And after receiving the file, the other devices Will listed, then you can send from Android phone. I don't know if this is a bug, but I hope this issue can be solved in next update, then I will update and give a five star ⭐ review.",
+                "score": 5,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "1.6.2",
+                "at": "2023-02-08 06:15:17",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "caa56ee3-5556-4d5b-8b46-33ad0adeb578",
+                "userName": "Akhil Gautam",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXeMTefdj9gKL2xDAz-HTiGdZdjDDCVdDmDQBnIkwGKjmw",
+                "content": "It doesn't work",
+                "score": 1,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.6.2",
+                "at": "2023-01-30 17:53:54",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "4c1372d2-63d5-48b8-9e21-5fdc9528116c",
+                "userName": "Loan Qypol",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWIizyg-RxZrw0VD83FkSWo2mi1-8OjwVAxYoe17-3BfA",
+                "content": "Super fast and seamless",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.6.2",
+                "at": "2023-01-30 16:09:30",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "89d8dadf-68df-43f1-b1f8-022567bf5707",
+                "userName": "Joseph Hale",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWKvCQY19eSeK5OhWnHsEfjkMIK3Cs0y7-6sOqKdy0llQ",
+                "content": "LocalSend just works. I've fought Bluetooth transfers for a long time and pulling out a USB cable for every picture I want to copy is a hassle. With LocalSend, I simply choose the device where I want to send the file (the options pop up immediately with cute names) and it zips right over with blinding speed. Plus, it is not constrained by a walled garden!",
+                "score": 5,
+                "thumbsUpCount": 5,
+                "reviewCreatedVersion": "1.6.2",
+                "at": "2023-01-30 07:23:33",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "f362fd1e-7905-4576-9040-77441826badb",
+                "userName": "Ahmed Sadman",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWNqOkp_Ear6pkVufvLEO8uIEClF-Z7J3pNq9aRzLtuOx8",
+                "content": "The perfect file-sharing solution that you didn't know existed. It's simple and efficient. I just installed it on all of my devices and abandoned previous ones",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.6.2",
+                "at": "2023-01-29 20:01:43",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "localsend-_-localsend.json",
+        "published_at": "2023-01-28T01:52:15Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "localsend-_-localsend.json",
+        "published_at": "2023-01-09T00:57:59Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "77df4b65-3ff0-44d0-88cc-e89e1722723b",
+                "userName": "Chris Souers",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXKlzI6XLHXxkUWq4R1EdwWW8TYc8rEZKtmFI_C9SWzvJw",
+                "content": "Worked great to send some photos to my iPhone 14 Pro over Wi-Fi. I did have to disable saving the files to the iPhone \"gallery\". Worked flawlessly after that. Thank you publishing these apps!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.5.0",
+                "at": "2023-01-25 03:57:32",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "0a18f902-be7c-478d-b81f-915993f1de25",
+                "userName": "Saifuddin Shaikh",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjV_Njx3_HjjuSYstlWf0QnBZZRYIn_rA6klEE1UnsOBRnt2",
+                "content": "Excellent app does what it says",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.5.0",
+                "at": "2023-01-20 01:30:21",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "24129561-2ec9-4de1-a0bb-72df82d131d7",
+                "userName": "Fili",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWbPVWpRPLQ1UElxTufVrhX4wQfsw157zgmPuxU6GazqGwn",
+                "content": "amazing app, so clean and it works extremely fast. but I got 2 things that I so hope they get fixed/added on a near update. 1st one, buttons on android box are selectable but not clickable, mouse mode needs to be enabled to do so. And the 2nd one is that, I hope we get an option where we can open the file we just received, straight from the app, without having to go through a file explorer for that.",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.5.0",
+                "at": "2023-01-19 03:18:00",
+                "replyContent": "Hi, everything seems to be clickable to me. What device do you use? Do you use a pen?\nRegarding opening received files: You can tap on an item on the receive / progress page.",
+                "repliedAt": "2023-01-19 11:51:25"
+            },
+            {
+                "reviewId": "8fe6ffc3-8ac7-45c8-b4e4-076d7904d8ee",
+                "userName": "Tsuni",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVyx3NiRxPzjEbjQ2J1huHy_erORjsv6lIiOdnh_QRRsuQ",
+                "content": "AirDrop alternative that actually works, is available on every major platform, and requires no background service (mostly thinking KDE connect and Taildrop here). Does require the app to send and recieve, so this will mostly be for sharing between your own devices. Very nicely polished, can't wait to see where it goes next!",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.5.0",
+                "at": "2023-01-19 02:33:04",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "5bda2d55-3bec-450c-bf5a-cbd07a3fb0a0",
+                "userName": "xBaum",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVyACcu-iml9N8YaPwTbSWLQXFOhv5Sk1LxMmtgc7Mzykc",
+                "content": "Fast and reliable, works great across devices",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.5.0",
+                "at": "2023-01-18 21:35:54",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    }
+]

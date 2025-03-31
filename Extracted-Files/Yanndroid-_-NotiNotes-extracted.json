@@ -1,0 +1,61 @@
+[
+    {
+        "filename": "Yanndroid-_-NotiNotes.json",
+        "published_at": "2022-11-02T23:46:19Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "ecba91e2-48cd-45ea-9dff-74ddaac6e898",
+                "userName": "Fernando Orioli",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXFQdbNFgme2BAke5PlO-1J70hymDXSRCW1tcwDlC5L2aEf",
+                "content": "the app needs an update, some buttons are broken.",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.7.0",
+                "at": "2023-09-11 14:17:58",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "cc81690a-91dd-41fc-9049-a9ff9045eb4d",
+                "userName": "Amin",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWUH6PFoahYrbVBKlLeIXDLTAtsacv1vvKgj3-Wfexg3vE",
+                "content": "Gggggreat apppp. Any possiblity to add samsung spen support?",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.7.0",
+                "at": "2023-03-27 18:15:32",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "d75f9294-3523-4793-961f-7e76c64e8946",
+                "userName": "Joseph O.",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWTjKVmd1F7fHBawJBZKc9uzaU5kkl26HzhbxuD7b56h9c",
+                "content": "It's precisely what I'd been searching for — QS button, quick overlay interface, easy access to edit from pinned notification. Thank you!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.7.0",
+                "at": "2023-03-15 13:28:32",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "9a101a5f-8987-4d47-b342-87089e326192",
+                "userName": "Matoro Zeliph",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIGlvQ2saJLBJSV6jLRd5UHr_-V9PnaHUpkiMc3rN9TXhs=mo",
+                "content": "I like it and has no ads. Feedback: A share button would be good",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.7.0",
+                "at": "2022-11-25 00:07:32",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "Yanndroid-_-NotiNotes.json",
+        "published_at": "2022-07-28T22:29:59Z",
+        "google_play_reviews": []
+    }
+]

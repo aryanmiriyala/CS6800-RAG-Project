@@ -1,0 +1,101 @@
+[
+    {
+        "filename": "calcitem-_-Sanmill.json",
+        "published_at": "2023-02-04T05:44:49Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "calcitem-_-Sanmill.json",
+        "published_at": "2023-01-24T11:29:11Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "calcitem-_-Sanmill.json",
+        "published_at": "2023-01-08T12:47:02Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "calcitem-_-Sanmill.json",
+        "published_at": "2022-12-24T13:45:38Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "calcitem-_-Sanmill.json",
+        "published_at": "2022-12-12T15:34:19Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "calcitem-_-Sanmill.json",
+        "published_at": "2022-01-10T18:09:23Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "calcitem-_-Sanmill.json",
+        "published_at": "2021-10-07T10:04:13Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "512a918d-a8a0-499e-81b5-164009cd6326",
+                "userName": "Jacob Cram",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLlT3HLLv4Hw6D-Ib-6d1y2gw8GLwHVpkwjmJB_4cj2=mo",
+                "content": "Very strong AI opponent with adjustable difficulty. No adds that I have noticed.",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.1.38",
+                "at": "2021-10-14 01:06:16",
+                "replyContent": "Thank you for your feedback!\nIn the future, we will also study ways to further improve mill skills to meet the demanding needs of professional and serious mill players.\nIf you have other suggestions in use, please feel free to contact us.  Thanks!",
+                "repliedAt": "2021-10-14 02:59:14"
+            }
+        ]
+    },
+    {
+        "filename": "calcitem-_-Sanmill.json",
+        "published_at": "2021-10-01T03:25:23Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "calcitem-_-Sanmill.json",
+        "published_at": "2021-09-22T21:52:45Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "calcitem-_-Sanmill.json",
+        "published_at": "2021-07-31T02:32:33Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "e439c547-7d69-4ec0-9008-7ef244bdb748",
+                "userName": "Lisa Suchanek",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWwTxHSONUSZbhUm-qKustw9nYJP470xH61DV4dW9kMhJc",
+                "content": "Excellent! Great way to learn the game, with a lot of options and clear presentation.",
+                "score": 5,
+                "thumbsUpCount": 10,
+                "reviewCreatedVersion": "1.1.24",
+                "at": "2021-09-04 04:06:27",
+                "replyContent": "Thanks! We are continuously developing and adding more options, so stay tuned! If you have any suggestions for improvement of this app, please feel free to write to us!",
+                "repliedAt": "2021-09-04 04:13:20"
+            }
+        ]
+    },
+    {
+        "filename": "calcitem-_-Sanmill.json",
+        "published_at": "2021-07-03T11:17:58Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "calcitem-_-Sanmill.json",
+        "published_at": "2021-06-17T14:30:42Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "7e7dd4f0-f980-427e-884e-be532cb1f265",
+                "userName": "dashstofsk",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJeXaa_1A47MqZI5ZdhGOkEK6ESsKyoAan4ksu9ke0u=mo",
+                "content": "This is a great app. Nice, simple design that is not overloaded with graphics. I like the fact that it allows me to export the movelist. Play against the app, or have the app play against itself. Would it be possible for you to include the rule proposed by Emanuel Lasker for the 10-man game, to allow pieces to slide before they have all been placed?",
+                "score": 5,
+                "thumbsUpCount": 7,
+                "reviewCreatedVersion": "1.0.25",
+                "at": "2021-07-01 13:07:47",
+                "replyContent": "Thanks for your feedback! Lasker Morris is in development. See About -> Feedback.",
+                "repliedAt": "2021-07-01 13:40:13"
+            }
+        ]
+    }
+]

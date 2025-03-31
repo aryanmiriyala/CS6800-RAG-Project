@@ -1,0 +1,66 @@
+[
+    {
+        "filename": "zathras-_-JRPN_Android.json",
+        "published_at": "2021-07-18T15:29:26Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "zathras-_-JRPN_Android.json",
+        "published_at": "2021-03-02T19:30:09Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "76be7b70-ed2c-4f58-b98a-8d1c309980db",
+                "userName": "Ammad Qureshi",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWsBx6WcVoT1e7cmH9fNL8zg3Ymc1-ECZG-EDhLNBVJ23lK",
+                "content": "Great RPN calculator with a nice design and lots of customisable features. No ads and no in-app purchases. Fantastic app.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.1.4",
+                "at": "2021-04-13 01:04:37",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "zathras-_-JRPN_Android.json",
+        "published_at": "2021-02-19T21:32:40Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "zathras-_-JRPN_Android.json",
+        "published_at": "2019-11-23T18:08:34Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "4f5275b8-4dfa-49b0-a115-79d8d045b590",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Works good. Developer should add jrpn 15c and 12 c since the go-series has been abandoned",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.1.1",
+                "at": "2020-02-16 00:00:25",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "zathras-_-JRPN_Android.json",
+        "published_at": "2019-11-23T17:23:53Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "d2489e35-d007-4b30-a7bf-0078dc0ba64e",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Does not display correctly in either orientation on Samsung Note 10+ Will push l/p screenshots to github Update: YES! Fixed. Great app. Thanks!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.1 beta 2",
+                "at": "2019-11-20 05:07:20",
+                "replyContent": "Thanks for sending the screenshots.  This should be fixed in the current release.  If you get a chance, please let me know how it worked out -- I definitely fixed the issue on an emulator that approximates a Note 10, but I don't have access to a Note 10 myself.\n\nDetails on the fix are at https://github.com/zathras/JRPN_Android/issues/1",
+                "repliedAt": "2019-11-20 04:16:02"
+            }
+        ]
+    }
+]

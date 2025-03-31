@@ -1,0 +1,37 @@
+[
+    {
+        "filename": "FreeTAKTeam-_-FreeTAKUAS.json",
+        "published_at": "2021-08-28T20:34:04Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "01bba0bd-9520-43c9-924e-9dcd1660f531",
+                "userName": "Matthew Kirkpatrick",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWF360lZsp8bQGhz8Up5ydZzXXt50cB0MqBAC59HW_qb_8",
+                "content": "Won't open, just crashes.",
+                "score": 1,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.4.9",
+                "at": "2022-11-16 15:51:45",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "39581dc6-6df3-4813-b1a1-c4de29bb4f62",
+                "userName": "Aureo Andino",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWImW77cojl0IRPARYYdePcw1EiV2zhSLv0YB1mrWpQRYA",
+                "content": "Have a problem with samsung galaxy note 10. App wont start. It reports a bug. Tried clearing the cache and re installing. Drone: DJI MAVIC MINI SE.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.4.9",
+                "at": "2022-05-07 16:42:55",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "FreeTAKTeam-_-FreeTAKUAS.json",
+        "published_at": "2021-07-28T02:09:37Z",
+        "google_play_reviews": []
+    }
+]

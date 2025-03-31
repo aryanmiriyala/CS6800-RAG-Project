@@ -1,0 +1,47 @@
+[
+    {
+        "filename": "SebastianOltmanns-_-birthdays.json",
+        "published_at": "2020-05-03T10:53:13Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "SebastianOltmanns-_-birthdays.json",
+        "published_at": "2018-09-21T08:43:47Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "54029fc3-f14e-4bda-aadf-92933553e32d",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Was so excited to finally find a birthday app that allows you to just type in the date (instead of forcing you to scroll like crazy). LOVE the simplicity of this app. But it has one major flaw rendering it unusable to me...you HAVE to enter a birth year. There are plenty of people I know who dont want to share that (and it would be rude to ask). So sad about this!! If it's fixed, this would go from 2 to 5 stars easy in my book!!",
+                "score": 2,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.4.1",
+                "at": "2019-03-04 22:12:51",
+                "replyContent": "Hi Melissa,\nthank you for the positive feedback. The year is compulsory because the app displays an age. If you do not know the birth year of a person, I recommend guessing or just using any year, while writing \"guessed/invalid year\" in the comment. This way, you can use the app and know that the year may be incorrect.",
+                "repliedAt": "2019-05-06 09:02:59"
+            },
+            {
+                "reviewId": "8fb8ff01-c930-4761-878d-fef82ec60ab6",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "It's exactly what I want however I am not receiving push notifications for my entries. I have the notifications turned on, the app permissions for notifications is turned on, and app has access to storage. I'm using a Pixel2 running Android 9.0 maybe you could look into this please. You have one of the cleanest and least intrusive birthday manager app I've been looking for but without getting the notifications it's unfortunately no use to me 😔 Thank you.",
+                "score": 3,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.4.1",
+                "at": "2019-02-25 17:04:21",
+                "replyContent": "Hallo! Danke für das positive Feedback. Mit der neuen Version 1.6.1 sollten die Probleme mit fehlender Benachrichtigung behoben sein. Ich wäre Dir dankbar, wenn Du der neuen Version eine Chance gibst!",
+                "repliedAt": "2019-11-09 10:17:16"
+            }
+        ]
+    },
+    {
+        "filename": "SebastianOltmanns-_-birthdays.json",
+        "published_at": "2018-04-10T12:34:58Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "SebastianOltmanns-_-birthdays.json",
+        "published_at": "2017-11-02T13:08:35Z",
+        "google_play_reviews": []
+    }
+]

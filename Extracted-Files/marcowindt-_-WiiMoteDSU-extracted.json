@@ -1,0 +1,32 @@
+[
+    {
+        "filename": "marcowindt-_-WiiMoteDSU.json",
+        "published_at": "2023-05-03T19:23:58Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "85fbcb1c-8a5c-4a8d-861c-20e90c6542e3",
+                "userName": "Raiyan AP",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjW2DxapDaS9d3_9XcGNxsITdGuyeesDS6ipBHCX4-QVMvc",
+                "content": "Works perfectly but having more controller configuration options would be nice. And the notification shade does not go away in the wii classic mode and screen rotation does not work.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "0.5.1",
+                "at": "2023-11-05 11:05:46",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "09403fc4-eb02-4dea-8e09-20736fdcca93",
+                "userName": "DANYAL SAID",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWlmXGvirpHSbEsbVHslkzpzTLOYumNCHxLcu-LY553dQ",
+                "content": "Working",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "0.5.1",
+                "at": "2023-09-03 04:51:53",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    }
+]

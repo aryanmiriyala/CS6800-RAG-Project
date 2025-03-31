@@ -1,0 +1,80 @@
+[
+    {
+        "filename": "lmj0011-_-save-on-device.json",
+        "published_at": "2021-12-07T04:52:35Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "f47e8444-2b89-4644-a471-81faa579ba56",
+                "userName": "Epic",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocL08pFxiUOVCIsNS-Dmi8i5ugtPBuGeRkMxDLitdR2dJA=mo",
+                "content": "I've been looking for an app like this for way too long. Thanks!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "0.2",
+                "at": "2023-08-10 10:00:06",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "474d2029-fab6-4e55-8e00-63026afefd78",
+                "userName": "Calmsea Palomares",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKZA7RQQ7SzIVnhlBhit4DkRvlhEQylnl6T4d52Bvqtjec=mo",
+                "content": "THANKS!!! This app helped me force to save files locally on my device instead of Office apps forcing me to use their online services to save files",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "0.2",
+                "at": "2023-03-22 06:16:54",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "47bda275-d2c5-445a-ac90-6e929e13fec3",
+                "userName": "Dubbing For All",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUjbat4QZbH7tanKZ65oDxbcnvIrhFH-PSH5smD9QiSnA",
+                "content": "Forces confirmation for each file",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "0.2",
+                "at": "2023-02-17 12:06:47",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "1b81455b-76e9-4a10-8b76-775473ca92c8",
+                "userName": "ShinobuFX",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUIZ3HhV1aFCs8m38LAbfY8blGjFLw7vGgdkAlcWQ87tU0",
+                "content": "doesn't work",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "0.2",
+                "at": "2022-11-27 09:24:58",
+                "replyContent": "What app are you trying to use it for?",
+                "repliedAt": "2022-11-30 17:13:32"
+            },
+            {
+                "reviewId": "9e9c5144-d280-44b0-ad23-e6ef8c3ff80c",
+                "userName": "Truk Doogso",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJBnlsInzrxeava1G8ZYQy-TkxpoqSEj78AMi6yXfTs=mo",
+                "content": "No ads, no permissions, just works, and just what I needed. Thank you!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "0.2",
+                "at": "2022-10-04 13:29:44",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "bbc0b1b4-85d2-45d4-bf92-bde443b9858d",
+                "userName": "Michael Hirshleifer (personal account)",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXs-D94VIRZsSECbP2UHnw-N47ni844Yj9Fa6JZf3_te-s",
+                "content": "Simple and easy to use. It implements a missing Android feature. The only issue is that it crashes with NPE if you try to share an unsupported data type to it. Somebody already reported this (github issue #7) so hopefully that will be fixed.",
+                "score": 4,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "0.2",
+                "at": "2022-07-04 01:40:15",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    }
+]

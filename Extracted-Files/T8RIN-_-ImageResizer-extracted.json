@@ -1,0 +1,517 @@
+[
+    {
+        "filename": "T8RIN-_-ImageResizer.json",
+        "published_at": "2023-10-25T08:12:00Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "7d826b83-166c-4911-862c-1d0f6bdb625e",
+                "userName": "Mark Reform",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWn7A2GA3vmHp_gleaVsV0D2M2NljIo-7KVofWwlIyUFzeL",
+                "content": "access adservice API? edit: thx for your reply. just updated",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.4.2",
+                "at": "2023-12-05 10:07:44",
+                "replyContent": "idk, there is no ads 😕",
+                "repliedAt": "2023-12-04 18:11:31"
+            },
+            {
+                "reviewId": "604227d9-5094-45ae-862c-2a7057993e1d",
+                "userName": "Hitendra Vaishnav",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUkgKoA9NadZ0Gr8rCQKox5BgXy9ReOhbauAQZqJuD9t6M",
+                "content": "It does it's Job very well, and UI is amazing.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.4.2",
+                "at": "2023-12-04 15:12:36",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "ef5d8b46-072b-40ea-a548-97af88dda069",
+                "userName": "Nayeem Ullah Chowdhury",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjW6aYQoD62fc-S7HHR9jaeY5uOZ64Lrh4Ou7OKOKEG5DIQ",
+                "content": "But There is one options missing which i found on 'Lit Photo' app. There is the option where i can chose how much kb photo i want when it compress it,",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.4.2",
+                "at": "2023-12-03 18:18:31",
+                "replyContent": "use weight resize option, it does what you want exactly",
+                "repliedAt": "2023-12-03 18:19:18"
+            },
+            {
+                "reviewId": "f39785ca-26f4-4a63-9bdd-0fd446ceff98",
+                "userName": "Sourabh Srivatsa Kanukolanu",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLgjnEUPbXJiL9j2joafRYhHVM9Dp6myOUCbP6JEhx0bGY=mo",
+                "content": "Unbelievable app. My phone doesn't have the ability to automatically make the subject of the pic pop out by removing background using AI, but this thing does it so well. Thank you to the devs",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.4.2",
+                "at": "2023-12-02 17:32:21",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "29b48c44-9586-42d4-b8d8-120d5eab78f0",
+                "userName": "Piarul Islam Pias",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWWxYfOKmQldJlwlBvlpTFd46MrahfqrFiXQ3zcaVnFLcA",
+                "content": "I've been searching for this type of thing for years",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.4.2",
+                "at": "2023-12-02 14:57:14",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "93a0a470-f45f-439b-961d-e946bac9977b",
+                "userName": "Ramzan Afandi",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUFUgXcKWHH99593SSZcDUJostz2hngUTE5JJd86AFC0g",
+                "content": "my favorite app",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.4.2",
+                "at": "2023-12-02 04:53:36",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "dfc287b7-9854-4faf-affa-703bada523c7",
+                "userName": "Noor Khan",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKFsFpUKupBVn-r1_VYpQx-tavt622NFJDxeOpV8lVePf4=mo",
+                "content": "good",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.4.2",
+                "at": "2023-11-18 11:23:23",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "820e5788-690b-4908-963c-ed63cd6d51e9",
+                "userName": "Paulyne Odemba",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIACDdrCwDuPj84bg8kok9ZeBEGHhPqj37bZzKnuJBO=mo",
+                "content": "Love that it functions on android",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.4.2",
+                "at": "2023-11-13 12:05:30",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "bdc7e4a3-4019-49e5-acfd-c528266a56e6",
+                "userName": "miguel ray",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIfzdHAh6fr-5b8WjhgwMPNn6XfWcBXNTRsYz_zRYRw=mo",
+                "content": "great app",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.4.2",
+                "at": "2023-11-13 05:56:31",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "31ec1ccf-bc0e-4dc7-83bb-379c5ff17356",
+                "userName": "Abdullah Al Shaikh (Rahul)",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWFUW4Vov_9KpVsOGjD3ixFvPeUfCFmCU2Pu65MZ6177F0",
+                "content": "This app is really great!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.4.2",
+                "at": "2023-11-11 04:39:41",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "f14df53b-0ef4-4691-9ce7-06d88ce2a2a0",
+                "userName": "Nïloy Hossain",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjV9yfhs0qDbA0ksr-0S37STyn1ikn_yXV168s_L7mx2DLKl",
+                "content": "Great photo editing tool with a whole lot of versatility.",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "2.4.2",
+                "at": "2023-11-07 16:04:01",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "4efff07c-085e-424f-960b-e58ba84dca1b",
+                "userName": "Arbaj",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWD3iKgxmAQUCGabuEuJtmFciP0fHyNzfhtcwfj4Ovh8c8",
+                "content": "great app",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.4.2",
+                "at": "2023-11-07 01:15:48",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "e274e759-9fe6-4e44-b234-532e9df22296",
+                "userName": "Riaz Malik",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVa-g0H4x7gm_WDAbxGmn8r6al1nEy4EH1zwtElZpRaZVQ",
+                "content": "very usefull apps",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.4.2",
+                "at": "2023-11-05 19:02:08",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "b5e90a45-c693-4dcc-9348-025f7c807940",
+                "userName": "Mihad Hossain",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJCbGB8kkxCaPxlZur0lrETElnzSTfg2OeDz9JGBSAT=mo",
+                "content": "Best simple photo editor",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.4.2",
+                "at": "2023-11-05 11:47:11",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "22b59fba-273b-433d-9949-05ac5a4383d5",
+                "userName": "Husen Kasab",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocID9f6ibUBrzc1UwGVM0MESozz5e5ikqXQDLD6WiCLP=mo",
+                "content": "nice",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.4.2",
+                "at": "2023-11-04 16:29:31",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "c0767935-bf37-4a47-a1a5-9c7e720c21b1",
+                "userName": "Aamir Iqbal Sial",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWm8FAoJbDBzqVcuusPhYV4SkM8Cr7mQBoIIPWCMB47r7k",
+                "content": "nice app",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.4.2",
+                "at": "2023-11-03 02:50:45",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "2e6556fb-9881-45bc-86b3-916b4e35bc6e",
+                "userName": "Awad Alaa",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWYQTLLqzMna5-Wyel-AvjPAS0zDJWMEfi79XQXNh0lAig",
+                "content": "From the best app to edit photos and works flawlessly",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.4.2",
+                "at": "2023-11-01 17:45:00",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "f355627b-01ed-4e2f-93e5-47b615520194",
+                "userName": "Vicky kumar",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXIjQkVsii3Y1Zijo5RfOVJtbozOdHv8nQboC1Rec5Z-ac",
+                "content": "Resize and convert is not working app is crashing",
+                "score": 3,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.4.2",
+                "at": "2023-11-01 11:51:56",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "6a9002e3-7181-4745-8687-789cf9a70d29",
+                "userName": "Ashwin Sharma",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJJsIDovZT3a-kmA8QK82qna84SLupjFtwsGTLIPEUD5Q=mo",
+                "content": "If you could please introduce an Image Combiner tool inside this app that'll be of great help. By image combiner I mean the ability to merge/stitch two images into one single image. :) Edit: Thanks for taking my feedback into account. The image stitching tool works great! Good on you developer! 🌻",
+                "score": 5,
+                "thumbsUpCount": 8,
+                "reviewCreatedVersion": "2.4.2",
+                "at": "2023-10-31 07:06:50",
+                "replyContent": "Thanks for the idea, please, write it to the issue tracker, by this way i won't forget about it -&gt; https://github.com/T8RIN/ImageToolbox/issues",
+                "repliedAt": "2023-08-05 08:01:10"
+            },
+            {
+                "reviewId": "54d317c4-ae3b-4c55-929f-caf616e8827e",
+                "userName": "Mohan Kumar",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjU-0uUOzNCYPbEaO_2BgsKkWEW0w2rpogI9UKGnNnqq9m4",
+                "content": "Excellent App!🙂👍",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.4.2",
+                "at": "2023-10-31 05:47:05",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "37c3b3d7-89fb-4083-9548-239a3d050c27",
+                "userName": "Rami Markus Maunula",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjU1BAXQqLbX8_ZEfRDLowOCzXPEvKSDA6PBaiJ9WYpnl103",
+                "content": "Amazing UX!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.4.2",
+                "at": "2023-10-25 18:41:48",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "T8RIN-_-ImageResizer.json",
+        "published_at": "2023-10-17T17:01:18Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "T8RIN-_-ImageResizer.json",
+        "published_at": "2023-09-18T23:29:09Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "52121c81-2262-435c-9009-b2e5d2d5cb75",
+                "userName": "Assault Gallery",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUB7-2leUqr-8GZDOduQX8nAvoBmztDtgaKgs626gFXmg",
+                "content": "While Resizing Small Picture To Big Picture Its Nice But Big Picture To Small Picture It's Changing The Shape Of Objects And People In The Photo",
+                "score": 4,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.3.2",
+                "at": "2023-10-16 08:08:43",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "327222f0-f91f-48ca-aca2-4ac3b837011b",
+                "userName": "Michael",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWgDEBxFneKBv9p6_8FSaPiZBCZ1InJtZIzsTWLya9KYo4",
+                "content": "Brilliant app.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.3.2",
+                "at": "2023-10-16 03:16:48",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "1b0f0c9a-11a0-4bab-a7c4-73d5fb54ccf7",
+                "userName": "C. S.",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjV2IuuCNvkZo_r52oXxN8fBBQRG3JpgXsuYfVbeY6Rqnfs",
+                "content": "Very nice looking app, with useful tools.",
+                "score": 4,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.3.2",
+                "at": "2023-09-29 21:04:23",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "94143c89-b07e-42e5-be1a-5385585e9eb7",
+                "userName": "Fahmi Akbar Wildana (Mr. Wild)",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXXpZSetJd7D-kA3ld3TN26t_NVvv_L7wt24sbhUCiuqA",
+                "content": "No progress bar or spinner when saving",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.3.2",
+                "at": "2023-09-28 04:04:04",
+                "replyContent": "I know this is a bug that I already noticed and fixed, so you can wait for 2.3.3, no reason to give 1 star...(",
+                "repliedAt": "2023-09-28 03:37:20"
+            }
+        ]
+    },
+    {
+        "filename": "T8RIN-_-ImageResizer.json",
+        "published_at": "2023-08-28T17:15:38Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "ba357436-939a-4d9f-8d8b-f8b8eaf5b005",
+                "userName": "Egypt",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjU66XJ_XKVxwpbaRbmbB1lECxnMaaKXkah5pk9tA47o9J0",
+                "content": "Thanx for your response 👍 Background remover needs to be more accurate ( auto Background remover )",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.3.0",
+                "at": "2023-08-28 21:21:31",
+                "replyContent": "Thanks for using it! :)",
+                "repliedAt": "2023-08-28 21:23:17"
+            }
+        ]
+    },
+    {
+        "filename": "T8RIN-_-ImageResizer.json",
+        "published_at": "2023-07-19T22:09:34Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "c5e02499-3145-41c9-a980-33a1e4831490",
+                "userName": "Стой-стой ты что устроил Смотрим в оба",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocL0Gp-akve-tfO3g4qloUqx8UFPjp4g9SdPBI-4oLFD=mo",
+                "content": "Powerful and easy to use",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.2.0",
+                "at": "2023-08-29 07:54:47",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "12e73147-676e-4b55-b07e-278ccaa4a767",
+                "userName": "totu lotu",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVojAlSBKBHC8691Qg7_zrPg2yYX2g3pf1rZ6MSmUJmbM4",
+                "content": "It's such a beautiful open source app! Works like a charm and isn't overly complicated, many thanks to the Devs for making this :)",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.2.0",
+                "at": "2023-08-21 09:36:44",
+                "replyContent": "Thanks, new features like background erasing are coming 🐸",
+                "repliedAt": "2023-08-21 09:40:12"
+            }
+        ]
+    },
+    {
+        "filename": "T8RIN-_-ImageResizer.json",
+        "published_at": "2023-06-08T19:21:34Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "a32fce91-31a8-4c15-9c6c-e50bf2aa14f0",
+                "userName": "Alfaizkhan Pathan",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjX_RbnlDiEt5nO_2KFyGUQI99JqAhZuwf4X2-wKwo4K0RA",
+                "content": "Just love it.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.1.3",
+                "at": "2023-07-11 04:52:32",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "90a7c830-e24f-4412-aa77-39c6c472270a",
+                "userName": "Krishnakant",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXihBveUQC7P6dGzRN4EWNcbiJFdi35exE8hw67xbf8KGo",
+                "content": "Very nice app. I have a very nice idea. Add colour picker to the quick panel. So what it does it when the user clicks it, the app clicks a screenshot of the Current page on which user is. It helps many people like designers to find hex code easily.",
+                "score": 5,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "2.1.3",
+                "at": "2023-07-04 09:45:34",
+                "replyContent": "Added this in the last pre release in GitHub :) wait for the 2.2.0, it will be a BIG update",
+                "repliedAt": "2023-07-10 08:08:49"
+            },
+            {
+                "reviewId": "7dda551b-ddfb-48c3-9e40-23965a280350",
+                "userName": "Hareeshkar Ravi",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUlQGtYB9IuNGlPy1ruolmn2NT2goYG9IZo-xD3jQ-qyTQ",
+                "content": "Really nice app, I'm on Android 14 beta animations are little bit sturry(very little) please optimize it as native android apps kudos to the devolper great work",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.1.3",
+                "at": "2023-07-03 21:44:47",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "T8RIN-_-ImageResizer.json",
+        "published_at": "2023-06-06T17:31:36Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "T8RIN-_-ImageResizer.json",
+        "published_at": "2023-05-25T15:46:49Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "T8RIN-_-ImageResizer.json",
+        "published_at": "2023-05-13T16:08:49Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "0b274139-d6b6-4638-b540-4445f4a37d64",
+                "userName": "Andrew Nelson",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWIdoZ-pjiOzFP12h1tKUHQNcXGkTloBFgwB4osBwFP0jg",
+                "content": "This app is just amazing. It's very aesthetically pleasing, has very good features, open source too! I hope the future of this app gets more attention, it deserves it!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.0.4",
+                "at": "2023-05-16 20:15:12",
+                "replyContent": "Thanks!",
+                "repliedAt": "2023-05-17 03:56:53"
+            }
+        ]
+    },
+    {
+        "filename": "T8RIN-_-ImageResizer.json",
+        "published_at": "2023-05-11T18:28:47Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "T8RIN-_-ImageResizer.json",
+        "published_at": "2023-05-04T12:40:48Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "1ec3d1a8-ecdb-4a57-81a2-303a56ce69e8",
+                "userName": "Crafting World",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUv-qhYatwUY0I-4neXK7HrA8loST_KZqEW68fNkfOmJeI",
+                "content": "Useful app 👌.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.0.1",
+                "at": "2023-05-05 20:12:42",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "c3208290-caf6-4469-8b2f-a703bf735177",
+                "userName": "Manish Pandey",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVcbGdG4b8zyFCDApgb5SGptVrQv_1E9fO2YKgQdIVUKbA",
+                "content": "Clean",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.0.1",
+                "at": "2023-05-04 17:55:24",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "T8RIN-_-ImageResizer.json",
+        "published_at": "2023-04-30T07:35:52Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "T8RIN-_-ImageResizer.json",
+        "published_at": "2023-04-26T06:42:14Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "T8RIN-_-ImageResizer.json",
+        "published_at": "2023-04-25T07:46:56Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "T8RIN-_-ImageResizer.json",
+        "published_at": "2023-04-01T17:20:30Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "2a4740ba-5b40-4271-bc1a-c8b0d68ce41b",
+                "userName": "Jamie Bainbridge",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXzrYU5RPMC9VdGt5dl5qz1SrmUrAcMBk5DD28FBwVDG4r1",
+                "content": "Surprisingly hard to get this functionality on any other app, except ImageMagick on Termux. Neat additional features like Compare images. Would like the ability to specify resize method like Nearest or Bilinear, so pixel art stays sharp but photos look good too. Is there a way to edit the presets? I often want to make images like 200% or 400% not smaller.",
+                "score": 4,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.9.7",
+                "at": "2023-04-06 22:28:25",
+                "replyContent": "I can add this functionality in settings or on long tap in resize mode",
+                "repliedAt": "2023-04-17 07:22:12"
+            },
+            {
+                "reviewId": "23d21603-b734-4657-9157-5011c155d1d9",
+                "userName": "Rohan Gada",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVAA0SzcOOnRDI-Pnrm4s5VWwFpb6jAF_2XwrppOmKYM01P",
+                "content": "Can you copy all features of Photo Resizer app?",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.9.7",
+                "at": "2023-04-03 14:07:41",
+                "replyContent": "Which functions do you mean?",
+                "repliedAt": "2023-04-17 07:20:53"
+            }
+        ]
+    }
+]

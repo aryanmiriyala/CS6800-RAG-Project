@@ -1,0 +1,35 @@
+[
+    {
+        "filename": "viktorholk-_-push-notifications-api.json",
+        "published_at": "2023-08-19T22:30:56Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "viktorholk-_-push-notifications-api.json",
+        "published_at": "2022-01-04T18:32:15Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "2a7c5a4b-7cb3-4343-9fcb-b7f2057a2f44",
+                "userName": "Strkr One Customs llc",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjU3E9pdY8ioGxxiAWOk4JV48Z-4M3mHfH9dh4XAAmjDkEk",
+                "content": "A++ Perfect!",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.1.1",
+                "at": "2023-02-26 20:59:28",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "viktorholk-_-push-notifications-api.json",
+        "published_at": "2021-12-28T18:53:38Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "viktorholk-_-push-notifications-api.json",
+        "published_at": "2020-10-04T12:51:12Z",
+        "google_play_reviews": []
+    }
+]

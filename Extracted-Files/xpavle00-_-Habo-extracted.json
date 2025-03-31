@@ -1,0 +1,97 @@
+[
+    {
+        "filename": "xpavle00-_-Habo.json",
+        "published_at": "2023-08-21T19:46:10Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "6468c214-3f69-4e40-b78b-b47124860196",
+                "userName": "Halma Fadilah",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVUJNxfKc3p--Hq4b4335Uw4ZKLsvIXxfdOmuCOkntpI9w",
+                "content": "Simple App with easy features .luv it🤩",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.0.3",
+                "at": "2023-11-23 00:39:49",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "75cbdf9f-2e10-4411-95ef-5d195b3bfee8",
+                "userName": "fly together",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWaqea-VyTY-nvxumB1AiBYu_1Yov5cZODcHIHGLXddMLt0",
+                "content": "marvellous",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.0.3",
+                "at": "2023-10-27 14:53:07",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "5957e623-9952-4f2d-abfe-ae110485165c",
+                "userName": "Lucas Fog",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKRhBK-iBkLfgfv9Ugw1pPt6yLT_OKUuEYN_J7TLJCQog=mo",
+                "content": "(Edit: Change to 5 stars as the developer has implemented oled black theme! Absolute legend!) This is a great app! I'm glad I found it. It would be 5 stars if it had pure black dark mode. :)",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.0.3",
+                "at": "2023-08-23 16:53:29",
+                "replyContent": "Hi, please check the latest update in the store ;)",
+                "repliedAt": "2023-08-23 16:41:09"
+            }
+        ]
+    },
+    {
+        "filename": "xpavle00-_-Habo.json",
+        "published_at": "2023-04-21T16:09:02Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "1b652bbb-cd08-4dfd-a386-0fbc65c307af",
+                "userName": "Kinging George",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUyBjOjUL5YtU4yShzt4SVLc0bjvSDRk9kgBXMRDXdgCbU",
+                "content": "I Like it 👍",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.0.1",
+                "at": "2023-05-03 07:35:03",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "xpavle00-_-Habo.json",
+        "published_at": "2023-01-29T12:44:36Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "xpavle00-_-Habo.json",
+        "published_at": "2022-02-18T18:20:23Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "6f8778e9-ad6f-4255-9ce6-dea14c862278",
+                "userName": "Notta Chance",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIdmheGO3aMD4J3m9pqQBRyQxSY-tD-XY9Y76IGFYRnjQ=mo",
+                "content": "Well made, intuitive, and auditable. The fact that it's open source is great and its ease of use and sleek design is great. Some controls are less intuitive (like swiping down on a week to reveal the entire month) but all necessities are there and are doable. As far as I'm aware it's also ad-free (or ads are insanely unobtrusive and unnoticeable) which is great for such a good app!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.0.0",
+                "at": "2023-01-10 18:51:49",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "6c0676bd-b615-4706-b549-26a1c86d9d93",
+                "userName": "Manases Mutembei",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocINUfVW2JF2Edejs1kGavm_QY_qbx5Sz3k3V1YUz5LpVA=mo",
+                "content": "Fine",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.0.0",
+                "at": "2022-10-12 06:41:37",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    }
+]

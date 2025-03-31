@@ -1,0 +1,157 @@
+[
+    {
+        "filename": "otiv33-_-arso_app.json",
+        "published_at": "2023-08-18T17:05:31Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "d68467b2-a098-4f1d-a566-ae64ad0db5be",
+                "userName": "Martin Lukach",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWDl8z7oBuSmMhIaJCOnbajkbWvmYkIL7S5Ax6_6Ht_PHpE",
+                "content": "Dela v nulo! Dolgo je trajalo, da je to nekdo naredil. Nekako vključit še napoved za gore in bo mel najmanj vsak slovenc na telefonu ;)",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.0.3",
+                "at": "2023-09-25 21:19:56",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "3eb15b4b-71f7-471a-bf71-180961f01557",
+                "userName": "Tomaz Vaupotic",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWhgqzpdOegTpCKNmrBkF6UfXMC82txxkSEo-6rbqllMLc",
+                "content": "Odlična aplikacija za vreme v Sloveniji. Predlog: refresh gumb, ali pull to refresh.",
+                "score": 5,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "1.0.3",
+                "at": "2023-08-19 19:44:47",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "otiv33-_-arso_app.json",
+        "published_at": "2023-08-03T16:13:39Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "ae31d410-5e4d-4440-9d93-13a202045e19",
+                "userName": "Borut Slabe",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVHAGhfx69dDr5nmAXnQXXmwgC5ALyN8WihefGIRANtLDU",
+                "content": "Aplikacija deluje zelo hitro, kar je velik velik plus.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.0.2",
+                "at": "2023-06-27 06:54:19",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "eeb1b83c-c034-4d08-b12d-2ba88fb658f6",
+                "userName": "Jure Cehner",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIOc5IuMXDtLpc_SoTfc9Se0JsL7z-6Y8-mu31TSlIj=mo",
+                "content": "To, kar rabis.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.0.2",
+                "at": "2023-06-23 08:45:37",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "e116aa83-e69a-4716-8083-960791726c1e",
+                "userName": "G. Pernuš",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVgPaplMEUwoU3_1FdVv-QFYHjWKbKks3lalMgu3qsyda8",
+                "content": "Končno dobra slovenska aplikacija za vreme. Pogrešam edinole napoved v besedi.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.0.2",
+                "at": "2023-06-09 14:02:02",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "160083b0-2b51-4347-a0ae-7e45361a6667",
+                "userName": "E V",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjV1cIODG5CjXq3HVsNtNuyiMfwBBZez-nWljbXRUjNadI4O",
+                "content": "Izvrstna aplikacija. Deluje hitro in je lightweight. Za aplikacijo za vreme se mi zdijo widgeti precej pomembni, zato odbitek ene zvezdice :) Razumem pa, da gre za free aplikacijo brez reklam in kot taka dobi eno bonus zvezdico. Popravek: Aplikacija sedaj ponuja tudi widget! Tudi v sami aplikaciji je bilo kar nekaj posodobitev in je sedaj že precej kompletna. Resnično fantastičen projekt razvijalca, upam, da mu ARSO da kakšno nagrado!",
+                "score": 5,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "1.0.2",
+                "at": "2023-05-07 18:38:26",
+                "replyContent": "Hvala za povratno informacijo. V novi verziji je sedaj na voljo tudi widget.",
+                "repliedAt": "2023-05-07 18:28:03"
+            },
+            {
+                "reviewId": "953ba3a8-a614-446b-8ca2-42579b580bc2",
+                "userName": "Bungo Bungoski",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUktlwTJIwqGuh0oKKAH3rl4Fjo8GYmXL1lS9pzdBT0",
+                "content": "Super. Manjka mi samo ALADIN model, ostalo brez pripomb.",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.0.2",
+                "at": "2023-05-02 18:14:33",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "d5d482dd-59d7-45fe-8b87-387451e948b0",
+                "userName": "Bojo Recko",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIgN3lYdVVz0c3mDkYy6zxF7QRbzznBfDkk3AQq4LlF=mo",
+                "content": "Zelo pregledna in uporabna aplikacija",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.0.2",
+                "at": "2023-04-29 06:46:37",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "otiv33-_-arso_app.json",
+        "published_at": "2023-01-20T07:28:06Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "otiv33-_-arso_app.json",
+        "published_at": "2022-12-19T16:00:35Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "cbd31de9-2ab0-4507-9963-f209ebf0e035",
+                "userName": "Marko Hudnik",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVwjtEGXj45bQr0EFxVI1yMjmhUj-Jgzy2nVzpTcyzJOLI",
+                "content": "Dela super, fino bi bilo, če bi bilo možno tudi prebrati tekstovno napoved in videti radarsko sliko.",
+                "score": 4,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.0.0",
+                "at": "2022-12-14 21:51:42",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "f0f59606-bae3-4cf1-9e76-89f56c27136a",
+                "userName": "Domen Marinčič",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVxYsHiBFKoZ2BBlCUE0w17Pi5NaJBut507te0MzqEvvXE",
+                "content": "Dela hitreje kot spletna stran",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.0.0",
+                "at": "2022-12-05 10:00:14",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "51020eb3-b90c-4569-a219-ab27f1b50df9",
+                "userName": "Tomaž Perčič",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXNGI9qLkhmakpLNH9maFO6jsnLZoz5K5RSrobevR78u8SU",
+                "content": "Works perfectly.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.0.0",
+                "at": "2022-12-04 20:05:07",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    }
+]

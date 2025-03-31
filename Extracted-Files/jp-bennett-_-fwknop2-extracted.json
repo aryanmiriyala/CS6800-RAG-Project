@@ -1,0 +1,42 @@
+[
+    {
+        "filename": "jp-bennett-_-fwknop2.json",
+        "published_at": "2016-09-14T19:19:34Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "jp-bennett-_-fwknop2.json",
+        "published_at": "2016-02-03T20:07:28Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "19a2d746-94d1-4b1f-861a-7febe639c9b3",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "But doesn't detect OpenVPN client on Android. Why not make choose launching any app instead?",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.2.1",
+                "at": "2016-04-04 03:03:53",
+                "replyContent": "Glad it's useful for you!  We specifically support \"OpenVPN for Android\" because that app has a documented method to launch a specific connection.  We could add an option to launch an arbitrary app, but without support for specifying an action for that app to take.  Feel free to create a bug at https://github.com/oneru/fwknop2 to discuss further.",
+                "repliedAt": "2016-04-04 16:39:33"
+            },
+            {
+                "reviewId": "437cd100-7881-4a59-8293-d2c5d7824169",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Works like a charm.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.2.1",
+                "at": "2016-03-14 00:12:45",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "jp-bennett-_-fwknop2.json",
+        "published_at": "2015-08-05T05:19:15Z",
+        "google_play_reviews": []
+    }
+]

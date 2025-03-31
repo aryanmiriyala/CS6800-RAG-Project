@@ -1,0 +1,60 @@
+[
+    {
+        "filename": "Mosc-_-Glider.json",
+        "published_at": "2023-11-27T22:30:14Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "Mosc-_-Glider.json",
+        "published_at": "2023-11-15T20:52:10Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "Mosc-_-Glider.json",
+        "published_at": "2023-11-03T21:43:44Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "e2cfc829-a7ee-4d2e-80e1-2faf6a156057",
+                "userName": "Adam Marples",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUBbLuHvSwIH_NDLTQrqwCwGUiF9HnBruLJTDCgZ2Qs2dxx",
+                "content": "Was the best but the new design I can no longer figure out how to up vote or reply to comments",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.2.0",
+                "at": "2023-11-13 21:29:41",
+                "replyContent": "First, make sure you're logged in through the account page. If you are, long-press on comments to find the option to upvote or reply. Enable the \"action buttons\" setting to gain a quicker away to perform those actions.",
+                "repliedAt": "2023-11-13 21:35:47"
+            }
+        ]
+    },
+    {
+        "filename": "Mosc-_-Glider.json",
+        "published_at": "2023-10-25T19:13:57Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "63654d88-c028-4905-892f-3d2cba0bf078",
+                "userName": "Cheff Vortivask",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJ1VeYhw44pT_Yjh9EsIv5pwLtdzqCb_4rBWZtKQOz9=mo",
+                "content": "Thanks for the reply, i would still prefer it as a seperate option",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.1.0",
+                "at": "2023-11-03 22:57:33",
+                "replyContent": "As of v2.2.0, there is a setting for forcing dark mode available.",
+                "repliedAt": "2023-11-13 21:33:15"
+            },
+            {
+                "reviewId": "bbb419ac-be9e-43bb-8b58-2490baea026a",
+                "userName": "Sarthak Agrawal",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXrtHxv_CiI2wIjM1flXiNcq4yNjpuJBi9PqK-7taRuIAQ",
+                "content": "I love the redesign.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.1.0",
+                "at": "2023-10-30 12:39:54",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    }
+]

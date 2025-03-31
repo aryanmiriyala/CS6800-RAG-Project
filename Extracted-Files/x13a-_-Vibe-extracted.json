@@ -1,0 +1,44 @@
+[
+    {
+        "filename": "x13a-_-Vibe.json",
+        "published_at": "2022-07-10T04:59:58Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "bb39f0f3-c7b3-4173-80ed-c70b84ea1655",
+                "userName": "sumeet sanehi",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjV-D_7uldmegsWLVB_Ca14aFCWheviQ2pvpG9794cctdVk",
+                "content": "Great app working on pixel 7 pro.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.1.2",
+                "at": "2023-10-24 16:42:07",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "0b79f34d-7431-421b-ae83-2fce37591596",
+                "userName": "Ruben",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUIrNuzZWc5uH3rXcEVWm9ipqPXpFPFhVZzxYxquNA7my8",
+                "content": "Works on Pixel 5 running Android 13. Just make sure you have Touch Feedback enabled.",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.1.2",
+                "at": "2023-07-05 12:32:13",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "306a4329-6e98-4df1-83c6-a5b9c095b92b",
+                "userName": "Anudeep",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKXdmxDlHcT5nUcafe84ZYCMJnzJWuQ49HnFEjHDNjxFg=mo",
+                "content": "Does not work with Android 13",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.1.2",
+                "at": "2023-02-13 06:56:00",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "filename": "luke-c-_-Ikue.json",
+        "published_at": "2017-03-26T01:54:45Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "4a2a749f-a301-42b8-a546-d0a9e1d5014c",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Luke sucks",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "1.0.3",
+                "at": "2017-03-27 17:17:29",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    }
+]

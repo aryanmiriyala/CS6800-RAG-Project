@@ -1,0 +1,122 @@
+[
+    {
+        "filename": "andriydruk-_-BonjourBrowser.json",
+        "published_at": "2020-07-15T16:27:05Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "c01766c9-d1e9-463c-85df-84244f95779c",
+                "userName": "Giuliano Rescaldani",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJJiny5YdEWatM0pWijTC3j3RC4pAn9wXVsCzGcNvXQ=mo",
+                "content": "Just a rotating circle that turns forever. After 3 minutes no one server listed. Just updated to the new vrsion, as suggested by the developer, and now it works fine.",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "2.1.0",
+                "at": "2020-09-22 06:31:46",
+                "replyContent": "Hi, have you tried the latest update? It seems to fix the issue for many of our users. If it doesn't work for you, could you contact us at andriy.druk@gmail.com so that we can work together to figure it out?",
+                "repliedAt": "2020-09-21 22:19:58"
+            },
+            {
+                "reviewId": "ceca655a-7199-4756-88a2-ad674f744846",
+                "userName": "Audrius Karosevičius",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUG8s2pSZ29gNUECpHMkE2sHCQbMziV5mBP7uE7HvJLHzQ",
+                "content": "Works well. Simple and useful",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.1.0",
+                "at": "2020-08-29 14:23:15",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "andriydruk-_-BonjourBrowser.json",
+        "published_at": "2017-06-04T20:14:42Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "9c2baad9-255d-4d88-b29a-4d6a6b08f7ab",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Only discovered my Apple TV and none of my Sonoff devices. I have to use .home on my computer and not .local. Not sure if that m askes any difference.",
+                "score": 2,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.0.1",
+                "at": "2019-04-22 11:54:35",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "e4ba6b98-7ae4-4929-a702-0388c60b594a",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Does the job",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.0.1",
+                "at": "2019-04-13 23:08:11",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "e64ce0ba-5264-412d-9a10-783bbc9b7b3f",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "working",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "2.0.1",
+                "at": "2019-03-01 19:30:00",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "62b73004-47f1-4d1f-973c-65daa64a2403",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Thank you. Very well made and usable for some situations",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "2.0.1",
+                "at": "2018-07-27 20:32:52",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "24804317-5d82-44c9-aba5-2a2d8008b3f9",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Does its job perfectly.",
+                "score": 5,
+                "thumbsUpCount": 14,
+                "reviewCreatedVersion": "2.0.1",
+                "at": "2018-01-20 21:44:14",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "ef3a7ea9-09c6-4f56-996a-0c0af9a3fe5a",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Worked at the first time . esp8266 mdns checked",
+                "score": 5,
+                "thumbsUpCount": 11,
+                "reviewCreatedVersion": "2.0.1",
+                "at": "2017-07-18 19:37:54",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "f30dc2f1-fc68-45d3-b9eb-a1cd512ec3bb",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Great.  Thanks very much for the recommendation.",
+                "score": 5,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "2.0.1",
+                "at": "2017-06-09 23:08:24",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    }
+]

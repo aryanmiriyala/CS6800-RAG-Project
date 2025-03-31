@@ -1,0 +1,104 @@
+[
+    {
+        "filename": "qcasey-_-paperless_share.json",
+        "published_at": "2022-01-31T19:13:45Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "4548b09a-17fe-4b9d-a8e2-ba134fcfebb7",
+                "userName": "Freddy Grande",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjU05s5vBTGe0XlJhYN5Lt5-cUVwXuGoJ3wx9g2bYIlAzg",
+                "content": "Great simple app and does what it claims. Only seems to load the first 25 tags though?",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.1.4",
+                "at": "2023-07-06 00:21:51",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "bbc2ac17-7293-414d-959d-6d06dde18c41",
+                "userName": "Eoin Healy",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKr7ODKZ4nSCaO3SLYh-kyoXh1OYUXB4_by-vKqfdyF=mo",
+                "content": "Doesn't work on Android 12 - not added to share menu.",
+                "score": 1,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.1.4",
+                "at": "2022-07-09 14:05:25",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "22e6ff77-d9c8-4f24-be6d-dc413c4f32c6",
+                "userName": "Dominik",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKNm6r84rRYmlWpRghoJT2z7An2pDD2_L-0AzGWDDBp=mo",
+                "content": "Cannot connect to server using this app. No error. Just showing logging in.. Worked flawless before",
+                "score": 1,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.1.4",
+                "at": "2022-05-06 13:40:37",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "qcasey-_-paperless_share.json",
+        "published_at": "2021-04-21T18:50:08Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "590f6ee4-7a6a-4585-b857-102baf72c89f",
+                "userName": "J Reid",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXWWEWKdxqgWG7CWHnpZgvwELssWtnXPMHIJ-VJNu8xv1Is",
+                "content": "Can not get past login screen does not work",
+                "score": 1,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.0.6",
+                "at": "2021-09-12 11:59:00",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "597c9a60-63d4-4a6a-b439-fb5440429ef6",
+                "userName": "Maciej Grabowski",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjV7d-y_p2eglyZt3wErHqU_RSKpjRLyHKymYKIfMF7RY9Sk",
+                "content": "Nothing happens on login, probably fails silently on user provided Certificate Authority.",
+                "score": 1,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "1.0.6",
+                "at": "2021-08-19 20:08:45",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "e4295567-5d69-40a4-b941-ce8f44151af1",
+                "userName": "Master Lowry",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocItcObrik9gSW4cjbFBN5Iobwi8Ra99TkM53Km14o38=mo",
+                "content": "Integrates perfectly into my flow with Genius Scan an Paperless-NG!",
+                "score": 5,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "1.0.6",
+                "at": "2021-07-02 13:14:24",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "qcasey-_-paperless_share.json",
+        "published_at": "2020-12-15T02:35:23Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "9d5e57dc-63b7-46c6-ae09-056485954f25",
+                "userName": "Marshall Beeler",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXf4kyhZcHiCNojZj99VBajzJLBWTN2WpcLZpG4hvRjX7c",
+                "content": "Flawless. Works flawlessly with my home hosted paperless-ng container. Now I dont have to print stuff to scan, I can just share it with my instance. Beautiful. Thanks!",
+                "score": 5,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "1.0.5",
+                "at": "2021-01-07 23:28:20",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    }
+]

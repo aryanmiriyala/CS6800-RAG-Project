@@ -1,0 +1,32 @@
+[
+    {
+        "filename": "PierreBresson-_-Thinkerview.json",
+        "published_at": "2019-07-06T16:04:12Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "d6982d27-85a3-4f57-9723-c9afdee2ad45",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Buggé à mort. Mais le gros du travail est fait. A optimiser.",
+                "score": 4,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "2.2.0",
+                "at": "2019-10-14 20:24:37",
+                "replyContent": "Le problème a été corrigé dans la version 3.0.0 ;)",
+                "repliedAt": "2021-12-31 09:55:14"
+            },
+            {
+                "reviewId": "96f8458f-55cb-4530-9957-da6ee921a4bc",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Bonne application. La possibilité de télécharger seulement le podcast audio manque. Sinon l'appli aurait eu 5 étoiles.",
+                "score": 4,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "2.2.0",
+                "at": "2019-07-28 13:11:19",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    }
+]

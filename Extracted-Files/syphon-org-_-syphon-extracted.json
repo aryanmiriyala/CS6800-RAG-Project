@@ -1,0 +1,225 @@
+[
+    {
+        "filename": "syphon-org-_-syphon.json",
+        "published_at": "2022-04-07T01:28:16Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "625bf4a8-88ef-4da7-89bb-abec822ea317",
+                "userName": "Artex Jay",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXdkpxZbAJtODxXfMEeYM-qvyDZ9JNZbgo_bZZDmRB4mpw",
+                "content": "Decent looking app no way to verify your account once you've logged in however. Not seeing any prompts show up when attempting to verify. Also seperating groups/spaces from 1:1 chats would be also great.",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "0.2.13",
+                "at": "2022-05-28 08:36:52",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "syphon-org-_-syphon.json",
+        "published_at": "2022-03-23T02:08:52Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "syphon-org-_-syphon.json",
+        "published_at": "2022-02-25T22:42:52Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "c8d96047-fa3b-4225-8257-82ff346f4712",
+                "userName": "Matt",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVUXE-HHX1mgC2hpjyDbBIQXqSAGSHEpIG2HOGSNax-S_l8",
+                "content": "Can't even import keys... how is this privacy focused? Update: After the update adding key imports, my data won't persist and I've been having to reimport keys over and over. Bumped down to 1*.",
+                "score": 1,
+                "thumbsUpCount": 1,
+                "reviewCreatedVersion": "0.2.10",
+                "at": "2022-03-19 02:23:58",
+                "replyContent": "Thanks for your feedback! Key import and export has been added in recent releases. Would you mind trying the latest version? We're always open to further feedback in our support chat. You can open it by selecting \"Help\" in the top right menu in the app. Thanks for trying out Syphon!",
+                "repliedAt": "2022-03-18 19:58:50"
+            }
+        ]
+    },
+    {
+        "filename": "syphon-org-_-syphon.json",
+        "published_at": "2022-02-23T01:01:36Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "syphon-org-_-syphon.json",
+        "published_at": "2022-01-31T01:44:46Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "syphon-org-_-syphon.json",
+        "published_at": "2022-01-10T15:42:48Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "b39c32fd-1078-40fa-8b86-46a7e5557365",
+                "userName": "Mircea Filipescu (MirceaKitsune)",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjU3et_3vmDnSXKkjOXcp6ql_KftWA0obTznpQd2DJ-fYg",
+                "content": "Thank you for providing this very useful client for all devices! I have a now ancient Samsung Galaxy S3 which doesn't support Element, this was the only option available. Very minimal and efficient software and interface. Only issue I have with it is that I'm not able to verify the device after logging in: The desktop session tells me to accept the verification on the other device, yet no prompt ever show pops up in Syphon nor do I have this option in its device settings. Could you please fix this problem? Thanks.",
+                "score": 4,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "0.2.7",
+                "at": "2022-01-23 23:17:21",
+                "replyContent": "Thank you for your feedback! Interactive verification is not yet supported, but you can manually verify the Syphon session in Element by going to Settings → Security & Privacy → Sessions, and manually comparing fingerprints. Cross-device signing is planned for v0.3.0 and will make this process easier. Thanks for kind words and trying out Syphon! :)",
+                "repliedAt": "2022-03-18 20:17:54"
+            },
+            {
+                "reviewId": "3d0b08b9-d88d-45fd-8a87-479b40d4e498",
+                "userName": "Naveen",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjV5HNliQfvB_dN5Wkr0Jn4o2iadz4E9OyllovQbbNWQ6dI",
+                "content": "Clearly unfinished but have high hopes for this app to replace the even more broken elements matrix client",
+                "score": 3,
+                "thumbsUpCount": 0,
+                "reviewCreatedVersion": "0.2.7",
+                "at": "2022-01-14 02:34:49",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "syphon-org-_-syphon.json",
+        "published_at": "2021-12-27T17:22:03Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "syphon-org-_-syphon.json",
+        "published_at": "2021-11-17T02:02:55Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "syphon-org-_-syphon.json",
+        "published_at": "2021-10-28T02:18:59Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "syphon-org-_-syphon.json",
+        "published_at": "2021-09-20T13:50:39Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "9b51bcd4-55a7-47aa-936f-281c1988e6c8",
+                "userName": "DaddyHo H",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUHFZeVW9kOMU73ogAHPFivcAeAC4TvGmDVVERXhAFTOruH",
+                "content": "Can't login. Certificate verify failed ? ?",
+                "score": 3,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "0.1.14",
+                "at": "2021-10-15 22:13:25",
+                "replyContent": "Hey, thanks for trying out Syphon! Sorry for the trouble logging in. We've identified the issue and should have a fix out this weekend. Keep a look out version 0.2.1, it will have this fix included. Thanks again! :)",
+                "repliedAt": "2021-10-22 00:23:32"
+            }
+        ]
+    },
+    {
+        "filename": "syphon-org-_-syphon.json",
+        "published_at": "2021-08-21T23:09:45Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "syphon-org-_-syphon.json",
+        "published_at": "2021-07-05T13:13:36Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "771ce1cf-3b71-4aba-8897-07ede7eb5758",
+                "userName": "Sergio Esaú Arambula Durán",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVNIQYbDyNCjQFKQDxaAehOfLrsM7pY9jOy05u9MZM0eTZ_",
+                "content": "I love it, and it's future SMS integration entices me",
+                "score": 4,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "0.1.10",
+                "at": "2021-07-11 00:09:28",
+                "replyContent": null,
+                "repliedAt": "None"
+            },
+            {
+                "reviewId": "e37298ae-0965-46e8-890f-2cd31c97c4d4",
+                "userName": "Muhammad Anisur Rahman",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVP3Gv7Lf_iT04bSxb0rE6upSd7RUfNk7d_4F3X3JMacqU",
+                "content": "Great. Need a option to send a file.",
+                "score": 5,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "0.1.10",
+                "at": "2021-07-09 13:15:19",
+                "replyContent": "Thank you for your kind review! Multimedia messages have been implemented in a recent release. Would you mind trying out the latest version? We're always open to feedback in our support chat. You can open it by selecting \"Help\" in the top right menu in Syphon. Thanks again for trying out Syphon!",
+                "repliedAt": "2022-03-18 20:35:55"
+            }
+        ]
+    },
+    {
+        "filename": "syphon-org-_-syphon.json",
+        "published_at": "2021-06-26T11:24:58Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "syphon-org-_-syphon.json",
+        "published_at": "2021-06-01T23:28:43Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "syphon-org-_-syphon.json",
+        "published_at": "2021-03-21T23:37:57Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "67d633fc-eaf4-4f0c-b473-46a6f71cfe4f",
+                "userName": "Benjamin Osenbach",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjU0W8R-msFG13Vcs1FIBJ9bExrABhL7rSUGYBSOsxb2q2w",
+                "content": "Well-designed and upfront about alpha status/missing features",
+                "score": 4,
+                "thumbsUpCount": 6,
+                "reviewCreatedVersion": "0.1.7",
+                "at": "2021-05-02 19:48:09",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "syphon-org-_-syphon.json",
+        "published_at": "2021-01-30T03:26:55Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "dad522c4-4683-4216-9c4c-9a1864cfa434",
+                "userName": "Nick Cipriani",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWlXjL6x9ILabUwuIpbpv70mokoVbEaALcOPRO5MNQRftU9",
+                "content": "Excited for the future of this app; love the customization options and hope to see it leave alpha some day.",
+                "score": 5,
+                "thumbsUpCount": 4,
+                "reviewCreatedVersion": "0.1.6",
+                "at": "2021-02-13 22:04:34",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "syphon-org-_-syphon.json",
+        "published_at": "2020-12-16T02:52:24Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "a8180352-a7c7-4fce-b0d7-3dc110ede745",
+                "userName": "Myslav",
+                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKCZxdbwn89MGeH4G2XmUmuQSPLXAsnenWosRCowvW0=mo",
+                "content": "Cant connect an existing account on private server..",
+                "score": 3,
+                "thumbsUpCount": 2,
+                "reviewCreatedVersion": "0.1.5",
+                "at": "2021-01-29 22:32:42",
+                "replyContent": null,
+                "repliedAt": "None"
+            }
+        ]
+    },
+    {
+        "filename": "syphon-org-_-syphon.json",
+        "published_at": "2020-10-29T03:10:13Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "syphon-org-_-syphon.json",
+        "published_at": "2020-07-20T13:37:28Z",
+        "google_play_reviews": []
+    }
+]

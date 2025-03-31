@@ -1,0 +1,115 @@
+[
+    {
+        "filename": "communitymedia-_-mediaphone.json",
+        "published_at": "2022-06-29T12:48:19Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "communitymedia-_-mediaphone.json",
+        "published_at": "2022-02-16T17:12:56Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "communitymedia-_-mediaphone.json",
+        "published_at": "2021-04-15T15:37:59Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "communitymedia-_-mediaphone.json",
+        "published_at": "2021-02-01T14:34:36Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "dcb261cc-f4f7-4070-99e6-6f0c07f90961",
+                "userName": "Vizi Talks",
+                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWOF-EkHLZpY8_TU-NV6xO5zVmUTjdn4K5rsowGmwbDCyQ",
+                "content": "Superb in simplicity and ease of use.",
+                "score": 5,
+                "thumbsUpCount": 5,
+                "reviewCreatedVersion": "1.6.5",
+                "at": "2021-02-26 06:11:42",
+                "replyContent": "Thank you for using Com-Phone - it's always great to hear from people who find it useful. Kind regards, Simon",
+                "repliedAt": "2021-02-26 09:01:49"
+            }
+        ]
+    },
+    {
+        "filename": "communitymedia-_-mediaphone.json",
+        "published_at": "2020-12-12T14:41:54Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "communitymedia-_-mediaphone.json",
+        "published_at": "2020-10-14T07:55:11Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "communitymedia-_-mediaphone.json",
+        "published_at": "2020-03-04T16:22:16Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "communitymedia-_-mediaphone.json",
+        "published_at": "2020-02-27T16:06:44Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "communitymedia-_-mediaphone.json",
+        "published_at": "2018-06-01T08:03:06Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "communitymedia-_-mediaphone.json",
+        "published_at": "2018-04-03T12:12:49Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "communitymedia-_-mediaphone.json",
+        "published_at": "2018-03-30T08:19:53Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "communitymedia-_-mediaphone.json",
+        "published_at": "2018-01-26T10:25:13Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "communitymedia-_-mediaphone.json",
+        "published_at": "2017-07-19T15:43:13Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "communitymedia-_-mediaphone.json",
+        "published_at": "2017-05-23T17:16:38Z",
+        "google_play_reviews": []
+    },
+    {
+        "filename": "communitymedia-_-mediaphone.json",
+        "published_at": "2016-11-04T10:05:37Z",
+        "google_play_reviews": [
+            {
+                "reviewId": "e867b103-57dd-46a0-8904-2d2403ca002f",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "Doesn't work........",
+                "score": 1,
+                "thumbsUpCount": 3,
+                "reviewCreatedVersion": "1.4",
+                "at": "2017-04-05 16:59:48",
+                "replyContent": "Hi there - sorry to hear you've been having problems. Please could you give me a little more detail about what doesn't work, so I can try to fix the issue for you?\nRegards,\nSimon",
+                "repliedAt": "2017-04-21 12:39:41"
+            },
+            {
+                "reviewId": "736369a2-ed6a-4141-b76e-9138a9dcd856",
+                "userName": "A Google user",
+                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
+                "content": "No multi photo selection system",
+                "score": 1,
+                "thumbsUpCount": 9,
+                "reviewCreatedVersion": "1.4",
+                "at": "2017-01-20 15:19:29",
+                "replyContent": "Hi Nilutpal – thanks for your review. The latest version of Com-Phone (v1.4.1, released today) supports multi-photo selection. If you get chance, please take a look and see whether this update supports what you were trying to do. Any problems, please get in touch.\nRegards,\nSimon",
+                "repliedAt": "2017-05-23 17:44:58"
+            }
+        ]
+    }
+]
