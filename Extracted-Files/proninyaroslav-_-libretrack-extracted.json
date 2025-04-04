@@ -1,20 +1,3 @@
-[
-    {
-        "filename": "proninyaroslav-_-libretrack.json",
-        "published_at": "2021-08-24T15:47:20Z",
-        "google_play_reviews": [
-            {
-                "reviewId": "c0697104-2cc7-4f74-a2cd-a3a1b897a5c0",
-                "userName": "Gavin John",
-                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKgoGBNeRp-UkYXuWXUlgaY15HbXtY1v67e16k689WB=mo",
-                "content": "The buttons don't work 90% of the time. I can see that they are being clicked, but they aren't doing anything. It took 6 tries of clearing app data until I could enter my USPS API Key. And when I added my package--\"A hard error has occured, tracking stopped. Please check details inside\", except I can't click to see the details. EDIT: Can now see details. Needed to contact USPS to activate the trackV2 API--this step was not listed. Will wait and see if this works.",
-                "score": 1,
-                "thumbsUpCount": 0,
-                "reviewCreatedVersion": "1.3.0",
-                "at": "2023-08-24 16:15:02",
-                "replyContent": null,
-                "repliedAt": "None"
-            }
-        ]
-    }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:a6e526643976716dfa37e5fd5db06e8bff7299409ec0afb53f6eb00b4b5047f0
+size 1156

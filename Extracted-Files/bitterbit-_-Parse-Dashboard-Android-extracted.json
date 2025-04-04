@@ -1,32 +1,3 @@
-[
-    {
-        "filename": "bitterbit-_-Parse-Dashboard-Android.json",
-        "published_at": "2019-03-31T07:03:44Z",
-        "google_play_reviews": [
-            {
-                "reviewId": "dcf80ecb-1d4a-4c58-9573-b017ba457bfc",
-                "userName": "Mehrnoosh Shabani",
-                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVoXJU8VZxcf1-JQcmWO-7HPPfkigFrJrsXZiCkap-mZDk",
-                "content": "Mobile UX is not good",
-                "score": 3,
-                "thumbsUpCount": 0,
-                "reviewCreatedVersion": "1.2.1",
-                "at": "2022-10-30 03:49:22",
-                "replyContent": null,
-                "repliedAt": "None"
-            },
-            {
-                "reviewId": "70704b7c-a5f3-428d-8f54-69300f366f8d",
-                "userName": "A Google user",
-                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
-                "content": "It says: error fetching schemas. i/o failure",
-                "score": 3,
-                "thumbsUpCount": 4,
-                "reviewCreatedVersion": "1.2.1",
-                "at": "2020-02-15 11:47:28",
-                "replyContent": null,
-                "repliedAt": "None"
-            }
-        ]
-    }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:697b3b33b0e0099384cb0e67d7a91de4d525d3aed4386ba44f5c1e8f4ed2b505
+size 1326

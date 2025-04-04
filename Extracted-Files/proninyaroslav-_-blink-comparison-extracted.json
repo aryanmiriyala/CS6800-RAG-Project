@@ -1,20 +1,3 @@
-[
-    {
-        "filename": "proninyaroslav-_-blink-comparison.json",
-        "published_at": "2022-03-05T10:15:14Z",
-        "google_play_reviews": [
-            {
-                "reviewId": "3c3ded6d-9097-417f-8049-4dd3b8000292",
-                "userName": "Stefan Llabres",
-                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIqZ821KqxmC9BGlJkuiV1PidGH2ObrnrIdS3SUV4M=mo",
-                "content": "Good idea to support the comparison of images with an app. With an pixel3 it was quite complicated to allign the photos as the camera is constantly adjusting the orientation. Probably there is an option to tell the camera not to stabilize? Thanks for the app!",
-                "score": 5,
-                "thumbsUpCount": 0,
-                "reviewCreatedVersion": "1.1.1",
-                "at": "2022-07-14 18:20:13",
-                "replyContent": null,
-                "repliedAt": "None"
-            }
-        ]
-    }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:b868153597ee4b6b51d8907da7ff7c0fe6046051a63768ab83c2326e82f9dbca
+size 955

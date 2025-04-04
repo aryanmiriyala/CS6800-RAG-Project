@@ -1,20 +1,3 @@
-[
-    {
-        "filename": "halfhp-_-androidplot.json",
-        "published_at": "2022-08-01T01:22:52Z",
-        "google_play_reviews": [
-            {
-                "reviewId": "f380d867-58cc-46d6-89d3-c910e73c380b",
-                "userName": "Victorino Ken Dänté Master",
-                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVj69dWJaSG1Yq11fMeFMX9ElLwHwclHC9t_dJkXjz51_U",
-                "content": "Really cool how the app shows real time demo display",
-                "score": 5,
-                "thumbsUpCount": 0,
-                "reviewCreatedVersion": "1.5.10",
-                "at": "2023-09-24 14:49:46",
-                "replyContent": null,
-                "repliedAt": "None"
-            }
-        ]
-    }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:b3a58a51ca11b993ab6f052b38351807ad3e8cca15da320694095a78c0b028d2
+size 752

@@ -1,17 +1,3 @@
-[
-    {
-        "filename": "asafonov-_-blockbuster.apk.json",
-        "published_at": "2022-12-09T15:12:26Z",
-        "google_play_reviews": []
-    },
-    {
-        "filename": "asafonov-_-blockbuster.apk.json",
-        "published_at": "2021-01-25T09:43:01Z",
-        "google_play_reviews": []
-    },
-    {
-        "filename": "asafonov-_-blockbuster.apk.json",
-        "published_at": "2020-07-24T10:53:08Z",
-        "google_play_reviews": []
-    }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:709c082bf6c2cab91bc194f553ab8fc3af1a18ee36e3e367279aef615e9c2ed8
+size 452

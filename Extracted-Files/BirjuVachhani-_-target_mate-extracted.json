@@ -1,25 +1,3 @@
-[
-    {
-        "filename": "BirjuVachhani-_-target_mate.json",
-        "published_at": "2023-09-04T14:38:45Z",
-        "google_play_reviews": [
-            {
-                "reviewId": "297e1967-c290-4625-8ff5-870401e1b7a9",
-                "userName": "Ismail Moufid",
-                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWCTNWuHSgsFQIb493vUfiFzHceek_4cX48VEfNEiY9BrY",
-                "content": "Really helpful!",
-                "score": 5,
-                "thumbsUpCount": 0,
-                "reviewCreatedVersion": "0.6.6",
-                "at": "2023-11-11 09:54:54",
-                "replyContent": null,
-                "repliedAt": "None"
-            }
-        ]
-    },
-    {
-        "filename": "BirjuVachhani-_-target_mate.json",
-        "published_at": "2023-06-08T17:56:15Z",
-        "google_play_reviews": []
-    }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f0a6e7be594dc05d1ae5f4ba832156c3cba7d1b399451fc2148c957bfcdfc77
+size 857

@@ -1,20 +1,3 @@
-[
-    {
-        "filename": "igrek51-_-android-songbook.json",
-        "published_at": "2023-05-23T13:29:27Z",
-        "google_play_reviews": [
-            {
-                "reviewId": "c1afcfe4-efa3-4b4a-8cca-460353b4adbb",
-                "userName": "Ali Naaz Abdul Raheem",
-                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVDl3vJQ-BcBasERG0_goz8lsrLNZS6qtsuk3SuIrO1Sw",
-                "content": "Very helpful app for my gig",
-                "score": 5,
-                "thumbsUpCount": 0,
-                "reviewCreatedVersion": "v1.24.1",
-                "at": "2022-05-22 14:52:29",
-                "replyContent": null,
-                "repliedAt": "None"
-            }
-        ]
-    }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:25d43acaf7a948f5295c413830f87599b06615d0b70bf708025e9cf86f277010
+size 726

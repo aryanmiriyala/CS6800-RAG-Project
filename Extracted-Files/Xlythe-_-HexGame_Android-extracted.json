@@ -1,32 +1,3 @@
-[
-    {
-        "filename": "Xlythe-_-HexGame_Android.json",
-        "published_at": "2022-09-06T15:05:58Z",
-        "google_play_reviews": [
-            {
-                "reviewId": "6238808e-f38c-489c-9698-104de737d00d",
-                "userName": "Helen Jones",
-                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjX1JNXCwi0xaqoicg6HCNX046OJ2feKPPxSAkcyHg49NQ",
-                "content": "Won't open just crashes",
-                "score": 1,
-                "thumbsUpCount": 0,
-                "reviewCreatedVersion": "5.1.1",
-                "at": "2023-11-28 06:31:56",
-                "replyContent": null,
-                "repliedAt": "None"
-            },
-            {
-                "reviewId": "0e63ab24-4612-4a17-9875-c6ad51af857b",
-                "userName": "Andrew Smith",
-                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjURkzYgklfsTNoivO9iBq29nllrOFPLsOxBZUGQ0KHbByk",
-                "content": "Instantly crashes",
-                "score": 1,
-                "thumbsUpCount": 1,
-                "reviewCreatedVersion": "5.1.1",
-                "at": "2023-03-24 17:48:29",
-                "replyContent": null,
-                "repliedAt": "None"
-            }
-        ]
-    }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:74a6e3542ec19699c12414462b54febe88c90d52722733631286a2007de315b7
+size 1254

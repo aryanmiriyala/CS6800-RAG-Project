@@ -1,20 +1,3 @@
-[
-    {
-        "filename": "Px3XjG6P-_-NetflixtoIMDb.json",
-        "published_at": "2021-05-06T14:18:37Z",
-        "google_play_reviews": [
-            {
-                "reviewId": "cb71d7de-24a0-4caf-9a01-0635b4e40431",
-                "userName": "André Levy",
-                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVJPrCem8ala8eAe0e4jrVF_T3feJpnaZ53P4jhGethjEKu",
-                "content": "It's ok. It takes quite a few clicks to get from A (Netflix) to (IMD) B, but it does. Sometimes it's just easier typing it out on IMDb. I wonder if instead of IMDb's own internal search the app used a generic search engine with an 'I'm feeling lucky' sort of feature (like DDG, or Google even), querying not only the title but also the year, whether it could send us straight to the right movie/TV page.",
-                "score": 3,
-                "thumbsUpCount": 0,
-                "reviewCreatedVersion": "5.1",
-                "at": "2022-04-03 12:34:20",
-                "replyContent": null,
-                "repliedAt": "None"
-            }
-        ]
-    }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d07a2b1cd847d56828e2180aae2735b6d8a0589528e0b67d31c493c5c6f782b
+size 1088

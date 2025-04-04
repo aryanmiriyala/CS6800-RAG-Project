@@ -1,20 +1,3 @@
-[
-    {
-        "filename": "AndreMiras-_-QrScan.json",
-        "published_at": "2020-05-28T21:32:21Z",
-        "google_play_reviews": [
-            {
-                "reviewId": "8c2fe876-7623-4298-9626-cee6063dc662",
-                "userName": "Huitao Liu",
-                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocInhdkAYU3XvePKnoqschoLxnZI839P3nV8RZO_Rz_v=mo",
-                "content": "No ads, great speed! You will like it!",
-                "score": 5,
-                "thumbsUpCount": 0,
-                "reviewCreatedVersion": "2020.0528",
-                "at": "2021-07-17 13:42:24",
-                "replyContent": "Thank you Huitao Liu for your kind review.\nIt means a lot to me as I developed this application for free during my spare time",
-                "repliedAt": "2021-07-17 20:59:51"
-            }
-        ]
-    }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:be2ae571a24e72b928a780f8c2df8249d5548c81f3c026bb6948a6a90b6e01e5
+size 860

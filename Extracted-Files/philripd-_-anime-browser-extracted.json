@@ -1,20 +1,3 @@
-[
-    {
-        "filename": "philripd-_-anime-browser.json",
-        "published_at": "2022-06-06T05:25:13Z",
-        "google_play_reviews": [
-            {
-                "reviewId": "92e2fe08-8677-41a4-97fc-f39cabcfcd23",
-                "userName": "DaveAllStars",
-                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVY0t7YEMJYCm3tQDLPcQW9CPjYK4KDPY5lAOrVjNbQukI",
-                "content": "I hate it there's 100s if not thousands of animes and it makes me scroll through a small box to find it and the movies and seasons aren't even with it",
-                "score": 1,
-                "thumbsUpCount": 0,
-                "reviewCreatedVersion": "1.2.0",
-                "at": "2023-07-02 15:50:54",
-                "replyContent": null,
-                "repliedAt": "None"
-            }
-        ]
-    }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed07dd8fe85b38117ce9891ca237258f890f9a8dbb526b83c379232d15b9f5b4
+size 837

@@ -1,20 +1,3 @@
-[
-    {
-        "filename": "alan-lam-_-Notification-Reminder.json",
-        "published_at": "2019-04-12T05:51:57Z",
-        "google_play_reviews": [
-            {
-                "reviewId": "6c26ead0-0166-41fd-b015-18a7caec09f3",
-                "userName": "Tᴜʟᴩᴀ Oᴍᴇɢᴀ",
-                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJyO7qbevCT6kqQwbzOJZr4NJ8PVTe7T9mt2Y_mbFa96bc=mo",
-                "content": "Just needs a pure black theme to be near-perfect!!!",
-                "score": 5,
-                "thumbsUpCount": 0,
-                "reviewCreatedVersion": "1.2",
-                "at": "2021-08-07 14:53:56",
-                "replyContent": null,
-                "repliedAt": "None"
-            }
-        ]
-    }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:6f38ccafea08bb723e7cbfbac608ffedfabccd01b9e782d3d996bf8c71c22ee4
+size 759

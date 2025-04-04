@@ -1,20 +1,3 @@
-[
-    {
-        "filename": "AlienKevin-_-wordshk_app.json",
-        "published_at": "2022-08-15T22:39:58Z",
-        "google_play_reviews": [
-            {
-                "reviewId": "38126205-ebfe-4fa9-8b08-a5ee9a22aafb",
-                "userName": "Matt",
-                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUAWwlVcy_o8ngf2OaNzEdnJhH_7xWBK3YAWCzOv9DOR7c",
-                "content": "Very comprehensive Cantonese dictionary don't know what I would do without it.",
-                "score": 5,
-                "thumbsUpCount": 0,
-                "reviewCreatedVersion": "2.1.1",
-                "at": "2022-12-05 09:42:06",
-                "replyContent": "Thanks for using words.hk! We are a crowd-sourced dictionary maintained by volunteers. Currently, there are 56,373 entries in the online version but only 13,732 are deemed fit to be published. If you see any grammatical errors in the English translations or some of the explanations don't make sense, feel free to edit on words.hk!",
-                "repliedAt": "2022-12-26 01:21:02"
-            }
-        ]
-    }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:b2f7f6830ac554e819e9fb6f214677044ad665fbd23abfeadbb4310dc0be92dc
+size 1101

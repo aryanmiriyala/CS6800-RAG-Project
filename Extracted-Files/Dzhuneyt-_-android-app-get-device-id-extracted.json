@@ -1,32 +1,3 @@
-[
-    {
-        "filename": "Dzhuneyt-_-android-app-get-device-id.json",
-        "published_at": "2019-04-07T14:22:01Z",
-        "google_play_reviews": [
-            {
-                "reviewId": "a0d7bf3b-7acd-4b6f-8392-e0a258961083",
-                "userName": "Hasan Rahal",
-                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKpcKH6ARrfojSKncgMj6XDg8LqeO0c14Lr74gWAIa0=mo",
-                "content": "Nooooo raly",
-                "score": 1,
-                "thumbsUpCount": 2,
-                "reviewCreatedVersion": "3",
-                "at": "2022-04-02 20:16:20",
-                "replyContent": null,
-                "repliedAt": "None"
-            },
-            {
-                "reviewId": "84262eb6-fe5c-4bc5-b38f-74e5f6dd3b8f",
-                "userName": "diego zepeda",
-                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjWQlR97MX4X9dweF3N_avOaUnZdaEtNl_R0YJvlNvUHZzE",
-                "content": "es muy buena la app ll..............................................................................................................................................................................................................................................................................................................................................................................................................................................................................................",
-                "score": 5,
-                "thumbsUpCount": 9,
-                "reviewCreatedVersion": "3",
-                "at": "2022-03-14 01:22:36",
-                "replyContent": null,
-                "repliedAt": "None"
-            }
-        ]
-    }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:337968685017229f8b6b2c22e6ca27cba9331038820ae983d3f1c09bce6c745c
+size 1729

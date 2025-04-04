@@ -1,17 +1,3 @@
-[
-    {
-        "filename": "binary-kitchen-_-doorlock-app.json",
-        "published_at": "2018-12-03T22:35:43Z",
-        "google_play_reviews": []
-    },
-    {
-        "filename": "binary-kitchen-_-doorlock-app.json",
-        "published_at": "2018-10-07T03:02:12Z",
-        "google_play_reviews": []
-    },
-    {
-        "filename": "binary-kitchen-_-doorlock-app.json",
-        "published_at": "2018-09-16T15:35:14Z",
-        "google_play_reviews": []
-    }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:f06feecdd8871ff24eb7f9d17364ee9a2cdd386735d5ac757f6cc47a274cb7b0
+size 461

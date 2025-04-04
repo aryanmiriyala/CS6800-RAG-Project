@@ -1,35 +1,3 @@
-[
-    {
-        "filename": "SecUSo-_-privacy-friendly-backup.json",
-        "published_at": "2022-07-29T11:08:28Z",
-        "google_play_reviews": [
-            {
-                "reviewId": "e38ef715-4ce7-4023-b461-5010a1e9b45b",
-                "userName": "Kalyani G",
-                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJZlyCPtLCDrIpYzstcyTFitc8jm3WqWoupHNVV-S1J=mo",
-                "content": "My device is running on Android 9 and I tried to backup notes, no matter how many times I try, the backup was never successful. Update 1: Thanks for your response. My issue has been resolved. I kept the Notes app running in the background and used Backup application to backup notes data and it was succeeded. Thanks team for such a great app.",
-                "score": 5,
-                "thumbsUpCount": 0,
-                "reviewCreatedVersion": "1.3",
-                "at": "2023-06-28 19:14:37",
-                "replyContent": "If you wish, you can reach out to us at pfa@secuso.org. That way we may be able to provide you more tailored help. If you reach out please provide us with a bit more information on which version of the apps you are running, where you downloaded them and maybe a screenshot of the error message.",
-                "repliedAt": "2023-06-13 11:47:04"
-            }
-        ]
-    },
-    {
-        "filename": "SecUSo-_-privacy-friendly-backup.json",
-        "published_at": "2021-10-22T09:33:17Z",
-        "google_play_reviews": []
-    },
-    {
-        "filename": "SecUSo-_-privacy-friendly-backup.json",
-        "published_at": "2021-07-15T14:43:28Z",
-        "google_play_reviews": []
-    },
-    {
-        "filename": "SecUSo-_-privacy-friendly-backup.json",
-        "published_at": "2021-01-27T21:27:01Z",
-        "google_play_reviews": []
-    }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:4807e804aee45cec5597bbe5481e0d9a234a3c8c7c13757b929e6201758c5dc1
+size 1807

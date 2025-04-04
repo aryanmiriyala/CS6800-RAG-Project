@@ -1,20 +1,3 @@
-[
-    {
-        "filename": "flex3r-_-DankChat.json",
-        "published_at": "2020-06-24T19:47:23Z",
-        "google_play_reviews": [
-            {
-                "reviewId": "578faf4d-bc95-4a91-bd27-0336bc85b3f8",
-                "userName": "Aaron",
-                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUR56wbwO0i1JnLBZ2YBwCcjFiGOl6vPLWoJbQ2dec1eyen",
-                "content": "FeelsOkayMan 👍",
-                "score": 4,
-                "thumbsUpCount": 0,
-                "reviewCreatedVersion": "3.8.7",
-                "at": "2023-12-07 07:01:15",
-                "replyContent": null,
-                "repliedAt": "None"
-            }
-        ]
-    }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:a7744080df374f3f02e8ff06efea86d9aedab79b5df71de2955f2b59f2a86070
+size 691

@@ -1,20 +1,3 @@
-[
-    {
-        "filename": "sarthakpranesh-_-PlantRecog.json",
-        "published_at": "2022-12-11T07:16:59Z",
-        "google_play_reviews": [
-            {
-                "reviewId": "18a67fcf-d53e-4bb2-b39d-8d094520a306",
-                "userName": "Vishal Jadhav",
-                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocIHDXb0mhA6JSXuzrhU2_sVJ1msumjCiY66OB9U_GQe=mo",
-                "content": "Good",
-                "score": 5,
-                "thumbsUpCount": 0,
-                "reviewCreatedVersion": "1.4.1",
-                "at": "2022-12-17 05:45:28",
-                "replyContent": null,
-                "repliedAt": "None"
-            }
-        ]
-    }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f474f316d4ab83f12461be078939ab25362df4818dd8abc043f8885f3db9599
+size 694

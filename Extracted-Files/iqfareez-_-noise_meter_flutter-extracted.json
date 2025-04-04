@@ -1,20 +1,3 @@
-[
-    {
-        "filename": "iqfareez-_-noise_meter_flutter.json",
-        "published_at": "2021-06-10T14:20:28Z",
-        "google_play_reviews": [
-            {
-                "reviewId": "4b102606-4852-4b82-b08d-b22126e9b001",
-                "userName": "Oleg Gusev",
-                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXbsIQR8emlEHtaJphaxGEwa2pXGswH8XVaxEpvv3JED5e6",
-                "content": "Free, no ads, straight to the purpose. Thank you!",
-                "score": 5,
-                "thumbsUpCount": 0,
-                "reviewCreatedVersion": "1.1.0-f",
-                "at": "2023-02-19 16:47:18",
-                "replyContent": null,
-                "repliedAt": "None"
-            }
-        ]
-    }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:8b87cf61c86e4bbe23f842fa8072781d9a3dbc65430596ac25b4c5cbcfcb55da
+size 743

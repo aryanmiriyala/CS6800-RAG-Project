@@ -1,20 +1,3 @@
-[
-    {
-        "filename": "shlusiak-_-Freebloks-Android.json",
-        "published_at": "2020-08-27T00:24:05Z",
-        "google_play_reviews": [
-            {
-                "reviewId": "fc416d82-7dce-42df-9ddd-44d892336318",
-                "userName": "Abigail Wilkinson",
-                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJI5beJjj1-RdTB3CqRihWQqz3M72jPSqi-SINRFCao=mo",
-                "content": "I really like this game! Played it first as a board game, i enjoyed it so much and thought i needed practice. Thought its really useful when you turn the table to see you opponents potential moves.",
-                "score": 5,
-                "thumbsUpCount": 8,
-                "reviewCreatedVersion": "1.2.9",
-                "at": "2020-09-01 06:53:56",
-                "replyContent": null,
-                "repliedAt": "None"
-            }
-        ]
-    }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:751e51d3896036482f18a3dd2281d90dd1ff1b57151e6b7ac7461a555ad7f9eb
+size 892

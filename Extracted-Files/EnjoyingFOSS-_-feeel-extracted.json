@@ -1,32 +1,3 @@
-[
-    {
-        "filename": "EnjoyingFOSS-_-feeel.json",
-        "published_at": "2022-11-16T09:08:36Z",
-        "google_play_reviews": [
-            {
-                "reviewId": "050785d3-0088-4797-af69-cc26f895b67a",
-                "userName": "Turker Ozturk",
-                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocJVvdae9l8hyWRQSJFFLM5HRiaFuiKh5uBoJxSRTiCU=mo",
-                "content": "Useful,contains 3 workouts, you can add your new workouts(add figures, adjust set and rest durations). It has sound, I tried turkish and engish, each figure has name and photo. It informs you the next figure name and the seconds left both with sound and count down timer text with picture. I am doing \"scientific 7 minute workout\" one. The app requires no any permission, and it is free. Simply just click start and do the egzercises until finish. No any historical data collection. Thanks I like it",
-                "score": 5,
-                "thumbsUpCount": 0,
-                "reviewCreatedVersion": "2.4.1",
-                "at": "2023-10-12 04:40:46",
-                "replyContent": null,
-                "repliedAt": "None"
-            },
-            {
-                "reviewId": "feb2d61b-265a-4feb-909f-bc3c82c909d3",
-                "userName": "Rodrigo Santos",
-                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocKxslk5Ou7WpNtd_fCi7EC_P2OYOVFicsoXziKXfofGsBo=mo",
-                "content": "It's perfect. No ads, no in-app purchases, no spy.",
-                "score": 5,
-                "thumbsUpCount": 0,
-                "reviewCreatedVersion": "2.4.1",
-                "at": "2023-09-25 19:37:13",
-                "replyContent": null,
-                "repliedAt": "None"
-            }
-        ]
-    }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:aaa84d3d78e6fd53ed353d1282caec59b6f166ccaf2226bf7ebd561c03aa9518
+size 1767

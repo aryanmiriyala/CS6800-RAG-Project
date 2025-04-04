@@ -1,20 +1,3 @@
-[
-    {
-        "filename": "cvzi-_-darkmodewallpaper.json",
-        "published_at": "2023-06-07T06:50:07Z",
-        "google_play_reviews": [
-            {
-                "reviewId": "eaa4b14a-12ab-453b-b5f2-4dee510dc14e",
-                "userName": "Vivek Ranjan",
-                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUrhomHowSF7uADtd-zZbXfYQ4dEtBXbL7gbcsTHe22Cp3M",
-                "content": "Thank you...👍👍👍",
-                "score": 5,
-                "thumbsUpCount": 0,
-                "reviewCreatedVersion": "1.6.2",
-                "at": "2023-08-04 04:10:10",
-                "replyContent": null,
-                "repliedAt": "None"
-            }
-        ]
-    }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:a9826bed61611efee5c4f9b4fd8e1b026002fafb59a2b46c7705ab90ecdd6ad1
+size 712

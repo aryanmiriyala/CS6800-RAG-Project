@@ -1,17 +1,3 @@
-[
-    {
-        "filename": "markusfisch-_-MotoScore.json",
-        "published_at": "2021-04-26T19:05:53Z",
-        "google_play_reviews": []
-    },
-    {
-        "filename": "markusfisch-_-MotoScore.json",
-        "published_at": "2021-04-05T13:50:51Z",
-        "google_play_reviews": []
-    },
-    {
-        "filename": "markusfisch-_-MotoScore.json",
-        "published_at": "2020-05-15T12:22:29Z",
-        "google_play_reviews": []
-    }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:792a9166ed306f7561ebb5b5778c4ca1a5cfc507084088c21fa80b9916575e64
+size 443

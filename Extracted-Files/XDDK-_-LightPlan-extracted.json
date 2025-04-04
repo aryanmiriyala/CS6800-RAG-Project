@@ -1,20 +1,3 @@
-[
-    {
-        "filename": "XDDK-_-LightPlan.json",
-        "published_at": "2021-01-16T13:56:41Z",
-        "google_play_reviews": [
-            {
-                "reviewId": "cd239cf3-8821-4bc3-9ccc-35c168d4ff8e",
-                "userName": "Maria Vitusinscaia",
-                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXZ_Qqi9lho-Tt-8SWsnUKqB3rzWJYRMmA_G76O_gHE078",
-                "content": "Simple interface + fun idea = good planner <3",
-                "score": 5,
-                "thumbsUpCount": 1,
-                "reviewCreatedVersion": "2.0.0",
-                "at": "2021-01-08 22:33:04",
-                "replyContent": null,
-                "repliedAt": "None"
-            }
-        ]
-    }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:ecfa865ee0de1b7386fc4c5ef786e97f5cf15b251e923a72d017f6c77e28647c
+size 730

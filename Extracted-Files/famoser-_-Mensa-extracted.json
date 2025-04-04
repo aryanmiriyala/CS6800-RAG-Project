@@ -1,17 +1,3 @@
-[
-    {
-        "filename": "famoser-_-Mensa.json",
-        "published_at": "2022-05-29T13:35:18Z",
-        "google_play_reviews": []
-    },
-    {
-        "filename": "famoser-_-Mensa.json",
-        "published_at": "2021-10-25T20:59:36Z",
-        "google_play_reviews": []
-    },
-    {
-        "filename": "famoser-_-Mensa.json",
-        "published_at": "2020-11-18T08:28:45Z",
-        "google_play_reviews": []
-    }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:548b4392e2ee70b4507d0f1dc3f7b9b6551606c59bfcfcf0c78fdd17e142b324
+size 419

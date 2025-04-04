@@ -1,20 +1,3 @@
-[
-    {
-        "filename": "jventrib-_-FormulaInfo.json",
-        "published_at": "2022-05-25T18:15:15Z",
-        "google_play_reviews": [
-            {
-                "reviewId": "aad37884-b648-4bc7-922b-0aae404bf675",
-                "userName": "Brian Atkinson",
-                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjX6u-ij8XDEJugaqV-EkC6vOk0DKizKe11U4JYJqzkze0aW",
-                "content": "Excellent app, with lots of historical info all the way back to 1950. Perhaps, maybe, you might want to consider a link from the drivers to a Wikipedia page or some other source of information. That would be brilliant if anyone wants to delve a bit deeper into F1 history. Possibly do the same with the teams? Grea, helpful informative app.",
-                "score": 5,
-                "thumbsUpCount": 0,
-                "reviewCreatedVersion": "2.3.1",
-                "at": "2023-10-11 11:57:53",
-                "replyContent": null,
-                "repliedAt": "None"
-            }
-        ]
-    }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:b0a3d4e30f87a3004baf0c6953bad27b4ccbd2d09552d13c63b62f7f3715d819
+size 1028

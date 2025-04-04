@@ -1,17 +1,3 @@
-[
-    {
-        "filename": "a-pavlov-_-jed2k.json",
-        "published_at": "2022-02-15T18:06:59Z",
-        "google_play_reviews": []
-    },
-    {
-        "filename": "a-pavlov-_-jed2k.json",
-        "published_at": "2017-06-06T16:46:49Z",
-        "google_play_reviews": []
-    },
-    {
-        "filename": "a-pavlov-_-jed2k.json",
-        "published_at": "2016-12-27T07:02:32Z",
-        "google_play_reviews": []
-    }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:53ae7ebf8cf0103148c00fb9e22a22de0ea7f97db47d9cae102d56e43d7f2970
+size 422

@@ -1,20 +1,3 @@
-[
-    {
-        "filename": "ruslin-note-_-ruslin-android.json",
-        "published_at": "2023-05-03T05:54:48Z",
-        "google_play_reviews": [
-            {
-                "reviewId": "3d9a9f3e-eed8-474f-ad47-260f5bdb0199",
-                "userName": "Matias Turkish",
-                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLALPJ0paqtwF_BNYpmcnuFG3yv9NIknneIVH5FQeY1=mo",
-                "content": "I'm loving the app! There is any possibility to update the icon to work with material you colors?",
-                "score": 4,
-                "thumbsUpCount": 0,
-                "reviewCreatedVersion": "0.1.0-beta.1",
-                "at": "2023-08-05 05:25:09",
-                "replyContent": null,
-                "repliedAt": "None"
-            }
-        ]
-    }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:a8ff01b894d9fae036abb722b6edf9adf5e21623fe4b4588a3aa6aa0b5118173
+size 796

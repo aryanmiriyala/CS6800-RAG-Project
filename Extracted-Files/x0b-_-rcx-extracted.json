@@ -1,17 +1,3 @@
-[
-    {
-        "filename": "x0b-_-rcx.json",
-        "published_at": "2020-05-13T20:20:00Z",
-        "google_play_reviews": []
-    },
-    {
-        "filename": "x0b-_-rcx.json",
-        "published_at": "2020-04-08T11:19:16Z",
-        "google_play_reviews": []
-    },
-    {
-        "filename": "x0b-_-rcx.json",
-        "published_at": "2020-03-27T11:14:49Z",
-        "google_play_reviews": []
-    }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:1bc6a8509207f3c84ad1f427a93e12527bc0ce6dc61a80d665b86772ef7ab94f
+size 401

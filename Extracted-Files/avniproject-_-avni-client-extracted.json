@@ -1,17 +1,3 @@
-[
-    {
-        "filename": "avniproject-_-avni-client.json",
-        "published_at": "2022-09-30T10:26:52Z",
-        "google_play_reviews": []
-    },
-    {
-        "filename": "avniproject-_-avni-client.json",
-        "published_at": "2021-03-29T11:04:34Z",
-        "google_play_reviews": []
-    },
-    {
-        "filename": "avniproject-_-avni-client.json",
-        "published_at": "2021-02-04T10:25:06Z",
-        "google_play_reviews": []
-    }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:605956e8b22b38c61aa98dfe6646ee8933c38bc810e3af85319adeeaea149625
+size 449

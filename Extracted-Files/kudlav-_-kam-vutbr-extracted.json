@@ -1,25 +1,3 @@
-[
-    {
-        "filename": "kudlav-_-kam-vutbr.json",
-        "published_at": "2021-09-24T20:47:47Z",
-        "google_play_reviews": []
-    },
-    {
-        "filename": "kudlav-_-kam-vutbr.json",
-        "published_at": "2020-03-20T11:44:34Z",
-        "google_play_reviews": [
-            {
-                "reviewId": "0563c1f5-6f35-4d6c-b0c6-f841f5b189c1",
-                "userName": "Jiří Dvořáček",
-                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocK4tX32U9wr8ILsBKyBhPerOfNEjDqDdnFZNQh_Jhy3=mo",
-                "content": "Funguje skvěle :)",
-                "score": 5,
-                "thumbsUpCount": 0,
-                "reviewCreatedVersion": "1.5.1",
-                "at": "2020-06-16 09:28:25",
-                "replyContent": null,
-                "repliedAt": "None"
-            }
-        ]
-    }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:a15655da18f5e9aeab287ce27dd76b64a3a2ee4e1f76f6852a6c4d445c0eec6f
+size 846

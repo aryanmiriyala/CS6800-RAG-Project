@@ -1,20 +1,3 @@
-[
-    {
-        "filename": "ramzan-_-Delist.json",
-        "published_at": "2021-08-27T19:53:02Z",
-        "google_play_reviews": [
-            {
-                "reviewId": "7c4f25b5-f259-496d-ab67-0afaf88d7ced",
-                "userName": "N Sheikh",
-                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocLNs0zRIPp553lrt0lJksS_jnECiKOiOCLEnFgoZfM=mo",
-                "content": "No ads, easy to organize, love the colours and format.",
-                "score": 5,
-                "thumbsUpCount": 0,
-                "reviewCreatedVersion": "1.0.2",
-                "at": "2021-10-13 20:43:35",
-                "replyContent": null,
-                "repliedAt": "None"
-            }
-        ]
-    }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:0cde539d73f96516d915037f67836e192a45fde6e0a1f026805b8fba696654a6
+size 726

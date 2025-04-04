@@ -1,20 +1,3 @@
-[
-    {
-        "filename": "Kaljurand-_-Diktofon.json",
-        "published_at": "2015-07-22T12:06:44Z",
-        "google_play_reviews": [
-            {
-                "reviewId": "bb27e62f-140d-4aa3-a132-422a88b2b153",
-                "userName": "A Google user",
-                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
-                "content": "Isegi menüü ei ilmu ekraanile (LG G2).  Ja üleüldse: kus on siin tutvustuses kirjas, et app saadab helifaili kusagile serverile ja et seda helifaili hakatakse veel pealt kuulama??? Tundsin tõesti suurt huvi selle rakenduse vastu, aga paistab, et asi on enam kui kahtlane.",
-                "score": 1,
-                "thumbsUpCount": 1,
-                "reviewCreatedVersion": "0.9.83",
-                "at": "2015-08-17 12:34:32",
-                "replyContent": "\"Menüüdega versioon\" on hetkel beeta-kanalis https://play.google.com/apps/testing/kaljurand_at_gmail_dot_com.diktofon\n\nDiktofoni dokumentatsioonist on selge, et audio saadetakse serverile http://bark.phon.ioc.ee/webtrans/. Seal omakorda kirjas, et \"...keegi neid salvestusi ei kuula...\" Serveritarkvara on vaba, võite oma serverisse installeerida.",
-                "repliedAt": "2015-08-20 08:11:20"
-            }
-        ]
-    }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:ffd494cc579d426736b102655961025df8f3ef9c56ceaf8ecde64414fbd5abfe
+size 1358

@@ -1,25 +1,3 @@
-[
-    {
-        "filename": "dozingcat-_-Kumquats.json",
-        "published_at": "2023-04-08T03:44:29Z",
-        "google_play_reviews": []
-    },
-    {
-        "filename": "dozingcat-_-Kumquats.json",
-        "published_at": "2022-10-09T19:59:40Z",
-        "google_play_reviews": [
-            {
-                "reviewId": "4bd824d7-4a65-42dd-87b2-77f4a17695ee",
-                "userName": "Tracey Henderson",
-                "userImage": "https://play-lh.googleusercontent.com/a/ACg8ocL8c_J2FoF3pQcAJ-H6Dnt_rt2qnrdBzGgmoLzMzyR7=mo",
-                "content": "The letters are cut off. Can't see what the letter is or I'd love it.",
-                "score": 1,
-                "thumbsUpCount": 0,
-                "reviewCreatedVersion": "1.1.0",
-                "at": "2023-03-18 19:49:03",
-                "replyContent": null,
-                "repliedAt": "None"
-            }
-        ]
-    }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:af6400df4a5272a5c31c0ca7be43951b082f46b3c0007de583c5c1e4dd1abe15
+size 899

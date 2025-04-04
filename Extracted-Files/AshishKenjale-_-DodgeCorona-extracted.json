@@ -1,20 +1,3 @@
-[
-    {
-        "filename": "AshishKenjale-_-DodgeCorona.json",
-        "published_at": "2020-06-26T10:06:26Z",
-        "google_play_reviews": [
-            {
-                "reviewId": "45773505-6c08-4d88-a92f-a63bdd127677",
-                "userName": "Sangram Dhembare",
-                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjXL4MO5J6SjEWsDIJtMJJI-SARqnTPQiCMmqZP875D2QQ",
-                "content": "It's a good game brother!!!!😄😄👍😇",
-                "score": 5,
-                "thumbsUpCount": 0,
-                "reviewCreatedVersion": "1.2",
-                "at": "2022-06-19 18:12:56",
-                "replyContent": null,
-                "repliedAt": "None"
-            }
-        ]
-    }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:f6da6969ec6356e325daf74b846a02d939469ff9ff1c92b9302cd0100ad038f6
+size 735

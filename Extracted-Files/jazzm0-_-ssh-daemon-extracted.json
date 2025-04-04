@@ -1,12 +1,3 @@
-[
-    {
-        "filename": "jazzm0-_-ssh-daemon.json",
-        "published_at": "2023-07-24T11:28:10Z",
-        "google_play_reviews": []
-    },
-    {
-        "filename": "jazzm0-_-ssh-daemon.json",
-        "published_at": "2020-11-05T09:49:46Z",
-        "google_play_reviews": []
-    }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:abd56fa31a2c3a4edcc9b728ba31785c07659047d9997f2187ec59343a884a61
+size 288

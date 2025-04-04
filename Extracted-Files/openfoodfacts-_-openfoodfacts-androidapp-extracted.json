@@ -1,25 +1,3 @@
-[
-    {
-        "filename": "openfoodfacts-_-openfoodfacts-androidapp.json",
-        "published_at": "2018-12-20T21:41:57Z",
-        "google_play_reviews": [
-            {
-                "reviewId": "325b487b-42fa-42d0-9416-86448032edaf",
-                "userName": "A Google user",
-                "userImage": "https://play-lh.googleusercontent.com/EGemoI2NTXmTsBVtJqk8jxF9rh8ApRWfsIMQSt2uE4OcpQqbFu7f7NbTK05lx80nuSijCz7sc3a277R67g",
-                "content": "This scan is lousy because I be been waiting after it scanned it but it's still going around and around and around but nothing is happening, I have a scanner but every time I put the barcode in it says invalid unless it scans itself it's ok. Please fix this problem, please 🙏.",
-                "score": 3,
-                "thumbsUpCount": 1,
-                "reviewCreatedVersion": "2.9.8",
-                "at": "2020-01-23 19:41:59",
-                "replyContent": null,
-                "repliedAt": "None"
-            }
-        ]
-    },
-    {
-        "filename": "openfoodfacts-_-openfoodfacts-androidapp.json",
-        "published_at": "2018-08-15T12:01:16Z",
-        "google_play_reviews": []
-    }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:a9fe30b15ef3f616f33f4513c8c62031e148e5b6deaa4dc55c2eb70a0dce1d2a
+size 1175

@@ -1,30 +1,3 @@
-[
-    {
-        "filename": "ngageoint-_-geopackage-mapcache-android.json",
-        "published_at": "2022-01-05T16:15:26Z",
-        "google_play_reviews": []
-    },
-    {
-        "filename": "ngageoint-_-geopackage-mapcache-android.json",
-        "published_at": "2020-03-11T16:15:06Z",
-        "google_play_reviews": [
-            {
-                "reviewId": "f998ac32-6a18-4ace-8cea-f3a1d4167875",
-                "userName": "Mohammad Feroz Alikhail",
-                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjVmxBEdyJsxh8GiC4YYbbQTp5evh3nJhbFTeAHWVXl2QKo",
-                "content": "The imagery is from the year 2005 or before that.",
-                "score": 1,
-                "thumbsUpCount": 0,
-                "reviewCreatedVersion": "2.0.8",
-                "at": "2021-05-09 04:49:42",
-                "replyContent": null,
-                "repliedAt": "None"
-            }
-        ]
-    },
-    {
-        "filename": "ngageoint-_-geopackage-mapcache-android.json",
-        "published_at": "2019-11-01T20:57:43Z",
-        "google_play_reviews": []
-    }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:787e0544be232aa4e2acd60a958ddb17912976c2d4a7f0c16dcf41b31929f069
+size 1088

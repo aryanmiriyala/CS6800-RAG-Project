@@ -1,20 +1,3 @@
-[
-    {
-        "filename": "odaridavid-_-Design-Pattern-Samples-App.json",
-        "published_at": "2020-06-26T16:08:38Z",
-        "google_play_reviews": [
-            {
-                "reviewId": "fdf877da-2bd9-4b5d-b36f-c19141e2ecc4",
-                "userName": "Snilloc",
-                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUqkKkt1myVE8nYvuzTT8r51OlEYeXiYGCRj_Z37BygfoI",
-                "content": "Wonderful app. The design patterns discussed are well explained. The code samples complement the description well. Amazing UI and UX too.",
-                "score": 5,
-                "thumbsUpCount": 0,
-                "reviewCreatedVersion": "1.3.0",
-                "at": "2020-07-04 18:33:56",
-                "replyContent": null,
-                "repliedAt": "None"
-            }
-        ]
-    }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:767577bb30f3988dbf44b8fef5aa23ff847612f3ed33742972f6bf8dd2404372
+size 834

@@ -1,30 +1,3 @@
-[
-    {
-        "filename": "PhotoBackup-_-client-android.json",
-        "published_at": "2016-08-23T06:58:14Z",
-        "google_play_reviews": [
-            {
-                "reviewId": "a1f0f914-023d-484a-bfe3-b19c7a38771c",
-                "userName": "Joseph Mwangangi",
-                "userImage": "https://play-lh.googleusercontent.com/a-/ALV-UjUV-Q_rBmPP44v3DutvNgvX6sAdNgBJhmJAExv8ya9dqMs",
-                "content": "Good",
-                "score": 5,
-                "thumbsUpCount": 0,
-                "reviewCreatedVersion": "0.10.4",
-                "at": "2022-04-11 07:02:40",
-                "replyContent": null,
-                "repliedAt": "None"
-            }
-        ]
-    },
-    {
-        "filename": "PhotoBackup-_-client-android.json",
-        "published_at": "2016-08-19T16:39:03Z",
-        "google_play_reviews": []
-    },
-    {
-        "filename": "PhotoBackup-_-client-android.json",
-        "published_at": "2015-12-19T12:46:16Z",
-        "google_play_reviews": []
-    }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c1703066577480e4c024f5d2a39caec945c0e48df02af4c60c0146a0ea48e2b
+size 1004
